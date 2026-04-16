@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,6 +40,10 @@
       --tldr-border: #E5E0DB;
       --tldr-text: #1A2C31;
       --tldr-meta: #526870;
+      --tldr-head-bg: #2E6473;
+      --tldr-head-text: #EDE8E4;
+      --tldr-head-meta: #c8e0e6;
+      --tldr-head-eyebrow: #C9A8A4;
     }
     html[data-theme="dark"] {
       --bg-page: #0F1E23;
@@ -51,6 +55,10 @@
       --filter-border: #2E4E58;
       --tldr-bg: #182E35;
       --tldr-border: #2E4E58;
+      --tldr-head-bg: #182E35;
+      --tldr-head-text: #EDE8E4;
+      --tldr-head-meta: #A8BEC3;
+      --tldr-head-eyebrow: #C9A8A4;
       --tldr-text: #EDE8E4;
       --tldr-meta: #A8BEC3;
     }
@@ -82,10 +90,10 @@
     .tldr-col { width: 100%; }
     @media (min-width: 1024px) { .tldr-col { width: 300px; flex-shrink: 0; } }
     .tldr-card { background: var(--tldr-bg); border: 1px solid var(--tldr-border); border-radius: 8px; overflow: hidden; transition: background 0.2s, border-color 0.2s; }
-    .tldr-head { background: #182E35; padding: 20px 20px 16px; border-bottom: 2px solid #C9A8A4; }
-    .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #C9A8A4; display: block; margin-bottom: 4px; }
-    .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: #EDE8E4; margin: 0 0 4px; }
-    .tldr-date { font-size: 0.75rem; color: #A8BEC3; margin: 0; }
+    .tldr-head { background: var(--tldr-head-bg); padding: 20px 20px 16px; border-bottom: 2px solid #C9A8A4; transition: background 0.2s; }
+    .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--tldr-head-eyebrow); display: block; margin-bottom: 4px; }
+    .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: var(--tldr-head-text); margin: 0 0 4px; }
+    .tldr-date { font-size: 0.75rem; color: var(--tldr-head-meta); margin: 0; }
     .tldr-list { list-style: none; margin: 0; padding: 12px 0; }
     .tldr-item { border-bottom: 1px solid var(--tldr-border); }
     .tldr-item:last-child { border-bottom: none; }
@@ -100,6 +108,7 @@
     .cards-col { flex: 1; min-width: 0; }
     .sticky-sidebar { position: sticky; top: 1.5rem; }
   </style>
+  
 </head>
 <body style="background:#F5F2EF;min-height:100vh;">
 
@@ -107,8 +116,8 @@
   <header style="background:#182E35;">
     <div class="max-w-6xl mx-auto px-6 py-8">
       <div class="flex items-center justify-between">
-        <div class="flex items-center gap-3 mb-2">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32" fill="none" aria-label="Turivus">
+        <div class="flex items-center gap-4 mb-2">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="56" height="56" fill="none" aria-label="Turivus">
   <circle cx="50" cy="50" r="40" stroke="#C9A8A4" stroke-width="1.25"/>
   <path stroke="#EDE8E4" stroke-width="2.2" d="M47.25 35 L47.25 30.5 L30 30.5 L30 25 L70 25 L70 30.5 L52.75 30.5 L52.75 35"/>
   <line stroke="#EDE8E4" stroke-width="2.2" x1="47.25" y1="30" x2="47.25" y2="65"/>
@@ -117,14 +126,16 @@
   <line stroke="#C9A8A4" stroke-width="1.25" x1="57.8" y1="31.6" x2="57.8" y2="65"/>
   <circle cx="50" cy="73.5" r="4.5" stroke="#C9A8A4" stroke-width="1.25"/>
 </svg>
-          <h1 class="text-2xl font-bold" style="color:#EDE8E4;">AI Informer</h1>
+          <div>
+            <h1 class="text-3xl font-bold" style="color:#EDE8E4;">AI Informer</h1>
+            <p class="text-sm mt-0.5" style="color:#A8BEC3;">Täglicher KI-Nachrichten-Digest</p>
+          </div>
         </div>
-        <button id="theme-toggle" title="Toggle dark/light mode">&#9728; Light</button>
+        <button id="theme-toggle" title="Hell/Dunkel umschalten">&#9728; Hell</button>
       </div>
-      <p class="text-sm mb-1" style="color:#A8BEC3;">Daily AI News Digest</p>
       <div class="flex items-center gap-4 mt-1">
-        <p class="text-xs" style="color:#A8BEC3;">Updated: 16. April 2026</p>
-        <span class="text-xs px-2 py-0.5 rounded-full" style="background:#243E47;color:#C9A8A4;">23 articles &middot; 9 sources</span>
+        <p class="text-xs" style="color:#A8BEC3;">Aktualisiert: 16. April 2026</p>
+        <span class="text-xs px-2 py-0.5 rounded-full" style="background:#243E47;color:#C9A8A4;">23 Artikel &middot; 9 Quellen</span>
       </div>
     </div>
     <div style="height:2px;background:#C9A8A4;"></div>
@@ -137,7 +148,7 @@
     <div class="flex flex-col sm:flex-row gap-3 mb-8">
       <input id="search" type="search" placeholder="Artikel suchen…" class="flex-1 px-4 py-2 rounded-md text-sm outline-none" style="border:1px solid var(--filter-border);background:var(--filter-bg);color:var(--card-title);min-width:0;" />
       <div class="flex flex-wrap gap-2">
-        <button class="filter-btn active" data-filter="All">All</button>
+        <button class="filter-btn active" data-filter="Alle">Alle</button>
         <button class="filter-btn" data-filter="Research">Research</button>
         <button class="filter-btn" data-filter="Tools">Tools</button>
         <button class="filter-btn" data-filter="News">News</button>
@@ -161,37 +172,37 @@
       <ul class="tldr-list">
       <li class="tldr-item">
         <a href="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" target="_blank" rel="noopener noreferrer" class="tldr-link">
-          Google blockierte 2025 einen Rekord von 8,3 Milliarden Anzeigen weltweit, verdoppelte damit die Zahlen des Vorjahres und nutzt dabei verstärkt KI-Systeme wie Gemini zur präziseren Erkennung problematischer Inhalte.
+          Google verschärft seine KI-gestützte Anzeigen-Durchsetzung und blockiert mehr fehlerhafte Anzeigen statt Advertiser zu sperren. Der Fokus liegt nun auf schlechten Ads anstatt auf schlechten Akteuren.
         </a>
       </li>
       <li class="tldr-item">
         <a href="https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/" target="_blank" rel="noopener noreferrer" class="tldr-link">
-          Runway-CEO schlägt vor, dass Hollywood die 100 Millionen Dollar pro Blockbuster stattdessen auf 50 Filme verteilen sollte, um durch KI-Videoerstellung mehr Chancen auf Hits zu haben.
+          Runway CEO sieht KI-Potenzial zur Senkung von Produktionskosten: Statt einem 100-Millionen-Dollar-Blockbuster könnten Studios mit KI 50 Filme produzieren.
         </a>
       </li>
       <li class="tldr-item">
         <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" target="_blank" rel="noopener noreferrer" class="tldr-link">
-          Investigativjournalist Ronan Farrow kritisiert in einem Interview Sam Altmans 'ungehemmtes Verhältnis zur Wahrheit' und dessen problematische Reputation in der KI-Industrie.
+          Journalist Ronan Farrow diskutiert Sam Altmans Umgang mit der Wahrheit in einem neuen New Yorker Feature über OpenAIs CEO.
         </a>
       </li>
       <li class="tldr-item">
         <a href="https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode" target="_blank" rel="noopener noreferrer" class="tldr-link">
-          Character.AI startet einen neuen 'Books'-Modus, der Klassiker als strukturiertes Rollenspiel erlebbar macht, während das Unternehmen mit rechtlichen Herausforderungen kämpft.
+          Character.AI startet neuen Books-Modus zur Umwandlung von Klassikerlektüre in interaktives Rollenspiel trotz anhaltender Kontroversen.
         </a>
       </li>
       <li class="tldr-item">
         <a href="https://www.wired.com/story/anthropic-plots-major-london-expansion/" target="_blank" rel="noopener noreferrer" class="tldr-link">
-          Anthropic mietet ein 158.000 Quadratmeter großes Londoner Büro mit Platz für 800 Mitarbeiter, um seine europäische Präsenz zu vervierfachen und mit anderen KI-Labs um Talente zu konkurrieren.
+          Anthropic plant massive Expansion in London und erweitert seine europäische Präsenz signifikant.
         </a>
       </li>
       <li class="tldr-item">
-        <a href="https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/" target="_blank" rel="noopener noreferrer" class="tldr-link">
-          Meta erhöht die Preise für Quest 3 und Quest 3S um 50 bis 100 Dollar aufgrund von gestiegenen Kosten für Speicherchips in der globalen Halbleiter-Knappheit.
+        <a href="https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability" target="_blank" rel="noopener noreferrer" class="tldr-link">
+          Canva startet AI 2.0 Update mit fortgeschrittenen Prompt-basierten Design-Tools für Text-gesteuerte Bearbeitung.
         </a>
       </li>
       <li class="tldr-item">
-        <a href="https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/" target="_blank" rel="noopener noreferrer" class="tldr-link">
-          Sabi stellt eine KI-Stirnband-Schnittstelle vor, die Gedanken direkt in Text umwandelt und bis Ende 2026 als marktreife Gehirn-Computer-Schnittstelle verfügbar sein soll.
+        <a href="https://openai.com/index/accelerating-cyber-defense-ecosystem" target="_blank" rel="noopener noreferrer" class="tldr-link">
+          OpenAI lanciert Trusted Access for Cyber zur Skalierung fortgeschrittener Cybersecurity-Fähigkeiten für Verteidiger breit gefächert.
         </a>
       </li></ul>
       <p class="tldr-footer">KI-Zusammenfassung</p>
@@ -207,11 +218,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" target="_blank" rel="noopener noreferrer" class="hover:underline">Google is now targeting bad ads over bad actors</a>
   </h2>
-  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T15:00:00.000Z" title="16. April 2026">29m ago</time></p>
+  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T15:00:00.000Z" title="16. April 2026">vor 51m</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" data-title="Google is now targeting bad ads over bad actors" title="Share">&#8679; Share</button>
+    <a href="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" data-title="Google is now targeting bad ads over bad actors" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -219,11 +230,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/" target="_blank" rel="noopener noreferrer" class="hover:underline">Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster</a>
   </h2>
-  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T14:14:29.000Z" title="16. April 2026">1h ago</time></p>
+  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T14:14:29.000Z" title="16. April 2026">vor 1h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Runway’s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/" data-title="Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster" title="Share">&#8679; Share</button>
+    <a href="https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/" data-title="Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -231,11 +242,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" target="_blank" rel="noopener noreferrer" class="hover:underline">Ronan Farrow on Sam Altman&amp;#8217;s ‘unconstrained’ relationship with the truth</a>
   </h2>
-  <p class="card-meta text-sm mb-2">The Verge AI &middot; <time datetime="2026-04-16T14:00:00.000Z" title="16. April 2026">1h ago</time></p>
+  <p class="card-meta text-sm mb-2">The Verge AI &middot; <time datetime="2026-04-16T14:00:00.000Z" title="16. April 2026">vor 1h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Today on Decoder, I’m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he and co-author Andrew Marantz published an incredible deep-dive feature in The New Yorker about OpenAI CEO Sam Altman, his trustworthiness, and the [&amp;#8230;]</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" data-title="Ronan Farrow on Sam Altman&amp;#8217;s ‘unconstrained’ relationship with the truth" title="Share">&#8679; Share</button>
+    <a href="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry" data-title="Ronan Farrow on Sam Altman&amp;#8217;s ‘unconstrained’ relationship with the truth" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -243,11 +254,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode" target="_blank" rel="noopener noreferrer" class="hover:underline">Character.AI’s new Books mode turns reading into roleplay</a>
   </h2>
-  <p class="card-meta text-sm mb-2">The Verge AI &middot; <time datetime="2026-04-16T14:00:00.000Z" title="16. April 2026">1h ago</time></p>
-  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new &quot;Books&quot; mode. The new format lets users step inside familiar worlds for a more structured roleplaying experience, one the company hopes will broaden perceptions of what AI roleplay can [&amp;#8230;]</p>
+  <p class="card-meta text-sm mb-2">The Verge AI &middot; <time datetime="2026-04-16T14:00:00.000Z" title="16. April 2026">vor 1h</time></p>
+  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Mired in controversy and legal woes over concerns about its chatbots&#39; interactions with users, particularly teens, Character.AI seems to be playing it safer with a new &quot;Books&quot; mode. The new format lets users step inside familiar worlds for a more structured roleplaying experience, one the company hopes will broaden perceptions of what AI roleplay can [&amp;#8230;]</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode" data-title="Character.AI’s new Books mode turns reading into roleplay" title="Share">&#8679; Share</button>
+    <a href="https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode" data-title="Character.AI’s new Books mode turns reading into roleplay" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -255,11 +266,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.wired.com/story/anthropic-plots-major-london-expansion/" target="_blank" rel="noopener noreferrer" class="hover:underline">Anthropic Plots Major London Expansion</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Wired AI &middot; <time datetime="2026-04-16T13:49:35.000Z" title="16. April 2026">1h ago</time></p>
+  <p class="card-meta text-sm mb-2">Wired AI &middot; <time datetime="2026-04-16T13:49:35.000Z" title="16. April 2026">vor 2h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">As tensions with the US government mount, Anthropic has leased a new office with enough space to quadruple its 200-person head count in London.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.wired.com/story/anthropic-plots-major-london-expansion/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.wired.com/story/anthropic-plots-major-london-expansion/" data-title="Anthropic Plots Major London Expansion" title="Share">&#8679; Share</button>
+    <a href="https://www.wired.com/story/anthropic-plots-major-london-expansion/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.wired.com/story/anthropic-plots-major-london-expansion/" data-title="Anthropic Plots Major London Expansion" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -267,23 +278,23 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/" target="_blank" rel="noopener noreferrer" class="hover:underline">Meta raises Quest 3 and Quest 3S prices due to RAM shortage</a>
   </h2>
-  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T13:49:32.000Z" title="16. April 2026">1h ago</time></p>
+  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T13:49:32.000Z" title="16. April 2026">vor 2h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/" data-title="Meta raises Quest 3 and Quest 3S prices due to RAM shortage" title="Share">&#8679; Share</button>
+    <a href="https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/" data-title="Meta raises Quest 3 and Quest 3S prices due to RAM shortage" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Community">
   <span class="badge">Community</span>
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
-    <a href="https://blog.cloudflare.com/ai-platform/" target="_blank" rel="noopener noreferrer" class="hover:underline">Cloudflare's AI Platform: an inference layer designed for agents</a>
+    <a href="https://blog.cloudflare.com/ai-platform/" target="_blank" rel="noopener noreferrer" class="hover:underline">Cloudflare&#39;s AI Platform: an inference layer designed for agents</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Hacker News AI &middot; <time datetime="2026-04-16T13:17:37.000Z" title="16. April 2026">2h ago</time></p>
-  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 62 # Comments: 20</p>
+  <p class="card-meta text-sm mb-2">Hacker News AI &middot; <time datetime="2026-04-16T13:17:37.000Z" title="16. April 2026">vor 2h</time></p>
+  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Article URL: https://blog.cloudflare.com/ai-platform/ Comments URL: https://news.ycombinator.com/item?id=47792538 Points: 73 # Comments: 21</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://blog.cloudflare.com/ai-platform/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://blog.cloudflare.com/ai-platform/" data-title="Cloudflare's AI Platform: an inference layer designed for agents" title="Share">&#8679; Share</button>
+    <a href="https://blog.cloudflare.com/ai-platform/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://blog.cloudflare.com/ai-platform/" data-title="Cloudflare&#39;s AI Platform: an inference layer designed for agents" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -291,11 +302,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability" target="_blank" rel="noopener noreferrer" class="hover:underline">Canva’s AI 2.0 update goes all in on prompt-powered design tools</a>
   </h2>
-  <p class="card-meta text-sm mb-2">The Verge AI &middot; <time datetime="2026-04-16T13:07:09.000Z" title="16. April 2026">2h ago</time></p>
+  <p class="card-meta text-sm mb-2">The Verge AI &middot; <time datetime="2026-04-16T13:07:09.000Z" title="16. April 2026">vor 2h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introducing updated tools and new prompt-based editing capabilities that allow users to make or adjust their work by describing what they want to create to [&amp;#8230;]</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability" data-title="Canva’s AI 2.0 update goes all in on prompt-powered design tools" title="Share">&#8679; Share</button>
+    <a href="https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability" data-title="Canva’s AI 2.0 update goes all in on prompt-powered design tools" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -303,11 +314,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/" target="_blank" rel="noopener noreferrer" class="hover:underline">Making AI operational in constrained public sector environments</a>
   </h2>
-  <p class="card-meta text-sm mb-2">MIT Tech Review &middot; <time datetime="2026-04-16T13:00:00.000Z" title="16. April 2026">2h ago</time></p>
+  <p class="card-meta text-sm mb-2">MIT Tech Review &middot; <time datetime="2026-04-16T13:00:00.000Z" title="16. April 2026">vor 2h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in&amp;#8230;</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/" data-title="Making AI operational in constrained public sector environments" title="Share">&#8679; Share</button>
+    <a href="https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/" data-title="Making AI operational in constrained public sector environments" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -315,11 +326,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/" target="_blank" rel="noopener noreferrer" class="hover:underline">Treating enterprise AI as an operating layer</a>
   </h2>
-  <p class="card-meta text-sm mb-2">MIT Tech Review &middot; <time datetime="2026-04-16T13:00:00.000Z" title="16. April 2026">2h ago</time></p>
+  <p class="card-meta text-sm mb-2">MIT Tech Review &middot; <time datetime="2026-04-16T13:00:00.000Z" title="16. April 2026">vor 2h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks — GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed,&amp;#8230;</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/" data-title="Treating enterprise AI as an operating layer" title="Share">&#8679; Share</button>
+    <a href="https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/" data-title="Treating enterprise AI as an operating layer" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -327,11 +338,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/" target="_blank" rel="noopener noreferrer" class="hover:underline">Why having “humans in the loop” in an AI war is an illusion</a>
   </h2>
-  <p class="card-meta text-sm mb-2">MIT Tech Review &middot; <time datetime="2026-04-16T12:00:00.000Z" title="16. April 2026">3h ago</time></p>
+  <p class="card-meta text-sm mb-2">MIT Tech Review &middot; <time datetime="2026-04-16T12:00:00.000Z" title="16. April 2026">vor 3h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an&amp;#8230;</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/" data-title="Why having “humans in the loop” in an AI war is an illusion" title="Share">&#8679; Share</button>
+    <a href="https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/" data-title="Why having “humans in the loop” in an AI war is an illusion" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -339,11 +350,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/" target="_blank" rel="noopener noreferrer" class="hover:underline">This Beanie Is Designed to Read Your Thoughts</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Wired AI &middot; <time datetime="2026-04-16T11:00:00.000Z" title="16. April 2026">4h ago</time></p>
+  <p class="card-meta text-sm mb-2">Wired AI &middot; <time datetime="2026-04-16T11:00:00.000Z" title="16. April 2026">vor 4h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">California-based startup Sabi is developing a thought-to-text wearable that could usher in the cyborg future.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/" data-title="This Beanie Is Designed to Read Your Thoughts" title="Share">&#8679; Share</button>
+    <a href="https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/" data-title="This Beanie Is Designed to Read Your Thoughts" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Community">
@@ -351,11 +362,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://antirez.com/news/163" target="_blank" rel="noopener noreferrer" class="hover:underline">AI cybersecurity is not proof of work</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Hacker News AI &middot; <time datetime="2026-04-16T10:48:00.000Z" title="16. April 2026">4h ago</time></p>
-  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Article URL: https://antirez.com/news/163 Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 99 # Comments: 43</p>
+  <p class="card-meta text-sm mb-2">Hacker News AI &middot; <time datetime="2026-04-16T10:48:00.000Z" title="16. April 2026">vor 5h</time></p>
+  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Article URL: https://antirez.com/news/163 Comments URL: https://news.ycombinator.com/item?id=47791236 Points: 106 # Comments: 51</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://antirez.com/news/163" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://antirez.com/news/163" data-title="AI cybersecurity is not proof of work" title="Share">&#8679; Share</button>
+    <a href="https://antirez.com/news/163" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://antirez.com/news/163" data-title="AI cybersecurity is not proof of work" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Research">
@@ -363,11 +374,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://openai.com/index/accelerating-cyber-defense-ecosystem" target="_blank" rel="noopener noreferrer" class="hover:underline">Accelerating the cyber defense ecosystem that protects us all</a>
   </h2>
-  <p class="card-meta text-sm mb-2">OpenAI &middot; <time datetime="2026-04-16T00:00:00.000Z" title="16. April 2026">15h ago</time></p>
+  <p class="card-meta text-sm mb-2">OpenAI &middot; <time datetime="2026-04-16T00:00:00.000Z" title="16. April 2026">vor 15h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://openai.com/index/accelerating-cyber-defense-ecosystem" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://openai.com/index/accelerating-cyber-defense-ecosystem" data-title="Accelerating the cyber defense ecosystem that protects us all" title="Share">&#8679; Share</button>
+    <a href="https://openai.com/index/accelerating-cyber-defense-ecosystem" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://openai.com/index/accelerating-cyber-defense-ecosystem" data-title="Accelerating the cyber defense ecosystem that protects us all" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Tools">
@@ -375,11 +386,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://huggingface.co/blog/transformers-to-mlx" target="_blank" rel="noopener noreferrer" class="hover:underline">The PR you would have opened yourself</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Hugging Face &middot; <time datetime="2026-04-16T00:00:00.000Z" title="16. April 2026">15h ago</time></p>
+  <p class="card-meta text-sm mb-2">Hugging Face &middot; <time datetime="2026-04-16T00:00:00.000Z" title="16. April 2026">vor 15h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;"></p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://huggingface.co/blog/transformers-to-mlx" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://huggingface.co/blog/transformers-to-mlx" data-title="The PR you would have opened yourself" title="Share">&#8679; Share</button>
+    <a href="https://huggingface.co/blog/transformers-to-mlx" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://huggingface.co/blog/transformers-to-mlx" data-title="The PR you would have opened yourself" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Tools">
@@ -387,11 +398,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://huggingface.co/blog/train-multimodal-sentence-transformers" target="_blank" rel="noopener noreferrer" class="hover:underline">Training and Finetuning Multimodal Embedding &amp; Reranker Models with Sentence Transformers</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Hugging Face &middot; <time datetime="2026-04-16T00:00:00.000Z" title="16. April 2026">15h ago</time></p>
+  <p class="card-meta text-sm mb-2">Hugging Face &middot; <time datetime="2026-04-16T00:00:00.000Z" title="16. April 2026">vor 15h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;"></p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://huggingface.co/blog/train-multimodal-sentence-transformers" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://huggingface.co/blog/train-multimodal-sentence-transformers" data-title="Training and Finetuning Multimodal Embedding &amp; Reranker Models with Sentence Transformers" title="Share">&#8679; Share</button>
+    <a href="https://huggingface.co/blog/train-multimodal-sentence-transformers" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://huggingface.co/blog/train-multimodal-sentence-transformers" data-title="Training and Finetuning Multimodal Embedding &amp; Reranker Models with Sentence Transformers" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -399,11 +410,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/" target="_blank" rel="noopener noreferrer" class="hover:underline">Google releases new apps for Windows and MacOS</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T19:46:43.000Z" title="15. April 2026">19h ago</time></p>
+  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T19:46:43.000Z" title="15. April 2026">vor 20h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Google mostly creates products for the web, but it has some new desktop apps today.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/" data-title="Google releases new apps for Windows and MacOS" title="Share">&#8679; Share</button>
+    <a href="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/" data-title="Google releases new apps for Windows and MacOS" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -411,23 +422,23 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/" target="_blank" rel="noopener noreferrer" class="hover:underline">Boston Dynamics’ robot dog now reads gauges and thermometers with Google&amp;#039;s AI</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T19:34:33.000Z" title="15. April 2026">19h ago</time></p>
-  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Google's AI enables robots to read gauges while inspecting industrial facilities.</p>
+  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T19:34:33.000Z" title="15. April 2026">vor 20h</time></p>
+  <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Google&#39;s AI enables robots to read gauges while inspecting industrial facilities.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/" data-title="Boston Dynamics’ robot dog now reads gauges and thermometers with Google&amp;#039;s AI" title="Share">&#8679; Share</button>
+    <a href="https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/" data-title="Boston Dynamics’ robot dog now reads gauges and thermometers with Google&amp;#039;s AI" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
   <span class="badge">News</span>
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
-    <a href="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" target="_blank" rel="noopener noreferrer" class="hover:underline">AI Could Democratize One of Tech's Most Valuable Resources</a>
+    <a href="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" target="_blank" rel="noopener noreferrer" class="hover:underline">AI Could Democratize One of Tech&#39;s Most Valuable Resources</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Wired AI &middot; <time datetime="2026-04-15T18:00:00.000Z" title="15. April 2026">21h ago</time></p>
+  <p class="card-meta text-sm mb-2">Wired AI &middot; <time datetime="2026-04-15T18:00:00.000Z" title="15. April 2026">vor 21h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">AI is making it easier to design chips and optimize software for different silicon. Some startups envision a revolution in chipmaking.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" data-title="AI Could Democratize One of Tech's Most Valuable Resources" title="Share">&#8679; Share</button>
+    <a href="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/" data-title="AI Could Democratize One of Tech&#39;s Most Valuable Resources" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="News">
@@ -435,11 +446,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/" target="_blank" rel="noopener noreferrer" class="hover:underline">Adobe takes Creative Cloud into Claude Code-esque territory</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T16:54:33.000Z" title="15. April 2026">22h ago</time></p>
+  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T16:54:33.000Z" title="15. April 2026">vor 22h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">This is a big step in a new strategic direction for Adobe.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/" data-title="Adobe takes Creative Cloud into Claude Code-esque territory" title="Share">&#8679; Share</button>
+    <a href="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/" data-title="Adobe takes Creative Cloud into Claude Code-esque territory" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Research">
@@ -447,11 +458,11 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/" target="_blank" rel="noopener noreferrer" class="hover:underline">Gemini 3.1 Flash TTS: the next generation of expressive AI speech</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Google DeepMind &middot; <time datetime="2026-04-15T16:03:19.000Z" title="15. April 2026">23h ago</time></p>
+  <p class="card-meta text-sm mb-2">Google DeepMind &middot; <time datetime="2026-04-15T16:03:19.000Z" title="15. April 2026">vor 23h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/" data-title="Gemini 3.1 Flash TTS: the next generation of expressive AI speech" title="Share">&#8679; Share</button>
+    <a href="https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/" data-title="Gemini 3.1 Flash TTS: the next generation of expressive AI speech" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Tools">
@@ -462,8 +473,8 @@
   <p class="card-meta text-sm mb-2">Hugging Face &middot; <time datetime="2026-04-15T12:07:25.000Z" title="15. April 2026">15. April 2026</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;"></p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis" data-title="Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents" title="Share">&#8679; Share</button>
+    <a href="https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis" data-title="Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents" title="Teilen">↗ Teilen</button>
   </div>
 </article>
 <article class="card" data-category="Research">
@@ -474,8 +485,8 @@
   <p class="card-meta text-sm mb-2">OpenAI &middot; <time datetime="2026-04-15T10:00:00.000Z" title="15. April 2026">15. April 2026</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="https://openai.com/index/the-next-evolution-of-the-agents-sdk" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://openai.com/index/the-next-evolution-of-the-agents-sdk" data-title="The next evolution of the Agents SDK" title="Share">&#8679; Share</button>
+    <a href="https://openai.com/index/the-next-evolution-of-the-agents-sdk" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="https://openai.com/index/the-next-evolution-of-the-agents-sdk" data-title="The next evolution of the Agents SDK" title="Teilen">↗ Teilen</button>
   </div>
 </article>
         </div>
@@ -485,7 +496,7 @@
   </main>
 
   <!-- Back to top -->
-  <button id="back-to-top" title="Back to top" aria-label="Back to top">&#8679;</button>
+  <button id="back-to-top" title="Nach oben" aria-label="Nach oben">&#8679;</button>
 
   <!-- Footer -->
   <footer style="background:#182E35;margin-top:4rem;">
@@ -502,7 +513,7 @@
 </svg>
         <a href="https://turivus.ch" target="_blank" rel="noopener noreferrer" class="text-sm font-medium" style="color:#A8BEC3;">Powered by Turivus</a>
       </div>
-      <p class="text-xs mb-2" style="color:#A8BEC3;">Quellen werden täglich um 07:00 Berner Zeit aktualisiert</p>
+      <p class="text-xs mb-2" style="color:#A8BEC3;">Quellen werden täglich um 07:00 MESZ aktualisiert</p>
       <p class="text-xs" style="color:#526870;"><span>OpenAI</span> &middot; <span>Anthropic</span> &middot; <span>Google DeepMind</span> &middot; <span>Meta AI</span> &middot; <span>Mistral AI</span> &middot; <span>Hugging Face</span> &middot; <span>Simon Willison</span> &middot; <span>VentureBeat AI</span> &middot; <span>TechCrunch AI</span> &middot; <span>The Verge AI</span> &middot; <span>Ars Technica AI</span> &middot; <span>MIT Tech Review</span> &middot; <span>Wired AI</span> &middot; <span>Hacker News AI</span></p>
     </div>
   </footer>
@@ -512,12 +523,12 @@
     const btns = document.querySelectorAll('.filter-btn');
     const cards = document.querySelectorAll('#grid [data-category]');
     const searchInput = document.getElementById('search');
-    let activeFilter = 'All';
+    let activeFilter = 'Alle';
 
     function applyFilters() {
       const q = searchInput.value.toLowerCase().trim();
       cards.forEach(card => {
-        const matchCat = activeFilter === 'All' || card.dataset.category === activeFilter;
+        const matchCat = activeFilter === 'Alle' || card.dataset.category === activeFilter;
         const text = card.textContent.toLowerCase();
         const matchQ = !q || text.includes(q);
         card.style.display = matchCat && matchQ ? '' : 'none';
@@ -545,8 +556,8 @@
         } else {
           await navigator.clipboard.writeText(url).catch(() => {});
           const orig = btn.textContent;
-          btn.textContent = 'Copied!';
-          setTimeout(() => { btn.innerHTML = '&#8679; Share'; }, 1500);
+          btn.textContent = 'Kopiert!';
+          setTimeout(() => { btn.textContent = '↗ Teilen'; }, 1500);
         }
       });
     });
@@ -565,10 +576,10 @@
     function applyTheme(dark) {
       if (dark) {
         html.setAttribute('data-theme', 'dark');
-        toggle.innerHTML = '&#9790; Dark';
+        toggle.innerHTML = '&#9790; Dunkel';
       } else {
         html.removeAttribute('data-theme');
-        toggle.innerHTML = '&#9728; Light';
+        toggle.innerHTML = '&#9728; Hell';
       }
     }
 
