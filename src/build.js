@@ -49,7 +49,8 @@ async function fetchSource(source) {
 
   return items.map(item => {
     const title = stripHtml(item.title?.['#text'] ?? item.title ?? '');
-    const link = item.link?.['@_href'] ?? item.link ?? item.guid ?? '';
+    const rawLink = item.link?.['@_href'] ?? item.link ?? item.guid ?? '';
+    const link = isSafeUrl(rawLink) ? rawLink : '';
     const description = stripHtml(
       item.description ?? item.summary?.['#text'] ?? item.summary ?? item.content?.['#text'] ?? ''
     ).slice(0, 400);
@@ -99,7 +100,7 @@ async function scrapeArticle(url) {
       signal: AbortSignal.timeout(8000),
     });
     if (!res.ok) return '';
-    const html = await res.text();
+    const html = (await res.text()).slice(0, 150_000); // limit before regex to prevent ReDoS
     // Try to extract article/main content areas
     const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
     const mainMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
@@ -141,15 +142,15 @@ if (!tldrItems) {
       const client = new Anthropic();
 
       const articlesText = articles.slice(0, 15).map((a, i) =>
-        `${i + 1}. Titel: ${a.title}\n   Quelle: ${a.source}\n   URL: ${a.link}\n   Inhalt: ${a.content.slice(0, 1200)}`
-      ).join('\n\n---\n\n');
+        `<article id="${i + 1}">\n<title>${a.title}</title>\n<source>${a.source}</source>\n<url>${a.link}</url>\n<content>${a.content.slice(0, 1200)}</content>\n</article>`
+      ).join('\n\n');
 
       const msg = await client.messages.create({
         model: 'claude-haiku-4-5-20251001',
         max_tokens: 1200,
         system: [{
           type: 'text',
-          text: 'Du bist ein KI-Nachrichten-Redakteur. Erstelle ein prägnantes TL;DR auf Deutsch mit genau 7 Stichpunkten zu den wichtigsten KI-News von heute. Jeder Punkt ist 1-2 präzise Sätze. Wähle für jeden Punkt die passendste URL aus den gegebenen Artikeln. Antworte NUR mit einem JSON-Array ohne Markdown oder Codeblock: [{"text":"...","url":"https://..."}]',
+          text: 'Du bist ein KI-Nachrichten-Redakteur. Erstelle ein prägnantes TL;DR auf Deutsch mit genau 7 Stichpunkten zu den wichtigsten KI-News von heute. Jeder Punkt ist 1-2 präzise Sätze. Wähle für jeden Punkt die passendste URL aus dem <url>-Tag des jeweiligen Artikels. Antworte NUR mit einem JSON-Array ohne Markdown oder Codeblock: [{"text":"...","url":"https://..."}]',
           cache_control: { type: 'ephemeral' },
         }],
         messages: [{ role: 'user', content: articlesText }],
@@ -158,7 +159,11 @@ if (!tldrItems) {
       const raw = msg.content[0].text.trim();
       const match = raw.match(/\[[\s\S]*\]/);
       if (match) {
-        tldrItems = JSON.parse(match[0]);
+        const parsed = JSON.parse(match[0]);
+        tldrItems = parsed.filter(item =>
+          typeof item.text === 'string' && item.text.length > 0 && item.text.length < 600 &&
+          typeof item.url === 'string' && isSafeUrl(item.url)
+        );
         await writeFile(TLDR_PATH, JSON.stringify({ date: todayISO, items: tldrItems }, null, 2), 'utf8');
         console.log(`TL;DR generated: ${tldrItems.length} items (cache_read: ${msg.usage.cache_read_input_tokens})`);
       }
@@ -186,7 +191,16 @@ function relativeTime(d) {
 }
 
 function escapeHtml(s = '') {
-  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+function isSafeUrl(url) {
+  try {
+    const { protocol } = new URL(url);
+    return protocol === 'http:' || protocol === 'https:';
+  } catch {
+    return false;
+  }
 }
 
 const today = formatDate(new Date());
@@ -249,7 +263,7 @@ function renderCard(a) {
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">${escapeHtml(a.description)}</p>
   <div class="flex items-center justify-between mt-auto">
     <a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="${escapeHtml(a.link)}" data-title="${escapeHtml(a.title)}" title="Teilen">&#8679; Teilen</button>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="${escapeHtml(a.link)}" data-title="${escapeHtml(a.title)}" title="Teilen">↗ Teilen</button>
   </div>
 </article>`;
 }
@@ -483,7 +497,7 @@ const html = `<!DOCTYPE html>
           await navigator.clipboard.writeText(url).catch(() => {});
           const orig = btn.textContent;
           btn.textContent = 'Kopiert!';
-          setTimeout(() => { btn.innerHTML = '&#8679; Teilen'; }, 1500);
+          setTimeout(() => { btn.textContent = '↗ Teilen'; }, 1500);
         }
       });
     });

@@ -8,6 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: none
+      checks: none
+      deployments: none
+      issues: none
+      packages: none
+      pull-requests: none
+      security-events: none
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
