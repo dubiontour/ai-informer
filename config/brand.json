@@ -1,0 +1,13 @@
+{
+  "siteName": "AI Informer",
+  "logoSvg": "turivus",
+  "colorPrimary": "#2E6473",
+  "colorSecondary": "#C9A8A4",
+  "colorBgDark": "#182E35",
+  "colorBgDarkElevated": "#243E47",
+  "colorBgLight": "#F5F2EF",
+  "colorTextDark": "#EDE8E4",
+  "colorTextLight": "#1A2C31",
+  "footerLink": "https://turivus.com",
+  "footerLinkLabel": "Powered by Turivus"
+}

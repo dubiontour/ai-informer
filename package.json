@@ -1,0 +1,12 @@
+{
+  "name": "ai-informer",
+  "version": "1.0.0",
+  "description": "Daily AI news digest — Turivus",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.0"
+  }
+}
