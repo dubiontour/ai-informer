@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-16T19:18:41.000Z"
+  },
+  {
+    "title": "New Codex features include the ability to use your computer in the background",
+    "link": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-16T18:30:44.000Z"
+  },
+  {
+    "title": "Anthropic CPO leaves Figma&#8217;s board after reports he will offer a competing product",
+    "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-16T18:28:42.000Z"
+  },
+  {
+    "title": "The Battle for OpenAI’s Soul",
+    "link": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-16T18:00:00.000Z"
+  },
+  {
+    "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+    "link": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-16T17:30:00.000Z"
+  },
+  {
+    "title": "Microsoft and Stellantis want to use AI to help car owners",
+    "link": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-16T17:29:12.000Z"
+  },
+  {
+    "title": "Google now lets you explore the web side-by-side with AI Mode",
+    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-16T17:00:00.000Z"
+  },
+  {
+    "title": "OpenAI’s big Codex update is a direct shot at Claude Code",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-16T17:00:00.000Z"
+  },
+  {
+    "title": "Google’s AI Mode update lets you open links without leaving the page",
+    "link": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-16T17:00:00.000Z"
+  },
+  {
+    "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
+    "link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-16T17:00:00.000Z"
+  },
+  {
+    "title": "Gemini can now create personalized AI images by digging around in Google Photos",
+    "link": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-16T16:59:25.000Z"
+  },
+  {
+    "title": "Gemini can now pull from Google Photos to generate personalized images",
+    "link": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-16T16:00:00.000Z"
+  },
+  {
+    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+    "link": "https://andonlabs.com/blog/andon-market-launch",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-04-16T15:13:13.000Z"
+  },
+  {
     "title": "Google is now targeting bad ads over bad actors",
     "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
     "source": "TechCrunch AI",
@@ -91,6 +182,13 @@
     "pubDate": "2026-04-16T10:48:00.000Z"
   },
   {
+    "title": "Codex for (almost) everything",
+    "link": "https://openai.com/index/codex-for-almost-everything",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-16T10:00:00.000Z"
+  },
+  {
     "title": "DeepL, known for text translation, now wants to translate your voice",
     "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
     "source": "TechCrunch AI",
@@ -116,6 +214,13 @@
     "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
     "source": "Hugging Face",
     "category": "Tools",
+    "pubDate": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "link": "https://openai.com/index/introducing-gpt-rosalind",
+    "source": "OpenAI",
+    "category": "Research",
     "pubDate": "2026-04-16T00:00:00.000Z"
   },
   {
