@@ -94,7 +94,10 @@
     .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--tldr-head-eyebrow); display: block; margin-bottom: 4px; }
     .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: var(--tldr-head-text); margin: 0 0 4px; }
     .tldr-date { font-size: 0.75rem; color: var(--tldr-head-meta); margin: 0; }
-    .tldr-list { list-style: none; margin: 0; padding: 12px 0; }
+    .tldr-list { list-style: none; margin: 0; padding: 12px 0; overflow-y: auto; max-height: calc(100vh - 220px); scrollbar-width: thin; scrollbar-color: var(--teal) transparent; }
+    .tldr-list::-webkit-scrollbar { width: 4px; }
+    .tldr-list::-webkit-scrollbar-track { background: transparent; }
+    .tldr-list::-webkit-scrollbar-thumb { background: var(--teal); border-radius: 2px; }
     .tldr-item { border-bottom: 1px solid var(--tldr-border); }
     .tldr-item:last-child { border-bottom: none; }
     .tldr-link { display: block; padding: 12px 20px; font-size: 0.82rem; line-height: 1.5; color: var(--tldr-text); text-decoration: none; transition: background 0.15s; }
@@ -218,7 +221,7 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" target="_blank" rel="noopener noreferrer" class="hover:underline">Google is now targeting bad ads over bad actors</a>
   </h2>
-  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T15:00:00.000Z" title="16. April 2026">vor 51m</time></p>
+  <p class="card-meta text-sm mb-2">TechCrunch AI &middot; <time datetime="2026-04-16T15:00:00.000Z" title="16. April 2026">vor 55m</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers.</p>
   <div class="flex items-center justify-between mt-auto">
     <a href="https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
@@ -446,7 +449,7 @@
   <h2 class="card-title mt-3 mb-1 text-lg font-bold leading-snug" style="display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
     <a href="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/" target="_blank" rel="noopener noreferrer" class="hover:underline">Adobe takes Creative Cloud into Claude Code-esque territory</a>
   </h2>
-  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T16:54:33.000Z" title="15. April 2026">vor 22h</time></p>
+  <p class="card-meta text-sm mb-2">Ars Technica AI &middot; <time datetime="2026-04-15T16:54:33.000Z" title="15. April 2026">vor 23h</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">This is a big step in a new strategic direction for Adobe.</p>
   <div class="flex items-center justify-between mt-auto">
     <a href="https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
