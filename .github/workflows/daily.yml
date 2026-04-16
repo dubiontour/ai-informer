@@ -23,5 +23,4 @@ jobs:
           git config user.email "bot@turivus.com"
           git add index.html data/history.json
           git add data/archive-*.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "chore: daily update $(date -u +%Y-%m-%d)"
-          git push
+          git diff --staged --quiet || (git commit -m "chore: daily update $(date -u +%Y-%m-%d)" && git push)

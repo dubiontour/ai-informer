@@ -15,7 +15,7 @@ const [sources, brand, site] = await Promise.all([
 ]);
 
 // ── RSS Fetch & Parse ─────────────────────────────────────────────────────────
-const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_' });
+const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', entityExpansionLimit: 10000 });
 const CUTOFF_MS = 48 * 60 * 60 * 1000;
 const now = Date.now();
 
@@ -133,7 +133,7 @@ if (process.env.ANTHROPIC_API_KEY) {
     ).join('\n\n---\n\n');
 
     const msg = await client.messages.create({
-      model: 'claude-haiku-4-5',
+      model: 'claude-haiku-4-5-20251001',
       max_tokens: 1200,
       system: [{
         type: 'text',
