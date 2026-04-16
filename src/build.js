@@ -375,7 +375,10 @@ const html = `<!DOCTYPE html>
     .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--tldr-head-eyebrow); display: block; margin-bottom: 4px; }
     .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: var(--tldr-head-text); margin: 0 0 4px; }
     .tldr-date { font-size: 0.75rem; color: var(--tldr-head-meta); margin: 0; }
-    .tldr-list { list-style: none; margin: 0; padding: 12px 0; }
+    .tldr-list { list-style: none; margin: 0; padding: 12px 0; overflow-y: auto; max-height: calc(100vh - 220px); scrollbar-width: thin; scrollbar-color: var(--teal) transparent; }
+    .tldr-list::-webkit-scrollbar { width: 4px; }
+    .tldr-list::-webkit-scrollbar-track { background: transparent; }
+    .tldr-list::-webkit-scrollbar-thumb { background: var(--teal); border-radius: 2px; }
     .tldr-item { border-bottom: 1px solid var(--tldr-border); }
     .tldr-item:last-child { border-bottom: none; }
     .tldr-link { display: block; padding: 12px 20px; font-size: 0.82rem; line-height: 1.5; color: var(--tldr-text); text-decoration: none; transition: background 0.15s; }
