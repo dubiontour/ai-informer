@@ -209,10 +209,10 @@ const categories = ['Alle', ...new Set(sources.map(s => s.category))];
 const logoSvg32 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32" fill="none" aria-label="Turivus">
   <circle cx="50" cy="50" r="40" stroke="#C9A8A4" stroke-width="1.25"/>
   <path stroke="#EDE8E4" stroke-width="2.2" d="M47.25 35 L47.25 30.5 L30 30.5 L30 25 L70 25 L70 30.5 L52.75 30.5 L52.75 35"/>
-  <line stroke="#EDE8E4" stroke-width="2.2" x1="47.25" y1="30" x2="47.25" y2="72"/>
-  <line stroke="#EDE8E4" stroke-width="2.2" x1="52.75" y1="30" x2="52.75" y2="72"/>
-  <line stroke="#C9A8A4" stroke-width="1.25" x1="52.75" y1="50" x2="90" y2="50"/>
-  <circle cx="50" cy="77" r="4.5" stroke="#C9A8A4" stroke-width="1.25"/>
+  <line stroke="#EDE8E4" stroke-width="2.2" x1="47.25" y1="30" x2="47.25" y2="65"/>
+  <line stroke="#EDE8E4" stroke-width="2.2" x1="52.75" y1="30" x2="52.75" y2="65"/>
+  <line stroke="#C9A8A4" stroke-width="1.25" x1="53.85" y1="50" x2="90" y2="50"/>
+  <circle cx="50" cy="73.5" r="4.5" stroke="#C9A8A4" stroke-width="1.25"/>
 </svg>`;
 
 const logoSvg24 = logoSvg32.replace('width="32" height="32"', 'width="24" height="24"');
