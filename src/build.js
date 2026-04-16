@@ -180,9 +180,9 @@ function relativeTime(d) {
   const diffH = Math.floor(diffMs / 3_600_000);
   const diffM = Math.floor(diffMs / 60_000);
   if (diffH >= 24) return formatDate(d);
-  if (diffH >= 1) return `${diffH}h ago`;
-  if (diffM >= 1) return `${diffM}m ago`;
-  return 'just now';
+  if (diffH >= 1) return `vor ${diffH}h`;
+  if (diffM >= 1) return `vor ${diffM}m`;
+  return 'gerade eben';
 }
 
 function escapeHtml(s = '') {
@@ -190,7 +190,7 @@ function escapeHtml(s = '') {
 }
 
 const today = formatDate(new Date());
-const categories = ['All', ...new Set(sources.map(s => s.category))];
+const categories = ['Alle', ...new Set(sources.map(s => s.category))];
 
 const logoSvg32 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32" fill="none" aria-label="Turivus">
   <circle cx="50" cy="50" r="40" stroke="#C9A8A4" stroke-width="1.25"/>
@@ -203,6 +203,7 @@ const logoSvg32 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"
 </svg>`;
 
 const logoSvg24 = logoSvg32.replace('width="32" height="32"', 'width="24" height="24"');
+const logoSvg56 = logoSvg32.replace('width="32" height="32"', 'width="56" height="56"');
 
 // ── TL;DR Sidebar HTML ────────────────────────────────────────────────────────
 function renderTldrSidebar() {
@@ -247,8 +248,8 @@ function renderCard(a) {
   <p class="card-meta text-sm mb-2">${escapeHtml(a.source)} &middot; <time datetime="${a.pubDate.toISOString()}" title="${formatDate(a.pubDate)}">${relativeTime(a.pubDate)}</time></p>
   <p class="card-meta text-sm leading-relaxed mb-4" style="display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">${escapeHtml(a.description)}</p>
   <div class="flex items-center justify-between mt-auto">
-    <a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Read more &rarr;</a>
-    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="${escapeHtml(a.link)}" data-title="${escapeHtml(a.title)}" title="Share">&#8679; Share</button>
+    <a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer" class="text-sm font-semibold" style="color:#2E6473;">Weiterlesen &rarr;</a>
+    <button class="share-btn text-xs px-2 py-1 rounded" style="border:1px solid var(--card-border);color:var(--card-meta);background:transparent;cursor:pointer;" data-url="${escapeHtml(a.link)}" data-title="${escapeHtml(a.title)}" title="Teilen">&#8679; Teilen</button>
   </div>
 </article>`;
 }
@@ -381,16 +382,18 @@ const html = `<!DOCTYPE html>
   <header style="background:#182E35;">
     <div class="max-w-6xl mx-auto px-6 py-8">
       <div class="flex items-center justify-between">
-        <div class="flex items-center gap-3 mb-2">
-          ${logoSvg32}
-          <h1 class="text-2xl font-bold" style="color:#EDE8E4;">${escapeHtml(brand.siteName)}</h1>
+        <div class="flex items-center gap-4 mb-2">
+          ${logoSvg56}
+          <div>
+            <h1 class="text-3xl font-bold" style="color:#EDE8E4;">${escapeHtml(brand.siteName)}</h1>
+            <p class="text-sm mt-0.5" style="color:#A8BEC3;">Täglicher KI-Nachrichten-Digest</p>
+          </div>
         </div>
-        <button id="theme-toggle" title="Toggle dark/light mode">&#9728; Light</button>
+        <button id="theme-toggle" title="Hell/Dunkel umschalten">&#9728; Hell</button>
       </div>
-      <p class="text-sm mb-1" style="color:#A8BEC3;">Daily AI News Digest</p>
       <div class="flex items-center gap-4 mt-1">
-        <p class="text-xs" style="color:#A8BEC3;">Updated: ${today}</p>
-        <span class="text-xs px-2 py-0.5 rounded-full" style="background:#243E47;color:#C9A8A4;">${articles.length} articles &middot; ${successfulSources} sources</span>
+        <p class="text-xs" style="color:#A8BEC3;">Aktualisiert: ${today}</p>
+        <span class="text-xs px-2 py-0.5 rounded-full" style="background:#243E47;color:#C9A8A4;">${articles.length} Artikel &middot; ${successfulSources} Quellen</span>
       </div>
     </div>
     <div style="height:2px;background:#C9A8A4;"></div>
@@ -426,7 +429,7 @@ const html = `<!DOCTYPE html>
   </main>
 
   <!-- Back to top -->
-  <button id="back-to-top" title="Back to top" aria-label="Back to top">&#8679;</button>
+  <button id="back-to-top" title="Nach oben" aria-label="Nach oben">&#8679;</button>
 
   <!-- Footer -->
   <footer style="background:#182E35;margin-top:4rem;">
@@ -435,7 +438,7 @@ const html = `<!DOCTYPE html>
         ${logoSvg24}
         <a href="${escapeHtml(brand.footerLink)}" target="_blank" rel="noopener noreferrer" class="text-sm font-medium" style="color:#A8BEC3;">${escapeHtml(brand.footerLinkLabel)}</a>
       </div>
-      <p class="text-xs mb-2" style="color:#A8BEC3;">Quellen werden täglich um 07:00 Berner Zeit aktualisiert</p>
+      <p class="text-xs mb-2" style="color:#A8BEC3;">Quellen werden täglich um 07:00 MESZ aktualisiert</p>
       <p class="text-xs" style="color:#526870;">${sourceList}</p>
     </div>
   </footer>
@@ -445,12 +448,12 @@ const html = `<!DOCTYPE html>
     const btns = document.querySelectorAll('.filter-btn');
     const cards = document.querySelectorAll('#grid [data-category]');
     const searchInput = document.getElementById('search');
-    let activeFilter = 'All';
+    let activeFilter = 'Alle';
 
     function applyFilters() {
       const q = searchInput.value.toLowerCase().trim();
       cards.forEach(card => {
-        const matchCat = activeFilter === 'All' || card.dataset.category === activeFilter;
+        const matchCat = activeFilter === 'Alle' || card.dataset.category === activeFilter;
         const text = card.textContent.toLowerCase();
         const matchQ = !q || text.includes(q);
         card.style.display = matchCat && matchQ ? '' : 'none';
@@ -478,8 +481,8 @@ const html = `<!DOCTYPE html>
         } else {
           await navigator.clipboard.writeText(url).catch(() => {});
           const orig = btn.textContent;
-          btn.textContent = 'Copied!';
-          setTimeout(() => { btn.innerHTML = '&#8679; Share'; }, 1500);
+          btn.textContent = 'Kopiert!';
+          setTimeout(() => { btn.innerHTML = '&#8679; Teilen'; }, 1500);
         }
       });
     });
@@ -498,10 +501,10 @@ const html = `<!DOCTYPE html>
     function applyTheme(dark) {
       if (dark) {
         html.setAttribute('data-theme', 'dark');
-        toggle.innerHTML = '&#9790; Dark';
+        toggle.innerHTML = '&#9790; Dunkel';
       } else {
         html.removeAttribute('data-theme');
-        toggle.innerHTML = '&#9728; Light';
+        toggle.innerHTML = '&#9728; Hell';
       }
     }
 
