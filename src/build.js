@@ -1,5 +1,6 @@
-import { readFile, writeFile } from 'fs/promises';
+import { readFile, writeFile, mkdir } from 'fs/promises';
 import { XMLParser } from 'fast-xml-parser';
+import Anthropic from '@anthropic-ai/sdk';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
@@ -15,11 +16,15 @@ const [sources, brand, site] = await Promise.all([
 
 // ── RSS Fetch & Parse ─────────────────────────────────────────────────────────
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_' });
-const CUTOFF_MS = 48 * 60 * 60 * 1000; // 48 hours
+const CUTOFF_MS = 48 * 60 * 60 * 1000;
 const now = Date.now();
 
 function stripHtml(str = '') {
-  return str.replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ').trim();
+  return str
+    .replace(/<[^>]+>/g, '')
+    .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ')
+    .replace(/\s+/g, ' ').trim();
 }
 
 function similarity(a, b) {
@@ -31,14 +36,13 @@ function similarity(a, b) {
 
 async function fetchSource(source) {
   const res = await fetch(source.url, {
-    headers: { 'User-Agent': 'AI-Informer-Bot/1.0 (+https://turivus.com)' },
+    headers: { 'User-Agent': 'AI-Informer-Bot/1.0 (+https://turivus.ch)' },
     signal: AbortSignal.timeout(10000),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const xml = await res.text();
   const parsed = parser.parse(xml);
 
-  // Support both RSS and Atom
   const channel = parsed?.rss?.channel || parsed?.feed;
   const rawItems = channel?.item || channel?.entry || [];
   const items = Array.isArray(rawItems) ? rawItems : [rawItems];
@@ -83,9 +87,78 @@ articles.sort((a, b) => b.pubDate - a.pubDate);
 const successfulSources = Object.keys(sourceCounts).length;
 console.log(`Built ${articles.length} articles from ${successfulSources} sources`);
 
+// ── Scrape article content ────────────────────────────────────────────────────
+async function scrapeArticle(url) {
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml',
+        'Accept-Language': 'de,en;q=0.9',
+      },
+      signal: AbortSignal.timeout(8000),
+    });
+    if (!res.ok) return '';
+    const html = await res.text();
+    // Try to extract article/main content areas
+    const articleMatch = html.match(/<article[^>]*>([\s\S]*?)<\/article>/i);
+    const mainMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i);
+    const raw = articleMatch?.[1] || mainMatch?.[1] || html;
+    const text = stripHtml(raw).slice(0, 2500);
+    return text.length > 150 ? text : '';
+  } catch {
+    return '';
+  }
+}
+
+console.log(`Scraping ${articles.length} articles...`);
+const scraped = await Promise.allSettled(articles.map(a => scrapeArticle(a.link)));
+articles.forEach((a, i) => {
+  a.content = (scraped[i].status === 'fulfilled' && scraped[i].value)
+    ? scraped[i].value
+    : a.description;
+});
+const scrapeHits = scraped.filter(r => r.status === 'fulfilled' && r.value.length > 150).length;
+console.log(`Scraping done: ${scrapeHits}/${articles.length} successful`);
+
+// ── TL;DR via Claude ──────────────────────────────────────────────────────────
+let tldrItems = null;
+
+if (process.env.ANTHROPIC_API_KEY) {
+  try {
+    const client = new Anthropic();
+
+    const articlesText = articles.slice(0, 15).map((a, i) =>
+      `${i + 1}. Titel: ${a.title}\n   Quelle: ${a.source}\n   URL: ${a.link}\n   Inhalt: ${a.content.slice(0, 1200)}`
+    ).join('\n\n---\n\n');
+
+    const msg = await client.messages.create({
+      model: 'claude-haiku-4-5',
+      max_tokens: 1200,
+      system: [{
+        type: 'text',
+        text: 'Du bist ein KI-Nachrichten-Redakteur. Erstelle ein prägnantes TL;DR auf Deutsch mit genau 7 Stichpunkten zu den wichtigsten KI-News von heute. Jeder Punkt ist 1-2 präzise Sätze. Wähle für jeden Punkt die passendste URL aus den gegebenen Artikeln. Antworte NUR mit einem JSON-Array ohne Markdown oder Codeblock: [{"text":"...","url":"https://..."}]',
+        cache_control: { type: 'ephemeral' },
+      }],
+      messages: [{ role: 'user', content: articlesText }],
+    });
+
+    const raw = msg.content[0].text.trim();
+    const match = raw.match(/\[[\s\S]*\]/);
+    if (match) {
+      tldrItems = JSON.parse(match[0]);
+      console.log(`TL;DR generated: ${tldrItems.length} items (cache_read: ${msg.usage.cache_read_input_tokens})`);
+    }
+  } catch (e) {
+    console.warn('TL;DR generation failed:', e.message);
+  }
+} else {
+  console.log('No ANTHROPIC_API_KEY — TL;DR skipped, showing top stories instead');
+}
+
 // ── Helpers ───────────────────────────────────────────────────────────────────
 function formatDate(d) {
-  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  return d.toLocaleDateString('de-CH', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 
 function relativeTime(d) {
@@ -117,6 +190,39 @@ const logoSvg32 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"
 
 const logoSvg24 = logoSvg32.replace('width="32" height="32"', 'width="24" height="24"');
 
+// ── TL;DR Sidebar HTML ────────────────────────────────────────────────────────
+function renderTldrSidebar() {
+  const isAI = tldrItems && tldrItems.length > 0;
+
+  const items = isAI
+    ? tldrItems.map(item => `
+      <li class="tldr-item">
+        <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer" class="tldr-link">
+          ${escapeHtml(item.text)}
+        </a>
+      </li>`).join('')
+    : articles.slice(0, 8).map(a => `
+      <li class="tldr-item">
+        <a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer" class="tldr-link">
+          <span class="tldr-src">${escapeHtml(a.source)}</span>
+          ${escapeHtml(a.title)}
+        </a>
+      </li>`).join('');
+
+  return `
+  <aside class="tldr-col">
+    <div class="tldr-card">
+      <div class="tldr-head">
+        <span class="tldr-eyebrow">TL;DR</span>
+        <h2 class="tldr-title">Heute in AI</h2>
+        <p class="tldr-date">${today}</p>
+      </div>
+      <ul class="tldr-list">${items}</ul>
+      ${isAI ? '<p class="tldr-footer">KI-Zusammenfassung</p>' : ''}
+    </div>
+  </aside>`;
+}
+
 // ── Card HTML ─────────────────────────────────────────────────────────────────
 function renderCard(a) {
   return `<article class="card" data-category="${escapeHtml(a.category)}">
@@ -135,7 +241,7 @@ function renderCard(a) {
 
 const cardsHtml = articles.length > 0
   ? articles.map(renderCard).join('\n')
-  : `<div class="col-span-3 text-center py-16" style="color:#526870;">No articles found for today. Check back tomorrow.</div>`;
+  : `<div class="col-span-2 text-center py-16" style="color:#526870;">Keine Artikel gefunden. Morgen wieder vorbeischauen.</div>`;
 
 const filterBtns = categories.map((cat, i) =>
   `<button class="filter-btn${i === 0 ? ' active' : ''}" data-filter="${escapeHtml(cat)}">${escapeHtml(cat)}</button>`
@@ -175,7 +281,6 @@ const html = `<!DOCTYPE html>
       --text-muted-light: #526870;
       --border-dark: #2E4E58;
       --border-light: #E5E0DB;
-      /* light mode tokens */
       --bg-page: #F5F2EF;
       --card-bg: #ffffff;
       --card-border: #E5E0DB;
@@ -183,6 +288,10 @@ const html = `<!DOCTYPE html>
       --card-meta: #526870;
       --filter-bg: #ffffff;
       --filter-border: #E5E0DB;
+      --tldr-bg: #ffffff;
+      --tldr-border: #E5E0DB;
+      --tldr-text: #1A2C31;
+      --tldr-meta: #526870;
     }
     html[data-theme="dark"] {
       --bg-page: #0F1E23;
@@ -192,24 +301,56 @@ const html = `<!DOCTYPE html>
       --card-meta: #A8BEC3;
       --filter-bg: #243E47;
       --filter-border: #2E4E58;
+      --tldr-bg: #182E35;
+      --tldr-border: #2E4E58;
+      --tldr-text: #EDE8E4;
+      --tldr-meta: #A8BEC3;
     }
     body { font-family: 'Inter', sans-serif; background: var(--bg-page); transition: background 0.2s; }
     h1, h2, h3 { font-family: 'Syne', sans-serif; }
-    .card { background: var(--card-bg); border: 1px solid var(--card-border); border-radius: 8px; padding: 24px; transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s, border-color 0.2s; }
+
+    /* Cards */
+    .card { background: var(--card-bg); border: 1px solid var(--card-border); border-radius: 8px; padding: 24px; display: flex; flex-direction: column; transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s, border-color 0.2s; }
     .card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
     .card-title { color: var(--card-title); }
     .card-meta { color: var(--card-meta); }
     .badge { font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 10px; border-radius: 4px; border: 1px solid var(--teal); color: var(--teal); display: inline-block; }
+
+    /* Filters */
     .filter-btn { padding: 6px 16px; border-radius: 4px; font-size: 0.875rem; font-weight: 500; cursor: pointer; border: 1px solid var(--filter-border); background: var(--filter-bg); color: var(--card-meta); transition: all 0.15s; }
     .filter-btn.active { background: var(--teal); color: white; border-color: var(--teal); }
     .filter-btn:hover:not(.active) { border-color: var(--teal); color: var(--teal); }
+
     /* Dark mode toggle */
     #theme-toggle { cursor: pointer; padding: 6px 10px; border-radius: 6px; border: 1px solid #2E4E58; background: #243E47; color: #A8BEC3; font-size: 0.8rem; font-family: 'Inter', sans-serif; transition: all 0.15s; }
     #theme-toggle:hover { border-color: #C9A8A4; color: #EDE8E4; }
+
     /* Back to top */
     #back-to-top { position: fixed; bottom: 2rem; right: 2rem; padding: 10px 14px; border-radius: 8px; background: var(--teal); color: white; border: none; cursor: pointer; font-size: 1rem; opacity: 0; pointer-events: none; transition: opacity 0.25s, transform 0.25s; transform: translateY(8px); z-index: 50; box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
     #back-to-top.visible { opacity: 1; pointer-events: auto; transform: translateY(0); }
     #back-to-top:hover { background: #3a7a8c; }
+
+    /* TL;DR sidebar */
+    .tldr-col { width: 100%; }
+    @media (min-width: 1024px) { .tldr-col { width: 300px; flex-shrink: 0; } }
+    .tldr-card { background: var(--tldr-bg); border: 1px solid var(--tldr-border); border-radius: 8px; overflow: hidden; transition: background 0.2s, border-color 0.2s; }
+    .tldr-head { background: #182E35; padding: 20px 20px 16px; border-bottom: 2px solid #C9A8A4; }
+    .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #C9A8A4; display: block; margin-bottom: 4px; }
+    .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: #EDE8E4; margin: 0 0 4px; }
+    .tldr-date { font-size: 0.75rem; color: #A8BEC3; margin: 0; }
+    .tldr-list { list-style: none; margin: 0; padding: 12px 0; }
+    .tldr-item { border-bottom: 1px solid var(--tldr-border); }
+    .tldr-item:last-child { border-bottom: none; }
+    .tldr-link { display: block; padding: 12px 20px; font-size: 0.82rem; line-height: 1.5; color: var(--tldr-text); text-decoration: none; transition: background 0.15s; }
+    .tldr-link:hover { background: rgba(46,100,115,0.08); color: var(--teal); }
+    .tldr-src { display: inline-block; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--teal); margin-right: 4px; }
+    .tldr-footer { font-size: 0.65rem; color: var(--tldr-meta); padding: 8px 20px 12px; margin: 0; text-align: right; border-top: 1px solid var(--tldr-border); }
+
+    /* Layout */
+    .content-row { display: flex; flex-direction: column; gap: 2rem; }
+    @media (min-width: 1024px) { .content-row { flex-direction: row; align-items: flex-start; } }
+    .cards-col { flex: 1; min-width: 0; }
+    .sticky-sidebar { position: sticky; top: 1.5rem; }
   </style>
 </head>
 <body style="background:#F5F2EF;min-height:100vh;">
@@ -222,7 +363,7 @@ const html = `<!DOCTYPE html>
           ${logoSvg32}
           <h1 class="text-2xl font-bold" style="color:#EDE8E4;">${escapeHtml(brand.siteName)}</h1>
         </div>
-        <button id="theme-toggle" title="Toggle dark/light mode">&#9790; Dark</button>
+        <button id="theme-toggle" title="Toggle dark/light mode">&#9728; Light</button>
       </div>
       <p class="text-sm mb-1" style="color:#A8BEC3;">Daily AI News Digest</p>
       <div class="flex items-center gap-4 mt-1">
@@ -238,15 +379,27 @@ const html = `<!DOCTYPE html>
 
     <!-- Search + Filters -->
     <div class="flex flex-col sm:flex-row gap-3 mb-8">
-      <input id="search" type="search" placeholder="Search articles…" class="flex-1 px-4 py-2 rounded-md text-sm outline-none" style="border:1px solid var(--filter-border);background:var(--filter-bg);color:var(--card-title);min-width:0;" />
+      <input id="search" type="search" placeholder="Artikel suchen…" class="flex-1 px-4 py-2 rounded-md text-sm outline-none" style="border:1px solid var(--filter-border);background:var(--filter-bg);color:var(--card-title);min-width:0;" />
       <div class="flex flex-wrap gap-2">
         ${filterBtns}
       </div>
     </div>
 
-    <!-- Cards -->
-    <div id="grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      ${cardsHtml}
+    <!-- Content: TL;DR sidebar + Cards -->
+    <div class="content-row">
+
+      <!-- TL;DR Sidebar -->
+      <div class="sticky-sidebar">
+        ${renderTldrSidebar()}
+      </div>
+
+      <!-- Cards Grid -->
+      <div class="cards-col">
+        <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          ${cardsHtml}
+        </div>
+      </div>
+
     </div>
   </main>
 
@@ -260,7 +413,7 @@ const html = `<!DOCTYPE html>
         ${logoSvg24}
         <a href="${escapeHtml(brand.footerLink)}" target="_blank" rel="noopener noreferrer" class="text-sm font-medium" style="color:#A8BEC3;">${escapeHtml(brand.footerLinkLabel)}</a>
       </div>
-      <p class="text-xs mb-2" style="color:#A8BEC3;">Sources updated daily at 07:00 UTC</p>
+      <p class="text-xs mb-2" style="color:#A8BEC3;">Quellen werden täglich um 07:00 Berner Zeit aktualisiert</p>
       <p class="text-xs" style="color:#526870;">${sourceList}</p>
     </div>
   </footer>
@@ -323,14 +476,13 @@ const html = `<!DOCTYPE html>
     function applyTheme(dark) {
       if (dark) {
         html.setAttribute('data-theme', 'dark');
-        toggle.innerHTML = '&#9728; Light';
+        toggle.innerHTML = '&#9790; Dark';
       } else {
         html.removeAttribute('data-theme');
-        toggle.innerHTML = '&#9790; Dark';
+        toggle.innerHTML = '&#9728; Light';
       }
     }
 
-    // Restore from localStorage or system preference
     const stored = localStorage.getItem('theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
     applyTheme(stored === 'dark' || (!stored && prefersDark));
@@ -347,12 +499,9 @@ const html = `<!DOCTYPE html>
 await writeFile(path.join(ROOT, 'index.html'), html, 'utf8');
 
 // ── Rolling 30-day history + monthly archives ─────────────────────────────────
-import { mkdir } from 'fs/promises';
-
 const HISTORY_PATH = path.join(ROOT, 'data/history.json');
 const DATA_DIR = path.join(ROOT, 'data');
 const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
-const cutoff30 = Date.now() - THIRTY_DAYS_MS;
 
 await mkdir(DATA_DIR, { recursive: true });
 
@@ -360,10 +509,9 @@ let history = [];
 try {
   history = JSON.parse(await readFile(HISTORY_PATH, 'utf8'));
 } catch {
-  // first run or missing file — start fresh
+  // first run — start fresh
 }
 
-// Strip to minimal fields to keep file small
 const todaySlim = articles.map(a => ({
   title: a.title,
   link: a.link,
@@ -372,7 +520,6 @@ const todaySlim = articles.map(a => ({
   pubDate: a.pubDate.toISOString(),
 }));
 
-// Combine existing history + today's articles, deduplicate by link
 const allSeen = new Set();
 const allEntries = [...history, ...todaySlim].filter(a => {
   if (allSeen.has(a.link)) return false;
@@ -380,9 +527,8 @@ const allEntries = [...history, ...todaySlim].filter(a => {
   return true;
 });
 
-// Split: recent (<=30d) stays in history.json, older goes to monthly archives
 const recent = [];
-const toArchive = new Map(); // 'YYYY-MM' -> entries[]
+const toArchive = new Map();
 
 for (const entry of allEntries) {
   const age = Date.now() - new Date(entry.pubDate).getTime();
@@ -396,7 +542,6 @@ for (const entry of allEntries) {
   }
 }
 
-// Write monthly archive files (merge with existing if present)
 let archivedTotal = 0;
 for (const [month, entries] of toArchive) {
   const archivePath = path.join(DATA_DIR, `archive-${month}.json`);
@@ -410,10 +555,9 @@ for (const [month, entries] of toArchive) {
   merged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   await writeFile(archivePath, JSON.stringify(merged, null, 2), 'utf8');
   archivedTotal += entries.filter(e => !archiveSeen.has(e.link)).length;
-  console.log(`Archive ${month}: ${merged.length} entries (${archivePath.split('/').pop()})`);
+  console.log(`Archive ${month}: ${merged.length} entries`);
 }
 
-// Sort recent newest first and save
 recent.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
 await writeFile(HISTORY_PATH, JSON.stringify(recent, null, 2), 'utf8');
-console.log(`History: ${recent.length} entries (30-day rolling) | archived ${archivedTotal} to monthly files`);
+console.log(`History: ${recent.length} entries (30-day rolling) | archived ${archivedTotal}`);

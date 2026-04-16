@@ -1,11 +1,13 @@
 name: Daily Build
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 5 * * *'
   workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -13,6 +15,8 @@ jobs:
           node-version: '20'
       - run: npm ci
       - run: node src/build.js
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: Commit and push if changed
         run: |
           git config user.name "AI Informer Bot"

@@ -1,9 +1,16 @@
 [
-  { "name": "OpenAI", "url": "https://openai.com/news/rss.xml", "category": "Research" },
-  { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "category": "Research" },
-  { "name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "category": "Tools" },
-  { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "News" },
-  { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "category": "News" },
-  { "name": "MIT Tech Review AI", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/", "category": "News" },
-  { "name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss", "category": "News" }
+  { "name": "OpenAI",           "url": "https://openai.com/news/rss.xml",                                     "category": "Research" },
+  { "name": "Anthropic",        "url": "https://www.anthropic.com/rss.xml",                                   "category": "Research" },
+  { "name": "Google DeepMind",  "url": "https://deepmind.google/blog/rss.xml",                                "category": "Research" },
+  { "name": "Meta AI",          "url": "https://ai.meta.com/blog/rss/",                                       "category": "Research" },
+  { "name": "Mistral AI",       "url": "https://mistral.ai/news/rss.xml",                                     "category": "Research" },
+  { "name": "Hugging Face",     "url": "https://huggingface.co/blog/feed.xml",                                "category": "Tools" },
+  { "name": "Simon Willison",   "url": "https://simonwillison.net/atom/everything/",                          "category": "Tools" },
+  { "name": "VentureBeat AI",   "url": "https://venturebeat.com/category/ai/feed/",                          "category": "News" },
+  { "name": "TechCrunch AI",    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",      "category": "News" },
+  { "name": "The Verge AI",     "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",  "category": "News" },
+  { "name": "Ars Technica AI",  "url": "https://arstechnica.com/ai/feed/",                                   "category": "News" },
+  { "name": "MIT Tech Review",  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/","category": "News" },
+  { "name": "Wired AI",         "url": "https://www.wired.com/feed/tag/ai/latest/rss",                       "category": "News" },
+  { "name": "Hacker News AI",  "url": "https://hnrss.org/frontpage?q=AI&points=50",                          "category": "Community" }
 ]
