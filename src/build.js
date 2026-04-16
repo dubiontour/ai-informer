@@ -15,7 +15,7 @@ const [sources, brand, site] = await Promise.all([
 ]);
 
 // ── RSS Fetch & Parse ─────────────────────────────────────────────────────────
-const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', entityExpansionLimit: 10000 });
+const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', maxTotalExpansions: 10000 });
 const CUTOFF_MS = 48 * 60 * 60 * 1000;
 const now = Date.now();
 
