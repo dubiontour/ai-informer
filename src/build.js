@@ -121,39 +121,53 @@ articles.forEach((a, i) => {
 const scrapeHits = scraped.filter(r => r.status === 'fulfilled' && r.value.length > 150).length;
 console.log(`Scraping done: ${scrapeHits}/${articles.length} successful`);
 
-// ── TL;DR via Claude ──────────────────────────────────────────────────────────
+// ── TL;DR via Claude (once per day, cached in data/tldr.json) ─────────────────
+const TLDR_PATH = path.join(ROOT, 'data/tldr.json');
+const todayISO = new Date().toISOString().slice(0, 10); // "YYYY-MM-DD"
 let tldrItems = null;
 
-if (process.env.ANTHROPIC_API_KEY) {
-  try {
-    const client = new Anthropic();
-
-    const articlesText = articles.slice(0, 15).map((a, i) =>
-      `${i + 1}. Titel: ${a.title}\n   Quelle: ${a.source}\n   URL: ${a.link}\n   Inhalt: ${a.content.slice(0, 1200)}`
-    ).join('\n\n---\n\n');
-
-    const msg = await client.messages.create({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 1200,
-      system: [{
-        type: 'text',
-        text: 'Du bist ein KI-Nachrichten-Redakteur. Erstelle ein prägnantes TL;DR auf Deutsch mit genau 7 Stichpunkten zu den wichtigsten KI-News von heute. Jeder Punkt ist 1-2 präzise Sätze. Wähle für jeden Punkt die passendste URL aus den gegebenen Artikeln. Antworte NUR mit einem JSON-Array ohne Markdown oder Codeblock: [{"text":"...","url":"https://..."}]',
-        cache_control: { type: 'ephemeral' },
-      }],
-      messages: [{ role: 'user', content: articlesText }],
-    });
-
-    const raw = msg.content[0].text.trim();
-    const match = raw.match(/\[[\s\S]*\]/);
-    if (match) {
-      tldrItems = JSON.parse(match[0]);
-      console.log(`TL;DR generated: ${tldrItems.length} items (cache_read: ${msg.usage.cache_read_input_tokens})`);
-    }
-  } catch (e) {
-    console.warn('TL;DR generation failed:', e.message);
+// Try to load today's cached TL;DR first
+try {
+  const cached = JSON.parse(await readFile(TLDR_PATH, 'utf8'));
+  if (cached.date === todayISO && Array.isArray(cached.items) && cached.items.length > 0) {
+    tldrItems = cached.items;
+    console.log(`TL;DR loaded from cache (${todayISO}): ${tldrItems.length} items`);
   }
-} else {
-  console.log('No ANTHROPIC_API_KEY — TL;DR skipped, showing top stories instead');
+} catch { /* no cache yet */ }
+
+if (!tldrItems) {
+  if (process.env.ANTHROPIC_API_KEY) {
+    try {
+      const client = new Anthropic();
+
+      const articlesText = articles.slice(0, 15).map((a, i) =>
+        `${i + 1}. Titel: ${a.title}\n   Quelle: ${a.source}\n   URL: ${a.link}\n   Inhalt: ${a.content.slice(0, 1200)}`
+      ).join('\n\n---\n\n');
+
+      const msg = await client.messages.create({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 1200,
+        system: [{
+          type: 'text',
+          text: 'Du bist ein KI-Nachrichten-Redakteur. Erstelle ein prägnantes TL;DR auf Deutsch mit genau 7 Stichpunkten zu den wichtigsten KI-News von heute. Jeder Punkt ist 1-2 präzise Sätze. Wähle für jeden Punkt die passendste URL aus den gegebenen Artikeln. Antworte NUR mit einem JSON-Array ohne Markdown oder Codeblock: [{"text":"...","url":"https://..."}]',
+          cache_control: { type: 'ephemeral' },
+        }],
+        messages: [{ role: 'user', content: articlesText }],
+      });
+
+      const raw = msg.content[0].text.trim();
+      const match = raw.match(/\[[\s\S]*\]/);
+      if (match) {
+        tldrItems = JSON.parse(match[0]);
+        await writeFile(TLDR_PATH, JSON.stringify({ date: todayISO, items: tldrItems }, null, 2), 'utf8');
+        console.log(`TL;DR generated: ${tldrItems.length} items (cache_read: ${msg.usage.cache_read_input_tokens})`);
+      }
+    } catch (e) {
+      console.warn('TL;DR generation failed:', e.message);
+    }
+  } else {
+    console.log('No ANTHROPIC_API_KEY — TL;DR skipped, showing top stories instead');
+  }
 }
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
@@ -292,6 +306,10 @@ const html = `<!DOCTYPE html>
       --tldr-border: #E5E0DB;
       --tldr-text: #1A2C31;
       --tldr-meta: #526870;
+      --tldr-head-bg: #2E6473;
+      --tldr-head-text: #EDE8E4;
+      --tldr-head-meta: #c8e0e6;
+      --tldr-head-eyebrow: #C9A8A4;
     }
     html[data-theme="dark"] {
       --bg-page: #0F1E23;
@@ -303,6 +321,10 @@ const html = `<!DOCTYPE html>
       --filter-border: #2E4E58;
       --tldr-bg: #182E35;
       --tldr-border: #2E4E58;
+      --tldr-head-bg: #182E35;
+      --tldr-head-text: #EDE8E4;
+      --tldr-head-meta: #A8BEC3;
+      --tldr-head-eyebrow: #C9A8A4;
       --tldr-text: #EDE8E4;
       --tldr-meta: #A8BEC3;
     }
@@ -334,10 +356,10 @@ const html = `<!DOCTYPE html>
     .tldr-col { width: 100%; }
     @media (min-width: 1024px) { .tldr-col { width: 300px; flex-shrink: 0; } }
     .tldr-card { background: var(--tldr-bg); border: 1px solid var(--tldr-border); border-radius: 8px; overflow: hidden; transition: background 0.2s, border-color 0.2s; }
-    .tldr-head { background: #182E35; padding: 20px 20px 16px; border-bottom: 2px solid #C9A8A4; }
-    .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #C9A8A4; display: block; margin-bottom: 4px; }
-    .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: #EDE8E4; margin: 0 0 4px; }
-    .tldr-date { font-size: 0.75rem; color: #A8BEC3; margin: 0; }
+    .tldr-head { background: var(--tldr-head-bg); padding: 20px 20px 16px; border-bottom: 2px solid #C9A8A4; transition: background 0.2s; }
+    .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--tldr-head-eyebrow); display: block; margin-bottom: 4px; }
+    .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: var(--tldr-head-text); margin: 0 0 4px; }
+    .tldr-date { font-size: 0.75rem; color: var(--tldr-head-meta); margin: 0; }
     .tldr-list { list-style: none; margin: 0; padding: 12px 0; }
     .tldr-item { border-bottom: 1px solid var(--tldr-border); }
     .tldr-item:last-child { border-bottom: none; }
