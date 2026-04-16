@@ -375,6 +375,7 @@ const html = `<!DOCTYPE html>
     .cards-col { flex: 1; min-width: 0; }
     .sticky-sidebar { position: sticky; top: 1.5rem; }
   </style>
+  ${site.cfAnalyticsToken ? `<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "${site.cfAnalyticsToken}"}'></script>` : ''}
 </head>
 <body style="background:#F5F2EF;min-height:100vh;">
 
