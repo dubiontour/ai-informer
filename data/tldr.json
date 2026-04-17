@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "items": [
     {
-      "text": "Google verschärft seine KI-gestützte Anzeigen-Durchsetzung und blockiert mehr fehlerhafte Anzeigen statt Advertiser zu sperren. Der Fokus liegt nun auf schlechten Ads anstatt auf schlechten Akteuren.",
-      "url": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/"
+      "text": "Factory erreicht 1,5-Milliarden-Dollar-Bewertung für KI-Coding-Lösungen für Unternehmen. Das Startup entwickelt spezialisierte KI-Tools zur automatisierten Softwareentwicklung.",
+      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
     },
     {
-      "text": "Runway CEO sieht KI-Potenzial zur Senkung von Produktionskosten: Statt einem 100-Millionen-Dollar-Blockbuster könnten Studios mit KI 50 Filme produzieren.",
-      "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/"
+      "text": "OpenAI stellt GPT-Rosalind vor, ein speziell für Biologie-Workflows trainiertes Sprachmodell. Das Modell soll Forscher bei der Verarbeitung großer biologischer Datenmengen unterstützen.",
+      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/"
     },
     {
-      "text": "Journalist Ronan Farrow diskutiert Sam Altmans Umgang mit der Wahrheit in einem neuen New Yorker Feature über OpenAIs CEO.",
-      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry"
+      "text": "OpenAI aktualisiert Codex mit neuen Funktionen, einschließlich direkter Computernutzung im Hintergrund. Das Tool kann nun unabhängig Apps steuern und Websites mit visueller Rückmeldung erstellen.",
+      "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/"
     },
     {
-      "text": "Character.AI startet neuen Books-Modus zur Umwandlung von Klassikerlektüre in interaktives Rollenspiel trotz anhaltender Kontroversen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode"
+      "text": "Mozilla startet Thunderbolt AI-Client mit Fokus auf selbst gehostete Infrastruktur. Das Tool basiert auf Haystack und ermöglicht dezentrale KI ohne Cloud-Abhängigkeit.",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/"
     },
     {
-      "text": "Anthropic plant massive Expansion in London und erweitert seine europäische Präsenz signifikant.",
-      "url": "https://www.wired.com/story/anthropic-plots-major-london-expansion/"
+      "text": "Upscale AI verhandelt über Finanzierungsrunde mit 2-Milliarden-Dollar-Bewertung. Das Unternehmen baut an spezialisierter KI-Technologie für Bildverbesserung.",
+      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/"
     },
     {
-      "text": "Canva startet AI 2.0 Update mit fortgeschrittenen Prompt-basierten Design-Tools für Text-gesteuerte Bearbeitung.",
-      "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability"
+      "text": "Google verbessert AI Mode in Chrome mit neuer Funktion zum Öffnen von Links ohne Tab-Wechsel. Nutzer können jetzt auch ihre Browser-Tabs durchsuchen.",
+      "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources"
     },
     {
-      "text": "OpenAI lanciert Trusted Access for Cyber zur Skalierung fortgeschrittener Cybersecurity-Fähigkeiten für Verteidiger breit gefächert.",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
+      "text": "Gemini kann jetzt Fotos aus Google Photos nutzen, um personalisierte Bilder zu generieren. Die neue Personal Intelligence Funktion berücksichtigt Geschmack und Lifestyle.",
+      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana"
     }
   ]
 }
