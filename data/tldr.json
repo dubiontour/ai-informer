@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "items": [
     {
-      "text": "Factory erreicht 1,5-Milliarden-Dollar-Bewertung für KI-Coding-Lösungen für Unternehmen. Das Startup entwickelt spezialisierte KI-Tools zur automatisierten Softwareentwicklung.",
-      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/"
+      "text": "Sam Altmans Project World expandiert seine Identitätsverifizierung durch die \"Orb\"-Technologie auf Tinder und andere Plattformen wie Zoom und DocuSign.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/"
     },
     {
-      "text": "OpenAI stellt GPT-Rosalind vor, ein speziell für Biologie-Workflows trainiertes Sprachmodell. Das Modell soll Forscher bei der Verarbeitung großer biologischer Datenmengen unterstützen.",
+      "text": "Bill Peebles, Leiter von OpenAIs Sora-Videomodell, und Kevin Weil, VP für AI Science, verlassen das Unternehmen nach Einstellung des Sora-Projekts.",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/"
+    },
+    {
+      "text": "Anthropics neues Cybersecurity-KI-Modell könnte das Unternehmen in den Gunst der Trump-Administration zurückbringen; CEO Dario Amodei hatte Gespräche im Weißen Haus.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview"
+    },
+    {
+      "text": "Der AI-Code-Editor Cursor verhandelt über eine Finanzierungsrunde von über 2 Milliarden Dollar mit einer Bewertung von 50 Milliarden Dollar bei surgendem Unternehmenswachstum.",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/"
+    },
+    {
+      "text": "Satelliten- und Drohnenimagery zeigen, dass etwa 40 Prozent der geplanten US-Rechenzentren 2026 nicht pünktlich fertiggestellt werden könnten.",
+      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/"
+    },
+    {
+      "text": "Metas massive AI-Investitionen in Rechenzentren treiben die Preise für Speicherchips in die Höhe, was zu Preiserhöhungen für Quest-Headsets um 50-100 Dollar führt.",
+      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/"
+    },
+    {
+      "text": "OpenAI bringt GPT-Rosalind auf den Markt, ein speziell für Biologie-Workflows trainiertes Sprachmodell, das großen biologischen Datensätzen und komplexen Forschungsprozessen gewachsen ist.",
       "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/"
-    },
-    {
-      "text": "OpenAI aktualisiert Codex mit neuen Funktionen, einschließlich direkter Computernutzung im Hintergrund. Das Tool kann nun unabhängig Apps steuern und Websites mit visueller Rückmeldung erstellen.",
-      "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/"
-    },
-    {
-      "text": "Mozilla startet Thunderbolt AI-Client mit Fokus auf selbst gehostete Infrastruktur. Das Tool basiert auf Haystack und ermöglicht dezentrale KI ohne Cloud-Abhängigkeit.",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/"
-    },
-    {
-      "text": "Upscale AI verhandelt über Finanzierungsrunde mit 2-Milliarden-Dollar-Bewertung. Das Unternehmen baut an spezialisierter KI-Technologie für Bildverbesserung.",
-      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/"
-    },
-    {
-      "text": "Google verbessert AI Mode in Chrome mit neuer Funktion zum Öffnen von Links ohne Tab-Wechsel. Nutzer können jetzt auch ihre Browser-Tabs durchsuchen.",
-      "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources"
-    },
-    {
-      "text": "Gemini kann jetzt Fotos aus Google Photos nutzen, um personalisierte Bilder zu generieren. Die neue Personal Intelligence Funktion berücksichtigt Geschmack und Lifestyle.",
-      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana"
     }
   ]
 }
