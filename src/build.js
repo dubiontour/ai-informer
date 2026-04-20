@@ -204,6 +204,7 @@ function isSafeUrl(url) {
 }
 
 const today = formatDate(new Date());
+const buildVersion = `v${new Date().toISOString().slice(0, 10).replace(/-/g, '.')}`;
 const categories = ['Alle', ...new Set(sources.map(s => s.category))];
 
 const logoSvg32 = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32" fill="none" aria-label="Turivus">
@@ -374,7 +375,8 @@ const html = `<!DOCTYPE html>
     .tldr-eyebrow { font-size: 0.65rem; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: var(--tldr-head-eyebrow); display: block; margin-bottom: 4px; }
     .tldr-title { font-family: 'Syne', sans-serif; font-size: 1.25rem; font-weight: 700; color: var(--tldr-head-text); margin: 0 0 4px; }
     .tldr-date { font-size: 0.75rem; color: var(--tldr-head-meta); margin: 0; }
-    .tldr-list { list-style: none; margin: 0; padding: 12px 0; overflow-y: auto; max-height: calc(100vh - 220px); scrollbar-width: thin; scrollbar-color: var(--teal) transparent; }
+    .tldr-list { list-style: none; margin: 0; padding: 12px 0; overflow-y: visible; scrollbar-width: thin; scrollbar-color: var(--teal) transparent; }
+    @media (min-width: 1024px) { .tldr-list { overflow-y: auto; max-height: calc(100vh - 220px); } }
     .tldr-list::-webkit-scrollbar { width: 4px; }
     .tldr-list::-webkit-scrollbar-track { background: transparent; }
     .tldr-list::-webkit-scrollbar-thumb { background: var(--teal); border-radius: 2px; }
@@ -389,7 +391,8 @@ const html = `<!DOCTYPE html>
     .content-row { display: flex; flex-direction: column; gap: 2rem; }
     @media (min-width: 1024px) { .content-row { flex-direction: row; align-items: flex-start; } }
     .cards-col { flex: 1; min-width: 0; }
-    .sticky-sidebar { position: sticky; top: 1.5rem; }
+    .sticky-sidebar { position: static; }
+    @media (min-width: 1024px) { .sticky-sidebar { position: sticky; top: 1.5rem; } }
   </style>
   ${site.cfAnalyticsToken ? `<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "${site.cfAnalyticsToken}"}'></script>` : ''}
 </head>
@@ -456,7 +459,11 @@ const html = `<!DOCTYPE html>
         <a href="${escapeHtml(brand.footerLink)}" target="_blank" rel="noopener noreferrer" class="text-sm font-medium" style="color:#A8BEC3;">${escapeHtml(brand.footerLinkLabel)}</a>
       </div>
       <p class="text-xs mb-2" style="color:#A8BEC3;">Quellen werden täglich um 07:00 MESZ aktualisiert</p>
-      <p class="text-xs" style="color:#526870;">${sourceList}</p>
+      <p class="text-xs mb-4" style="color:#526870;">${sourceList}</p>
+      <div style="border-top:1px solid #243E47;padding-top:1rem;display:flex;align-items:center;justify-content:space-between;">
+        <span class="text-xs" style="color:#2E4E58;letter-spacing:0.05em;">AI INFORMER</span>
+        <span class="text-xs font-mono" style="color:#2E4E58;">${buildVersion}</span>
+      </div>
     </div>
   </footer>
 
