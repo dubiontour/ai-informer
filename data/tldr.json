@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "items": [
     {
-      "text": "Tesla expandiert seinen Robotaxi-Service in die Städte Dallas und Houston und erweitert damit die geografische Verfügbarkeit seiner autonomen Fahrzeuge.",
-      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/"
+      "text": "OpenAI steht vor existenziellen Fragen bezüglich seiner Zukunftsausrichtung und Geschäftsstrategie.",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/"
     },
     {
-      "text": "Der RAM-Mangel könnte sich mehrere Jahre hinziehen, da Speicherhersteller bis Ende 2027 nur 60 Prozent der globalen Nachfrage decken können.",
+      "text": "Die Cloud-Entwicklungsplattform Vercel wurde durch ein kompromittiertes KI-Tool eines Drittanbieters gehackt.",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked"
+    },
+    {
+      "text": "Es gibt ein kritisches 12-Monats-Fenster für wichtige Entscheidungen in der KI-Industrie.",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/"
+    },
+    {
+      "text": "Palantir veröffentlicht ein Manifest, das Diversitätsmaßnahmen kritisiert und als 'regressiv' charakterisiert.",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/"
+    },
+    {
+      "text": "Die RAM-Knappheit könnte mehrere Jahre anhalten, mit Speicherhersteller auf nur 60% Nachfragedeckung bis Ende 2027 prognostiziert.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years"
     },
     {
-      "text": "Der KI-Chip-Startup Cerebras reicht seinen Börsengang ein und signalisiert damit das wachsende Vertrauen der Investoren in spezialisierte KI-Hardware-Unternehmen.",
-      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/"
-    },
-    {
-      "text": "Ein Cornell-Professor nutzt Schreibmaschinen im Unterricht, um KI-generierte Arbeiten zu verhindern und Studierenden zu helfen, sich stärker auf ihre Aufgaben zu konzentrieren.",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/"
-    },
-    {
-      "text": "Die Beziehung zwischen Anthropic und der Trump-Administration scheint sich zu verbessern, nachdem es zuvor Spannungen gab.",
-      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/"
-    },
-    {
-      "text": "Die EU-Altersverifikations-App lässt sich in nur zwei Minuten hacken, was ernsthafte Sicherheitsbedenken über die Effektivität dieser Sicherheitsmaßnahme aufwirft.",
+      "text": "Die neue Altersverifizierungs-App der EU kann in nur 2 Minuten gehackt werden.",
       "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
     },
     {
-      "text": "Etwa 40 Prozent der geplanten US-Datencenter-Projekte könnten dieses Jahr nicht wie geplant fertiggestellt werden, wie Satellitenbilder zeigen, aufgrund von Bau- und Energieengpässen.",
-      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/"
+      "text": "Schematik, ein 'Cursor für Hardware'-Tool, erhält Interesse von Anthropic für mögliche Investitionen.",
+      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
     }
   ]
 }
