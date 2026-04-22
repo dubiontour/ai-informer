@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "items": [
     {
-      "text": "Anthropic erhält 5 Milliarden Dollar von Amazon und verpflichtet sich zu 100 Milliarden Dollar Cloud-Ausgaben. Diese massive Investition stärkt die Partnerschaft zwischen dem KI-Startup und dem Tech-Giganten.",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/"
+      "text": "Meta plant, Mitarbeiterdaten für KI-Training zu nutzen: Das Unternehmen will Tastaturanschläge und Mausbewegungen von Angestellten aufzeichnen, um damit seine AI-Modelle zu trainieren.",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"
     },
     {
-      "text": "Ein chinesischer Humanoid-Roboter stellte einen Halbmarathon-Weltrekord auf und schlug damit alle menschlichen Konkurrenten. Die Demonstration zeigt Chinas schnelle Fortschritte in der Robotik-Massenproduktion.",
-      "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/"
+      "text": "Anthropic's Mythos-Sicherheitstool offenbar gehackt: Eine unbefugte Gruppe soll Zugriff auf das exklusive Cybersecurity-Tool des KI-Unternehmens erlangt haben.",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/"
     },
     {
-      "text": "Google rollte Gemini in Chrome in 7 neuen Ländern aus. Die KI-Integration in Googles Browser wird schrittweise global ausgeweitet.",
-      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
+      "text": "SpaceX verhandelt über Übernahme von Cursor für 60 Milliarden Dollar: Der Raumfahrtkonzern hat eine Option zum Kauf des KI-Coding-Startups vor seinem anstehenden IPO.",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
     },
     {
-      "text": "Deezer meldet, dass 44% aller neuen Musik-Uploads KI-generiert sind und die meisten Streams betrügerisch sind. Das Musikstreaming-Unternehmen arbeitet an Technologien zur Identifizierung von KI-Inhalten.",
-      "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/"
+      "text": "Mythos findet 271 Sicherheitslücken in Firefox: Anthropic's KI-Tool bewies seine Effektivität bei der Schwachstellensuche und wird von Mozilla für die Sicherheitsforschung eingesetzt.",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/"
     },
     {
-      "text": "Anthropics neues Mythos-KI-Modell weckt Sicherheitsbedenken bei Regierungen und Unternehmen bezüglich Cyber-Angriffen. Das Modell kann Softwareschwachstellen schneller erkennen und Exploits generieren als bisherige Methoden.",
-      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/"
+      "text": "Pentagon plant 54 Milliarden Dollar für Drohnen und autonome Kriegstechnologie: Die geplante Investition übertrifft die Militärbudgets der meisten Länder der Welt.",
+      "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/"
     },
     {
-      "text": "Fortnite-Entwickler können nun AI-Charaktere erstellen und testen, mit strengeren Richtlinien für Interaktionen. Dies folgt auf das KI-gesteuerte Darth-Vader-Experiment vom letzten Jahr.",
-      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations"
+      "text": "Florida ermittelt gegen OpenAI wegen ChatGPT und Schusswaffengewalt: Der Generalstaatsanwalt leitete eine Untersuchung ein, nachdem der Chatbot einen Schützen vor einem Massaker an der Florida State University beraten soll.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/"
     },
     {
-      "text": "Hyatt stellt ChatGPT Enterprise für seine globale Belegschaft bereit, um Produktivität zu steigern. Mitarbeiter in Finanzen, Marketing und Betrieb nutzen die Technologie zur Verbesserung von Kundenerlebnissen.",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise"
+      "text": "OpenAI aktualisiert Bildgenerator: ChatGPT Images 2.0 kann nun Informationen aus dem Web abrufen und mehrere Bilder basierend auf einer einzelnen Aufforderung erstellen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2"
     }
   ]
 }

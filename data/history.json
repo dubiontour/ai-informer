@@ -1,10 +1,143 @@
 [
   {
+    "title": "Meta will record employees&#8217; keystrokes and use it to train its AI models",
+    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-21T23:45:21.000Z"
+  },
+  {
+    "title": "Unauthorized group has gained access to Anthropic&#8217;s exclusive cyber tool Mythos, report claims",
+    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-21T23:26:45.000Z"
+  },
+  {
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
+    "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-21T22:58:22.000Z"
+  },
+  {
+    "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+    "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-21T22:45:37.000Z"
+  },
+  {
+    "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
+    "link": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-21T21:57:54.000Z"
+  },
+  {
+    "title": "Mozilla: Anthropic&#039;s Mythos found 271 security vulnerabilities in Firefox 150",
+    "link": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-21T21:40:41.000Z"
+  },
+  {
+    "title": "10 Things That Matter in AI Right Now",
+    "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-04-21T20:45:00.000Z"
+  },
+  {
+    "title": "LLMs+",
+    "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-04-21T20:45:00.000Z"
+  },
+  {
+    "title": "Supercharged scams",
+    "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-04-21T20:45:00.000Z"
+  },
+  {
+    "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+    "link": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-21T20:01:36.000Z"
+  },
+  {
+    "title": "AI backlash is coming for elections",
+    "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-21T19:00:05.000Z"
+  },
+  {
+    "title": "OpenAI’s updated image generator can now pull information from the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-21T19:00:00.000Z"
+  },
+  {
+    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
+    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-21T19:00:00.000Z"
+  },
+  {
+    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+    "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-21T18:30:00.000Z"
+  },
+  {
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-04-21T17:40:39.000Z"
+  },
+  {
+    "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
+    "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-21T17:35:12.000Z"
+  },
+  {
+    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+    "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-04-21T10:09:58.000Z"
+  },
+  {
     "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
     "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-04-21T00:40:10.000Z"
+  },
+  {
+    "title": "Scaling Codex to enterprises worldwide",
+    "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+    "link": "https://huggingface.co/blog/cybersecurity-openness",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-04-21T00:00:00.000Z"
   },
   {
     "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
