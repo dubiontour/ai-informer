@@ -1,5 +1,131 @@
 [
   {
+    "title": "India&#8217;s app market is booming — but global platforms are capturing most of the gains",
+    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-23T04:38:45.000Z"
+  },
+  {
+    "title": "Tesla just increased its spending plan to $25B — here&#8217;s where the money is going",
+    "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-22T23:56:52.000Z"
+  },
+  {
+    "title": "Google updates Workspace to make AI your new office intern",
+    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-22T22:44:26.000Z"
+  },
+  {
+    "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+    "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-22T22:11:15.000Z"
+  },
+  {
+    "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+    "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-22T20:29:05.000Z"
+  },
+  {
+    "title": "OpenAI now lets teams make custom bots that can do work on their own",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-22T20:09:02.000Z"
+  },
+  {
+    "title": "Anthropic tested removing Claude Code from the Pro plan",
+    "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-22T18:34:16.000Z"
+  },
+  {
+    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-22T18:00:00.000Z"
+  },
+  {
+    "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+    "link": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-22T17:43:38.000Z"
+  },
+  {
+    "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+    "link": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-22T17:10:32.000Z"
+  },
+  {
+    "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+    "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-22T16:00:00.000Z"
+  },
+  {
+    "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+    "link": "https://huggingface.co/blog/nvidia/gemma4",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-04-22T15:40:50.000Z"
+  },
+  {
+    "title": "Making ChatGPT better for clinicians",
+    "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-22T15:00:00.000Z"
+  },
+  {
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "link": "https://www.adriankrebs.ch/blog/design-slop/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-04-22T14:44:32.000Z"
+  },
+  {
+    "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+    "link": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-22T14:13:01.000Z"
+  },
+  {
+    "title": "AI needs a strong data fabric to deliver business value",
+    "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-04-22T10:05:06.000Z"
+  },
+  {
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-22T10:00:00.000Z"
+  },
+  {
+    "title": "Introducing workspace agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-22T10:00:00.000Z"
+  },
+  {
     "title": "Meta will record employees&#8217; keystrokes and use it to train its AI models",
     "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
     "source": "TechCrunch AI",
@@ -110,6 +236,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-04-21T17:35:12.000Z"
+  },
+  {
+    "title": "Partnering with industry leaders to accelerate AI transformation",
+    "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-04-21T14:54:15.000Z"
   },
   {
     "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",

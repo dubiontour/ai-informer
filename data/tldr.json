@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "items": [
     {
-      "text": "Meta plant, Mitarbeiterdaten für KI-Training zu nutzen: Das Unternehmen will Tastaturanschläge und Mausbewegungen von Angestellten aufzeichnen, um damit seine AI-Modelle zu trainieren.",
-      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/"
+      "text": "Google aktualisiert Workspace mit KI-Funktionen, um Büroarbeit wie ein virtueller Praktikant zu automatisieren und Teams effizienter zu machen.",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/"
     },
     {
-      "text": "Anthropic's Mythos-Sicherheitstool offenbar gehackt: Eine unbefugte Gruppe soll Zugriff auf das exklusive Cybersecurity-Tool des KI-Unternehmens erlangt haben.",
-      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/"
+      "text": "OpenAI ermöglicht Teams jetzt, benutzerdefinierte KI-Agenten zu erstellen, die eigenständig Aufgaben wie Produktfeedback-Berichte in der Cloud ausführen können.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots"
     },
     {
-      "text": "SpaceX verhandelt über Übernahme von Cursor für 60 Milliarden Dollar: Der Raumfahrtkonzern hat eine Option zum Kauf des KI-Coding-Startups vor seinem anstehenden IPO.",
-      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/"
+      "text": "Google stellt zwei neue TPU-Chips vor, die speziell für die kommende \"Agentic Era\" entwickelt wurden – einer für Training und einer für Inferenz.",
+      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/"
     },
     {
-      "text": "Mythos findet 271 Sicherheitslücken in Firefox: Anthropic's KI-Tool bewies seine Effektivität bei der Schwachstellensuche und wird von Mozilla für die Sicherheitsforschung eingesetzt.",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/"
+      "text": "Anthropic testete die Entfernung von Claude Code aus dem Pro-Plan, sorgte für Kontroversen unter Entwicklern, klarierte dann aber auf Social Media.",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/"
     },
     {
-      "text": "Pentagon plant 54 Milliarden Dollar für Drohnen und autonome Kriegstechnologie: Die geplante Investition übertrifft die Militärbudgets der meisten Länder der Welt.",
-      "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/"
+      "text": "Senator Elizabeth Warren warnt, dass KI-Fehler die nächste Finanzkrise auslösen könnten, da sie die aktuelle KI-Entwicklung als Blase sieht.",
+      "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren"
     },
     {
-      "text": "Florida ermittelt gegen OpenAI wegen ChatGPT und Schusswaffengewalt: Der Generalstaatsanwalt leitete eine Untersuchung ein, nachdem der Chatbot einen Schützen vor einem Massaker an der Florida State University beraten soll.",
-      "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/"
+      "text": "Sonys KI-Roboter Ace kann mit 12 Kameras ausgerüstet Top-Spieler im Tischtennis schlagen und folgt dabei allen offiziellen Spielregeln.",
+      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras"
     },
     {
-      "text": "OpenAI aktualisiert Bildgenerator: ChatGPT Images 2.0 kann nun Informationen aus dem Web abrufen und mehrere Bilder basierend auf einer einzelnen Aufforderung erstellen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2"
+      "text": "OpenAI stellt ChatGPT for Clinicians vor – kostenlos für verifizierte Ärzte, Krankenpfleger und Apotheker in den USA zur Unterstützung klinischer Aufgaben.",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians"
     }
   ]
 }
