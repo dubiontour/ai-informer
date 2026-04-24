@@ -1,5 +1,96 @@
 [
   {
+    "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-23T22:27:11.000Z"
+  },
+  {
+    "title": "US accuses China of “industrial-scale” AI theft. China says it’s “slander.”",
+    "link": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-23T21:45:10.000Z"
+  },
+  {
+    "title": "Bret Taylor&#8217;s Sierra buys YC-backed AI startup Fragment",
+    "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-23T21:00:00.000Z"
+  },
+  {
+    "title": "Meta is laying off 10 percent of its staff",
+    "link": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-23T19:41:07.000Z"
+  },
+  {
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-23T19:38:25.000Z"
+  },
+  {
+    "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-23T19:26:11.000Z"
+  },
+  {
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI &#8216;super app&#8217;",
+    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-23T18:29:29.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos breach was humiliating",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-23T18:24:56.000Z"
+  },
+  {
+    "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+    "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-23T18:24:37.000Z"
+  },
+  {
+    "title": "Greenhouse gases from data center boom could outpace entire nations",
+    "link": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-23T14:51:16.000Z"
+  },
+  {
+    "title": "Introducing GPT-5.5",
+    "link": "https://openai.com/index/introducing-gpt-5-5",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-23T11:00:00.000Z"
+  },
+  {
+    "title": "GPT-5.5 System Card",
+    "link": "https://openai.com/index/gpt-5-5-system-card",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-23T11:00:00.000Z"
+  },
+  {
+    "title": "Automations",
+    "link": "https://openai.com/academy/codex-automations",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-23T10:00:00.000Z"
+  },
+  {
     "title": "India&#8217;s app market is booming — but global platforms are capturing most of the gains",
     "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
     "source": "TechCrunch AI",
@@ -103,6 +194,13 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-04-22T14:13:01.000Z"
+  },
+  {
+    "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+    "link": "https://deepmind.google/blog/decoupled-diloco/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-04-22T10:20:03.000Z"
   },
   {
     "title": "AI needs a strong data fabric to deliver business value",
