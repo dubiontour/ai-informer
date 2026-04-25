@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "items": [
     {
-      "text": "Claude verbindet sich direkt mit persönlichen Apps wie Spotify, Uber Eats und TurboTax. Anthropic stellt die neuen App-Konnektoren allen Claude-Nutzern zur Verfügung, wobei die mobile Version noch in Beta ist.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors"
+      "text": "Google will invest bis zu $40 Milliarden in Anthropic, davon mindestens $10 Milliarden sofort, mit zusätzlichen Mitteln bei Erreichen bestimmter Leistungsziele. Die Investition bewertet Anthropic mit $350 Milliarden.",
+      "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/"
     },
     {
-      "text": "OpenAI veröffentlicht GPT-5.5, sein intelligentestes Modell bisher, das speziell für komplexe Aufgaben wie Code-Debugging, Online-Recherche und Datenanalyse optimiert ist.",
-      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/"
+      "text": "OpenAI hat GPT-5.5 veröffentlicht, ein neues Modellsystem, das Code debuggt, online recherchiert, Daten analysiert und über mehrere Tools hinweg arbeitet. Das Modell ist jetzt in der API verfügbar.",
+      "url": "https://openai.com/index/introducing-gpt-5-5"
     },
     {
-      "text": "Die USA werfen China industriellen Diebstahl von KI-Technologie vor, insbesondere durch \"Distillation\"-Methoden, um KI-Modelle zu klonen. China bezeichnet die Vorwürfe als \"Verleumdung\".",
-      "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/"
+      "text": "DeepSeeks neues V4-Modell bietet einen Million-Token-Kontext und erreicht eine verbesserte Leistung bei Agenten-Aufgaben. Das Modell zeigt Fortschritte in der KI-Effizienz.",
+      "url": "https://huggingface.co/blog/deepseekv4"
     },
     {
-      "text": "Meta kündigt Kürzungen von 10 Prozent seiner Belegschaft im Mai an, um andere Investitionen auszugleichen. Der Schritt wird von CEO Mark Zuckerberg begründet.",
-      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff"
+      "text": "Ein DeepMind-Spinoff bringt von KI entworfene Medikamente in klinische Versuche am Menschen. Dies markiert einen Meilenstein in der AI-gestützten Arzneimittelentwicklung.",
+      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/"
     },
     {
-      "text": "Datenzentren von OpenAI, Meta, Microsoft und xAI könnten jährlich mehr als 129 Millionen Tonnen Treibhausgase ausstoßen – mehr als das Land Marokko im Jahr 2024.",
-      "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/"
+      "text": "ComfyUI erreicht eine Bewertung von $500 Millionen, da Kreative mehr Kontrolle über KI-generierte Medien anstreben. Die Plattform ermöglicht Nutzern tiefergehende Customisierung von AI-Ergebnissen.",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
     },
     {
-      "text": "Anthropic testete heimlich, Claude Code aus dem Pro-Plan (20 Dollar/Monat) zu entfernen, um die Nachfrage zu steuern. Nach Kritik bestätigte der Growth-Chef, dass dies nur ein Test war.",
-      "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/"
+      "text": "Elon Musks Klage gegen Sam Altman und OpenAI geht vor Gericht, wobei wichtige Beweise über ChatGPT offengelegt werden. Der Rechtsstreit könnte Interna des Unternehmens enthüllen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip"
     },
     {
-      "text": "Ein Datenleck bei Anthropic offenbarte einen Zugriff auf das interne KI-Modell Claude Mythos, das als zu gefährlich für öffentliche Freigabe gilt. Ein Sicherheitsfehler ohne akzeptable Entschuldigung.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation"
+      "text": "Ein südkoreanischer Mann wird zu 5 Jahren Haft verurteilt, weil er KI-generierte Bilder eines ausgebrochenen Wolfes fälschte und damit eine behördliche Untersuchung behinderte. Der Fall zeigt rechtliche Konsequenzen von AI-Missbrauch.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/"
     }
   ]
 }
