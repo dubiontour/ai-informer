@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "items": [
     {
-      "text": "Google will invest bis zu $40 Milliarden in Anthropic, davon mindestens $10 Milliarden sofort, mit zusätzlichen Mitteln bei Erreichen bestimmter Leistungsziele. Die Investition bewertet Anthropic mit $350 Milliarden.",
+      "text": "Anthropic hat einen Test-Marktplatz für Agent-zu-Agent-Handel geschaffen, um autonome KI-Systeme beim direkten Handeln miteinander zu testen.",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/"
+    },
+    {
+      "text": "Google investiert bis zu 40 Milliarden Dollar in Anthropic, nachdem Amazon kürzlich 5 Milliarden Dollar investiert hat; beide Deals bewerten das Unternehmen auf 350 Milliarden Dollar.",
       "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/"
     },
     {
-      "text": "OpenAI hat GPT-5.5 veröffentlicht, ein neues Modellsystem, das Code debuggt, online recherchiert, Daten analysiert und über mehrere Tools hinweg arbeitet. Das Modell ist jetzt in der API verfügbar.",
-      "url": "https://openai.com/index/introducing-gpt-5-5"
+      "text": "DeepSeeks neues V4-Modell ist bedeutsam und zeigt wichtige Fortschritte in der chinesischen KI-Entwicklung.",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
     },
     {
-      "text": "DeepSeeks neues V4-Modell bietet einen Million-Token-Kontext und erreicht eine verbesserte Leistung bei Agenten-Aufgaben. Das Modell zeigt Fortschritte in der KI-Effizienz.",
-      "url": "https://huggingface.co/blog/deepseekv4"
-    },
-    {
-      "text": "Ein DeepMind-Spinoff bringt von KI entworfene Medikamente in klinische Versuche am Menschen. Dies markiert einen Meilenstein in der AI-gestützten Arzneimittelentwicklung.",
+      "text": "Ein KI-designtes Medikament eines DeepMind-Spin-offs geht in die Phase menschlicher klinischer Tests über.",
       "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/"
     },
     {
-      "text": "ComfyUI erreicht eine Bewertung von $500 Millionen, da Kreative mehr Kontrolle über KI-generierte Medien anstreben. Die Plattform ermöglicht Nutzern tiefergehende Customisierung von AI-Ergebnissen.",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/"
+      "text": "Ein 40-jähriger Mann in Südkorea drohen 5 Jahre Haft, weil er KI-generierte Bilder eines ausgerissenen Wolfes erstellte und eine polizeiliche Untersuchung behinderte.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/"
     },
     {
-      "text": "Elon Musks Klage gegen Sam Altman und OpenAI geht vor Gericht, wobei wichtige Beweise über ChatGPT offengelegt werden. Der Rechtsstreit könnte Interna des Unternehmens enthüllen.",
+      "text": "Elon Musks Klage gegen Sam Altman und OpenAI geht vor Gericht, wobei wichtige Beweise über ChatGPT-Hersteller enthüllt werden.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip"
     },
     {
-      "text": "Ein südkoreanischer Mann wird zu 5 Jahren Haft verurteilt, weil er KI-generierte Bilder eines ausgebrochenen Wolfes fälschte und damit eine behördliche Untersuchung behinderte. Der Fall zeigt rechtliche Konsequenzen von AI-Missbrauch.",
-      "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/"
+      "text": "Ein Buch zeigt, wie Project Maven die Militärpartnerschaft mit KI-Entwicklern beschleunigt und kontrovers den Kriegseinsatz von KI vorantrieb.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson"
     }
   ]
 }
