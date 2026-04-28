@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "items": [
     {
-      "text": "Google DeepMind gibt Partnerschaft mit Südkorea bekannt, um wissenschaftliche Durchbrüche durch frontier AI-Modelle zu beschleunigen.",
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/"
+      "text": "Elon Musk vs. Sam Altman vor Gericht: Jury-Auswahl zeigt, dass Musks öffentliches Image problematisch ist und Juroren ihn nicht mögen, was die Chancen in der Klage über OpenAIs Zukunft beeinflussen könnte.",
+      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like"
     },
     {
-      "text": "OpenAI veröffentlicht Grundprinzipien zur Verteilung von AGI: Das Unternehmen zielt darauf ab, echte General AI in die Hände möglichst vieler Menschen zu bringen statt Macht in wenigen Händen zu konzentrieren.",
-      "url": "https://openai.com/index/our-principles"
+      "text": "OpenAI beendet exklusive Partnerschaft mit Microsoft und erlaubt damit OpenAI-Modellen, auf Amazon Bedrock zu laufen, was den Weg für mehr Cloud-Provider-Flexibilität ebnet.",
+      "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/"
     },
     {
-      "text": "Ein Immobilienangebot im Bay Area ermöglicht Zahlungen mit Anthropic-Anteilen und zeigt kreative Wege der Mitarbeitervergütung in der KI-Industrie.",
-      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/"
+      "text": "Google testet neues AI-Chatbot-Suchtool namens 'Ask YouTube', das eine AI Mode ähnliche Informationsseite für Video-Suchen generiert.",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search"
     },
     {
-      "text": "Anthropic hat einen Test-Marketplace für Agent-zu-Agent-Handel entwickelt und erprobt damit KI-gestützte autonome Transaktionen.",
-      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/"
+      "text": "EU fordert von Google, Android für andere KI-Assistenten zu öffnen und Gemini nicht bevorzugt zu behandeln; Google nennt das 'unwarranted intervention'.",
+      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/"
     },
     {
-      "text": "Maines Gouverneur legt sein Veto gegen ein Datencenter-Moratorium ein und ermöglicht damit weitere KI-Infrastrukturentwicklung in dem Staat.",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/"
+      "text": "DeepMinds David Silver sammelt 1,1 Milliarden Dollar ein, um eine KI zu entwickeln, die ohne menschliche Trainingsdaten lernen kann.",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
     },
     {
-      "text": "Discord-Nutzer verschafften sich unbefugten Zugriff auf Anthropics Mythos-Projekt, was ein Sicherheitsproblem bei Anthropic offenlegte.",
-      "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"
+      "text": "Canonical kündigt Pläne zur Einführung von KI-Features in Ubuntu Linux im Jahr 2026 an, betont aber, dass 'Ubuntu kein KI-Produkt wird'.",
+      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features"
     },
     {
-      "text": "Der Ping-Pong-Roboter Ace demonstriert fortgeschrittene robotische Fähigkeiten und könnte Weltmeister im Tischtennis werden.",
-      "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/"
+      "text": "OpenAI erhält FedRAMP Moderate-Autorisierung für ChatGPT Enterprise und API Platform, was US-Regierungsbehörden sicheren Zugang zu fortschrittlicher KI ermöglicht.",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
     }
   ]
 }
