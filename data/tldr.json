@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "items": [
     {
-      "text": "Elon Musk vs. Sam Altman vor Gericht: Jury-Auswahl zeigt, dass Musks öffentliches Image problematisch ist und Juroren ihn nicht mögen, was die Chancen in der Klage über OpenAIs Zukunft beeinflussen könnte.",
-      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like"
+      "text": "Elon Musk verklagt OpenAI und Sam Altman. In seiner Aussage präsentierte sich Musk als Gründer, der OpenAI gegründet hat, um eine \"Terminator-Situation\" zu verhindern und die Menschheit zu retten.",
+      "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"
     },
     {
-      "text": "OpenAI beendet exklusive Partnerschaft mit Microsoft und erlaubt damit OpenAI-Modellen, auf Amazon Bedrock zu laufen, was den Weg für mehr Cloud-Provider-Flexibilität ebnet.",
-      "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/"
+      "text": "Bei seiner Prozessaussage wirkte Musk kleinlich und unvorbereitet statt fokussiert und überzeugend, kritisiert The Verge. Sein Verhalten konzentrierte sich eher auf persönliche Groll als auf substantielle Argumente.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one"
     },
     {
-      "text": "Google testet neues AI-Chatbot-Suchtool namens 'Ask YouTube', das eine AI Mode ähnliche Informationsseite für Video-Suchen generiert.",
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search"
+      "text": "OpenAI und AWS starten eine erweiterte Partnerschaft mit Zugang zu GPT-5.5, Codex und Amazon Bedrock Managed Agents. Die neuen Dienste sind ab sofort in limitierter Vorschau verfügbar.",
+      "url": "https://openai.com/index/openai-on-aws"
     },
     {
-      "text": "EU fordert von Google, Android für andere KI-Assistenten zu öffnen und Gemini nicht bevorzugt zu behandeln; Google nennt das 'unwarranted intervention'.",
-      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/"
+      "text": "GitHub führt ab Juni ein nutzungsbasiertes Abrechnungssystem für Copilot ein. Das neue Modell soll die Kosten transparenter gestalten und Githubs steigende Inferenzkosten bewältigen.",
+      "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/"
     },
     {
-      "text": "DeepMinds David Silver sammelt 1,1 Milliarden Dollar ein, um eine KI zu entwickeln, die ohne menschliche Trainingsdaten lernen kann.",
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/"
+      "text": "Taylor Swift reicht Markenrechtsanträge ein, um gegen KI-generierte Fälschungen vorzugehen. Die Maßnahme bietet ein zusätzliches rechtliches Instrument gegen unlauteren Missbrauch ihrer Identität.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats"
     },
     {
-      "text": "Canonical kündigt Pläne zur Einführung von KI-Features in Ubuntu Linux im Jahr 2026 an, betont aber, dass 'Ubuntu kein KI-Produkt wird'.",
-      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features"
+      "text": "Hunderte von Arbeitern, die Metas KI trainieren, könnten von Covalen aus ihren Positionen entlassen werden. Das Vorgehen wird von Beschäftigten als würdelos kritisiert.",
+      "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"
     },
     {
-      "text": "OpenAI erhält FedRAMP Moderate-Autorisierung für ChatGPT Enterprise und API Platform, was US-Regierungsbehörden sicheren Zugang zu fortschrittlicher KI ermöglicht.",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
+      "text": "Japan Airlines testet humanoidale Roboter zum Gepäckbearbeiten in Tokios Haneda-Flughafen als Lösung für Arbeitskräftemangel. Das Projekt soll ab Mai 2026 verschiedene Flughafenaufgaben automatisieren.",
+      "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/"
     }
   ]
 }

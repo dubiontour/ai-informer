@@ -1,5 +1,96 @@
 [
   {
+    "title": "At his OpenAI trial, Musk relitigates an old friendship",
+    "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-29T00:40:16.000Z"
+  },
+  {
+    "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+    "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-28T23:45:05.000Z"
+  },
+  {
+    "title": "Elon Musk appeared more petty than prepared",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-28T23:17:12.000Z"
+  },
+  {
+    "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+    "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-28T21:35:17.000Z"
+  },
+  {
+    "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-28T20:46:54.000Z"
+  },
+  {
+    "title": "Taylor Swift is stepping up the legal war on AI copycats",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-28T20:30:00.000Z"
+  },
+  {
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-28T19:48:02.000Z"
+  },
+  {
+    "title": "Amazon launches an AI-powered audio Q&#038;A experience on product pages",
+    "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-28T18:49:54.000Z"
+  },
+  {
+    "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+    "link": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-28T18:36:47.000Z"
+  },
+  {
+    "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
+    "link": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-28T18:01:36.000Z"
+  },
+  {
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-04-28T15:58:57.000Z"
+  },
+  {
+    "title": "GitHub will start charging Copilot users based on their actual AI usage",
+    "link": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-28T15:41:32.000Z"
+  },
+  {
+    "title": "The great American data center divide",
+    "link": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-28T14:15:11.000Z"
+  },
+  {
     "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
     "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
     "source": "The Verge AI",
@@ -26,6 +117,20 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-04-28T00:01:54.000Z"
+  },
+  {
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "link": "https://openai.com/index/openai-on-aws",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "title": "Our commitment to community safety",
+    "link": "https://openai.com/index/our-commitment-to-community-safety",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-28T00:00:00.000Z"
   },
   {
     "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
