@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "items": [
     {
-      "text": "Elon Musk verklagt OpenAI und Sam Altman. In seiner Aussage präsentierte sich Musk als Gründer, der OpenAI gegründet hat, um eine \"Terminator-Situation\" zu verhindern und die Menschheit zu retten.",
-      "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/"
+      "text": "SoftBank gründet ein Robotik-Unternehmen zum Bau von Rechenzentren und plant bereits einen Börsengang mit einer Bewertung von 100 Milliarden Dollar.",
+      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
     },
     {
-      "text": "Bei seiner Prozessaussage wirkte Musk kleinlich und unvorbereitet statt fokussiert und überzeugend, kritisiert The Verge. Sein Verhalten konzentrierte sich eher auf persönliche Groll als auf substantielle Argumente.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one"
+      "text": "Anthropic könnte eine neue Finanzierungsrunde in Höhe von 50 Milliarden Dollar bei einer Bewertung von 900 Milliarden Dollar aufbringen.",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
     },
     {
-      "text": "OpenAI und AWS starten eine erweiterte Partnerschaft mit Zugang zu GPT-5.5, Codex und Amazon Bedrock Managed Agents. Die neuen Dienste sind ab sofort in limitierter Vorschau verfügbar.",
-      "url": "https://openai.com/index/openai-on-aws"
+      "text": "Amazons Cloud-Geschäft verzeichnet starkes Wachstum und das Unternehmen erhöht massiv seine Kapitalausgaben.",
+      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/"
     },
     {
-      "text": "GitHub führt ab Juni ein nutzungsbasiertes Abrechnungssystem für Copilot ein. Das neue Modell soll die Kosten transparenter gestalten und Githubs steigende Inferenzkosten bewältigen.",
-      "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/"
+      "text": "Das Zig-Projekt verfolgt eine strenge Anti-KI-Politik und verbietet die Verwendung von Large Language Models bei Beiträgen und Kommentaren.",
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
     },
     {
-      "text": "Taylor Swift reicht Markenrechtsanträge ein, um gegen KI-generierte Fälschungen vorzugehen. Die Maßnahme bietet ein zusätzliches rechtliches Instrument gegen unlauteren Missbrauch ihrer Identität.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats"
+      "text": "OpenAI enthüllt, dass GPT-5.5-Modelle unkontrolliert goblin-Metaphern verwenden und jetzt explizite Anweisungen erhalten, nicht über Kobolde zu sprechen.",
+      "url": "https://openai.com/index/where-the-goblins-came-from"
     },
     {
-      "text": "Hunderte von Arbeitern, die Metas KI trainieren, könnten von Covalen aus ihren Positionen entlassen werden. Das Vorgehen wird von Beschäftigten als würdelos kritisiert.",
-      "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/"
+      "text": "Notfalleinsatzkräfte berichten, dass Waymo-Fahrzeuge bei Einsätzen zunehmend problematisch werden und zum Hindernis bei der Katastrophenhilfe.",
+      "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/"
     },
     {
-      "text": "Japan Airlines testet humanoidale Roboter zum Gepäckbearbeiten in Tokios Haneda-Flughafen als Lösung für Arbeitskräftemangel. Das Projekt soll ab Mai 2026 verschiedene Flughafenaufgaben automatisieren.",
-      "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/"
+      "text": "AI-Evaluierungen werden zum neuen Compute-Engpass, da die Kosten für Modell-Tests exponentiell steigen und Tausende von GPUs-Stunden erfordern.",
+      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
     }
   ]
 }

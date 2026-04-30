@@ -1,10 +1,150 @@
 [
   {
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-30T03:58:22.000Z"
+  },
+  {
+    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-04-30T02:15:47.000Z"
+  },
+  {
+    "title": "Mike: open-source legal AI",
+    "link": "https://mikeoss.com/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-04-30T00:56:23.000Z"
+  },
+  {
+    "title": "Amazon&#8217;s cloud business is surging — and so is its capital spending",
+    "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-30T00:14:23.000Z"
+  },
+  {
+    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-04-30T00:07:15.000Z"
+  },
+  {
+    "title": "Elon Musk’s worst enemy in court is Elon Musk",
+    "link": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-30T00:01:24.000Z"
+  },
+  {
+    "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+    "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-29T23:41:51.000Z"
+  },
+  {
+    "title": "Emergency First Responders Say Waymos Are Getting Worse",
+    "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-29T20:45:37.000Z"
+  },
+  {
+    "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+    "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-04-29T20:36:53.000Z"
+  },
+  {
+    "title": "Google Search queries hit an ‘all time high’ last quarter",
+    "link": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-29T20:28:11.000Z"
+  },
+  {
+    "title": "Where the goblins came from",
+    "link": "https://openai.com/index/where-the-goblins-came-from",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-29T20:00:00.000Z"
+  },
+  {
+    "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
+    "link": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-29T19:00:58.000Z"
+  },
+  {
+    "title": "All the evidence unveiled so far in Musk v. Altman",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-04-29T18:03:05.000Z"
+  },
+  {
+    "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
+    "link": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-29T17:27:53.000Z"
+  },
+  {
+    "title": "AI evals are becoming the new compute bottleneck",
+    "link": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-04-29T16:45:09.000Z"
+  },
+  {
+    "title": "Granite 4.1 LLMs: How They’re Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-04-29T15:01:48.000Z"
+  },
+  {
+    "title": "Building the compute infrastructure for the Intelligence Age",
+    "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-29T15:00:00.000Z"
+  },
+  {
+    "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
+    "link": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-04-29T12:00:41.000Z"
+  },
+  {
+    "title": "Cybersecurity in the Intelligence Age",
+    "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-04-29T04:00:00.000Z"
+  },
+  {
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
     "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-04-29T00:40:16.000Z"
+  },
+  {
+    "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/inference-providers-deepinfra",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-04-29T00:00:00.000Z"
   },
   {
     "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
