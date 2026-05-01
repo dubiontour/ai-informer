@@ -1,33 +1,33 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "items": [
     {
-      "text": "SoftBank gründet ein Robotik-Unternehmen zum Bau von Rechenzentren und plant bereits einen Börsengang mit einer Bewertung von 100 Milliarden Dollar.",
-      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/"
+      "text": "ChatGPT Images 2.0 verzeichnet in Indien großen Erfolg, während die Akzeptanz in anderen Märkten noch ausbaut.",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/"
     },
     {
-      "text": "Anthropic könnte eine neue Finanzierungsrunde in Höhe von 50 Milliarden Dollar bei einer Bewertung von 900 Milliarden Dollar aufbringen.",
-      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
+      "text": "Anthropic könnte innerhalb von zwei Wochen eine Finanzierungsrunde mit einer Bewertung von über 900 Milliarden Dollar abschließen.",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/"
     },
     {
-      "text": "Amazons Cloud-Geschäft verzeichnet starkes Wachstum und das Unternehmen erhöht massiv seine Kapitalausgaben.",
-      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/"
+      "text": "Apple wurde von der AI-getriebenen Nachfrage nach Mac-Computern überrascht und kann die Nachfrage kaum decken.",
+      "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/"
     },
     {
-      "text": "Das Zig-Projekt verfolgt eine strenge Anti-KI-Politik und verbietet die Verwendung von Large Language Models bei Beiträgen und Kommentaren.",
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/"
+      "text": "Elon Musk bestätigt in Gerichtsverhandlung, dass xAI OpenAIs Modelle zur Trainierung von Grok verwendet hat.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation"
     },
     {
-      "text": "OpenAI enthüllt, dass GPT-5.5-Modelle unkontrolliert goblin-Metaphern verwenden und jetzt explizite Anweisungen erhalten, nicht über Kobolde zu sprechen.",
-      "url": "https://openai.com/index/where-the-goblins-came-from"
+      "text": "Musk machte während seiner dreitägigen Aussage im OpenAI-Prozess mindestens sieben bedeutende Fehler, die seine Chancen gefährden könnten.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/"
     },
     {
-      "text": "Notfalleinsatzkräfte berichten, dass Waymo-Fahrzeuge bei Einsätzen zunehmend problematisch werden und zum Hindernis bei der Katastrophenhilfe.",
-      "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/"
+      "text": "Meta beendete seinen Vertrag mit Datenbeschriftungs-Firma Sama, nachdem Berichte über problematische Inhalte von Ray-Ban-Meta-Brille aufkamen.",
+      "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/"
     },
     {
-      "text": "AI-Evaluierungen werden zum neuen Compute-Engpass, da die Kosten für Modell-Tests exponentiell steigen und Tausende von GPUs-Stunden erfordern.",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
+      "text": "Malware wurde in der beliebten PyTorch Lightning AI-Trainingsbibliothek entdeckt, die Anmeldedaten und Cloud-Secrets stiehlt.",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
     }
   ]
 }
