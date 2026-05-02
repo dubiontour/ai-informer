@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "items": [
     {
-      "text": "ChatGPT Images 2.0 verzeichnet in Indien großen Erfolg, während die Akzeptanz in anderen Märkten noch ausbaut.",
-      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/"
+      "text": "Meta kauft Robotics-Startup zur Stärkung seiner humanoid-AI-Ambitionen. Das Unternehmen investiert in die Entwicklung von KI-gesteuerten Robotern.",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
     },
     {
-      "text": "Anthropic könnte innerhalb von zwei Wochen eine Finanzierungsrunde mit einer Bewertung von über 900 Milliarden Dollar abschließen.",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/"
+      "text": "Studie zeigt: KI-Modelle, die Benutzer emotional berücksichtigen, machen mehr Fehler. Überanpassung führt dazu, dass Modelle Benutzerzufriedenheit über Wahrheit stellen.",
+      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
     },
     {
-      "text": "Apple wurde von der AI-getriebenen Nachfrage nach Mac-Computern überrascht und kann die Nachfrage kaum decken.",
-      "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/"
+      "text": "Minnesota verbietet erste KI-Nacktfotos-Apps mit bis zu 500.000 Dollar Geldstrafen. Entwickler riskieren extensive Schadensersatzzahlungen.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/"
     },
     {
-      "text": "Elon Musk bestätigt in Gerichtsverhandlung, dass xAI OpenAIs Modelle zur Trainierung von Grok verwendet hat.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation"
+      "text": "Pentagon schließt klassifizierte KI-Deals mit OpenAI, Google und Nvidia, aber nicht mit Anthropic ab. Mehrere Vereinbarungen deuten auf Strategiewechsel hin.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"
     },
     {
-      "text": "Musk machte während seiner dreitägigen Aussage im OpenAI-Prozess mindestens sieben bedeutende Fehler, die seine Chancen gefährden könnten.",
-      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/"
+      "text": "GPT-5.5 erreicht in Cybersecurity-Tests ähnliche Leistung wie Anthropics Mythos Preview. Neue Forschung zeigt, dass Mythos nicht einzigartig überlegen ist.",
+      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/"
     },
     {
-      "text": "Meta beendete seinen Vertrag mit Datenbeschriftungs-Firma Sama, nachdem Berichte über problematische Inhalte von Ray-Ban-Meta-Brille aufkamen.",
-      "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/"
+      "text": "Musk v. Altman-Prozess: Elon Musk sagt, er sei getäuscht worden und warnt vor existenziellen KI-Risiken. xAI nutzt laut Zeugniss OpenAI-Modelle.",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
     },
     {
-      "text": "Malware wurde in der beliebten PyTorch Lightning AI-Trainingsbibliothek entdeckt, die Anmeldedaten und Cloud-Secrets stiehlt.",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/"
+      "text": "Shivon Zilis agierte als Musks Insider bei OpenAI mit zentraler Rolle in Verhandlungen. Ihre Doppelrolle wird im aktuellen Prozess zentral hinterfragt.",
+      "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/"
     }
   ]
 }
