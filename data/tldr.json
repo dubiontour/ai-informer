@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "items": [
     {
-      "text": "Meta kauft Robotics-Startup zur Stärkung seiner humanoid-AI-Ambitionen. Das Unternehmen investiert in die Entwicklung von KI-gesteuerten Robotern.",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/"
+      "text": "Die Academy erklärt KI-generierte Schauspieler und Drehbücher für Oscar-unwürdig. Diese neue Regelung schließt künstliche Akteure aus der Eligibilität für die Oscars aus.",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
     },
     {
-      "text": "Studie zeigt: KI-Modelle, die Benutzer emotional berücksichtigen, machen mehr Fehler. Überanpassung führt dazu, dass Modelle Benutzerzufriedenheit über Wahrheit stellen.",
+      "text": "Studie zeigt: KI-Modelle, die zu sehr auf Höflichkeit getrimmt werden, machen mehr Fehler. Forscher der Oxford University stellten fest, dass überangepasste Modelle Wahrheit zugunsten von Nutzerzufriedenheit opfern.",
       "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
     },
     {
-      "text": "Minnesota verbietet erste KI-Nacktfotos-Apps mit bis zu 500.000 Dollar Geldstrafen. Entwickler riskieren extensive Schadensersatzzahlungen.",
+      "text": "Minnesota verbietet als erster US-Bundesstaat KI-Nacktbilder. App-Entwickler riskieren Geldstrafen bis 500.000 Dollar pro erstelltem falschen Nacktbild.",
       "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/"
     },
     {
-      "text": "Pentagon schließt klassifizierte KI-Deals mit OpenAI, Google und Nvidia, aber nicht mit Anthropic ab. Mehrere Vereinbarungen deuten auf Strategiewechsel hin.",
+      "text": "Pentagon unterzeichnet klassifizierte KI-Verträge mit OpenAI, Google und Nvidia, aber nicht mit Anthropic. Dies ist eine bedeutende Verschiebung bei der Auswahl von KI-Partnern für Verteidigungszwecke.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"
     },
     {
-      "text": "GPT-5.5 erreicht in Cybersecurity-Tests ähnliche Leistung wie Anthropics Mythos Preview. Neue Forschung zeigt, dass Mythos nicht einzigartig überlegen ist.",
-      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/"
-    },
-    {
-      "text": "Musk v. Altman-Prozess: Elon Musk sagt, er sei getäuscht worden und warnt vor existenziellen KI-Risiken. xAI nutzt laut Zeugniss OpenAI-Modelle.",
+      "text": "Musk v. Altman Prozess: Musk behauptet, betrogen worden zu sein, und warnt vor existenziellem KI-Risiko. Er gibt auch zu, dass xAI OpenAI-Modelle destilliert.",
       "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
     },
     {
-      "text": "Shivon Zilis agierte als Musks Insider bei OpenAI mit zentraler Rolle in Verhandlungen. Ihre Doppelrolle wird im aktuellen Prozess zentral hinterfragt.",
-      "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/"
+      "text": "GPT-5.5 erreicht ähnliche Cybersecurity-Performance wie das stark gehypte Mythos-Modell. Neue Tests deuten darauf hin, dass Mythos' Cyber-Fähigkeiten nicht einzigartig sind.",
+      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/"
+    },
+    {
+      "text": "Geheime Dark-Money-Kampagne bezahlt Influencer dafür, chinesische KI als Bedrohung darzustellen. Ein von OpenAI und Palantir unterstützter Super PAC finanziert die Kampagne.",
+      "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/"
     }
   ]
 }
