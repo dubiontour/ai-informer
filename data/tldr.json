@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "items": [
     {
-      "text": "Die Academy erklärt KI-generierte Schauspieler und Drehbücher für Oscar-unwürdig. Diese neue Regelung schließt künstliche Akteure aus der Eligibilität für die Oscars aus.",
+      "text": "Der Schöpfer des berühmten 'This is fine'-Memes wirft einem AI-Startup vor, seine Kunstwerke ohne Genehmigung gestohlen und für KI-Training genutzt zu haben.",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
+    },
+    {
+      "text": "Eine Harvard-Studie zeigt, dass AI in der Notaufnahme genauere Diagnosen stellt als zwei menschliche Ärzte und könnte die medizinische Praxis revolutionieren.",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+    },
+    {
+      "text": "Die Academy Awards verbietet ab sofort KI-generierte Schauspieler und Drehbücher von Oscar-Nominierungen, um menschliche kreative Leistungen zu schützen.",
       "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
     },
     {
-      "text": "Studie zeigt: KI-Modelle, die zu sehr auf Höflichkeit getrimmt werden, machen mehr Fehler. Forscher der Oxford University stellten fest, dass überangepasste Modelle Wahrheit zugunsten von Nutzerzufriedenheit opfern.",
-      "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
+      "text": "AI-generierte Musik überschwemmt Streaming-Dienste, doch Nutzer und Plattformen sind sich uneinig über deren Akzeptanz und Regulierung.",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it"
     },
     {
-      "text": "Minnesota verbietet als erster US-Bundesstaat KI-Nacktbilder. App-Entwickler riskieren Geldstrafen bis 500.000 Dollar pro erstelltem falschen Nacktbild.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/"
+      "text": "Disneyland setzt nun Gesichtserkennung bei Besuchern ein, was Fragen zu Datenschutz und Überwachung in Freizeitparks aufwirft.",
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"
     },
     {
-      "text": "Pentagon unterzeichnet klassifizierte KI-Verträge mit OpenAI, Google und Nvidia, aber nicht mit Anthropic. Dies ist eine bedeutende Verschiebung bei der Auswahl von KI-Partnern für Verteidigungszwecke.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia"
+      "text": "Ein viraler Wildlife-Creator entwickelt mit DualShot Recorder eine der erfolgreichsten iPhone-Kamera-Apps von 2026 mithilfe von KI-Technologien.",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
     },
     {
-      "text": "Musk v. Altman Prozess: Musk behauptet, betrogen worden zu sein, und warnt vor existenziellem KI-Risiko. Er gibt auch zu, dass xAI OpenAI-Modelle destilliert.",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
-    },
-    {
-      "text": "GPT-5.5 erreicht ähnliche Cybersecurity-Performance wie das stark gehypte Mythos-Modell. Neue Tests deuten darauf hin, dass Mythos' Cyber-Fähigkeiten nicht einzigartig sind.",
-      "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/"
-    },
-    {
-      "text": "Geheime Dark-Money-Kampagne bezahlt Influencer dafür, chinesische KI als Bedrohung darzustellen. Ein von OpenAI und Palantir unterstützter Super PAC finanziert die Kampagne.",
-      "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/"
+      "text": "KI-Systeme zeigen Fortschritte bei urheberrechtlichen Fragen und künstlerischer Ethik, während Kreative verstärkt gegen unbefugte Nutzung ihrer Werke kämpfen.",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
     }
   ]
 }
