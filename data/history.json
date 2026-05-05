@@ -1,5 +1,96 @@
 [
   {
+    "title": "As workers worry about AI, Nvidia&#8217;s Jensen Huang says AI is &#8216;creating an enormous number of jobs&#8217;",
+    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-05T03:31:54.000Z"
+  },
+  {
+    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-04T23:49:33.000Z"
+  },
+  {
+    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+    "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-04T23:19:52.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s cozy partner Cerebras is on track for a blockbuster IPO",
+    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-04T21:53:21.000Z"
+  },
+  {
+    "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+    "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-04T21:38:37.000Z"
+  },
+  {
+    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+    "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-04T21:00:00.000Z"
+  },
+  {
+    "title": "Canadian election databases use \"canary traps\"—and they work",
+    "link": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-04T19:45:57.000Z"
+  },
+  {
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-04T19:12:49.000Z"
+  },
+  {
+    "title": "Influential study touting ChatGPT in education retracted over red flags",
+    "link": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-04T19:03:39.000Z"
+  },
+  {
+    "title": "The creator of Roomba is back with a furry robot companion",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-04T16:51:38.000Z"
+  },
+  {
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-04T15:51:27.000Z"
+  },
+  {
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-04T15:43:49.000Z"
+  },
+  {
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-04T00:00:00.000Z"
+  },
+  {
     "title": "‘This is fine’ creator says AI startup stole his art",
     "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
     "source": "TechCrunch AI",

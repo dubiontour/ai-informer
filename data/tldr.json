@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "items": [
     {
-      "text": "Der Schöpfer des berühmten 'This is fine'-Memes wirft einem AI-Startup vor, seine Kunstwerke ohne Genehmigung gestohlen und für KI-Training genutzt zu haben.",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
+      "text": "Nvidia-CEO Jensen Huang argumentiert, dass KI \"eine enorme Anzahl von Arbeitsplätzen schafft\", während Arbeitnehmer um ihre Jobs fürchten.",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
     },
     {
-      "text": "Eine Harvard-Studie zeigt, dass AI in der Notaufnahme genauere Diagnosen stellt als zwei menschliche Ärzte und könnte die medizinische Praxis revolutionieren.",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/"
+      "text": "OpenAI-Präsident Greg Brockman verteidigte in einem Gerichtsverfahren seinen 30-Milliarden-Dollar-Anteil mit \"Blut, Schweiß und Tränen\".",
+      "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/"
     },
     {
-      "text": "Die Academy Awards verbietet ab sofort KI-generierte Schauspieler und Drehbücher von Oscar-Nominierungen, um menschliche kreative Leistungen zu schützen.",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/"
+      "text": "Cerebras, OpenAIs enger Partner, steht vor einem Blockbuster-IPO und bereitet sich auf den Börsengang vor.",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/"
     },
     {
-      "text": "AI-generierte Musik überschwemmt Streaming-Dienste, doch Nutzer und Plattformen sind sich uneinig über deren Akzeptanz und Regulierung.",
-      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it"
+      "text": "Bildgenerungs-KI-Modelle treiben jetzt das App-Wachstum stärker an als Chatbot-Upgrades.",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
     },
     {
-      "text": "Disneyland setzt nun Gesichtserkennung bei Besuchern ein, was Fragen zu Datenschutz und Überwachung in Freizeitparks aufwirft.",
-      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"
+      "text": "OpenAI und PwC kooperieren, um das Finanzvorstand-Büro mit KI-Agenten zu revolutionieren, die Workflows automatisieren.",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration"
     },
     {
-      "text": "Ein viraler Wildlife-Creator entwickelt mit DualShot Recorder eine der erfolgreichsten iPhone-Kamera-Apps von 2026 mithilfe von KI-Technologien.",
-      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
+      "text": "Eine einflussreiche Studie über ChatGPTs positive Auswirkungen auf Bildung wurde wegen Unstimmigkeiten in der Analyse zurückgezogen.",
+      "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/"
     },
     {
-      "text": "KI-Systeme zeigen Fortschritte bei urheberrechtlichen Fragen und künstlerischer Ethik, während Kreative verstärkt gegen unbefugte Nutzung ihrer Werke kämpfen.",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/"
+      "text": "Der Roomba-Gründer präsentiert seinen neuen Roboter-Begleiter \"Familiar\" – einen hundegroßen KI-gesteuerten Roboter.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch"
     }
   ]
 }
