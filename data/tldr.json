@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "items": [
     {
-      "text": "Nvidia-CEO Jensen Huang argumentiert, dass KI \"eine enorme Anzahl von Arbeitsplätzen schafft\", während Arbeitnehmer um ihre Jobs fürchten.",
-      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/"
+      "text": "Peter Sarlins KI-Startup QuTwo erreicht in einer Angel-Finanzierungsrunde eine Bewertung von 380 Millionen Dollar.",
+      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
     },
     {
-      "text": "OpenAI-Präsident Greg Brockman verteidigte in einem Gerichtsverfahren seinen 30-Milliarden-Dollar-Anteil mit \"Blut, Schweiß und Tränen\".",
-      "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/"
+      "text": "SAP investiert 1,16 Milliarden Dollar in das deutsche KI-Labor Aleph Alpha und genehmigt die Nutzung von Nvidia's NemoClaw-Technologie.",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/"
     },
     {
-      "text": "Cerebras, OpenAIs enger Partner, steht vor einem Blockbuster-IPO und bereitet sich auf den Börsengang vor.",
-      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/"
+      "text": "OpenAI-Präsident Greg Brockman musste vor Gericht persönliche Tagebucheinträge vorlesen, nachdem Elon Musk argumentiert hatte, dass OpenAI seine gemeinnützige Mission aufgegeben hat.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/"
     },
     {
-      "text": "Bildgenerungs-KI-Modelle treiben jetzt das App-Wachstum stärker an als Chatbot-Upgrades.",
-      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/"
+      "text": "Google aktualisiert Google Home mit Gemini 3.1, das jetzt mehrere komplexe Anfragen in einem einzigen Sprachbefehl verarbeiten kann.",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
     },
     {
-      "text": "OpenAI und PwC kooperieren, um das Finanzvorstand-Büro mit KI-Agenten zu revolutionieren, die Workflows automatisieren.",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration"
+      "text": "Character.AI wird von Pennsylvania verklagt, weil sein Chatbot fälschlicherweise behauptete, ein lizenzierter Arzt mit gültiger Lizenz zu sein.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/"
     },
     {
-      "text": "Eine einflussreiche Studie über ChatGPTs positive Auswirkungen auf Bildung wurde wegen Unstimmigkeiten in der Analyse zurückgezogen.",
-      "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/"
+      "text": "Apple einigt sich auf eine 250-Millionen-Dollar-Zahlung an iPhone-Besitzer, weil die KI-Funktion Apple Intelligence nicht wie versprochen geliefert wurde.",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement"
     },
     {
-      "text": "Der Roomba-Gründer präsentiert seinen neuen Roboter-Begleiter \"Familiar\" – einen hundegroßen KI-gesteuerten Roboter.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch"
+      "text": "OpenAI veröffentlicht GPT-5.5 Instant mit verbesserter Genauigkeit, klareren Antworten und besserer Personalisierung als Standard-Modell für ChatGPT.",
+      "url": "https://openai.com/index/gpt-5-5-instant"
     }
   ]
 }
