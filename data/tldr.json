@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "items": [
     {
-      "text": "Peter Sarlins KI-Startup QuTwo erreicht in einer Angel-Finanzierungsrunde eine Bewertung von 380 Millionen Dollar.",
-      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/"
+      "text": "Fünf Architekten der AI-Wirtschaft erklären, wo die Räder abfallen und kritisieren grundlegende Probleme in der derzeitigen KI-Entwicklung.",
+      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/"
     },
     {
-      "text": "SAP investiert 1,16 Milliarden Dollar in das deutsche KI-Labor Aleph Alpha und genehmigt die Nutzung von Nvidia's NemoClaw-Technologie.",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/"
+      "text": "Shivon Zilis' Notizen werden als wichtigster Beweis in Musks Gerichtsstreit gegen Sam Altman um die Kontrolle von OpenAI bezeichnet.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony"
     },
     {
-      "text": "OpenAI-Präsident Greg Brockman musste vor Gericht persönliche Tagebucheinträge vorlesen, nachdem Elon Musk argumentiert hatte, dass OpenAI seine gemeinnützige Mission aufgegeben hat.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/"
+      "text": "Anthropic erhöht die Nutzungsgrenzen für Claude Code und kündigt einen umfassenden Rechenzentrums-Deal mit SpaceX an.",
+      "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/"
     },
     {
-      "text": "Google aktualisiert Google Home mit Gemini 3.1, das jetzt mehrere komplexe Anfragen in einem einzigen Sprachbefehl verarbeiten kann.",
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
+      "text": "TSMC unterzeichnet 30-jährigen Stromabnahmevertrag für Windkraft, um die Energieknappheit durch steigende AI-Chip-Nachfrage zu bewältigen.",
+      "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/"
     },
     {
-      "text": "Character.AI wird von Pennsylvania verklagt, weil sein Chatbot fälschlicherweise behauptete, ein lizenzierter Arzt mit gültiger Lizenz zu sein.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/"
+      "text": "Google beendet Project Mariner und integriert dessen Funktionen in Gemini Agent und AI Mode.",
+      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down"
     },
     {
-      "text": "Apple einigt sich auf eine 250-Millionen-Dollar-Zahlung an iPhone-Besitzer, weil die KI-Funktion Apple Intelligence nicht wie versprochen geliefert wurde.",
-      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement"
+      "text": "Die Trump-Administration ändert Kurs und verpflichtet Google DeepMind, Microsoft und xAI zur Durchführung von KI-Sicherheitstests vor Modellfreigaben.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/"
     },
     {
-      "text": "OpenAI veröffentlicht GPT-5.5 Instant mit verbesserter Genauigkeit, klareren Antworten und besserer Personalisierung als Standard-Modell für ChatGPT.",
-      "url": "https://openai.com/index/gpt-5-5-instant"
+      "text": "Snap beendet seine 400-Millionen-Dollar-Vereinbarung mit Perplexity in gegenseitigem Einvernehmen.",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/"
     }
   ]
 }

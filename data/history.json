@@ -1,5 +1,96 @@
 [
   {
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-07T05:25:10.000Z"
+  },
+  {
+    "title": "Musk’s biggest loyalist became his biggest liability",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-06T23:37:02.000Z"
+  },
+  {
+    "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+    "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-06T23:23:45.000Z"
+  },
+  {
+    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+    "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-06T22:09:14.000Z"
+  },
+  {
+    "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.",
+    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-06T21:57:56.000Z"
+  },
+  {
+    "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+    "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-06T21:47:27.000Z"
+  },
+  {
+    "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
+    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-06T21:43:24.000Z"
+  },
+  {
+    "title": "Google shuts down Project Mariner",
+    "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-06T21:21:45.000Z"
+  },
+  {
+    "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+    "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-06T21:20:14.000Z"
+  },
+  {
+    "title": "How David Sacks crashed and burned in the White House",
+    "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-06T20:18:00.000Z"
+  },
+  {
+    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-06T19:06:55.000Z"
+  },
+  {
+    "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+    "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-06T18:28:52.000Z"
+  },
+  {
+    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+    "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-06T18:00:00.000Z"
+  },
+  {
     "title": "Peter Sarlin&#8217;s QuTwo reaches $380M valuation in angel round",
     "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
     "source": "TechCrunch AI",
@@ -12,6 +103,34 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-05-06T06:34:32.000Z"
+  },
+  {
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "title": "How frontier enterprises are building an AI advantage",
+    "link": "https://openai.com/index/introducing-b2b-signals",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "link": "https://openai.com/index/uber",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-06T00:00:00.000Z"
   },
   {
     "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
