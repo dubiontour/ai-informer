@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-08",
+  "date": "2026-05-09",
   "items": [
     {
-      "text": "OpenAI hat neue Voice-Intelligence-Features in seiner API eingeführt, die erweiterte Sprachfunktionen für Entwickler bereitstellen.",
-      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/"
+      "text": "Im Rechtsstreit zwischen Musk und Altman: OpenAI wehrt sich gegen Musks Vorwürfe, während Shivon Zilis enthüllt, dass Musk versucht hatte, Sam Altman abzuwerben.",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
     },
     {
-      "text": "OpenAI präsentiert GPT-5.5 und die spezialisierte GPT-5.5-Cyber für Cybersecurity-Defender mit erweiterten Sicherheitsfunktionen.",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+      "text": "Cloudflare gab zu, dass KI-Tools 1.100 Arbeitsplätze obsolet gemacht haben, während die Unternehmenseinnahmen ein Rekordhoch erreichten.",
+      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
     },
     {
-      "text": "Elon Musk versuchte 2018, OpenAI-Gründer wie Sam Altman anzuwerben, um ein KI-Labor innerhalb von Tesla zu leiten.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/"
+      "text": "Sony erklärt, dass effiziente KI-Tools zu einem massiven Anstieg von Spielveröffentlichungen führen werden, wobei menschliche Künstler weiterhin zentral bleiben sollen.",
+      "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/"
     },
     {
-      "text": "Mira Murati's Aussage in der Musk-gegen-Altman-Klage enthüllt neue Details über Sam Altmans Entlassung von OpenAI.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster"
+      "text": "Google führt neue Änderungen in AI Overviews ein, um mehr Quellen-Links zu Websites anzuzeigen und die Sichtbarkeit von Webseiten zu verbessern.",
+      "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/"
     },
     {
-      "text": "SpaceX plant ein 55-Milliarden-Dollar-Projekt zur Herstellung von KI-Chips in Texas mit einer neuen \"Terafab\"-Fabrik.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips"
+      "text": "Microsoft war besorgt, dass OpenAI zu Amazon wechseln und Azure kritisieren könnte, wie in Gerichtsdokumenten aus den frühen Tagen der Partnerschaft enthüllt wurde.",
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure"
     },
     {
-      "text": "Mozilla zeigt, dass KI-gestützte Vulnerability-Erkennung mit Anthropic Mythos 271 Firefox-Sicherheitslücken mit minimalen Fehlalarmen fand.",
-      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
+      "text": "Chromes 4GB KI-Modell ist nicht neu, aber Googles mangelnde Transparenz über On-Device-KI-Features sorgt für Verwirrung bei Nutzern.",
+      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/"
     },
     {
-      "text": "Google präsentiert das screenless Fitbit Air mit neuer Google Health App und KI-gestütztem Health Coach für Gesundheitsdatenanalyse.",
-      "url": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/"
+      "text": "Kalifornien erhielt einen weitreichenden Vorschlag zur Jobgarantie, um Arbeitnehmer vor KI-bedingten Jobverlusten zu schützen.",
+      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/"
     }
   ]
 }

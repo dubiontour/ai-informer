@@ -1,5 +1,124 @@
 [
   {
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "link": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-08T23:59:19.000Z"
+  },
+  {
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-08T22:59:05.000Z"
+  },
+  {
+    "title": "Sony says \"efficient\" AI tools will lead to even more games flooding the market",
+    "link": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-08T20:51:17.000Z"
+  },
+  {
+    "title": "Intel&#8217;s comeback story is even wilder than it seems",
+    "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-08T20:02:52.000Z"
+  },
+  {
+    "title": "Course correction: Google to link more sources in AI Overviews",
+    "link": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-08T19:43:47.000Z"
+  },
+  {
+    "title": "All the latest updates on AI data centers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-08T18:45:08.000Z"
+  },
+  {
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-08T18:33:21.000Z"
+  },
+  {
+    "title": "AI is breaking two vulnerability cultures",
+    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-08T17:55:08.000Z"
+  },
+  {
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-08T17:41:05.000Z"
+  },
+  {
+    "title": "Chrome&#039;s 4GB AI model isn&#039;t new, but you&#039;re not wrong for being confused",
+    "link": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-08T17:17:17.000Z"
+  },
+  {
+    "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+    "link": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-08T16:30:56.000Z"
+  },
+  {
+    "title": "EMO: Pretraining mixture of experts for emergent modularity",
+    "link": "https://huggingface.co/blog/allenai/emo",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-08T16:03:50.000Z"
+  },
+  {
+    "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+    "link": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-08T15:25:02.000Z"
+  },
+  {
+    "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+    "link": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-08T15:00:00.000Z"
+  },
+  {
+    "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
+    "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-08T15:00:00.000Z"
+  },
+  {
+    "title": "Running Codex safely at OpenAI",
+    "link": "https://openai.com/index/running-codex-safely",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-08T12:30:00.000Z"
+  },
+  {
+    "title": "The New Wild West of AI Kids’ Toys",
+    "link": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-08T10:00:00.000Z"
+  },
+  {
     "title": "Why you can never get your doctor to call you back",
     "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
     "source": "TechCrunch AI",
