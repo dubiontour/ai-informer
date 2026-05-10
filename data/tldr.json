@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-10",
   "items": [
     {
-      "text": "Im Rechtsstreit zwischen Musk und Altman: OpenAI wehrt sich gegen Musks Vorwürfe, während Shivon Zilis enthüllt, dass Musk versucht hatte, Sam Altman abzuwerben.",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
+      "text": "Wispr Flow setzt auf Voice-AI in Indien, trotz großer Herausforderungen in diesem Markt.",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
     },
     {
-      "text": "Cloudflare gab zu, dass KI-Tools 1.100 Arbeitsplätze obsolet gemacht haben, während die Unternehmenseinnahmen ein Rekordhoch erreichten.",
-      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/"
+      "text": "Nvidia hat bereits 40 Milliarden Dollar für AI-Deals dieses Jahr bereitgestellt und intensiviert damit Investitionen in KI-Startups.",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
     },
     {
-      "text": "Sony erklärt, dass effiziente KI-Tools zu einem massiven Anstieg von Spielveröffentlichungen führen werden, wobei menschliche Künstler weiterhin zentral bleiben sollen.",
-      "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/"
+      "text": "OncoAgent entwickelt einen datenschutzfreundlichen Multi-Agent-Framework für Krebsbehandlung und klinische Entscheidungsunterstützung.",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
     },
     {
-      "text": "Google führt neue Änderungen in AI Overviews ein, um mehr Quellen-Links zu Websites anzuzeigen und die Sichtbarkeit von Webseiten zu verbessern.",
+      "text": "AI-Spielzeuge für Kinder boomen in einem weitgehend unregulierten Markt, während Gesetzgeber Verbote diskutieren.",
+      "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/"
+    },
+    {
+      "text": "Google fügt AI Overviews neue Links und einen 'Further Exploration'-Bereich hinzu, um mehr Website-Traffic zu lenken.",
       "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/"
     },
     {
-      "text": "Microsoft war besorgt, dass OpenAI zu Amazon wechseln und Azure kritisieren könnte, wie in Gerichtsdokumenten aus den frühen Tagen der Partnerschaft enthüllt wurde.",
-      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure"
+      "text": "Sony erklärt AI zu einem mächtigen Werkzeug für die Spieleentwicklung und erwartet beschleunigte Spielveröffentlichungen.",
+      "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/"
     },
     {
-      "text": "Chromes 4GB KI-Modell ist nicht neu, aber Googles mangelnde Transparenz über On-Device-KI-Features sorgt für Verwirrung bei Nutzern.",
-      "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/"
-    },
-    {
-      "text": "Kalifornien erhielt einen weitreichenden Vorschlag zur Jobgarantie, um Arbeitnehmer vor KI-bedingten Jobverlusten zu schützen.",
-      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/"
+      "text": "Musk versucht Altman abzuwerben, während OpenAI gegen Musks Vorwürfe antwortet und Microsoft über Amazons AI-Ambitionen besorgt war.",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
     }
   ]
 }
