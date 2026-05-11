@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "items": [
     {
-      "text": "Wispr Flow setzt auf Voice-AI in Indien, trotz großer Herausforderungen in diesem Markt.",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/"
+      "text": "OpenAI startet globales Campus-Netzwerk mit Studentenclubs an Universitäten weltweit, um praktisches AI-Lernen, Workshops und frühen Zugang zu Tools zu fördern.",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
     },
     {
-      "text": "Nvidia hat bereits 40 Milliarden Dollar für AI-Deals dieses Jahr bereitgestellt und intensiviert damit Investitionen in KI-Startups.",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/"
+      "text": "Europäische Großunternehmen skalieren AI erfolgreich durch Unternehmenskultur vor Tools, Early Governance, Workflow-Redesign und Quality-fokus statt schnelle Rollouts.",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
     },
     {
-      "text": "OncoAgent entwickelt einen datenschutzfreundlichen Multi-Agent-Framework für Krebsbehandlung und klinische Entscheidungsunterstützung.",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+      "text": "AI-Coding-Agenten müssen Wartungskosten proportional zur Produktivitätssteigerung senken, sonst erzeugen sie nur technische Schulden statt echter Effizienzgewinne.",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
     },
     {
-      "text": "AI-Spielzeuge für Kinder boomen in einem weitgehend unregulierten Markt, während Gesetzgeber Verbote diskutieren.",
+      "text": "Maryland-Bürger sollen 2 Milliarden Dollar für Stromnetz-Upgrades zahlen, um Out-of-State AI-Datenzentren zu unterstützen – der Staat beschwert sich bei Bundesbehörden.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
+    },
+    {
+      "text": "Lokale AI sollte zur Norm werden statt Cloud-APIs – moderne Hardware mit Neural Engines ist leistungsstark genug, um Datenschutz und Unabhängigkeit zu wahren.",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
+    },
+    {
+      "text": "AI-Kinderspielzeug boomt und ist weitgehend unreguliert – von conversationalen Robotern bis intelligenten Tablets werben Hersteller gezielt Kindern ab 3 Jahren an.",
       "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/"
     },
     {
-      "text": "Google fügt AI Overviews neue Links und einen 'Further Exploration'-Bereich hinzu, um mehr Website-Traffic zu lenken.",
-      "url": "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/"
-    },
-    {
-      "text": "Sony erklärt AI zu einem mächtigen Werkzeug für die Spieleentwicklung und erwartet beschleunigte Spielveröffentlichungen.",
-      "url": "https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/"
-    },
-    {
-      "text": "Musk versucht Altman abzuwerben, während OpenAI gegen Musks Vorwürfe antwortet und Microsoft über Amazons AI-Ambitionen besorgt war.",
-      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
+      "text": "Ein hackbares Roboter-Rasenmäher offenbart neue Sicherheitsrisiken für vernetzte Smart-Home-Geräte mit AI-Integration.",
+      "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/"
     }
   ]
 }
