@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "items": [
     {
-      "text": "OpenAI startet globales Campus-Netzwerk mit Studentenclubs an Universitäten weltweit, um praktisches AI-Lernen, Workshops und frühen Zugang zu Tools zu fördern.",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
+      "text": "Thinking Machines, gegründet von ehemaliger OpenAI-CTO Mira Murati, arbeitet an sogenannten 'Interaction Models', die KI-Systeme ermöglichen, in Echtzeit auf Nutzer zu reagieren und aktiv zuzuhören während sie sprechen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
     },
     {
-      "text": "Europäische Großunternehmen skalieren AI erfolgreich durch Unternehmenskultur vor Tools, Early Governance, Workflow-Redesign und Quality-fokus statt schnelle Rollouts.",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
+      "text": "OpenAI hat Daybreak lanciert, eine KI-Initiative zur Detektion und Behebung von Sicherheitslücken, die GPT-5.5-Cyber und Codex Security kombiniert und Anthropics Claude Mythos konkurrenzieren soll.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai"
     },
     {
-      "text": "AI-Coding-Agenten müssen Wartungskosten proportional zur Produktivitätssteigerung senken, sonst erzeugen sie nur technische Schulden statt echter Effizienzgewinne.",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
+      "text": "General Motors hat hunderte IT-Mitarbeiter entlassen und stellt dafür gezielt Fachkräfte mit stärkeren KI-Fähigkeiten ein, um sich für die KI-Transformation auszurichten.",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
     },
     {
-      "text": "Maryland-Bürger sollen 2 Milliarden Dollar für Stromnetz-Upgrades zahlen, um Out-of-State AI-Datenzentren zu unterstützen – der Staat beschwert sich bei Bundesbehörden.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises"
+      "text": "Google stoppte einen Zero-Day-Exploit, den Forscher anhand von KI-generierten Artefakten wie 'halluzinierten' CVSS-Scores als möglicherweise mit KI entwickelt identifizierten.",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
     },
     {
-      "text": "Lokale AI sollte zur Norm werden statt Cloud-APIs – moderne Hardware mit Neural Engines ist leistungsstark genug, um Datenschutz und Unabhängigkeit zu wahren.",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/"
+      "text": "OpenAI meldet, dass die ChatGPT-Nutzung im Q1 2026 über Altersgruppen, Geschlecht und geografische Regionen hinweg gewachsen ist und Nutzer über 35 Jahren jetzt mehr Anteile ausmachen.",
+      "url": "https://openai.com/signals/research/2026q1-update"
     },
     {
-      "text": "AI-Kinderspielzeug boomt und ist weitgehend unreguliert – von conversationalen Robotern bis intelligenten Tablets werben Hersteller gezielt Kindern ab 3 Jahren an.",
-      "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/"
+      "text": "AWS präsentiert Building Blocks für Foundation-Model-Training und Inference, mit neuen Ansätzen zu Skalierung jenseits des Pre-Training durch Post-Training und Supervised Fine-Tuning.",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
     },
     {
-      "text": "Ein hackbares Roboter-Rasenmäher offenbart neue Sicherheitsrisiken für vernetzte Smart-Home-Geräte mit AI-Integration.",
-      "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/"
+      "text": "Ein Georgia Data Center verbrauchte unentdeckt 30 Millionen Gallonen Wasser, während lokale Bewohner zu Wassersparen aufgefordert wurden – ein Warnsignal für den enormen Wasserverbrauch der KI-Infrastruktur.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/"
     }
   ]
 }
