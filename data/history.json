@@ -1,5 +1,110 @@
 [
   {
+    "title": "Medicare&#8217;s new payment model is built for AI, and most of the tech world has no idea",
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-13T00:26:48.000Z"
+  },
+  {
+    "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+    "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-13T00:10:05.000Z"
+  },
+  {
+    "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+    "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-13T00:00:00.000Z"
+  },
+  {
+    "title": "Sam Altman was winning on the stand, but it might not be enough",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-12T23:23:14.000Z"
+  },
+  {
+    "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
+    "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-12T22:51:45.000Z"
+  },
+  {
+    "title": "The newest AI boom pitch: Host a mini data center at your home",
+    "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-12T21:59:03.000Z"
+  },
+  {
+    "title": "Meta won’t let you block its AI account on Threads",
+    "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-12T20:35:23.000Z"
+  },
+  {
+    "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-12T19:00:25.000Z"
+  },
+  {
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-12T18:05:15.000Z"
+  },
+  {
+    "title": "Reimagining the mouse pointer for the AI era",
+    "link": "https://deepmind.google/blog/ai-pointer/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-12T17:40:13.000Z"
+  },
+  {
+    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-12T17:36:34.000Z"
+  },
+  {
+    "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-12T17:34:09.000Z"
+  },
+  {
+    "title": "Google&#039;s Android-powered laptops are called Googlebooks, and they&#039;re coming this year",
+    "link": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-12T17:00:49.000Z"
+  },
+  {
+    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+    "link": "https://voker.ai",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-12T15:45:20.000Z"
+  },
+  {
+    "title": "How finance teams use Codex",
+    "link": "https://openai.com/academy/how-finance-teams-use-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-12T15:00:00.000Z"
+  },
+  {
     "title": "Thinking Machines wants to build an AI that actually listens while it talks",
     "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
     "source": "TechCrunch AI",
@@ -12,6 +117,20 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-05-12T00:09:01.000Z"
+  },
+  {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "link": "https://openai.com/index/nvidia",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "link": "https://openai.com/index/what-parameter-golf-taught-us",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-12T00:00:00.000Z"
   },
   {
     "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",

@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "items": [
     {
-      "text": "Thinking Machines, gegründet von ehemaliger OpenAI-CTO Mira Murati, arbeitet an sogenannten 'Interaction Models', die KI-Systeme ermöglichen, in Echtzeit auf Nutzer zu reagieren und aktiv zuzuhören während sie sprechen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model"
+      "text": "Medicare hat ein neues Zahlungsmodell eingeführt, das speziell für KI-Anwendungen konzipiert ist, aber große Teile der Tech-Welt haben davon kaum Notiz genommen.",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/"
     },
     {
-      "text": "OpenAI hat Daybreak lanciert, eine KI-Initiative zur Detektion und Behebung von Sicherheitslücken, die GPT-5.5-Cyber und Codex Security kombiniert und Anthropics Claude Mythos konkurrenzieren soll.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai"
+      "text": "Sam Altman berichtet im Prozess gegen Elon Musk, dass dieser die absurde Idee hatte, OpenAI an seine Kinder weiterzugeben. Musk's Abgang sei für das Unternehmen eine Moral-Steigerung gewesen.",
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/"
     },
     {
-      "text": "General Motors hat hunderte IT-Mitarbeiter entlassen und stellt dafür gezielt Fachkräfte mit stärkeren KI-Fähigkeiten ein, um sich für die KI-Transformation auszurichten.",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/"
+      "text": "xAI installiert trotz laufender Klage 19 neue Gasturbinen zur Stromversorgung seiner KI-Infrastruktur.",
+      "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/"
     },
     {
-      "text": "Google stoppte einen Zero-Day-Exploit, den Forscher anhand von KI-generierten Artefakten wie 'halluzinierten' CVSS-Scores als möglicherweise mit KI entwickelt identifizierten.",
-      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped"
+      "text": "Ein Startup namens SPAN plant, Mini-Datencenter mit KI-GPUs in Wohnvierteln zu installieren und Hausbesitzer mit Subventionen sowie Backup-Batterien zu entschädigen.",
+      "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/"
     },
     {
-      "text": "OpenAI meldet, dass die ChatGPT-Nutzung im Q1 2026 über Altersgruppen, Geschlecht und geografische Regionen hinweg gewachsen ist und Nutzer über 35 Jahren jetzt mehr Anteile ausmachen.",
-      "url": "https://openai.com/signals/research/2026q1-update"
+      "text": "Ein Teenager starb nach einer Überdosis Drogen, die ChatGPT empfohlen hatte – eine Klage wirft OpenAI vor, eine tödliche Drogenmischung vorgeschlagen zu haben.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/"
     },
     {
-      "text": "AWS präsentiert Building Blocks für Foundation-Model-Training und Inference, mit neuen Ansätzen zu Skalierung jenseits des Pre-Training durch Post-Training und Supervised Fine-Tuning.",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
+      "text": "Google enthüllt die Googlebooks: Android-basierte Laptops mit Gemini-Integration, die später dieses Jahr auf den Markt kommen.",
+      "url": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/"
     },
     {
-      "text": "Ein Georgia Data Center verbrauchte unentdeckt 30 Millionen Gallonen Wasser, während lokale Bewohner zu Wassersparen aufgefordert wurden – ein Warnsignal für den enormen Wasserverbrauch der KI-Infrastruktur.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/"
+      "text": "Meta erlaubt Nutzern nicht, seinen KI-Account auf Threads zu blockieren, auch wenn viele Benutzer das AI-Konto nicht sehen möchten.",
+      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block"
     }
   ]
 }
