@@ -1,5 +1,145 @@
 [
   {
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-15T23:39:35.000Z"
+  },
+  {
+    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-15T22:25:00.000Z"
+  },
+  {
+    "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+    "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-15T21:51:24.000Z"
+  },
+  {
+    "title": "ArXiv will ban researchers who upload papers full of AI slop",
+    "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-15T20:38:19.000Z"
+  },
+  {
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "link": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-15T20:26:47.000Z"
+  },
+  {
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-15T19:24:16.000Z"
+  },
+  {
+    "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
+    "link": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-15T18:25:53.000Z"
+  },
+  {
+    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-15T18:21:35.000Z"
+  },
+  {
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-15T18:14:44.000Z"
+  },
+  {
+    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+    "link": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-15T18:13:33.000Z"
+  },
+  {
+    "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
+    "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-15T17:09:17.000Z"
+  },
+  {
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-15T16:00:00.000Z"
+  },
+  {
+    "title": "How Chinese short dramas became AI content machines",
+    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-15T09:00:00.000Z"
+  },
+  {
+    "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
+    "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-15T09:00:00.000Z"
+  },
+  {
+    "title": "The Real Losers of the Musk v. Altman Trial",
+    "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-15T00:49:53.000Z"
+  },
+  {
+    "title": "A new personal finance experience in ChatGPT",
+    "link": "https://openai.com/index/personal-finance-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "link": "https://openai.com/index/databricks",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "link": "https://openai.com/index/sea-david-chen",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-14T20:30:00.000Z"
+  },
+  {
+    "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-14T18:55:01.000Z"
+  },
+  {
+    "title": "Data readiness for agentic AI in financial services",
+    "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-14T13:00:00.000Z"
+  },
+  {
     "title": "Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has thoughts",
     "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
     "source": "TechCrunch AI",
@@ -2693,152 +2833,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-04-16T08:00:00.000Z"
-  },
-  {
-    "title": "Accelerating the cyber defense ecosystem that protects us all",
-    "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "title": "The PR you would have opened yourself",
-    "link": "https://huggingface.co/blog/transformers-to-mlx",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "title": "Introducing GPT-Rosalind for life sciences research",
-    "link": "https://openai.com/index/introducing-gpt-rosalind",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
-    "link": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-15T19:50:31.000Z"
-  },
-  {
-    "title": "Google releases new apps for Windows and MacOS",
-    "link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-15T19:46:43.000Z"
-  },
-  {
-    "title": "Boston Dynamics’ robot dog now reads gauges and thermometers with Google&#039;s AI",
-    "link": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-15T19:34:33.000Z"
-  },
-  {
-    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-15T19:28:36.000Z"
-  },
-  {
-    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-    "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-15T18:55:12.000Z"
-  },
-  {
-    "title": "Google launches a Gemini AI app on Mac",
-    "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-15T18:10:15.000Z"
-  },
-  {
-    "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-    "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-15T18:00:00.000Z"
-  },
-  {
-    "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
-    "link": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-15T16:54:33.000Z"
-  },
-  {
-    "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
-    "link": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-15T16:13:30.000Z"
-  },
-  {
-    "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "link": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-04-15T16:03:19.000Z"
-  },
-  {
-    "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
-    "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-15T14:58:08.000Z"
-  },
-  {
-    "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
-    "link": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-15T13:00:00.000Z"
-  },
-  {
-    "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-    "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-04-15T12:07:25.000Z"
-  },
-  {
-    "title": "The next evolution of the Agents SDK",
-    "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-04-15T10:00:00.000Z"
-  },
-  {
-    "title": "Meet HoloTab by HCompany. Your AI browser companion.",
-    "link": "https://huggingface.co/blog/Hcompany/holotab",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-04-15T09:25:20.000Z"
-  },
-  {
-    "title": "Building trust in the AI era with privacy-led UX",
-    "link": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
-    "source": "MIT Tech Review AI",
-    "category": "News",
-    "pubDate": "2026-04-15T06:00:00.000Z"
-  },
-  {
-    "title": "Redefining the future of software engineering",
-    "link": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
-    "source": "MIT Tech Review AI",
-    "category": "News",
-    "pubDate": "2026-04-14T18:00:00.000Z"
   }
 ]

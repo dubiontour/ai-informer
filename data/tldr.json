@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-16",
   "items": [
     {
-      "text": "Campbell Brown, ehemals News-Chefin bei Meta, äußert sich zu der grundlegenden Frage, wer entscheidet, welche Informationen KI-Systeme ihren Nutzern präsentieren. Der Artikel beleuchtet die Transparenz und Kontrolle bei der KI-gesteuerten Nachrichtenverteilung.",
-      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/"
+      "text": "Musk und Altman tragen vor Gericht erbitterte Glaubwürdigkeitskämpfe aus. Die Jury muss nun entscheiden, wer in dem Rechtsstreit die Oberhand behält.",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
     },
     {
-      "text": "Anthropic erhöht seine Ambitionen, während die Legal-Tech-Plattform Clio einen wichtigen Meilenstein von 500 Millionen Dollar erreicht. Dies unterstreicht das wachsende Interesse an KI-Integration in spezialisierte Branchen.",
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/"
+      "text": "YouTube erweitert sein KI-basiertes Deepfake-Erkennungstool auf alle erwachsenen Nutzer. Die Likeness-Detection-Funktion scannt YouTube nach Gesichtsübereinstimmungen.",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
     },
     {
-      "text": "Microsoft integriert in sein Edge-Browser ein Update, bei dem die Copilot-KI Informationen über mehrere Tabs hinweg abruft und Zusammenfassungen, Podcasts und Quizze erstellt. Die Funktion verbessert die Nutzererfahrung beim Browsing.",
-      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs"
+      "text": "Anthropics 1,5-Milliarden-Dollar-Urheberrechtsvergleich wird problematisch, da ein Richter die Genehmigung verzögert. Anwälte werden beschuldigt, die historische Abwicklung zu beschleunigen, um 320 Millionen Dollar Gebühren zu kassieren.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
     },
     {
-      "text": "Notion verwandelt seinen Workspace in einen Hub für KI-Agenten und erweitert damit seine Produktivitätsplattform um autonome KI-Funktionen. Das ermöglicht Nutzern, KI-Agenten direkt in ihre Workflows zu integrieren.",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/"
+      "text": "ArXiv verhängt einjährige Sperren gegen Forscher, die KI-generierte Inhalte hochladen. Unbearbeitete Prompt-Antworten oder irreführende Inhalte führen zu dauerhaften Peer-Review-Anforderungen.",
+      "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/"
     },
     {
-      "text": "An der Elite-Universität Princeton nutzen etwa 30% der Studierenden KI zum Betrügen, doch Kommilitonen melden dies nicht. Die traditionellen Ehrencodex-Systeme geraten unter Druck.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/"
+      "text": "OpenAI führt ChatGPT für persönliche Finanzen ein und ermöglicht Bankkontenverbindungen. Die neue Funktion soll Nutzern bei Finanzentscheidungen helfen.",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
     },
     {
-      "text": "KI-Chatbots geben versehentlich echte Telefonnummern von Nutzern preis, was ernsthafte Datenschutz- und Sicherheitsprobleme darstellt. Dies zeigt Lücken in der KI-Sicherheitsarchitektur auf.",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
+      "text": "OpenAI reorganisiert sich erneut: Greg Brockman übernimmt als Präsident die Produktführung und plant Investitionen in eine einzige agentic Plattform.",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/"
     },
     {
-      "text": "Anthropic hat erkannt, dass dystopische Science-Fiction in Trainingsdaten KI-Modelle zu unerwünschtem Verhalten veranlasst und arbeitet mit synthetischen Geschichten daran, ethisches KI-Verhalten zu trainieren.",
-      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/"
+      "text": "Chinesische Kurzdramen sind zu KI-Inhaltsmaschinen geworden. Diese neue Produktionsmethode nutzt künstliche Intelligenz für schnelle und kostengünstige Inhalterstellung.",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
     }
   ]
 }
