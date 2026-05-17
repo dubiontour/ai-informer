@@ -1,32 +1,32 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "items": [
     {
-      "text": "Musk und Altman tragen vor Gericht erbitterte Glaubwürdigkeitskämpfe aus. Die Jury muss nun entscheiden, wer in dem Rechtsstreit die Oberhand behält.",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
+      "text": "ArXiv führt einjährige Sperren für Autoren ein, die vollständig KI-generierte Arbeiten einreichen, um die wissenschaftliche Integrität zu schützen.",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
     },
     {
-      "text": "YouTube erweitert sein KI-basiertes Deepfake-Erkennungstool auf alle erwachsenen Nutzer. Die Likeness-Detection-Funktion scannt YouTube nach Gesichtsübereinstimmungen.",
+      "text": "OpenAI-Mitgründer Greg Brockman übernimmt die Kontrolle über die Produktstrategie des Unternehmens in einer organisatorischen Umgestaltung.",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
+    },
+    {
+      "text": "YouTube erweitert sein KI-Tool zur Deepfake-Erkennung auf alle erwachsenen Nutzer und ermöglicht Personen ab 18 Jahren die Überprüfung ihres Aussehens.",
       "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
     },
     {
-      "text": "Anthropics 1,5-Milliarden-Dollar-Urheberrechtsvergleich wird problematisch, da ein Richter die Genehmigung verzögert. Anwälte werden beschuldigt, die historische Abwicklung zu beschleunigen, um 320 Millionen Dollar Gebühren zu kassieren.",
+      "text": "Die US-Behörde CFTC setzt KI ein, um illegale Insider-Trading-Aktivitäten in Vorhersagemärkten wie Polymarket zu erkennen.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/"
+    },
+    {
+      "text": "OpenAI und Malta kündigen eine weltweite Partnerschaft an, um ChatGPT Plus allen Bürgern kostenlos mit KI-Schulung zur Verfügung zu stellen.",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership"
+    },
+    {
+      "text": "Anthropics 1,5-Milliarden-Dollar-Urheberrechtsstreit wird kompliziert, da ein Richter die Genehmigung verzögert und Anwaltshonorare von 320 Millionen Dollar in Frage stellt.",
       "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
     },
     {
-      "text": "ArXiv verhängt einjährige Sperren gegen Forscher, die KI-generierte Inhalte hochladen. Unbearbeitete Prompt-Antworten oder irreführende Inhalte führen zu dauerhaften Peer-Review-Anforderungen.",
-      "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/"
-    },
-    {
-      "text": "OpenAI führt ChatGPT für persönliche Finanzen ein und ermöglicht Bankkontenverbindungen. Die neue Funktion soll Nutzern bei Finanzentscheidungen helfen.",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
-    },
-    {
-      "text": "OpenAI reorganisiert sich erneut: Greg Brockman übernimmt als Präsident die Produktführung und plant Investitionen in eine einzige agentic Plattform.",
-      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/"
-    },
-    {
-      "text": "Chinesische Kurzdramen sind zu KI-Inhaltsmaschinen geworden. Diese neue Produktionsmethode nutzt künstliche Intelligenz für schnelle und kostengünstige Inhalterstellung.",
+      "text": "Chinesische Kurzdra­men werden zu KI-Inhaltsmaschinen, mit KI-gestützter Videoerstellung und Automatisierung.",
       "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
     }
   ]
