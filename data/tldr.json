@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-18",
   "items": [
     {
-      "text": "ArXiv führt einjährige Sperren für Autoren ein, die vollständig KI-generierte Arbeiten einreichen, um die wissenschaftliche Integrität zu schützen.",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/"
+      "text": "Apples überarbeitete Siri soll Auto-Delete-Funktion für Chats erhalten und damit Privatsphäre als KI-Differenzierungsmerkmal nutzen.",
+      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats"
     },
     {
-      "text": "OpenAI-Mitgründer Greg Brockman übernimmt die Kontrolle über die Produktstrategie des Unternehmens in einer organisatorischen Umgestaltung.",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/"
+      "text": "Elon Musk verklagt OpenAI; Vertrauen ist zentrale Frage im Rechtsstreit zwischen dem Tech-Milliardär und dem KI-Unternehmen.",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/"
     },
     {
-      "text": "YouTube erweitert sein KI-Tool zur Deepfake-Erkennung auf alle erwachsenen Nutzer und ermöglicht Personen ab 18 Jahren die Überprüfung ihres Aussehens.",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults"
+      "text": "Studenten der University of Arizona booten Eric Schmidt aus, als der ehemalige Google-CEO KI in seiner Abschlussrede anpries.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement"
     },
     {
-      "text": "Die US-Behörde CFTC setzt KI ein, um illegale Insider-Trading-Aktivitäten in Vorhersagemärkten wie Polymarket zu erkennen.",
+      "text": "Fast-Food-Ketten wie McDonald's, Wendy's und Taco Bell erweitern KI-Chatbot-Einsatz über Drive-Thru-Bestellungen hinaus.",
+      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys"
+    },
+    {
+      "text": "Die US-Regierungsbehörde CFTC setzt KI-Systeme ein, um Insiderhandel in Vorhersagemärkten wie Polymarket zu erkennen.",
       "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/"
     },
     {
-      "text": "OpenAI und Malta kündigen eine weltweite Partnerschaft an, um ChatGPT Plus allen Bürgern kostenlos mit KI-Schulung zur Verfügung zu stellen.",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership"
+      "text": "Manche asexuelle Menschen nutzen KI-Begleiter für emotionale Intimität ohne sexuelle Komponente.",
+      "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/"
     },
     {
-      "text": "Anthropics 1,5-Milliarden-Dollar-Urheberrechtsstreit wird kompliziert, da ein Richter die Genehmigung verzögert und Anwaltshonorare von 320 Millionen Dollar in Frage stellt.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
-    },
-    {
-      "text": "Chinesische Kurzdra­men werden zu KI-Inhaltsmaschinen, mit KI-gestützter Videoerstellung und Automatisierung.",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
+      "text": "Experte warnt: KI wird Geschäftsprozesse nicht automatisch beschleunigen, da einfache Optimierungsübungen oft zu simplizistisch sind.",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"
     }
   ]
 }
