@@ -1,5 +1,124 @@
 [
   {
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-19T00:53:10.000Z"
+  },
+  {
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-18T21:29:31.000Z"
+  },
+  {
+    "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
+    "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-18T20:27:15.000Z"
+  },
+  {
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-18T19:27:52.000Z"
+  },
+  {
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-18T19:00:00.000Z"
+  },
+  {
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-18T18:09:41.000Z"
+  },
+  {
+    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+    "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-18T17:40:30.000Z"
+  },
+  {
+    "title": "Elon Musk loses his case against Sam Altman",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-18T17:39:32.000Z"
+  },
+  {
+    "title": "What to expect from Google this week",
+    "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-18T17:35:43.000Z"
+  },
+  {
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-18T17:34:43.000Z"
+  },
+  {
+    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+    "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-18T16:01:39.000Z"
+  },
+  {
+    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-18T16:00:21.000Z"
+  },
+  {
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-18T15:12:46.000Z"
+  },
+  {
+    "title": "The Open Agent Leaderboard",
+    "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-18T14:12:58.000Z"
+  },
+  {
+    "title": "Bug bounty businesses bombarded with AI slop",
+    "link": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-18T13:23:34.000Z"
+  },
+  {
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-18T10:00:00.000Z"
+  },
+  {
+    "title": "I’m a Normie. Can Normies Really Vibe Code?",
+    "link": "https://www.wired.com/story/normie-vibe-code/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-18T10:00:00.000Z"
+  },
+  {
     "title": "Apple’s Siri revamp could include auto-deleting chats",
     "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
     "source": "TechCrunch AI",
@@ -2553,54 +2672,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-04-19T16:30:00.000Z"
-  },
-  {
-    "title": "Tesla brings its robotaxi service to Dallas and Houston",
-    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-18T21:37:15.000Z"
-  },
-  {
-    "title": "The RAM shortage could last years",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-18T21:08:45.000Z"
-  },
-  {
-    "title": "AI chip startup Cerebras files for IPO",
-    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-18T19:19:11.000Z"
-  },
-  {
-    "title": "College instructor turns to typewriters to curb AI-written work",
-    "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-04-18T19:00:00.000Z"
-  },
-  {
-    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-18T14:56:48.000Z"
-  },
-  {
-    "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-    "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-18T10:30:00.000Z"
-  },
-  {
-    "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-    "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-18T10:30:00.000Z"
   }
 ]
