@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-20",
   "items": [
     {
-      "text": "Elon Musk verlor seine Klage gegen OpenAI und Sam Altman vor Gericht. Eine neunköpfige Jury befand einstimmig, dass Musk zu lange mit der Klage gewartet hatte – er war sich bereits 2021 von OpenAIs Umstrukturierungsplänen bewusst.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/"
+      "text": "Literaturpreise geraten vermehrt unter AI-Vorwürfe, was zum neuen Standard wird. Die Überprüfung von KI-Einsatz bei ausgezeichneten Werken wird zur Routine in der Literaturwelt.",
+      "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/"
     },
     {
-      "text": "Anthropic hat ein Dev-Tools-Startup akquiriert, das von OpenAI, Google und Cloudflare genutzt wird. Die Übernahme verstärkt Anthropics Infrastruktur für KI-Entwicklung.",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/"
+      "text": "Google präsentiert auf der IO 2026 eine unified Search-Box, die Gmail, Gemini und Google Search integriert. Die Zukunft von Google wird durch KI-gesteuerte Suche neu definiert.",
+      "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026"
     },
     {
-      "text": "SandboxAQ bringt seine Drug-Discovery-Modelle zu Claude für Anthropic. Das Tool ermöglicht Arzneimittelforschung ohne spezialisierte KI-Kenntnisse.",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/"
+      "text": "Google stellt sich als ernsthafter Konkurrent im AI-Design-Markt auf der IO 2026 dar. Die neuen Design-Tools werden zum nächsten Battleground zwischen Tech-Giganten.",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
     },
     {
-      "text": "Ein Anwalt verlor seinen Fall gegen Facebook-Nutzer, weil er gefälschte KI-generierte Zitate nutzte. Die Klage gegen Meta basierte auf erfundenen Belegen eines KI-Rechtsbüros.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/"
+      "text": "Gmail-Inbox kann nun per Sprache gesteuert werden, wie auf Google IO 2026 präsentiert. Das sprachgesteuerte Email-Management erweitert Googles KI-Ökosystem.",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/"
     },
     {
-      "text": "PaddleOCR 3.5 unterstützt nun Hugging Face Transformers als Inference-Backend. Die Aktualisierung bringt OCR- und Dokumenten-Parsing-Aufgaben näher an das Hugging-Face-Ökosystem.",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
+      "text": "OpenAI und Google stärken AI-Bildauthentifizierung durch SynthID-Watermarks und Verifizierungstools. Ein neuer Standard für Content Provenance und vertrauenswürdige KI-Inhalte entsteht.",
+      "url": "https://openai.com/index/advancing-content-provenance/"
     },
     {
-      "text": "NVIDIA Cosmos Predict 2.5 kann jetzt mit LoRA/DoRA für Robot-Video-Generierung feinabgestimmt werden. Dies ermöglicht bessere Anpassungen für spezialisierte Robotik-Anwendungen.",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+      "text": "Mistral AI akquiriert Emmi AI und schafft führenden Stack für Industrial Engineering. Europas AI-Ambitionen werden durch diese strategische Übernahme gestärkt.",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
     },
     {
-      "text": "Anduril und Meta arbeiten an intelligenten Datenbrillen für militärische Anwendungen. Das Projekt kombiniert Metas AR-Technologie mit Andurils Drohnen- und KI-Expertise.",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"
+      "text": "Zwei KI-basierte Science Assistants zeigen Erfolg bei Drug-Retargeting-Aufgaben. Googles Co-Scientist und FutureHouse-System werden zu wichtigen Werkzeugen in der biologischen Forschung.",
+      "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/"
     }
   ]
 }
