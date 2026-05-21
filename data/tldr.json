@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "items": [
     {
-      "text": "Literaturpreise geraten vermehrt unter AI-Vorwürfe, was zum neuen Standard wird. Die Überprüfung von KI-Einsatz bei ausgezeichneten Werken wird zur Routine in der Literaturwelt.",
-      "url": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/"
+      "text": "Elon Musk wird in SpaceX' IPO als Risikofaktor dargestellt, da seine Unternehmen umfangreiche Geschäftsbeziehungen untereinander haben, wie SpaceX-Käufe von Teslas Cybertrucks und der Einsatz der Boring Company.",
+      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor"
     },
     {
-      "text": "Google präsentiert auf der IO 2026 eine unified Search-Box, die Gmail, Gemini und Google Search integriert. Die Zukunft von Google wird durch KI-gesteuerte Suche neu definiert.",
-      "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026"
+      "text": "SpaceX nennt Groks \"Spicy\"-Modus in seinem IPO-Prospekt als potenzielles Risiko auf. Die KI-Chatbot-Funktion könnte regulatorische oder Reputationsherausforderungen darstellen.",
+      "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/"
     },
     {
-      "text": "Google stellt sich als ernsthafter Konkurrent im AI-Design-Markt auf der IO 2026 dar. Die neuen Design-Tools werden zum nächsten Battleground zwischen Tech-Giganten.",
-      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/"
+      "text": "Intuit kündigt Entlassungen von über 3.000 Mitarbeitern an, um sich strategisch auf KI-Entwicklung zu konzentrieren. Das Unternehmen plant eine Neuausrichtung seiner Produktlinie.",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
     },
     {
-      "text": "Gmail-Inbox kann nun per Sprache gesteuert werden, wie auf Google IO 2026 präsentiert. Das sprachgesteuerte Email-Management erweitert Googles KI-Ökosystem.",
-      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/"
+      "text": "Nvidia-CEO Jensen Huang identifiziert einen \"brandneuen\" Markt im Wert von 200 Milliarden Dollar für das Unternehmen. Dieser Markt könnte durch fortgeschrittene KI-Anwendungen erschlossen werden.",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/"
     },
     {
-      "text": "OpenAI und Google stärken AI-Bildauthentifizierung durch SynthID-Watermarks und Verifizierungstools. Ein neuer Standard für Content Provenance und vertrauenswürdige KI-Inhalte entsteht.",
-      "url": "https://openai.com/index/advancing-content-provenance/"
+      "text": "Anthropic meldet, dass das Unternehmen sein erstes profitables Quartal unmittelbar bevorsteht. Der KI-Startup hat damit einen bedeutenden Meilenstein in seiner Entwicklung erreicht.",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/"
     },
     {
-      "text": "Mistral AI akquiriert Emmi AI und schafft führenden Stack für Industrial Engineering. Europas AI-Ambitionen werden durch diese strategische Übernahme gestärkt.",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai"
+      "text": "Google DeepMind CEO Demis Hassabis präsentiert bei der Google I/O 2026 Gemini for Science und AlphaGenome mit dem Ziel, alle Krankheiten zu lösen. Die neuen KI-Tools sollen Wissenschaft und Gesundheitswesen revolutionieren.",
+      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health"
     },
     {
-      "text": "Zwei KI-basierte Science Assistants zeigen Erfolg bei Drug-Retargeting-Aufgaben. Googles Co-Scientist und FutureHouse-System werden zu wichtigen Werkzeugen in der biologischen Forschung.",
-      "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/"
+      "text": "Figure AI streamt Humanoidroboter bei der Paketbearbeitung 24/7, was viral wird und zu großer öffentlicher Aufmerksamkeit führt. Das Unternehmen vermarktet nun Robot-Merchandise als Reaktion auf die Viralität.",
+      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/"
     }
   ]
 }
