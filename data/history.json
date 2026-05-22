@@ -1,5 +1,110 @@
 [
   {
+    "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+    "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-22T00:04:25.000Z"
+  },
+  {
+    "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+    "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-21T21:51:26.000Z"
+  },
+  {
+    "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-21T20:44:53.000Z"
+  },
+  {
+    "title": "Roundtables: Can AI Learn to Understand the World?",
+    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-21T20:41:05.000Z"
+  },
+  {
+    "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-21T20:00:06.000Z"
+  },
+  {
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-05-21T19:46:42.000Z"
+  },
+  {
+    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-21T19:45:00.000Z"
+  },
+  {
+    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+    "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-21T19:19:05.000Z"
+  },
+  {
+    "title": "Scaling creativity in the age of AI",
+    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-21T19:16:43.000Z"
+  },
+  {
+    "title": "Trump delays AI security executive order, saying language &#8216;could have been a blocker&#8217;",
+    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-21T17:30:45.000Z"
+  },
+  {
+    "title": "This AI guitar pedal let me roll my own effects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-21T17:00:00.000Z"
+  },
+  {
+    "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+    "link": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-21T15:48:24.000Z"
+  },
+  {
+    "title": "Anthropic’s Code with Claude showed off coding&#8217;s future—whether you like it or not",
+    "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-21T14:30:45.000Z"
+  },
+  {
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "link": "https://openai.com/index/adventhealth",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-21T12:00:00.000Z"
+  },
+  {
+    "title": "Throwing AI-generated walls of text into conversations",
+    "link": "https://noslopgrenade.com/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-21T09:31:15.000Z"
+  },
+  {
     "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
     "link": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
     "source": "The Verge AI",
@@ -2679,131 +2784,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-04-22T10:00:00.000Z"
-  },
-  {
-    "title": "Meta will record employees&#8217; keystrokes and use it to train its AI models",
-    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-21T23:45:21.000Z"
-  },
-  {
-    "title": "Unauthorized group has gained access to Anthropic&#8217;s exclusive cyber tool Mythos, report claims",
-    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-21T23:26:45.000Z"
-  },
-  {
-    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-    "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-21T22:58:22.000Z"
-  },
-  {
-    "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-    "link": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-21T22:45:37.000Z"
-  },
-  {
-    "title": "Pentagon wants $54B for drones, more than most nations’ military budgets",
-    "link": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-21T21:57:54.000Z"
-  },
-  {
-    "title": "Mozilla: Anthropic&#039;s Mythos found 271 security vulnerabilities in Firefox 150",
-    "link": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-21T21:40:41.000Z"
-  },
-  {
-    "title": "10 Things That Matter in AI Right Now",
-    "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-04-21T20:45:00.000Z"
-  },
-  {
-    "title": "LLMs+",
-    "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-04-21T20:45:00.000Z"
-  },
-  {
-    "title": "Supercharged scams",
-    "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-04-21T20:45:00.000Z"
-  },
-  {
-    "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
-    "link": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-21T20:01:36.000Z"
-  },
-  {
-    "title": "AI backlash is coming for elections",
-    "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-21T19:00:05.000Z"
-  },
-  {
-    "title": "OpenAI’s updated image generator can now pull information from the web",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-21T19:00:00.000Z"
-  },
-  {
-    "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model",
-    "link": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-21T19:00:00.000Z"
-  },
-  {
-    "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-    "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-21T18:30:00.000Z"
-  },
-  {
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-04-21T17:40:39.000Z"
-  },
-  {
-    "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
-    "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-21T17:35:12.000Z"
-  },
-  {
-    "title": "Partnering with industry leaders to accelerate AI transformation",
-    "link": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-04-21T14:54:15.000Z"
-  },
-  {
-    "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-    "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-04-21T10:09:58.000Z"
   }
 ]
