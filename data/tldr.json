@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-23",
   "items": [
     {
-      "text": "Elon Musk wird in SpaceX' IPO als Risikofaktor dargestellt, da seine Unternehmen umfangreiche Geschäftsbeziehungen untereinander haben, wie SpaceX-Käufe von Teslas Cybertrucks und der Einsatz der Boring Company.",
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor"
+      "text": "NVIDIA präsentiert Nemotron-Labs Diffusion Language Models für extrem schnelle Textgenerierung mit potenziell Lichtgeschwindigkeit-ähnlichen Ausgaberaten.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
     },
     {
-      "text": "SpaceX nennt Groks \"Spicy\"-Modus in seinem IPO-Prospekt als potenzielles Risiko auf. Die KI-Chatbot-Funktion könnte regulatorische oder Reputationsherausforderungen darstellen.",
-      "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/"
+      "text": "KI-Tools werden verwendet, um die Stimmen verstorbener Piloten aus Flugzeugabsturzuntersuchungen zu rekonstruieren, was zu massiven Datenschutzbedenken führt.",
+      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/"
     },
     {
-      "text": "Intuit kündigt Entlassungen von über 3.000 Mitarbeitern an, um sich strategisch auf KI-Entwicklung zu konzentrieren. Das Unternehmen plant eine Neuausrichtung seiner Produktlinie.",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/"
+      "text": "Googles AI-Suche (AI Overviews) zeigt erhebliche Probleme und kann die Suchanfragen der Nutzer ignorieren oder nicht korrekt beantworten.",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard"
     },
     {
-      "text": "Nvidia-CEO Jensen Huang identifiziert einen \"brandneuen\" Markt im Wert von 200 Milliarden Dollar für das Unternehmen. Dieser Markt könnte durch fortgeschrittene KI-Anwendungen erschlossen werden.",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/"
+      "text": "VCs und Gründer nutzen aufgeblasene ARR-Metriken (Annual Recurring Revenue), um AI-Startups künstlich überteuert wirken zu lassen.",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/"
     },
     {
-      "text": "Anthropic meldet, dass das Unternehmen sein erstes profitables Quartal unmittelbar bevorsteht. Der KI-Startup hat damit einen bedeutenden Meilenstein in seiner Entwicklung erreicht.",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/"
+      "text": "Trump cancelt kurzfristig die Unterzeichnung einer Executive Order zu AI-Sicherheitstests, nachdem CEOs großer AI-Firmen absagten.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/"
     },
     {
-      "text": "Google DeepMind CEO Demis Hassabis präsentiert bei der Google I/O 2026 Gemini for Science und AlphaGenome mit dem Ziel, alle Krankheiten zu lösen. Die neuen KI-Tools sollen Wissenschaft und Gesundheitswesen revolutionieren.",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health"
+      "text": "Die Literaturwelt ist unvorbereitet auf KI: Mehrere Skandale um AI-generierte Texte in renommierten Literaturpreisen offenbaren Mängel bei der Überprüfung.",
+      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize"
     },
     {
-      "text": "Figure AI streamt Humanoidroboter bei der Paketbearbeitung 24/7, was viral wird und zu großer öffentlicher Aufmerksamkeit führt. Das Unternehmen vermarktet nun Robot-Merchandise als Reaktion auf die Viralität.",
-      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/"
+      "text": "Journalist Steven Rosenbaum gibt zu, dass sein AI-gestütztes Recherche-Tool synthetische und falsch zugeordnete Zitate in sein Buch integrierte, nutzt die Technologie aber weiterhin.",
+      "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/"
     }
   ]
 }
