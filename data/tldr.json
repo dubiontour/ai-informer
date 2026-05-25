@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-25",
   "items": [
     {
-      "text": "NVIDIA präsentiert Nemotron-Labs Diffusion Language Models für extrem schnelle Textgenerierung mit potenziell Lichtgeschwindigkeit-ähnlichen Ausgaberaten.",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion"
+      "text": "Google und andere Unternehmen navigieren AI-Sicherheit in Echtzeit. Selbst Tech-Giganten wie Google müssen ihre Sicherheitsstrategien laufend anpassen.",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/"
     },
     {
-      "text": "KI-Tools werden verwendet, um die Stimmen verstorbener Piloten aus Flugzeugabsturzuntersuchungen zu rekonstruieren, was zu massiven Datenschutzbedenken führt.",
-      "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/"
+      "text": "Speicherkosten machen nun fast zwei Drittel der AI-Chip-Komponenten aus. Der Speicher ist mit 63% zum dominantesten Kostenfaktor bei AI-Chips geworden.",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     },
     {
-      "text": "Googles AI-Suche (AI Overviews) zeigt erhebliche Probleme und kann die Suchanfragen der Nutzer ignorieren oder nicht korrekt beantworten.",
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard"
+      "text": "Hacker lernen, Chatbot-'Persönlichkeiten' auszunutzen. Cyberkriminelle entwickeln neue Exploitationstechniken, die auf die simulierte Persönlichkeit von KI-Systemen abzielen.",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots"
     },
     {
-      "text": "VCs und Gründer nutzen aufgeblasene ARR-Metriken (Annual Recurring Revenue), um AI-Startups künstlich überteuert wirken zu lassen.",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/"
+      "text": "Google präsentiert revolutionäres Omni-Flash AI-Modell. Das neue Modell kann alles verarbeiten und AI-Videos aus echten Bildern generieren.",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video"
     },
     {
-      "text": "Trump cancelt kurzfristig die Unterzeichnung einer Executive Order zu AI-Sicherheitstests, nachdem CEOs großer AI-Firmen absagten.",
-      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/"
+      "text": "Roboter kochen Mahlzeiten für Non-Profit in San Francisco. KI-gesteuerte Roboter werden in der Tenderloin zur Lebensmittelzubereitung eingesetzt.",
+      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/"
     },
     {
-      "text": "Die Literaturwelt ist unvorbereitet auf KI: Mehrere Skandale um AI-generierte Texte in renommierten Literaturpreisen offenbaren Mängel bei der Überprüfung.",
-      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize"
+      "text": "Ferrari nutzt IBMs KI zur Fan-Engagement. Das Unternehmen setzt AI ein, um F1-Superfans zu identifizieren und einzubinden.",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
     },
     {
-      "text": "Journalist Steven Rosenbaum gibt zu, dass sein AI-gestütztes Recherche-Tool synthetische und falsch zugeordnete Zitate in sein Buch integrierte, nutzt die Technologie aber weiterhin.",
-      "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/"
+      "text": "Amazon präsentiert Bee-Wearable mit AI-Funktionen. Das neue tragbare Gerät bietet KI-Features, die sowohl faszinierend als auch besorgniserregend wirken.",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
     }
   ]
 }
