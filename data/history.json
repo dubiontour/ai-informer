@@ -1,5 +1,61 @@
 [
   {
+    "title": "Using AI to write better code more slowly",
+    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-25T23:16:59.000Z"
+  },
+  {
+    "title": "What ClickUp&#8217;s mass layoff tells us about the future of work",
+    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-25T16:00:00.000Z"
+  },
+  {
+    "title": "The pope’s AI encyclical isn’t really about AI",
+    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-25T15:09:41.000Z"
+  },
+  {
+    "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+    "link": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-25T15:05:07.000Z"
+  },
+  {
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-25T14:30:00.000Z"
+  },
+  {
+    "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+    "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-25T10:30:00.000Z"
+  },
+  {
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "link": "https://huggingface.co/blog/agent-glossary",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-25T00:00:00.000Z"
+  },
+  {
     "title": "Everyone is navigating AI security in real time &#8212; even Google",
     "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
     "source": "TechCrunch AI",
@@ -2602,40 +2658,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-04-26T15:30:00.000Z"
-  },
-  {
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-25T21:43:37.000Z"
-  },
-  {
-    "title": "Maine&#8217;s governor vetoes data center moratorium",
-    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-25T20:57:08.000Z"
-  },
-  {
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-25T17:17:56.000Z"
-  },
-  {
-    "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-    "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-25T10:30:00.000Z"
-  },
-  {
-    "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
-    "link": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-25T09:30:00.000Z"
   }
 ]

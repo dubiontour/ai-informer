@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "items": [
     {
-      "text": "Google und andere Unternehmen navigieren AI-Sicherheit in Echtzeit. Selbst Tech-Giganten wie Google müssen ihre Sicherheitsstrategien laufend anpassen.",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/"
+      "text": "AI-Einsatz beim Programmieren führt zu besserer Codequalität, erfordert aber mehr Zeit für gründliche Überprüfung und Anpassungen.",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
     },
     {
-      "text": "Speicherkosten machen nun fast zwei Drittel der AI-Chip-Komponenten aus. Der Speicher ist mit 63% zum dominantesten Kostenfaktor bei AI-Chips geworden.",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
+      "text": "ClickUps Massenentlassungen deuten darauf hin, dass Unternehmen KI nutzen, um Personalkosten zu senken und die Arbeitsweise grundlegend zu verändern.",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
     },
     {
-      "text": "Hacker lernen, Chatbot-'Persönlichkeiten' auszunutzen. Cyberkriminelle entwickeln neue Exploitationstechniken, die auf die simulierte Persönlichkeit von KI-Systemen abzielen.",
+      "text": "Papst Leo XIV veröffentlichte ein Enzyklika-Schreiben, das einen neuen rechtlichen und ethischen Rahmen für KI-Governance fordert.",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
+    },
+    {
+      "text": "OpenAI schloss eine strategische Content-Partnerschaft mit brasilianischen Mediengruppen Folha de S.Paulo und UOL zur Integration von Journalismus in ChatGPT.",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+    },
+    {
+      "text": "Hacker lernen, Chatbot-Persönlichkeiten auszunutzen, indem sie KI-Systeme manipulieren, um Sicherheitsrichtlinien zu umgehen.",
       "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots"
     },
     {
-      "text": "Google präsentiert revolutionäres Omni-Flash AI-Modell. Das neue Modell kann alles verarbeiten und AI-Videos aus echten Bildern generieren.",
-      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video"
+      "text": "Das KI-Zeitalter erzeugt ein Wettrüsten bei der Bugsuche, während Entwickler und Sicherheitsforscher um wirksame Schwachstellenerkennung konkurrieren.",
+      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/"
     },
     {
-      "text": "Roboter kochen Mahlzeiten für Non-Profit in San Francisco. KI-gesteuerte Roboter werden in der Tenderloin zur Lebensmittelzubereitung eingesetzt.",
+      "text": "Eine gemeinnützige Organisation in San Francisco setzt Roboter ein, um Mahlzeiten herzustellen und soziale Probleme in benachteiligten Vierteln zu bekämpfen.",
       "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/"
-    },
-    {
-      "text": "Ferrari nutzt IBMs KI zur Fan-Engagement. Das Unternehmen setzt AI ein, um F1-Superfans zu identifizieren und einzubinden.",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/"
-    },
-    {
-      "text": "Amazon präsentiert Bee-Wearable mit AI-Funktionen. Das neue tragbare Gerät bietet KI-Features, die sowohl faszinierend als auch besorgniserregend wirken.",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
     }
   ]
 }
