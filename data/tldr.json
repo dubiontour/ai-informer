@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "items": [
     {
-      "text": "AI-Einsatz beim Programmieren führt zu besserer Codequalität, erfordert aber mehr Zeit für gründliche Überprüfung und Anpassungen.",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
+      "text": "Analysen deuten darauf hin, dass Teile von Papst Leo XIV.s Enzyklika \"Magnifica Humanitas\" über die Gefahren von KI von KI selbst geschrieben wurden – zwischen 40 und 100 Prozent laut dem KI-Detektor Pangram.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram"
     },
     {
-      "text": "ClickUps Massenentlassungen deuten darauf hin, dass Unternehmen KI nutzen, um Personalkosten zu senken und die Arbeitsweise grundlegend zu verändern.",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
+      "text": "Eine kritische Sicherheitslücke im Open-Source-Paket Starlette (325 Millionen wöchentliche Downloads) gefährdet Millionen von KI-Agenten weltweit und ermöglicht es Hackern, sensitive Daten zu stehlen.",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     },
     {
-      "text": "Papst Leo XIV veröffentlichte ein Enzyklika-Schreiben, das einen neuen rechtlichen und ethischen Rahmen für KI-Governance fordert.",
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
+      "text": "DuckDuckGo-Installationen sind um 30 Prozent gestiegen, da Nutzer Googles erzwungene KI-Suche ablehnen und sich nach alternativen Suchmaschinen umsehen.",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/"
     },
     {
-      "text": "OpenAI schloss eine strategische Content-Partnerschaft mit brasilianischen Mediengruppen Folha de S.Paulo und UOL zur Integration von Journalismus in ChatGPT.",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+      "text": "OpenRouter verdoppelt seine Bewertung in einem Jahr auf 1,3 Milliarden Dollar und zeigt starkes Wachstum im KI-Infrastruktur-Sektor.",
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/"
     },
     {
-      "text": "Hacker lernen, Chatbot-Persönlichkeiten auszunutzen, indem sie KI-Systeme manipulieren, um Sicherheitsrichtlinien zu umgehen.",
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots"
+      "text": "Hugging Face startet das LeRobot Humanoid-Projekt – 3D-druckbare humanoide Roboterbeine für 2.500 Dollar, um KI-Robotik-Forschung zugänglicher zu machen.",
+      "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/"
     },
     {
-      "text": "Das KI-Zeitalter erzeugt ein Wettrüsten bei der Bugsuche, während Entwickler und Sicherheitsforscher um wirksame Schwachstellenerkennung konkurrieren.",
-      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/"
+      "text": "Das FBI verhaftete zwei Männer unter dem Take It Down Act für das illegale Verbreiten von nicht-konsensualen KI-Deepfakes – die Identifizierung war überraschend einfach.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/"
     },
     {
-      "text": "Eine gemeinnützige Organisation in San Francisco setzt Roboter ein, um Mahlzeiten herzustellen und soziale Probleme in benachteiligten Vierteln zu bekämpfen.",
-      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/"
+      "text": "Suno-Nutzer verlassen echte Musik zugunsten von KI-generierter Musik, was Fragen über die Zukunft der Musikproduktion und Künstlerunterstützung aufwirft.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop"
     }
   ]
 }
