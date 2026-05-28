@@ -1,10 +1,150 @@
 [
   {
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-28T07:00:00.000Z"
+  },
+  {
+    "title": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
+    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-28T00:17:41.000Z"
+  },
+  {
+    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+    "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-28T00:10:42.000Z"
+  },
+  {
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-27T20:10:00.000Z"
+  },
+  {
+    "title": "YouTube to automatically label AI-generated videos",
+    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-27T20:00:51.000Z"
+  },
+  {
+    "title": "Nvidia bets $150B on Taiwan as Trump&#039;s plan to make US an AI hub backfires",
+    "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-27T19:59:40.000Z"
+  },
+  {
+    "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
+    "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-27T18:00:00.000Z"
+  },
+  {
+    "title": "YouTube to begin automatically labeling AI videos",
+    "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-27T17:36:10.000Z"
+  },
+  {
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-27T17:20:29.000Z"
+  },
+  {
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-27T16:28:41.000Z"
+  },
+  {
+    "title": "AI tried to bury this politician — now people have actually heard of him",
+    "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-27T15:40:00.000Z"
+  },
+  {
+    "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-27T14:36:10.000Z"
+  },
+  {
+    "title": "This smart bird feeder captures more of my backyard drama",
+    "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-27T14:00:00.000Z"
+  },
+  {
+    "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
+    "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-27T14:00:00.000Z"
+  },
+  {
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "link": "https://openai.com/index/cisco",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-27T11:00:00.000Z"
+  },
+  {
+    "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+    "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-27T10:30:28.000Z"
+  },
+  {
+    "title": "Building self-improving tax agents with Codex",
+    "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-27T07:00:00.000Z"
+  },
+  {
     "title": "Did the Pope use AI to write about the dangers of AI?",
     "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-05-27T00:38:11.000Z"
+  },
+  {
+    "title": "Election information and safeguards in 2026",
+    "link": "https://openai.com/index/election-safeguards-2026",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "Reachy Mini goes fully local",
+    "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "link": "https://huggingface.co/blog/delta-weight-sync",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-27T00:00:00.000Z"
   },
   {
     "title": "Pope Leo Schooled the Tech Bros on Tolkien",
@@ -2574,152 +2714,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-04-28T14:15:11.000Z"
-  },
-  {
-    "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-    "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-28T03:39:33.000Z"
-  },
-  {
-    "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
-    "link": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-28T00:39:30.000Z"
-  },
-  {
-    "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
-    "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-04-28T00:28:13.000Z"
-  },
-  {
-    "title": "Google is testing AI chatbot search for YouTube",
-    "link": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-28T00:01:54.000Z"
-  },
-  {
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "link": "https://openai.com/index/openai-on-aws",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-04-28T00:00:00.000Z"
-  },
-  {
-    "title": "Our commitment to community safety",
-    "link": "https://openai.com/index/our-commitment-to-community-safety",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-04-28T00:00:00.000Z"
-  },
-  {
-    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-    "link": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-04-27T22:52:57.000Z"
-  },
-  {
-    "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-    "link": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-04-27T20:47:45.000Z"
-  },
-  {
-    "title": "Musk and Altman face off in trial that will determine OpenAI&#039;s future",
-    "link": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-27T20:45:18.000Z"
-  },
-  {
-    "title": "OpenAI ends its exclusive partnership with Microsoft",
-    "link": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-27T20:10:11.000Z"
-  },
-  {
-    "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
-    "link": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-27T20:08:51.000Z"
-  },
-  {
-    "title": "EU tells Google to open up AI on Android; Google says that&#039;s \"unwarranted intervention\"",
-    "link": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-04-27T20:03:49.000Z"
-  },
-  {
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-27T17:40:38.000Z"
-  },
-  {
-    "title": "DeepMind&#8217;s David Silver just raised $1.1B to build an AI that learns without human data",
-    "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-27T17:24:21.000Z"
-  },
-  {
-    "title": "The missing step between hype and profit",
-    "link": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-04-27T16:13:41.000Z"
-  },
-  {
-    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-04-27T16:13:02.000Z"
-  },
-  {
-    "title": "OpenAI available at FedRAMP Moderate",
-    "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-04-27T14:00:00.000Z"
-  },
-  {
-    "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "link": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-04-27T14:00:00.000Z"
-  },
-  {
-    "title": "Rebuilding the data stack for AI",
-    "link": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-04-27T13:00:00.000Z"
-  },
-  {
-    "title": "China blocks Meta's acquisition of AI startup Manus",
-    "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-04-27T11:43:59.000Z"
-  },
-  {
-    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-    "link": "https://app.oravys.com/blog/mercor-breach-2026",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-04-27T09:57:10.000Z"
   }
 ]
