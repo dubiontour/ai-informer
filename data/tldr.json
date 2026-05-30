@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "items": [
     {
-      "text": "Glean überschreitet 300 Millionen Dollar Umsatz, während KI-Budget-Einsparungen zu seinem Hauptverkaufsargument werden.",
-      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/"
+      "text": "Programmierer weigern sich zunehmend, ohne AI-Tools zu arbeiten, was langfristig problematisch werden könnte. Die wachsende Abhängigkeit von KI könnte ihre Fähigkeiten gefährden und zu Deskilling führen.",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/"
     },
     {
-      "text": "Forscher entdecken, dass LLMs falsche Aussagen trotz expliziter Warnungen als wahr darstellen – ein Phänomen namens \"Negation Neglect\".",
-      "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/"
+      "text": "Amazon produziert eine KI-animierte Serie basierend auf \"Good Advice Cupcake\", der ursprüngliche Schöpfer ist darüber empört. Das wirft Fragen zu Kreativrechten und KI-Nutzung in der Unterhaltung auf.",
+      "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/"
     },
     {
-      "text": "Das Internet wird grundlegend für Maschinen umgebaut, um KI-Systemen bessere Daten und Interaktionen zu ermöglichen.",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/"
+      "text": "Google Gemini Spark ermöglicht KI-Agenten mit Zugriff auf persönliche Daten, um Nutzer in ihrem Alltag zu helfen. Ein Test zeigte aber auch humorvolle Grenzen der KI-Empfehlungen.",
+      "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/"
     },
     {
-      "text": "Ein Entwickler versteckt eine Prompt-Injection in der Open-Source-Testsoftware jqwik, um AI-Coding-Agenten zu sabotieren.",
-      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
+      "text": "Boston Children's Hospital nutzt AI zur Diagnose von über 40 seltenen Krankheiten und spart 60.000 Arbeitsstunden. Die Implementierung von AI als Infrastruktur reduziert Kosten und verbessert Patientenversorgung.",
+      "url": "https://openai.com/index/boston-childrens-hospital"
     },
     {
-      "text": "Microsoft 365 Copilot erhält ein Redesign mit schnellerem Laden und strukturierteren Responses für höhere Produktivität.",
-      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign"
+      "text": "Startup Shift bietet kostenlose Hausreinigung in New York an, zeichnet aber alles auf Kamera auf für Roboter-Trainigsdaten. Ein Trend von Unternehmen, die Menschen für physische KI-Trainigsdaten bezahlen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning"
     },
     {
-      "text": "Asana akquiriert die No-Code-KI-Agentur StackAI, um seine Automatisierungsfähigkeiten zu erweitern.",
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/"
+      "text": "Mistral AI präsentiert sich nicht mehr nur als Modellentwickler, sondern als vollständiger AI-Stack-Anbieter mit eigener Infrastruktur. Der Fokus liegt auf effizienten und dezentralisierten Modellen für europäische Lösungen.",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
     },
     {
-      "text": "Apple arbeitet daran, Googles massive Gemini-KI für das iPhone zu verkleinern, um eine verbesserte Siri zu unterstützen.",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/"
+      "text": "Liquid AI released LFM2.5-8B-A1B, ein optimiertes Mixture-of-Experts Modell für Geräte-Inferenz. Das Modell bietet Leistung größerer Modelle bei deutlich geringerem Speicherbedarf.",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
     }
   ]
 }
