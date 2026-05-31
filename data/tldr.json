@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "items": [
     {
-      "text": "Programmierer weigern sich zunehmend, ohne AI-Tools zu arbeiten, was langfristig problematisch werden könnte. Die wachsende Abhängigkeit von KI könnte ihre Fähigkeiten gefährden und zu Deskilling führen.",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/"
+      "text": "SoftBank plant Investition von bis zu 75 Milliarden Euro in französische Rechenzentren, um die KI-Infrastruktur in Europa auszubauen.",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
     },
     {
-      "text": "Amazon produziert eine KI-animierte Serie basierend auf \"Good Advice Cupcake\", der ursprüngliche Schöpfer ist darüber empört. Das wirft Fragen zu Kreativrechten und KI-Nutzung in der Unterhaltung auf.",
-      "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/"
+      "text": "Github Copilots neues Token-basiertes Abrechnungsmodell sorgt für Unmut unter Entwicklern, die die Preisgestaltung kritisieren.",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
     },
     {
-      "text": "Google Gemini Spark ermöglicht KI-Agenten mit Zugriff auf persönliche Daten, um Nutzer in ihrem Alltag zu helfen. Ein Test zeigte aber auch humorvolle Grenzen der KI-Empfehlungen.",
-      "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/"
+      "text": "Meta entwickelt nach Berichten ein tragbares KI-Pendant als neues Hardwareprodukt für persönliche KI-Assistenten.",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/"
     },
     {
-      "text": "Boston Children's Hospital nutzt AI zur Diagnose von über 40 seltenen Krankheiten und spart 60.000 Arbeitsstunden. Die Implementierung von AI als Infrastruktur reduziert Kosten und verbessert Patientenversorgung.",
+      "text": "KI-Betrüger erstellen gefälschte schwarze Menschen für TikTok-Shop, um billige Shein-Produkte zu betrügerischen Preisen zu verkaufen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
+    },
+    {
+      "text": "Boston Children's Hospital nutzt KI-Technologie, um über 40 seltene Krankheitsdiagnosen zu ermöglichen und Betriebskosten um 7 Millionen Dollar zu sparen.",
       "url": "https://openai.com/index/boston-childrens-hospital"
     },
     {
-      "text": "Startup Shift bietet kostenlose Hausreinigung in New York an, zeichnet aber alles auf Kamera auf für Roboter-Trainigsdaten. Ein Trend von Unternehmen, die Menschen für physische KI-Trainigsdaten bezahlen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning"
+      "text": "Braintrust einsatzfähiges Codex-Tool ermöglicht es Ingenieuren, Kundenanfragen innerhalb von Minuten in funktionsfähigen Code umzuwandeln.",
+      "url": "https://openai.com/index/braintrust"
     },
     {
-      "text": "Mistral AI präsentiert sich nicht mehr nur als Modellentwickler, sondern als vollständiger AI-Stack-Anbieter mit eigener Infrastruktur. Der Fokus liegt auf effizienten und dezentralisierten Modellen für europäische Lösungen.",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit"
-    },
-    {
-      "text": "Liquid AI released LFM2.5-8B-A1B, ein optimiertes Mixture-of-Experts Modell für Geräte-Inferenz. Das Modell bietet Leistung größerer Modelle bei deutlich geringerem Speicherbedarf.",
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b"
+      "text": "Ein deutscher Startup bietet New Yorkern kostenloses Hausputzen an, wenn sie sich dabei von Kameras aufnehmen lassen für KI-Roboter-Trainigsdaten.",
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/"
     }
   ]
 }
