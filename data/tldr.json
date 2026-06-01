@@ -1,33 +1,33 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "items": [
     {
-      "text": "SoftBank plant Investition von bis zu 75 Milliarden Euro in französische Rechenzentren, um die KI-Infrastruktur in Europa auszubauen.",
+      "text": "NVIDIA präsentiert Cosmos 3, das erste offene Omni-Modell für Physical AI Reasoning and Action, das KI-Systemen ermöglicht, physische Aufgaben zu verstehen und auszuführen.",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
+    },
+    {
+      "text": "SoftBank plant massive Investitionen von bis zu 75 Milliarden Euro zum Bau von Rechenzentren in Frankreich, um die europäische AI-Infrastruktur zu stärken.",
       "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
     },
     {
-      "text": "Github Copilots neues Token-basiertes Abrechnungsmodell sorgt für Unmut unter Entwicklern, die die Preisgestaltung kritisieren.",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/"
+      "text": "Erin Brockovich prangert die mangelnde Transparenz bei Datenzentren an und fordert mehr Offenlegung über deren Umweltauswirkungen und Praktiken.",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/"
     },
     {
-      "text": "Meta entwickelt nach Berichten ein tragbares KI-Pendant als neues Hardwareprodukt für persönliche KI-Assistenten.",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/"
+      "text": "Debatte über AI-Psychose: Experten diskutieren, ob KI-Systeme psychotische Symptome zeigen können und was dies für AI-Sicherheit bedeutet.",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"
     },
     {
-      "text": "KI-Betrüger erstellen gefälschte schwarze Menschen für TikTok-Shop, um billige Shein-Produkte zu betrügerischen Preisen zu verkaufen.",
+      "text": "AI-Betrüger nutzen generierte gefälschte Schwarze Menschen, um minderwertige Shein-Produkte auf TikTok-Shop mit emotionalen Manipulationstaktiken zu verkaufen.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
     },
     {
-      "text": "Boston Children's Hospital nutzt KI-Technologie, um über 40 seltene Krankheitsdiagnosen zu ermöglichen und Betriebskosten um 7 Millionen Dollar zu sparen.",
-      "url": "https://openai.com/index/boston-childrens-hospital"
+      "text": "Gründer Craig Campbell beweist, dass seine Wette auf klassische Web-Technologie profitabel ist, indem er sich 2022 von einem großzügigen Blank-Check-Deal abwendet.",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai"
     },
     {
-      "text": "Braintrust einsatzfähiges Codex-Tool ermöglicht es Ingenieuren, Kundenanfragen innerhalb von Minuten in funktionsfähigen Code umzuwandeln.",
-      "url": "https://openai.com/index/braintrust"
-    },
-    {
-      "text": "Ein deutscher Startup bietet New Yorkern kostenloses Hausputzen an, wenn sie sich dabei von Kameras aufnehmen lassen für KI-Roboter-Trainigsdaten.",
-      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/"
+      "text": "Ein Journalist untersucht Gudtrip, ein absurdes AI/Krypto/Cannabis-Vape-Produkt, das angeblich Bitcoin beim Rauchen belohnt, um dessen Echtheit zu überprüfen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape"
     }
   ]
 }
