@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "items": [
     {
-      "text": "NVIDIA präsentiert Cosmos 3, das erste offene Omni-Modell für Physical AI Reasoning and Action, das KI-Systemen ermöglicht, physische Aufgaben zu verstehen und auszuführen.",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
+      "text": "OpenAI's Codex erreicht 5 Millionen wöchentliche Nutzer und entwickelt sich vom reinen Coding-Tool zu einer Produktivitätslösung für Knowledge Worker, die damit Berichte, Tabellen und Datenanalysen erstellen.",
+      "url": "https://openai.com/index/codex-for-knowledge-work"
     },
     {
-      "text": "SoftBank plant massive Investitionen von bis zu 75 Milliarden Euro zum Bau von Rechenzentren in Frankreich, um die europäische AI-Infrastruktur zu stärken.",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/"
+      "text": "Alphabet plant eine 80-Milliarden-Dollar-Kapitalerhöhung zur Finanzierung des AI-Infrastruktur- und Computing-Ausbaus.",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
     },
     {
-      "text": "Erin Brockovich prangert die mangelnde Transparenz bei Datenzentren an und fordert mehr Offenlegung über deren Umweltauswirkungen und Praktiken.",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/"
+      "text": "GitHub Copilot-Nutzer berichten über Sticker Shock durch neues nutzungsbasiertes Preismodell, wobei einige ihr monatliches AI-Credit-Budget in nur einer Stunde aufbrauchen.",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"
     },
     {
-      "text": "Debatte über AI-Psychose: Experten diskutieren, ob KI-Systeme psychotische Symptome zeigen können und was dies für AI-Sicherheit bedeutet.",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/"
+      "text": "Nvidia dringt mit AI-Agent-PCs von Microsoft, Dell und HP in den 200-Milliarden-Dollar-CPU-Markt ein.",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
     },
     {
-      "text": "AI-Betrüger nutzen generierte gefälschte Schwarze Menschen, um minderwertige Shein-Produkte auf TikTok-Shop mit emotionalen Manipulationstaktiken zu verkaufen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping"
+      "text": "Meta's AI-Support-Chatbot wurde von Hackern ausgenutzt, um Promi-Instagram-Accounts zu übernehmen und weiterzuverkaufen, bevor Meta den Exploit am 29. Mai patched.",
+      "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/"
     },
     {
-      "text": "Gründer Craig Campbell beweist, dass seine Wette auf klassische Web-Technologie profitabel ist, indem er sich 2022 von einem großzügigen Blank-Check-Deal abwendet.",
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai"
+      "text": "Florida reicht erste Klage gegen OpenAI und CEO Sam Altman ein und wirft dem Unternehmen vor, nach mehreren ChatGPT-verknüpften Morden Gewinne über Sicherheit zu priorisieren.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/"
     },
     {
-      "text": "Ein Journalist untersucht Gudtrip, ein absurdes AI/Krypto/Cannabis-Vape-Produkt, das angeblich Bitcoin beim Rauchen belohnt, um dessen Echtheit zu überprüfen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape"
+      "text": "Anthropic reicht vertraulich eine S-1-Anmeldung ein, die zum größten IPO aller Zeiten werden könnte.",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/"
     }
   ]
 }

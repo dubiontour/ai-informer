@@ -1,5 +1,138 @@
 [
   {
+    "title": "Codex is becoming a productivity tool for everyone",
+    "link": "https://openai.com/index/codex-for-knowledge-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-02T02:00:00.000Z"
+  },
+  {
+    "title": "Alphabet plans to raise $80B to pay for AI buildout",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-01T22:55:09.000Z"
+  },
+  {
+    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+    "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-01T22:18:09.000Z"
+  },
+  {
+    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-01T21:35:00.000Z"
+  },
+  {
+    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-01T20:55:15.000Z"
+  },
+  {
+    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+    "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-01T20:44:37.000Z"
+  },
+  {
+    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-01T20:03:40.000Z"
+  },
+  {
+    "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+    "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-01T20:02:31.000Z"
+  },
+  {
+    "title": "Gemini’s new AI agent is about as good as Google’s demo",
+    "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-01T20:00:00.000Z"
+  },
+  {
+    "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+    "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-01T19:20:47.000Z"
+  },
+  {
+    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+    "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-01T18:52:19.000Z"
+  },
+  {
+    "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+    "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-01T17:17:58.000Z"
+  },
+  {
+    "title": "Our views on AI policy and political advocacy",
+    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-01T17:00:00.000Z"
+  },
+  {
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-01T16:41:49.000Z"
+  },
+  {
+    "title": "Florida sues OpenAI and Sam Altman over AI risks",
+    "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-01T16:02:04.000Z"
+  },
+  {
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-01T15:45:17.000Z"
+  },
+  {
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-01T13:51:18.000Z"
+  },
+  {
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "link": "https://openai.com/index/stargate-michigan-data-center",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-01T12:00:00.000Z"
+  },
+  {
+    "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
+    "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-01T11:00:00.000Z"
+  },
+  {
     "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
     "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
     "source": "Hugging Face",
@@ -2595,26 +2728,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-05-03T12:00:00.000Z"
-  },
-  {
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-02T21:54:58.000Z"
-  },
-  {
-    "title": "The best AI dictation apps, tested and ranked",
-    "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-02T16:00:00.000Z"
-  },
-  {
-    "title": "Disneyland Now Uses Face Recognition on Visitors",
-    "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-02T10:30:00.000Z"
   }
 ]
