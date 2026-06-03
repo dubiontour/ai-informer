@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "items": [
     {
-      "text": "OpenAI's Codex erreicht 5 Millionen wöchentliche Nutzer und entwickelt sich vom reinen Coding-Tool zu einer Produktivitätslösung für Knowledge Worker, die damit Berichte, Tabellen und Datenanalysen erstellen.",
-      "url": "https://openai.com/index/codex-for-knowledge-work"
+      "text": "Google verpflichtet sich, bis 2030 mehr Wasser zurückzuführen als für seine Rechenzentren zu verbrauchen. Das Unternehmen reagiert damit auf die wachsenden Umweltbedenken bezüglich des enormen Wasserverbrauchs von KI-Infrastrukturen.",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
     },
     {
-      "text": "Alphabet plant eine 80-Milliarden-Dollar-Kapitalerhöhung zur Finanzierung des AI-Infrastruktur- und Computing-Ausbaus.",
-      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx"
+      "text": "UK-Regulierer verbieten Google, Publisher nicht automatisch in KI-Search-Features einzubinden. Website-Betreiber erhalten das Recht, ihre Inhalte aus dem Training von Googles KI-Modellen auszunehmen.",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
     },
     {
-      "text": "GitHub Copilot-Nutzer berichten über Sticker Shock durch neues nutzungsbasiertes Preismodell, wobei einige ihr monatliches AI-Credit-Budget in nur einer Stunde aufbrauchen.",
-      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"
+      "text": "Eine Stanford-Studie zeigt, dass Rechtsprofessoren KI-generierte Antworten KI gewonnene Antworten zu Rechtsfragen gegenüber Antworten von Kollegen bevorzugen. In 75% der Vergleiche schnitten LLMs besser ab.",
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
     },
     {
-      "text": "Nvidia dringt mit AI-Agent-PCs von Microsoft, Dell und HP in den 200-Milliarden-Dollar-CPU-Markt ein.",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/"
+      "text": "Microsoft stellt ein neues Entwicklungstool vor, mit dem Programmierer KI-Verhaltenstests durch Textbeschreibungen erstellen können. Das vereinfacht die Qualitätssicherung von KI-Systemen erheblich.",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
     },
     {
-      "text": "Meta's AI-Support-Chatbot wurde von Hackern ausgenutzt, um Promi-Instagram-Accounts zu übernehmen und weiterzuverkaufen, bevor Meta den Exploit am 29. Mai patched.",
-      "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/"
+      "text": "Travelers expandiert seinen KI-gestützten Schadensabwicklungsassistenten landesweit. Der von OpenAI betriebene Assistent erreicht eine 85-90%-Quote bei autonomer Abhandlung von Versicherungsansprüchen.",
+      "url": "https://openai.com/index/travelers"
     },
     {
-      "text": "Florida reicht erste Klage gegen OpenAI und CEO Sam Altman ein und wirft dem Unternehmen vor, nach mehreren ChatGPT-verknüpften Morden Gewinne über Sicherheit zu priorisieren.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/"
+      "text": "OpenAI gibt neue Codex-Updates bekannt mit rollenspezifischen Plugins und Tools. Über 5 Millionen Nutzer verwenden Codex wöchentlich, wobei Nicht-Entwickler die schneller wachsende Nutzergruppe darstellen.",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow"
     },
     {
-      "text": "Anthropic reicht vertraulich eine S-1-Anmeldung ein, die zum größten IPO aller Zeiten werden könnte.",
-      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/"
+      "text": "Uber begrenzt die KI-Ausgaben für Mitarbeiter, nachdem das Budget in nur 4 Monaten aufgebraucht war. Das zeigt die Herausforderungen bei der Kostenmanagement von unternehmensweiten KI-Tools.",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"
     }
   ]
 }
