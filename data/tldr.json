@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "items": [
     {
-      "text": "Google verpflichtet sich, bis 2030 mehr Wasser zurückzuführen als für seine Rechenzentren zu verbrauchen. Das Unternehmen reagiert damit auf die wachsenden Umweltbedenken bezüglich des enormen Wasserverbrauchs von KI-Infrastrukturen.",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers"
+      "text": "OpenAI und Anthropic unterzeichnen gemeinsamen Brief zur Verhinderung von KI-entwickelten Biowaffen und setzen damit ein Zeichen für verantwortungsvolle KI-Sicherheit.",
+      "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
     },
     {
-      "text": "UK-Regulierer verbieten Google, Publisher nicht automatisch in KI-Search-Features einzubinden. Website-Betreiber erhalten das Recht, ihre Inhalte aus dem Training von Googles KI-Modellen auszunehmen.",
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out"
+      "text": "An der UC Berkeley zeigen sich steigende Durchfallquoten in Informatik-Kursen, da Studenten verstärkt KI nutzen und mathematische Fähigkeiten abnehmen.",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
     },
     {
-      "text": "Eine Stanford-Studie zeigt, dass Rechtsprofessoren KI-generierte Antworten KI gewonnene Antworten zu Rechtsfragen gegenüber Antworten von Kollegen bevorzugen. In 75% der Vergleiche schnitten LLMs besser ab.",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/"
+      "text": "Google investiert Rekordsumme von 85 Milliarden Dollar in seinen KI-Geschäftsbereich und signalisiert damit massive Expansion in diesem Sektor.",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
     },
     {
-      "text": "Microsoft stellt ein neues Entwicklungstool vor, mit dem Programmierer KI-Verhaltenstests durch Textbeschreibungen erstellen können. Das vereinfacht die Qualitätssicherung von KI-Systemen erheblich.",
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/"
+      "text": "Britische Regulatoren verpflichten Google, klarere Links zu Inhalten von Publishern in KI-Suchergebnissen anzuzeigen und Opt-out-Möglichkeiten zu schaffen.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/"
     },
     {
-      "text": "Travelers expandiert seinen KI-gestützten Schadensabwicklungsassistenten landesweit. Der von OpenAI betriebene Assistent erreicht eine 85-90%-Quote bei autonomer Abhandlung von Versicherungsansprüchen.",
-      "url": "https://openai.com/index/travelers"
+      "text": "Googles neues Gemma-4-12B-Modell läuft auf Standard-Laptops mit 16GB RAM und demokratisiert damit lokale KI-Nutzung.",
+      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/"
     },
     {
-      "text": "OpenAI gibt neue Codex-Updates bekannt mit rollenspezifischen Plugins und Tools. Über 5 Millionen Nutzer verwenden Codex wöchentlich, wobei Nicht-Entwickler die schneller wachsende Nutzergruppe darstellen.",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow"
+      "text": "Trumps neuer Executive Order zu KI-Sicherheitstests zeigt Schwächen: Sicherheitsteams wurden durch DOGE-Kürzungen dezimiert.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/"
     },
     {
-      "text": "Uber begrenzt die KI-Ausgaben für Mitarbeiter, nachdem das Budget in nur 4 Monaten aufgebraucht war. Das zeigt die Herausforderungen bei der Kostenmanagement von unternehmensweiten KI-Tools.",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/"
+      "text": "Amazon integriert KI-generierte Produktbilder in Suche, die nicht käufliche Gegenstände basierend auf Nutzerbeschreibungen anzeigen.",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images"
     }
   ]
 }

@@ -1,5 +1,138 @@
 [
   {
+    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+    "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-04T01:01:00.000Z"
+  },
+  {
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-04T00:18:02.000Z"
+  },
+  {
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-03T22:56:51.000Z"
+  },
+  {
+    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+    "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-03T20:26:51.000Z"
+  },
+  {
+    "title": "Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal",
+    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-03T19:38:32.000Z"
+  },
+  {
+    "title": "Google&#039;s new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+    "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-03T19:10:03.000Z"
+  },
+  {
+    "title": "Google&#8217;s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-03T19:07:42.000Z"
+  },
+  {
+    "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+    "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-03T18:49:32.000Z"
+  },
+  {
+    "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-03T18:11:15.000Z"
+  },
+  {
+    "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+    "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-03T18:00:00.000Z"
+  },
+  {
+    "title": "As AI gets better, it reveals an empty promise",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-03T17:45:35.000Z"
+  },
+  {
+    "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+    "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-03T16:07:31.000Z"
+  },
+  {
+    "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-03T14:04:00.000Z"
+  },
+  {
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-03T13:15:00.000Z"
+  },
+  {
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-03T12:55:11.000Z"
+  },
+  {
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+    "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-03T12:25:14.000Z"
+  },
+  {
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "link": "https://openai.com/index/wasmer",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-03T12:00:00.000Z"
+  },
+  {
+    "title": "Mathematicians issue warning as AI rapidly gains ground",
+    "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-03T10:05:48.000Z"
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "link": "https://openai.com/index/frontier-safety-blueprint",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-03T10:00:00.000Z"
+  },
+  {
     "title": "AI has a water problem. Google thinks it has a fix",
     "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
     "source": "The Verge AI",
@@ -19,6 +152,13 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-06-03T08:45:48.000Z"
+  },
+  {
+    "title": "Adding MCP Tools to Reachy Mini",
+    "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-03T00:00:00.000Z"
   },
   {
     "title": "AI outperforms law professors in Stanford Law study",
@@ -75,6 +215,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-02T15:30:00.000Z"
+  },
+  {
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo31",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-02T14:13:23.000Z"
   },
   {
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -2714,96 +2861,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-05-05T09:00:00.000Z"
-  },
-  {
-    "title": "As workers worry about AI, Nvidia&#8217;s Jensen Huang says AI is &#8216;creating an enormous number of jobs&#8217;",
-    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-05T03:31:54.000Z"
-  },
-  {
-    "title": "New ways to buy ChatGPT ads",
-    "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-05T00:00:00.000Z"
-  },
-  {
-    "title": "OpenAI’s president does ‘all the things,’ except answer a question",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-04T23:49:33.000Z"
-  },
-  {
-    "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-    "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-04T23:19:52.000Z"
-  },
-  {
-    "title": "OpenAI&#8217;s cozy partner Cerebras is on track for a blockbuster IPO",
-    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-04T21:53:21.000Z"
-  },
-  {
-    "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
-    "link": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-04T21:38:37.000Z"
-  },
-  {
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "link": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-04T21:00:00.000Z"
-  },
-  {
-    "title": "Canadian election databases use \"canary traps\"—and they work",
-    "link": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-04T19:45:57.000Z"
-  },
-  {
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-04T19:12:49.000Z"
-  },
-  {
-    "title": "Influential study touting ChatGPT in education retracted over red flags",
-    "link": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-04T19:03:39.000Z"
-  },
-  {
-    "title": "The creator of Roomba is back with a furry robot companion",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-04T16:51:38.000Z"
-  },
-  {
-    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-    "link": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-04T15:51:27.000Z"
-  },
-  {
-    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-    "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-04T15:43:49.000Z"
   }
 ]
