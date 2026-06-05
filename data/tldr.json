@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "items": [
     {
-      "text": "OpenAI und Anthropic unterzeichnen gemeinsamen Brief zur Verhinderung von KI-entwickelten Biowaffen und setzen damit ein Zeichen für verantwortungsvolle KI-Sicherheit.",
-      "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/"
+      "text": "Mira Murati kehrt vorsichtig ins Rampenlicht zurück, nachdem sie zuvor von der öffentlichen Bühne verschwunden war.",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
     },
     {
-      "text": "An der UC Berkeley zeigen sich steigende Durchfallquoten in Informatik-Kursen, da Studenten verstärkt KI nutzen und mathematische Fähigkeiten abnehmen.",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"
+      "text": "Anthropic-Präsidentin Daniela Amodei äußert sich vor dem geplanten IPO zuversichtlich zu den wirtschaftlichen Rentabilität von KI-Investitionen.",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
     },
     {
-      "text": "Google investiert Rekordsumme von 85 Milliarden Dollar in seinen KI-Geschäftsbereich und signalisiert damit massive Expansion in diesem Sektor.",
-      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/"
+      "text": "Airbnb-Chef Brian Chesky plant die Gründung eines neuen KI-Labors, um KI-Technologien in seine Plattform zu integrieren.",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/"
     },
     {
-      "text": "Britische Regulatoren verpflichten Google, klarere Links zu Inhalten von Publishern in KI-Suchergebnissen anzuzeigen und Opt-out-Möglichkeiten zu schaffen.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/"
+      "text": "Humanoid-Roboter-Videos werden überschätzt: Eine Analyse zeigt, dass Demonstrationen oft nicht das abbilden, was Roboter in der Realität leisten können.",
+      "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/"
     },
     {
-      "text": "Googles neues Gemma-4-12B-Modell läuft auf Standard-Laptops mit 16GB RAM und demokratisiert damit lokale KI-Nutzung.",
-      "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/"
+      "text": "Ein estnischer Regierungs-Benchmark zeigt, welche großen Sprachmodelle am besten russische Propaganda widerstehen.",
+      "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/"
     },
     {
-      "text": "Trumps neuer Executive Order zu KI-Sicherheitstests zeigt Schwächen: Sicherheitsteams wurden durch DOGE-Kürzungen dezimiert.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/"
+      "text": "TSMC, der weltgrößte Chipfertiger, signalisiert Kapazitätsgrenzen bei der KI-Chip-Produktion und benötigt sehr lange für US-basierte Fertigung.",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles"
     },
     {
-      "text": "Amazon integriert KI-generierte Produktbilder in Suche, die nicht käufliche Gegenstände basierend auf Nutzerbeschreibungen anzeigen.",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images"
+      "text": "Anthropic zeigt in neuer Forschung, dass KI-Systeme ihre eigene Entwicklung bereits beschleunigen und dass rekursive Selbstverbesserung in Zukunft möglich sein könnte.",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement"
     }
   ]
 }
