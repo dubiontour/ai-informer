@@ -1,5 +1,110 @@
 [
   {
+    "title": "Ask HN: Why is the HN crowd so anti-AI?",
+    "link": "https://news.ycombinator.com/item?id=48420827",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-06T02:31:51.000Z"
+  },
+  {
+    "title": "Thousand Token Wood: shipping a multi-agent economy on a 3B model",
+    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-05T22:18:46.000Z"
+  },
+  {
+    "title": "Startup Battlefield 200 applications officially close in 3 days",
+    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-05T20:00:00.000Z"
+  },
+  {
+    "title": "Google will pay SpaceX $920M per month for compute",
+    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-05T18:57:20.000Z"
+  },
+  {
+    "title": "S&#038;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-05T18:45:20.000Z"
+  },
+  {
+    "title": "\"We pissed off a lot of people\": Giant data center plan cut 50% amid protests",
+    "link": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-05T18:23:00.000Z"
+  },
+  {
+    "title": "The most interesting startups right now want to get you off your phone",
+    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-05T17:17:06.000Z"
+  },
+  {
+    "title": "This is your laptop… on AI",
+    "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-05T16:39:07.000Z"
+  },
+  {
+    "title": "The Fitbit Air is a good wearable weighed down by a chatty AI \"coach\"",
+    "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-05T15:40:48.000Z"
+  },
+  {
+    "title": "New York lawmakers pass one-year ban on new data centers",
+    "link": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-05T15:25:10.000Z"
+  },
+  {
+    "title": "Has Microsoft Lost Its Mojo (Again)?",
+    "link": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-05T15:00:00.000Z"
+  },
+  {
+    "title": "This AI startup says it can tell if a script will make a hit film",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-05T13:57:31.000Z"
+  },
+  {
+    "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+    "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-05T10:30:00.000Z"
+  },
+  {
+    "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+    "link": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-05T10:00:00.000Z"
+  },
+  {
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-05T09:00:00.000Z"
+  },
+  {
     "title": "Mira Murati steps back into the spotlight, carefully",
     "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
     "source": "TechCrunch AI",
@@ -2784,103 +2889,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-05-07T10:00:00.000Z"
-  },
-  {
-    "title": "Five architects of the AI economy explain where the wheels are coming off",
-    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-07T05:25:10.000Z"
-  },
-  {
-    "title": "Musk’s biggest loyalist became his biggest liability",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-06T23:37:02.000Z"
-  },
-  {
-    "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-    "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-06T23:23:45.000Z"
-  },
-  {
-    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-    "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-06T22:09:14.000Z"
-  },
-  {
-    "title": "Barry Diller trusts Sam Altman. But &#8216;trust is irrelevant&#8217; as AGI nears, he says.",
-    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-06T21:57:56.000Z"
-  },
-  {
-    "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
-    "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-06T21:47:27.000Z"
-  },
-  {
-    "title": "Snap says its $400M deal with Perplexity &#8216;amicably ended&#8217;",
-    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-06T21:43:24.000Z"
-  },
-  {
-    "title": "Google shuts down Project Mariner",
-    "link": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-06T21:21:45.000Z"
-  },
-  {
-    "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
-    "link": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-06T21:20:14.000Z"
-  },
-  {
-    "title": "How David Sacks crashed and burned in the White House",
-    "link": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-06T20:18:00.000Z"
-  },
-  {
-    "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-06T19:06:55.000Z"
-  },
-  {
-    "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-    "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-06T18:28:52.000Z"
-  },
-  {
-    "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
-    "link": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-06T18:00:00.000Z"
-  },
-  {
-    "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-    "link": "https://deepmind.google/blog/alphaevolve-impact/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-05-06T10:43:49.000Z"
   }
 ]

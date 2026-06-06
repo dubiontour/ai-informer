@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "items": [
     {
-      "text": "Mira Murati kehrt vorsichtig ins Rampenlicht zurück, nachdem sie zuvor von der öffentlichen Bühne verschwunden war.",
-      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/"
+      "text": "Hacker News-Nutzer diskutieren Skepsis gegenüber KI in der Softwareentwicklung, während ein erfahrener Engineer argumentiert, dass Ausführungsgeschwindigkeit wichtiger ist als Code-Eleganz und KI-Tools wie Claude massive Produktivitätssteigerungen ermöglichen.",
+      "url": "https://news.ycombinator.com/item?id=48420827"
     },
     {
-      "text": "Anthropic-Präsidentin Daniela Amodei äußert sich vor dem geplanten IPO zuversichtlich zu den wirtschaftlichen Rentabilität von KI-Investitionen.",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/"
+      "text": "Google zahlt SpaceX monatlich 920 Millionen Dollar für Compute-Ressourcen, was eine massive strategische Partnerschaft zwischen dem Technologie- und Raumfahrtkonzern signalisiert.",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
     },
     {
-      "text": "Airbnb-Chef Brian Chesky plant die Gründung eines neuen KI-Labors, um KI-Technologien in seine Plattform zu integrieren.",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/"
+      "text": "Die S&P 500 lehnt SpaceX' beschleunigten Börsengang ab und blockiert damit auch den Markteintritt für unprofitable KI-Firmen wie OpenAI und Anthropic.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
     },
     {
-      "text": "Humanoid-Roboter-Videos werden überschätzt: Eine Analyse zeigt, dass Demonstrationen oft nicht das abbilden, was Roboter in der Realität leisten können.",
-      "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/"
+      "text": "Ein großes Datencenter-Projekt in Utah wurde um 50 Prozent reduziert, nachdem intensive Proteste von Anwohnern wegen Bedenken zum Wasserverbrauch und Umweltauswirkungen erfolgreich Druck ausübten.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/"
     },
     {
-      "text": "Ein estnischer Regierungs-Benchmark zeigt, welche großen Sprachmodelle am besten russische Propaganda widerstehen.",
-      "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/"
+      "text": "New York erlässt ein einjähriges Moratorium für neue Datencenter, das möglicherweise das erste Verbot dieser Art in einem US-Bundesstaat darstellt und wachsende Bedenken über KI-Infrastruktur widerspiegelt.",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium"
     },
     {
-      "text": "TSMC, der weltgrößte Chipfertiger, signalisiert Kapazitätsgrenzen bei der KI-Chip-Produktion und benötigt sehr lange für US-basierte Fertigung.",
-      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles"
+      "text": "Die Fitbit Air ist eine gute Wearable, wird aber durch Googles übermäßig gesprächigen KI-Coach belastet, der für personalisiertes Coaching zu wenig Substanz bietet.",
+      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/"
     },
     {
-      "text": "Anthropic zeigt in neuer Forschung, dass KI-Systeme ihre eigene Entwicklung bereits beschleunigen und dass rekursive Selbstverbesserung in Zukunft möglich sein könnte.",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement"
+      "text": "Ein KI-Startup namens Quilty behauptet, die Erfolgschancen von Filmskripten vorhersagen zu können, doch der Prozess wirkt methodisch fragwürdig und wissenschaftlich zweifelhaft.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood"
     }
   ]
 }
