@@ -1,5 +1,68 @@
 [
   {
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-06T20:32:24.000Z"
+  },
+  {
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-06T19:02:33.000Z"
+  },
+  {
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-06T18:35:27.000Z"
+  },
+  {
+    "title": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-06T18:13:36.000Z"
+  },
+  {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-06T17:42:15.000Z"
+  },
+  {
+    "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-06T15:05:00.000Z"
+  },
+  {
+    "title": "Meta made its own AI-generated clickbait news feed",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-06T14:00:00.000Z"
+  },
+  {
+    "title": "Here comes new Siri again",
+    "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-06T12:00:00.000Z"
+  },
+  {
+    "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+    "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-06T10:30:00.000Z"
+  },
+  {
     "title": "Ask HN: Why is the HN crowd so anti-AI?",
     "link": "https://news.ycombinator.com/item?id=48420827",
     "source": "Hacker News AI",
@@ -2770,124 +2833,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-05-08T10:00:00.000Z"
-  },
-  {
-    "title": "Why you can never get your doctor to call you back",
-    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-08T04:42:29.000Z"
-  },
-  {
-    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-    "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-08T01:42:14.000Z"
-  },
-  {
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-07T22:24:50.000Z"
-  },
-  {
-    "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-07T21:37:20.000Z"
-  },
-  {
-    "title": "Voi founders&#8217; new AI startup Pit has become the latest rising star out of Stockholm",
-    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-07T21:02:11.000Z"
-  },
-  {
-    "title": "How to Disable Google's Gemini in Chrome",
-    "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-07T20:31:57.000Z"
-  },
-  {
-    "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-07T19:55:22.000Z"
-  },
-  {
-    "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-    "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-07T19:39:22.000Z"
-  },
-  {
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-07T19:38:36.000Z"
-  },
-  {
-    "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-07T19:26:16.000Z"
-  },
-  {
-    "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
-    "link": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-07T19:18:16.000Z"
-  },
-  {
-    "title": "AI slop is killing online communities",
-    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-07T18:46:25.000Z"
-  },
-  {
-    "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
-    "link": "https://arstechnica.com/gadgets/2026/05/google-unveils-screenless-fitbit-air-and-google-health-app-to-replace-fitbit/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-07T14:00:50.000Z"
-  },
-  {
-    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
-    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-07T13:14:01.000Z"
-  },
-  {
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-07T13:00:00.000Z"
-  },
-  {
-    "title": "Parloa builds service agents customers want to talk to",
-    "link": "https://openai.com/index/parloa",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-07T11:00:00.000Z"
-  },
-  {
-    "title": "Advancing voice intelligence with new models in the API",
-    "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-07T10:00:00.000Z"
   }
 ]

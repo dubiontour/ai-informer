@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "items": [
     {
-      "text": "Hacker News-Nutzer diskutieren Skepsis gegenüber KI in der Softwareentwicklung, während ein erfahrener Engineer argumentiert, dass Ausführungsgeschwindigkeit wichtiger ist als Code-Eleganz und KI-Tools wie Claude massive Produktivitätssteigerungen ermöglichen.",
-      "url": "https://news.ycombinator.com/item?id=48420827"
+      "text": "OpenAI führt Lockdown Mode ein, um sensible Daten vor Prompt-Injection-Angriffen zu schützen und die KI-Sicherheit zu erhöhen.",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
     },
     {
-      "text": "Google zahlt SpaceX monatlich 920 Millionen Dollar für Compute-Ressourcen, was eine massive strategische Partnerschaft zwischen dem Technologie- und Raumfahrtkonzern signalisiert.",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/"
+      "text": "Meta bestätigt, dass Tausende Instagram-Konten durch Missbrauch seines KI-Chatbots gehackt wurden; über 20.000 Benutzer waren betroffen.",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
     },
     {
-      "text": "Die S&P 500 lehnt SpaceX' beschleunigten Börsengang ab und blockiert damit auch den Markteintritt für unprofitable KI-Firmen wie OpenAI und Anthropic.",
+      "text": "Apple kündigt auf der WWDC 2026 eine umfassende Überholung von Siri und Updates für Apple Intelligence an.",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+    },
+    {
+      "text": "Sriram Krishnan gibt seine Position als KI-Berater des Weißen Hauses auf.",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+    },
+    {
+      "text": "Meta hat eine KI-generierte Clickbait-Nachrichtensammlung erstellt, die nach Nachfragen von The Verge wieder eingestellt wird.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"
+    },
+    {
+      "text": "S&P 500 lehnt SpaceX, OpenAI und Anthropic ab und weigert sich, Regeln für unprofitable KI-Unternehmen zu lockern.",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
     },
     {
-      "text": "Ein großes Datencenter-Projekt in Utah wurde um 50 Prozent reduziert, nachdem intensive Proteste von Anwohnern wegen Bedenken zum Wasserverbrauch und Umweltauswirkungen erfolgreich Druck ausübten.",
+      "text": "Massiver Utah-Datencenter-Plan wird um 50% reduziert nach intensivem Widerstand von Anwohnern gegen Wasserverbrauch.",
       "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/"
-    },
-    {
-      "text": "New York erlässt ein einjähriges Moratorium für neue Datencenter, das möglicherweise das erste Verbot dieser Art in einem US-Bundesstaat darstellt und wachsende Bedenken über KI-Infrastruktur widerspiegelt.",
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium"
-    },
-    {
-      "text": "Die Fitbit Air ist eine gute Wearable, wird aber durch Googles übermäßig gesprächigen KI-Coach belastet, der für personalisiertes Coaching zu wenig Substanz bietet.",
-      "url": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/"
-    },
-    {
-      "text": "Ein KI-Startup namens Quilty behauptet, die Erfolgschancen von Filmskripten vorhersagen zu können, doch der Prozess wirkt methodisch fragwürdig und wissenschaftlich zweifelhaft.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood"
     }
   ]
 }
