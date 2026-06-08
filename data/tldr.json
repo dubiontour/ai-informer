@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-07",
+  "date": "2026-06-08",
   "items": [
     {
-      "text": "OpenAI führt Lockdown Mode ein, um sensible Daten vor Prompt-Injection-Angriffen zu schützen und die KI-Sicherheit zu erhöhen.",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+      "text": "OpenAI arbeitet weiterhin an einer \"Super App\", die mehrere KI-Funktionen in einer Plattform integrieren soll.",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
     },
     {
-      "text": "Meta bestätigt, dass Tausende Instagram-Konten durch Missbrauch seines KI-Chatbots gehackt wurden; über 20.000 Benutzer waren betroffen.",
-      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/"
+      "text": "Notion hat den Zugang zu Anthropic nach einer Serviceunterbrechung wiederhergestellt.",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/"
     },
     {
-      "text": "Apple kündigt auf der WWDC 2026 eine umfassende Überholung von Siri und Updates für Apple Intelligence an.",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+      "text": "AI-generierte \"Content Creator\" werden immer schwerer zu erkennen und bereiten Social-Media-Plattformen Probleme.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators"
     },
     {
-      "text": "Sriram Krishnan gibt seine Position als KI-Berater des Weißen Hauses auf.",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+      "text": "Ein Amoklauf-Überlebender verklagt den Hersteller eines AI-Waffenerkennungssystems, das die Waffe nicht erkannt hatte.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
     },
     {
-      "text": "Meta hat eine KI-generierte Clickbait-Nachrichtensammlung erstellt, die nach Nachfragen von The Verge wieder eingestellt wird.",
+      "text": "Meta hat ein AI-generiertes Clickbait-News-Feed entwickelt, das Unternehmen nach Kritik der Verge jedoch entfernen wird.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"
     },
     {
-      "text": "S&P 500 lehnt SpaceX, OpenAI und Anthropic ab und weigert sich, Regeln für unprofitable KI-Unternehmen zu lockern.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/"
+      "text": "Der Bürgermeister von Shelbyville, Indiana, sagt, dass nur Menschen in \"schlechten Häusern\" gegen ein Rechenzentrum opponieren.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center"
     },
     {
-      "text": "Massiver Utah-Datencenter-Plan wird um 50% reduziert nach intensivem Widerstand von Anwohnern gegen Wasserverbrauch.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/"
+      "text": "Mit Kryptowährungen finanzierte chinesische Peptid-Labore erleben einen Boom.",
+      "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/"
     }
   ]
 }
