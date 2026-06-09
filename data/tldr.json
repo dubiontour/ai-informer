@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "items": [
     {
-      "text": "OpenAI arbeitet weiterhin an einer \"Super App\", die mehrere KI-Funktionen in einer Plattform integrieren soll.",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/"
+      "text": "OpenAI reicht vertraulich IPO-Antrag ein und folgt damit SpaceX und Anthropic im Weg zur Börsennotierung.",
+      "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/"
     },
     {
-      "text": "Notion hat den Zugang zu Anthropic nach einer Serviceunterbrechung wiederhergestellt.",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/"
+      "text": "Apple präsentiert neue Siri AI mit verbesserter Konversationsfähigkeit und Google Gemini-basierten Modellen, die ab Herbst verfügbar sein sollen.",
+      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/"
     },
     {
-      "text": "AI-generierte \"Content Creator\" werden immer schwerer zu erkennen und bereiten Social-Media-Plattformen Probleme.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators"
+      "text": "Apples vorsichtige KI-Strategie mit kostengünstigen Modellen für Entwickler zahlt sich aus und positioniert das Unternehmen strategisch am Markt.",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
     },
     {
-      "text": "Ein Amoklauf-Überlebender verklagt den Hersteller eines AI-Waffenerkennungssystems, das die Waffe nicht erkannt hatte.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
+      "text": "Google rollt Gemini 3.5 und Antigravity-Funktionen für NotebookLM aus, was schnellere Verarbeitung und reduzierte Token-Kosten verspricht.",
+      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/"
     },
     {
-      "text": "Meta hat ein AI-generiertes Clickbait-News-Feed entwickelt, das Unternehmen nach Kritik der Verge jedoch entfernen wird.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles"
+      "text": "Sam Altmans Augen-Scan-Unternehmen führt Entlassungen durch, während OpenAI sein IPO-Verfahren einleitet.",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
     },
     {
-      "text": "Der Bürgermeister von Shelbyville, Indiana, sagt, dass nur Menschen in \"schlechten Häusern\" gegen ein Rechenzentrum opponieren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center"
+      "text": "Microsoft-Pakete mit Credential-Stealer-Code kompromittiert: 73 Open-Source-Pakete wurden zweite Mal in Wochen manipuliert und richten sich an KI-Agenten.",
+      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
     },
     {
-      "text": "Mit Kryptowährungen finanzierte chinesische Peptid-Labore erleben einen Boom.",
-      "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/"
+      "text": "Amazon startet KI-generierte Custom-Merchandising-Dienste und bedroht damit eigene Drittanbieter und Print-on-Demand-Konkurrenten.",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing"
     }
   ]
 }
