@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "items": [
     {
-      "text": "OpenAI reicht vertraulich IPO-Antrag ein und folgt damit SpaceX und Anthropic im Weg zur Börsennotierung.",
-      "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/"
+      "text": "Meta unterzeichnet seinen ersten KI-Rechenzentrum-Deal in Indien mit Reliance und treibt damit seine globale Infrastruktur-Expansion voran.",
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/"
     },
     {
-      "text": "Apple präsentiert neue Siri AI mit verbesserter Konversationsfähigkeit und Google Gemini-basierten Modellen, die ab Herbst verfügbar sein sollen.",
-      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/"
+      "text": "Richard Sutton argumentiert, dass generative KI, die durch überwachtes Lernen trainiert wird, nicht zu echten neuen Entdeckungen in der Wissenschaft fähig ist.",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656"
     },
     {
-      "text": "Apples vorsichtige KI-Strategie mit kostengünstigen Modellen für Entwickler zahlt sich aus und positioniert das Unternehmen strategisch am Markt.",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/"
+      "text": "Ein deutsches Gericht macht Google direkt haftbar für falsche Aussagen in seinen KI-Suchergebnissen und lehnt Googles Argument der Nutzerverantwortung ab.",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
     },
     {
-      "text": "Google rollt Gemini 3.5 und Antigravity-Funktionen für NotebookLM aus, was schnellere Verarbeitung und reduzierte Token-Kosten verspricht.",
-      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/"
+      "text": "Google startet einen Preiskampf bei KI-Abonnements und signalisiert damit aggressive Konkurrenz im Markt.",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/"
     },
     {
-      "text": "Sam Altmans Augen-Scan-Unternehmen führt Entlassungen durch, während OpenAI sein IPO-Verfahren einleitet.",
-      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
+      "text": "Apples neuer KI-Assistent Siri funktioniert nach Testbericht tatsächlich und könnte sich als Erfolg erweisen.",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"
     },
     {
-      "text": "Microsoft-Pakete mit Credential-Stealer-Code kompromittiert: 73 Open-Source-Pakete wurden zweite Mal in Wochen manipuliert und richten sich an KI-Agenten.",
-      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
+      "text": "Google präsentiert Gemini 3.5 Live Translate mit Near-Real-Time Sprachübersetzung, die natürliche Ton- und Sprechgeschwindigkeit bewahrt.",
+      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/"
     },
     {
-      "text": "Amazon startet KI-generierte Custom-Merchandising-Dienste und bedroht damit eigene Drittanbieter und Print-on-Demand-Konkurrenten.",
-      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing"
+      "text": "Anthropic veröffentlicht sein frontier Modell Fable 5 mit Sicherheitsvorkehrungen, die Anfragen zu Cybersecurity, Biologie und Chemie einschränken.",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
     }
   ]
 }
