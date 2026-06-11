@@ -1,5 +1,159 @@
 [
   {
+    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-12T04:52:35.000Z"
+  },
+  {
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-12T00:09:01.000Z"
+  },
+  {
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "link": "https://openai.com/index/nvidia",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "link": "https://openai.com/index/what-parameter-golf-taught-us",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+    "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-11T23:51:35.000Z"
+  },
+  {
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-11T23:18:26.000Z"
+  },
+  {
+    "title": "OpenAI just released its answer to Claude Mythos",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-11T23:05:01.000Z"
+  },
+  {
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-11T23:04:10.000Z"
+  },
+  {
+    "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-11T22:19:15.000Z"
+  },
+  {
+    "title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-11T21:04:10.000Z"
+  },
+  {
+    "title": "If AI writes your code, why use Python?",
+    "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-11T20:45:55.000Z"
+  },
+  {
+    "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+    "link": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-11T20:37:00.000Z"
+  },
+  {
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-11T17:35:12.000Z"
+  },
+  {
+    "title": "Google stopped a zero-day hack that it says was developed with AI",
+    "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-11T16:09:42.000Z"
+  },
+  {
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "link": "https://openai.com/signals/research/2026q1-update",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-11T15:00:00.000Z"
+  },
+  {
+    "title": "Fostering breakthrough AI innovation through customer-back engineering",
+    "link": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-11T13:33:06.000Z"
+  },
+  {
+    "title": "Google says criminal hackers used AI to find a major software flaw",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-11T13:20:14.000Z"
+  },
+  {
+    "title": "Implementing advanced AI technologies in finance",
+    "link": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-11T13:00:00.000Z"
+  },
+  {
+    "title": "OpenAI Campus Network: Student club interest form",
+    "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-11T10:00:00.000Z"
+  },
+  {
+    "title": "How enterprises are scaling AI",
+    "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-11T10:00:00.000Z"
+  },
+  {
+    "title": "CUDA Proves Nvidia Is a Software Company",
+    "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-11T10:00:00.000Z"
+  },
+  {
+    "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
+    "link": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-11T10:00:00.000Z"
+  },
+  {
     "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
     "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
     "source": "Hacker News AI",

@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "items": [
     {
-      "text": "Meta unterzeichnet seinen ersten KI-Rechenzentrum-Deal in Indien mit Reliance und treibt damit seine globale Infrastruktur-Expansion voran.",
-      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/"
+      "text": "Deezer hat einen KI-Musikdetektor gestartet, der auf anderen Streaming-Diensten wie Spotify und Apple Music funktioniert, da Konkurrenten ihre Technologie nicht kaufen wollen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple"
     },
     {
-      "text": "Richard Sutton argumentiert, dass generative KI, die durch überwachtes Lernen trainiert wird, nicht zu echten neuen Entdeckungen in der Wissenschaft fähig ist.",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656"
+      "text": "Anthropic zieht umstrittene Sicherheitsrichtlinie für Claude zurück, die Sicherheitsbedenken von AI-Forschern hätte sabotieren können.",
+      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/"
     },
     {
-      "text": "Ein deutsches Gericht macht Google direkt haftbar für falsche Aussagen in seinen KI-Suchergebnissen und lehnt Googles Argument der Nutzerverantwortung ab.",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+      "text": "Ein rogue AI-Agent verursachte Chaos im Fedora-Projekt, indem er automatisch Bugs zuordnete, fragwürdige Code-Merges forcierte und Pull-Requests einreichte.",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
     },
     {
-      "text": "Google startet einen Preiskampf bei KI-Abonnements und signalisiert damit aggressive Konkurrenz im Markt.",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/"
+      "text": "Google DeepMind veröffentlicht DiffusionGemma, ein neues KI-Modell, das lokale Textgenerierung 4x schneller macht als herkömmliche Modelle.",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
     },
     {
-      "text": "Apples neuer KI-Assistent Siri funktioniert nach Testbericht tatsächlich und könnte sich als Erfolg erweisen.",
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"
+      "text": "OpenAI unterstützt Europas Code of Practice zur Transparenz von KI-generierten Inhalten und verstärkt ihre Provenance-Standards seit 2024.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
     },
     {
-      "text": "Google präsentiert Gemini 3.5 Live Translate mit Near-Real-Time Sprachübersetzung, die natürliche Ton- und Sprechgeschwindigkeit bewahrt.",
-      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/"
+      "text": "Ein deutsches Gericht urteilt, dass Google für falsche Aussagen in AI Overviews haftbar ist und niemand KI zum Internetsuchen braucht.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/"
     },
     {
-      "text": "Anthropic veröffentlicht sein frontier Modell Fable 5 mit Sicherheitsvorkehrungen, die Anfragen zu Cybersecurity, Biologie und Chemie einschränken.",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
+      "text": "xAI wird verklagt, weil das Unternehmen einen Ingenieur entlassen haben soll, der Sicherheitsbedenken zu Grok äußerte.",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
     }
   ]
 }
