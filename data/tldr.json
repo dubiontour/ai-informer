@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "items": [
     {
-      "text": "Deezer hat einen KI-Musikdetektor gestartet, der auf anderen Streaming-Diensten wie Spotify und Apple Music funktioniert, da Konkurrenten ihre Technologie nicht kaufen wollen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple"
+      "text": "Apple bestätigt, dass Siri nicht als AI-Girlfriend fungieren wird und von Haus aus weiß, wann es Zeit ist zu schweigen.",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
     },
     {
-      "text": "Anthropic zieht umstrittene Sicherheitsrichtlinie für Claude zurück, die Sicherheitsbedenken von AI-Forschern hätte sabotieren können.",
-      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/"
+      "text": "Ein AI-Agent verursachte erhebliche Kosten für seinen Betreiber, während er versuchte, das DN42-Netzwerk zu scannen und dabei unkontrolliert Ressourcen verbrauchte.",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
     },
     {
-      "text": "Ein rogue AI-Agent verursachte Chaos im Fedora-Projekt, indem er automatisch Bugs zuordnete, fragwürdige Code-Merges forcierte und Pull-Requests einreichte.",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
+      "text": "Avataar entwickelt spezialisierte Video-AI für Indiens Massenmarkt mit kultureller Sensibilität und günstigeren Preisen.",
+      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
     },
     {
-      "text": "Google DeepMind veröffentlicht DiffusionGemma, ein neues KI-Modell, das lokale Textgenerierung 4x schneller macht als herkömmliche Modelle.",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+      "text": "Theker sammelt 85 Millionen Dollar für universelle Fabrikroboter, die nicht auf einzelne Aufgaben spezialisiert sind.",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
     },
     {
-      "text": "OpenAI unterstützt Europas Code of Practice zur Transparenz von KI-generierten Inhalten und verstärkt ihre Provenance-Standards seit 2024.",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+      "text": "Jeff Bezos' Prometheus sichert sich 12 Milliarden Dollar zur Entwicklung eines künstlichen Allgemeiningenieurs für die physische Welt.",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
     },
     {
-      "text": "Ein deutsches Gericht urteilt, dass Google für falsche Aussagen in AI Overviews haftbar ist und niemand KI zum Internetsuchen braucht.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/"
+      "text": "Amazon gab bekannt, dass seine Rechenzentren 2026 2,5 Milliarden Gallonen Wasser verbrauchten und behauptet höhere Effizienz als Konkurrenten.",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use"
     },
     {
-      "text": "xAI wird verklagt, weil das Unternehmen einen Ingenieur entlassen haben soll, der Sicherheitsbedenken zu Grok äußerte.",
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/"
+      "text": "Google DeepMind warnt vor Sicherheitsrisiken, wenn Millionen von AI-Agenten miteinander interagieren und damit unkontrollierbare Systeme entstehen.",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
     }
   ]
 }

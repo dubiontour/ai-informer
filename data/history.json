@@ -1,5 +1,82 @@
 [
   {
+    "title": "Siri won’t be your AI girlfriend",
+    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-12T07:00:31.000Z"
+  },
+  {
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-12T04:42:53.000Z"
+  },
+  {
+    "title": "Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for India&#8217;s scale",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-12T04:30:00.000Z"
+  },
+  {
+    "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
+    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-12T01:48:07.000Z"
+  },
+  {
+    "title": "Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-12T01:04:38.000Z"
+  },
+  {
+    "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+    "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-12T01:00:00.000Z"
+  },
+  {
+    "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-11T23:37:49.000Z"
+  },
+  {
+    "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+    "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-11T21:21:04.000Z"
+  },
+  {
+    "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+    "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-11T17:26:57.000Z"
+  },
+  {
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-11T11:40:43.000Z"
+  },
+  {
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-11T11:00:45.000Z"
+  },
+  {
     "title": "Deezer launches an AI music detector for other streaming services",
     "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
     "source": "The Verge AI",
@@ -46,6 +123,27 @@
     "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "category": "Research",
+    "pubDate": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "link": "https://huggingface.co/blog/torch-mlp-fusion",
+    "source": "Hugging Face",
+    "category": "Tools",
     "pubDate": "2026-06-11T00:00:00.000Z"
   },
   {
@@ -117,6 +215,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-10T13:39:32.000Z"
+  },
+  {
+    "title": "Investing in multi-agent AI safety research",
+    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-06-10T10:21:19.000Z"
   },
   {
     "title": "Meta signs first AI data center deal in India with Reliance",
@@ -2826,117 +2931,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-05-13T11:00:00.000Z"
-  },
-  {
-    "title": "Medicare&#8217;s new payment model is built for AI, and most of the tech world has no idea",
-    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-13T00:26:48.000Z"
-  },
-  {
-    "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-    "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-13T00:10:05.000Z"
-  },
-  {
-    "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
-    "link": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-13T00:00:00.000Z"
-  },
-  {
-    "title": "Our response to the TanStack npm supply chain attack",
-    "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-13T00:00:00.000Z"
-  },
-  {
-    "title": "Sam Altman was winning on the stand, but it might not be enough",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-12T23:23:14.000Z"
-  },
-  {
-    "title": "The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy",
-    "link": "https://www.wired.com/story/unitree-gd01-mecha-robot/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-12T22:51:45.000Z"
-  },
-  {
-    "title": "The newest AI boom pitch: Host a mini data center at your home",
-    "link": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-12T21:59:03.000Z"
-  },
-  {
-    "title": "Meta won’t let you block its AI account on Threads",
-    "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-12T20:35:23.000Z"
-  },
-  {
-    "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-12T19:00:25.000Z"
-  },
-  {
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-12T18:05:15.000Z"
-  },
-  {
-    "title": "Reimagining the mouse pointer for the AI era",
-    "link": "https://deepmind.google/blog/ai-pointer/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-12T17:40:13.000Z"
-  },
-  {
-    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-12T17:36:34.000Z"
-  },
-  {
-    "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-12T17:34:09.000Z"
-  },
-  {
-    "title": "Google&#039;s Android-powered laptops are called Googlebooks, and they&#039;re coming this year",
-    "link": "https://arstechnica.com/gadgets/2026/05/googles-android-powered-laptops-are-called-googlebooks-and-theyre-coming-this-year/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-12T17:00:49.000Z"
-  },
-  {
-    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-    "link": "https://voker.ai",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-12T15:45:20.000Z"
-  },
-  {
-    "title": "How finance teams use Codex",
-    "link": "https://openai.com/academy/how-finance-teams-use-codex",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-12T15:00:00.000Z"
   }
 ]
