@@ -1,5 +1,110 @@
 [
   {
+    "title": "Who decides what AI tells you? Campbell Brown, once Meta&#8217;s news chief, has thoughts",
+    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-14T06:05:31.000Z"
+  },
+  {
+    "title": "Clio&#8217;s $500M milestone arrives just as Anthropic ups the ante",
+    "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-14T05:24:39.000Z"
+  },
+  {
+    "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+    "link": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-13T22:04:28.000Z"
+  },
+  {
+    "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+    "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-13T21:58:47.000Z"
+  },
+  {
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-13T21:45:09.000Z"
+  },
+  {
+    "title": "AI invades Princeton, where 30% of students cheat—but peers won&#039;t snitch",
+    "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-13T19:47:24.000Z"
+  },
+  {
+    "title": "What It Will Take to Make AI Sustainable",
+    "link": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-13T19:15:59.000Z"
+  },
+  {
+    "title": "DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border",
+    "link": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-13T19:03:19.000Z"
+  },
+  {
+    "title": "AI chatbots are giving out people’s real phone numbers",
+    "link": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-13T18:09:03.000Z"
+  },
+  {
+    "title": "Altman forced to confront claims at OpenAI trial that he&#039;s a prolific liar",
+    "link": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-13T17:48:05.000Z"
+  },
+  {
+    "title": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
+    "link": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-13T16:45:43.000Z"
+  },
+  {
+    "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
+    "link": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-13T16:31:18.000Z"
+  },
+  {
+    "title": "Microsoft doesn’t want any of this",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-13T15:30:37.000Z"
+  },
+  {
+    "title": "The US is winning the AI race where it matters most: commercialization",
+    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-13T13:53:53.000Z"
+  },
+  {
+    "title": "Building a safe, effective sandbox to enable Codex on Windows",
+    "link": "https://openai.com/index/building-codex-windows-sandbox",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-13T11:00:00.000Z"
+  },
+  {
     "title": "Medicare&#8217;s new payment model is built for AI, and most of the tech world has no idea",
     "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
     "source": "TechCrunch AI",

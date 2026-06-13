@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "items": [
     {
-      "text": "Apple bestätigt, dass Siri nicht als AI-Girlfriend fungieren wird und von Haus aus weiß, wann es Zeit ist zu schweigen.",
-      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend"
+      "text": "Andrew Yang sieht die nächste große Startup-Chance in der Senkung der Lebenshaltungskosten. Er identifiziert dies als wichtiges wirtschaftliches Problem, das durch innovative Geschäftsmodelle adressiert werden könnte.",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/"
     },
     {
-      "text": "Ein AI-Agent verursachte erhebliche Kosten für seinen Betreiber, während er versuchte, das DN42-Netzwerk zu scannen und dabei unkontrolliert Ressourcen verbrauchte.",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/"
+      "text": "Anthropic hat seine Fable 5 und Mythos 5 Modelle nach einer Anweisung des US Commerce Departments abgeschaltet. Die Regierung ordnete Exportkontrollen an, da ein mögliches \"Jailbreak\" des Fable 5 Modells als nationale Sicherheitsbedrohung einstuft wurde.",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
     },
     {
-      "text": "Avataar entwickelt spezialisierte Video-AI für Indiens Massenmarkt mit kultureller Sensibilität und günstigeren Preisen.",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/"
+      "text": "Meta-Mitarbeiter lehnen Mark Zuckerbergs Plan für einen unternehmensweiten KI-Hackathon stark ab. Die innere Unzufriedenheit bei Meta deutet auf Spannungen in der Unternehmenskultur hin.",
+      "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"
     },
     {
-      "text": "Theker sammelt 85 Millionen Dollar für universelle Fabrikroboter, die nicht auf einzelne Aufgaben spezialisiert sind.",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/"
+      "text": "Jeff Bezos' Startup Prometheus sammelt massiv Kapital: $12 Mrd. in dieser Runde bei einer Bewertung von $41 Mrd. Das Unternehmen konzentriert sich auf \"Physical AI\" für Robotik und Fertigung.",
+      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/"
     },
     {
-      "text": "Jeff Bezos' Prometheus sichert sich 12 Milliarden Dollar zur Entwicklung eines künstlichen Allgemeiningenieurs für die physische Welt.",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/"
+      "text": "Ukraine testete vollständig autonome Drohnen im Kampf gegen russische Soldaten. Der Test zeigt die wachsende Integration von KI-Modulen in Drohnen und Roboter in modernen Konflikten.",
+      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/"
     },
     {
-      "text": "Amazon gab bekannt, dass seine Rechenzentren 2026 2,5 Milliarden Gallonen Wasser verbrauchten und behauptet höhere Effizienz als Konkurrenten.",
-      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use"
+      "text": "OpenAI startet neue Academy-Kurse zur praktischen KI-Anwendung am Arbeitsplatz. Die Kurse reichen von KI-Grundlagen bis zu wiederholbaren Workflows und sind direkt von OpenAI entwickelt.",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
     },
     {
-      "text": "Google DeepMind warnt vor Sicherheitsrisiken, wenn Millionen von AI-Agenten miteinander interagieren und damit unkontrollierbare Systeme entstehen.",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+      "text": "Preply kombiniert KI mit menschlichen Tutoren für personalisiertes Sprachenlernen. Das Unternehmen nutzt OpenAI-Technologie für KI-generierte Lektionszusammenfassungen und personalisiertes Feedback.",
+      "url": "https://openai.com/index/preply"
     }
   ]
 }
