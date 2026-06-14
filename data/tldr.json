@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "items": [
     {
-      "text": "Andrew Yang sieht die nächste große Startup-Chance in der Senkung der Lebenshaltungskosten. Er identifiziert dies als wichtiges wirtschaftliches Problem, das durch innovative Geschäftsmodelle adressiert werden könnte.",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/"
-    },
-    {
-      "text": "Anthropic hat seine Fable 5 und Mythos 5 Modelle nach einer Anweisung des US Commerce Departments abgeschaltet. Die Regierung ordnete Exportkontrollen an, da ein mögliches \"Jailbreak\" des Fable 5 Modells als nationale Sicherheitsbedrohung einstuft wurde.",
+      "text": "Anthropic hat nach einer US-Regierungsanordnung die Modelle Fable 5 und Mythos 5 abgeschaltet, um Exportkontrollbestimmungen einzuhalten. Die Commerce Department warnte vor Sicherheitsbedenken bezüglich einer möglichen \"Jailbreak\"-Schwachstelle.",
       "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
     },
     {
-      "text": "Meta-Mitarbeiter lehnen Mark Zuckerbergs Plan für einen unternehmensweiten KI-Hackathon stark ab. Die innere Unzufriedenheit bei Meta deutet auf Spannungen in der Unternehmenskultur hin.",
-      "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/"
+      "text": "Ein Gericht hat entschieden, dass Google für falsche Aussagen haftbar ist, die von seinen AI Overviews generiert werden. Das Urteil setzt einen wichtigen Präzedenzfall für die Haftung von KI-Systemen.",
+      "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/"
     },
     {
-      "text": "Jeff Bezos' Startup Prometheus sammelt massiv Kapital: $12 Mrd. in dieser Runde bei einer Bewertung von $41 Mrd. Das Unternehmen konzentriert sich auf \"Physical AI\" für Robotik und Fertigung.",
+      "text": "Meta plant einem Bericht zufolge, sein 2-Milliarden-Dollar-Investment in Manus nach Druck von Peking rückgängig zu machen. Die politischen Spannungen beeinflussen damit strategische Tech-Investitionen.",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+    },
+    {
+      "text": "KPMG hat einen Report zur KI-Nutzung zurückgezogen, da dieser offenbar von halluzinierten Inhalten betroffen war. Der Vorfall unterstreicht die Herausforderungen mit KI-generierten Inhalten in professionellen Kontexten.",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+    },
+    {
+      "text": "Jeff Bezos' neues Startup Prometheus erhält 12 Milliarden Dollar für die Entwicklung von Physical AI in Robotik und Fertigung. Das Unternehmen wird mit 41 Milliarden Dollar bewertet.",
       "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/"
     },
     {
-      "text": "Ukraine testete vollständig autonome Drohnen im Kampf gegen russische Soldaten. Der Test zeigt die wachsende Integration von KI-Modulen in Drohnen und Roboter in modernen Konflikten.",
-      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/"
+      "text": "SpaceX ist mit einer Bewertung von 1,8 Billionen Dollar an die Börse gegangen und wird teilweise für sein AI-Potenzial bewertet. Das Unternehmen handelt nun unter dem Ticker-Symbol bei NASDAQ.",
+      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/"
     },
     {
-      "text": "OpenAI startet neue Academy-Kurse zur praktischen KI-Anwendung am Arbeitsplatz. Die Kurse reichen von KI-Grundlagen bis zu wiederholbaren Workflows und sind direkt von OpenAI entwickelt.",
+      "text": "OpenAI hat neue Academy-Kurse eingeführt, die Organisationen bei der praktischen Anwendung von KI in ihren Workflows unterstützen. Die Kurse bieten Zertifizierungen und sollen KI-Kompetenz im Unternehmen fördern.",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
-    },
-    {
-      "text": "Preply kombiniert KI mit menschlichen Tutoren für personalisiertes Sprachenlernen. Das Unternehmen nutzt OpenAI-Technologie für KI-generierte Lektionszusammenfassungen und personalisiertes Feedback.",
-      "url": "https://openai.com/index/preply"
     }
   ]
 }
