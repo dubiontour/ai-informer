@@ -1,5 +1,40 @@
 [
   {
+    "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+    "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-15T09:00:00.000Z"
+  },
+  {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-15T07:25:41.000Z"
+  },
+  {
+    "title": "China may have accessed Mythos",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-14T18:27:55.000Z"
+  },
+  {
+    "title": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-14T17:00:00.000Z"
+  },
+  {
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-14T16:38:09.000Z"
+  },
+  {
     "title": "As Anthropic suspends access to new models, India debates its AI future",
     "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
     "source": "TechCrunch AI",
@@ -2833,117 +2868,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-05-16T11:00:01.000Z"
-  },
-  {
-    "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-    "link": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-16T09:30:00.000Z"
-  },
-  {
-    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-    "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-16T00:00:00.000Z"
-  },
-  {
-    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-    "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-15T23:39:35.000Z"
-  },
-  {
-    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-    "link": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-15T22:25:00.000Z"
-  },
-  {
-    "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-    "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-15T21:51:24.000Z"
-  },
-  {
-    "title": "ArXiv will ban researchers who upload papers full of AI slop",
-    "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-15T20:38:19.000Z"
-  },
-  {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-15T20:26:47.000Z"
-  },
-  {
-    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-    "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-15T19:24:16.000Z"
-  },
-  {
-    "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-    "link": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-15T18:25:53.000Z"
-  },
-  {
-    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-15T18:21:35.000Z"
-  },
-  {
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-15T18:14:44.000Z"
-  },
-  {
-    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-    "link": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-15T18:13:33.000Z"
-  },
-  {
-    "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-    "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-15T17:09:17.000Z"
-  },
-  {
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-15T16:00:00.000Z"
-  },
-  {
-    "title": "How Chinese short dramas became AI content machines",
-    "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-15T09:00:00.000Z"
-  },
-  {
-    "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
-    "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-15T09:00:00.000Z"
   }
 ]

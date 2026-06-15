@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-14",
+  "date": "2026-06-15",
   "items": [
     {
-      "text": "Anthropic hat nach einer US-Regierungsanordnung die Modelle Fable 5 und Mythos 5 abgeschaltet, um Exportkontrollbestimmungen einzuhalten. Die Commerce Department warnte vor Sicherheitsbedenken bezüglich einer möglichen \"Jailbreak\"-Schwachstelle.",
-      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+      "text": "Meta arbeitet mit einem Pentagon-Zulieferer zusammen, um Gesichtserkennung für seine Smart-Glasses zu entwickeln. Das Projekt zielt auf fortgeschrittene Erkennungsfähigkeiten für die nächste Generation von Metas Brille ab.",
+      "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/"
     },
     {
-      "text": "Ein Gericht hat entschieden, dass Google für falsche Aussagen haftbar ist, die von seinen AI Overviews generiert werden. Das Urteil setzt einen wichtigen Präzedenzfall für die Haftung von KI-Systemen.",
-      "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/"
+      "text": "Die Welle von KI-Entlassungen wird zu einem Pulverfass in der Industrie. Zahlreiche KI-Unternehmen reduzieren ihre Belegschaften, während der Markt unter Druck gerät.",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/"
     },
     {
-      "text": "Meta plant einem Bericht zufolge, sein 2-Milliarden-Dollar-Investment in Manus nach Druck von Peking rückgängig zu machen. Die politischen Spannungen beeinflussen damit strategische Tech-Investitionen.",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/"
+      "text": "Das Weiße Haus verdächtigt eine China-verbundene Gruppe, Zugang zu Anthropics mächtigem KI-Modell Mythos gehabt zu haben. Dies wirft neue Sicherheitsbedenken in der KI-Branche auf.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos"
     },
     {
-      "text": "KPMG hat einen Report zur KI-Nutzung zurückgezogen, da dieser offenbar von halluzinierten Inhalten betroffen war. Der Vorfall unterstreicht die Herausforderungen mit KI-generierten Inhalten in professionellen Kontexten.",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/"
+      "text": "OpenAI führt das OpenAI Partner Network ein, um Unternehmen bei der KI-Transformation zu unterstützen. Das Programm verbindet Partner weltweit mit OpenAIs Frontier-Modellen und -Produkten.",
+      "url": "https://openai.com/index/introducing-openai-partner-network"
     },
     {
-      "text": "Jeff Bezos' neues Startup Prometheus erhält 12 Milliarden Dollar für die Entwicklung von Physical AI in Robotik und Fertigung. Das Unternehmen wird mit 41 Milliarden Dollar bewertet.",
-      "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/"
+      "text": "Mehrere KI-Unternehmen bereiten sich auf den Börsengang vor, was neue Fragen über die Finanzierung und Bewertung der Branche aufwirft. Investoren beobachten diese Entwicklungen genau.",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/"
     },
     {
-      "text": "SpaceX ist mit einer Bewertung von 1,8 Billionen Dollar an die Börse gegangen und wird teilweise für sein AI-Potenzial bewertet. Das Unternehmen handelt nun unter dem Ticker-Symbol bei NASDAQ.",
-      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/"
+      "text": "Anthropic setzt den Zugang zu neuen Modellen aus, während Indien seine KI-Zukunft debattiert. Dies hat Auswirkungen auf die globale KI-Verfügbarkeit und nationale Strategien.",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
     },
     {
-      "text": "OpenAI hat neue Academy-Kurse eingeführt, die Organisationen bei der praktischen Anwendung von KI in ihren Workflows unterstützen. Die Kurse bieten Zertifizierungen und sollen KI-Kompetenz im Unternehmen fördern.",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+      "text": "Amazons Sicherheitsforschung führte zum Verbot von Anthropics Fable durch das Weiße Haus. CEO Andy Jassy sprach mit Regierungsbeamten über Sicherheitsbedenken vor der Exportkontroll-Direktive.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban"
     }
   ]
 }
