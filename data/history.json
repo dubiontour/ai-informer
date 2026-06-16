@@ -1,5 +1,89 @@
 [
   {
+    "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
+    "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T09:30:00.000Z"
+  },
+  {
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-16T09:00:00.000Z"
+  },
+  {
+    "title": "Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T06:59:00.000Z"
+  },
+  {
+    "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+    "link": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T03:06:37.000Z"
+  },
+  {
+    "title": "Inside the fight over Claude Mythos 5",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T03:00:00.000Z"
+  },
+  {
+    "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+    "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T00:53:46.000Z"
+  },
+  {
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8217;s Israel, ICE ties",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-15T23:51:44.000Z"
+  },
+  {
+    "title": "The US government&#8217;s Anthropic models ban was never about an AI jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-15T21:50:21.000Z"
+  },
+  {
+    "title": "Facebook’s new AI Mode search gets its info from public posts",
+    "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-15T21:15:08.000Z"
+  },
+  {
+    "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+    "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-15T19:07:02.000Z"
+  },
+  {
+    "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-15T19:04:53.000Z"
+  },
+  {
+    "title": "Why do South Koreans love AI so much?",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-15T18:46:08.000Z"
+  },
+  {
     "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
     "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
     "source": "Wired AI",
@@ -2833,40 +2917,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-05-17T12:00:00.000Z"
-  },
-  {
-    "title": "The haves and have nots of the AI gold rush",
-    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-16T20:17:16.000Z"
-  },
-  {
-    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-16T18:54:28.000Z"
-  },
-  {
-    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-16T15:37:05.000Z"
-  },
-  {
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-16T15:33:33.000Z"
-  },
-  {
-    "title": "The US is betting on AI to catch insider trading in prediction markets",
-    "link": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-16T11:00:01.000Z"
   }
 ]
