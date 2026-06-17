@@ -1,5 +1,89 @@
 [
   {
+    "title": "The founder's playbook: Building an AI-native startup",
+    "link": "https://claude.com/blog/the-founders-playbook",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-17T07:04:42.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests",
+    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T22:34:17.000Z"
+  },
+  {
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-06-16T21:29:50.000Z"
+  },
+  {
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T20:11:00.000Z"
+  },
+  {
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T18:00:00.000Z"
+  },
+  {
+    "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+    "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T17:50:52.000Z"
+  },
+  {
+    "title": "Has AI already killed self-help nonfiction books?",
+    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-16T17:11:05.000Z"
+  },
+  {
+    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+    "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T17:04:05.000Z"
+  },
+  {
+    "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+    "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T17:00:00.000Z"
+  },
+  {
+    "title": "My Father Wants to Age in Place. AI Will Be Watching",
+    "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T14:00:00.000Z"
+  },
+  {
+    "title": "What Do We Need From Our Homes Right Now?",
+    "link": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T14:00:00.000Z"
+  },
+  {
+    "title": "SpaceX is officially buying Cursor for $60 billion",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T11:41:31.000Z"
+  },
+  {
     "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
     "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
     "source": "Wired AI",
@@ -40,6 +124,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-16T00:53:46.000Z"
+  },
+  {
+    "title": "Predicting model behavior before release by simulating deployment",
+    "link": "https://openai.com/index/deployment-simulation",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-16T00:00:00.000Z"
   },
   {
     "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8217;s Israel, ICE ties",
@@ -2868,54 +2959,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-05-18T10:00:00.000Z"
-  },
-  {
-    "title": "Apple’s Siri revamp could include auto-deleting chats",
-    "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-17T20:15:00.000Z"
-  },
-  {
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-17T19:46:34.000Z"
-  },
-  {
-    "title": "Revamped Siri will reportedly offer auto-deleting chats",
-    "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-17T18:40:28.000Z"
-  },
-  {
-    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-17T17:22:23.000Z"
-  },
-  {
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-17T16:32:04.000Z"
-  },
-  {
-    "title": "I don't think AI will make your processes go faster",
-    "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-17T12:13:45.000Z"
-  },
-  {
-    "title": "Chatbots at the drive-thru are just the beginning",
-    "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-17T12:00:00.000Z"
   }
 ]

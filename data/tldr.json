@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "items": [
     {
-      "text": "Ungewöhnlich hohe Token-Nutzung bei Claude-Modellen stellt Unternehmens-KI-Investitionen auf die Probe und führt zu unerwartet hohen Rechenkosten.",
-      "url": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/"
+      "text": "Anthropic verzeichnet Verkaufssteigerungen trotz jüngster Konflikte mit der Trump-Administration. Interne Verkaufsdaten deuten darauf hin, dass die politischen Spannungen dem Unternehmen möglicherweise sogar nutzen.",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/"
     },
     {
-      "text": "US-Justizministerium argumentiert in Klage gegen xAI, dass das Unternehmen für die nationale Sicherheit unverzichtbar ist.",
-      "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/"
+      "text": "Google DeepMind partnert mit der britischen Regierung an einem KI-gestützten Prototyp zur Beschleunigung von Planungsentscheidungen im Wohnungsbau. Das Projekt zielt darauf ab, die Genehmigungsverfahren zu verkürzen.",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/"
     },
     {
-      "text": "Anthropic erhielt Anweisung der US-Regierung, den Zugang zu Claude-Modellen Fable 5 und Mythos 5 für ausländische Nutzer zu sperren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls"
+      "text": "Android 17 startet mit neuen Multitasking-Tools und erweiterten Gemini-KI-Funktionen. Googles Integration von KI-Features in das Betriebssystem wird umfassend ausgebaut.",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/"
     },
     {
-      "text": "Respond.io, eine KI-Messaging-App aus Malaysia, sammelt 62,5 Millionen Dollar ein und plant Akquisitionen in Nordamerika und Europa.",
-      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/"
+      "text": "OpenAI präsentiert eine neue Methode zur Vorhersage von Modellverhalten vor dem Release durch Deployment-Simulation. Dies verbessert die Risikobewertung vor der Veröffentlichung erheblich.",
+      "url": "https://openai.com/index/deployment-simulation"
     },
     {
-      "text": "Nvidia plant Anleiheverkauf über 25 Milliarden Dollar – das erste Schuldenpapiergeschäft seit 2021 – um Nachfrage im KI-Sektor zu testen.",
-      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/"
+      "text": "SpaceX kauft die KI-Coding-Plattform Cursor für 60 Milliarden Dollar. Das Unternehmen will damit in der Enterprise-KI aufgeholt zu OpenAI und Anthropic.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion"
     },
     {
-      "text": "Meta's neue KI-Suchfunktion nutzt öffentliche Facebook-Beiträge, um KI-generierte Antworten auf Nutzerfragen zu generieren.",
-      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
+      "text": "Qualcomm stellt den Snapdragon Reality Elite vor, ein leistungsstarker Chip für AR/XR-Brillen. Das Chip wird zunächst in Xreals Aura-Brille im Herbst integriert.",
+      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables"
     },
     {
-      "text": "OpenAI gibt Startschuss für globales Partner-Netzwerk, um Unternehmen bei der KI-Transformation mit industriespezifischem Fachwissen zu unterstützen.",
-      "url": "https://openai.com/index/introducing-openai-partner-network"
+      "text": "Experten warnen, dass gefährliche KI-Modelle unabhängig von Regulierungsbemühungen entwickelt werden. Die Warnung verdeutlicht die Herausforderungen bei der Kontrolle von KI-Fortschritten.",
+      "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/"
     }
   ]
 }
