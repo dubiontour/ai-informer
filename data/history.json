@@ -1,10 +1,136 @@
 [
   {
+    "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
+    "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-18T06:00:00.000Z"
+  },
+  {
+    "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-18T03:12:31.000Z"
+  },
+  {
+    "title": "How to turn off AI in your Google Docs",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-18T01:23:51.000Z"
+  },
+  {
+    "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-17T22:52:00.000Z"
+  },
+  {
+    "title": "Roelof Botha joins SpaceX&#8217;s board of directors",
+    "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-17T20:32:52.000Z"
+  },
+  {
+    "title": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive",
+    "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-17T20:24:28.000Z"
+  },
+  {
+    "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+    "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-17T19:25:19.000Z"
+  },
+  {
+    "title": "Anthropic got hit by export rules nobody understands",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-17T18:28:50.000Z"
+  },
+  {
+    "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
+    "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-17T18:25:35.000Z"
+  },
+  {
+    "title": "\"Dangerous\" AI models are coming no matter what",
+    "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-17T17:50:46.000Z"
+  },
+  {
+    "title": "Two-thirds of Americans think AI is advancing too quickly",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-17T17:20:24.000Z"
+  },
+  {
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "link": "https://github.com/Adam-CAD/CADAM",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-17T16:14:04.000Z"
+  },
+  {
+    "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+    "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-17T15:57:14.000Z"
+  },
+  {
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "link": "https://huggingface.co/blog/allenai/molmomotion",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-17T15:26:44.000Z"
+  },
+  {
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-17T10:18:05.000Z"
+  },
+  {
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "link": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-17T10:00:00.000Z"
+  },
+  {
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-17T09:01:25.000Z"
+  },
+  {
     "title": "The founder's playbook: Building an AI-native startup",
     "link": "https://claude.com/blog/the-founders-playbook",
     "source": "Hacker News AI",
     "category": "Community",
     "pubDate": "2026-06-17T07:04:42.000Z"
+  },
+  {
+    "title": "Introducing LifeSciBench",
+    "link": "https://openai.com/index/introducing-life-sci-bench",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-17T00:00:00.000Z"
   },
   {
     "title": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests",
@@ -2826,138 +2952,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-05-19T10:45:00.000Z"
-  },
-  {
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-19T00:53:10.000Z"
-  },
-  {
-    "title": "Introducing the Ettin Reranker Family",
-    "link": "https://huggingface.co/blog/ettin-reranker",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-19T00:00:00.000Z"
-  },
-  {
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-18T21:29:31.000Z"
-  },
-  {
-    "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
-    "link": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-18T20:27:15.000Z"
-  },
-  {
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-18T19:27:52.000Z"
-  },
-  {
-    "title": "Musk v. Altman proved that AI is led by the wrong people",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-18T19:00:00.000Z"
-  },
-  {
-    "title": "Fast-tracking genetic leads to reverse cellular aging",
-    "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-05-18T18:21:39.000Z"
-  },
-  {
-    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-    "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-18T18:09:41.000Z"
-  },
-  {
-    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-    "link": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-18T17:40:30.000Z"
-  },
-  {
-    "title": "Elon Musk loses his case against Sam Altman",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-18T17:39:32.000Z"
-  },
-  {
-    "title": "What to expect from Google this week",
-    "link": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-18T17:35:43.000Z"
-  },
-  {
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-18T17:34:43.000Z"
-  },
-  {
-    "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-    "link": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-18T16:01:39.000Z"
-  },
-  {
-    "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-18T16:00:21.000Z"
-  },
-  {
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "link": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-18T15:12:46.000Z"
-  },
-  {
-    "title": "The Open Agent Leaderboard",
-    "link": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-18T14:12:58.000Z"
-  },
-  {
-    "title": "Bug bounty businesses bombarded with AI slop",
-    "link": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-18T13:23:34.000Z"
-  },
-  {
-    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-    "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-18T10:00:00.000Z"
-  },
-  {
-    "title": "I’m a Normie. Can Normies Really Vibe Code?",
-    "link": "https://www.wired.com/story/normie-vibe-code/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-18T10:00:00.000Z"
   }
 ]
