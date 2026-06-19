@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "items": [
     {
-      "text": "Großbritannien plant, die Gesichter von Asylbewerbern für Altersbestimmungen zu scannen, obwohl bekannt ist, dass die Gesichtserkennungstechnologie fehlerhaft ist.",
-      "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/"
+      "text": "Die USA behaupten, dass ASMLs fortschrittlichstes Chip-Fertigungstool in China sein könnte, während ASML dies bestreitet. Der Streit zeigt die Spannungen um Halbleiter-Exportkontrollen zwischen den USA und China.",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
     },
     {
-      "text": "Midjourney entwickelt ein medizinisches KI-Projekt zur Generierung von Ultraschallbildern und behauptet, dass dies in vielen Aspekten sogar MRT-Maschinen überlegen sein könnte.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan"
+      "text": "Barret Zoph verlässt OpenAI nach nur fünf Monaten erneut. Er war erst im Januar zurückgekehrt, nachdem er zuvor Mitgründer von Mira Murati's Konkurrenzunternehmen Thinking Machines Lab war.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab"
     },
     {
-      "text": "Anthropic musste seine fortgeschrittenen Claude-Modelle (Fable 5 und Mythos 5) aufgrund neuer US-amerikanischer Exportkontrollbestimmungen offline nehmen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls"
+      "text": "Elastic kauft das CRV-unterstützte Unternehmen DeductiveAI für bis zu 85 Millionen Dollar. Der Deal stärkt Elastics Position im AI-Inference-Markt.",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
     },
     {
-      "text": "Nvidia-KI-Coding-Agenten haben erfolgreich Roboter trainiert, komplexe Aufgaben wie GPU-Installation und Reißverschluss-Schneiden autonom auszuführen.",
-      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/"
+      "text": "Das Weiße Haus legt die Regeln für KI-Regulierung in Echtzeit fest, insbesondere bei Export-Kontrollen und der Oversight von KI-Modellen wie Anthropics Mythos.",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/"
     },
     {
-      "text": "Zwei Drittel der Amerikaner glauben laut einer Pew-Research-Umfrage, dass KI zu schnell voranschreitet, während die Chatbot-Nutzung zunimmt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly"
+      "text": "Taiwan erhöht seine Drohnenproduktion für die Verteidigung gegen China und für den US-Militär. Das Land plant 6,6 Milliarden Dollar über sechs Jahre für inländische Drohnenproduktion aus.",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/"
     },
     {
-      "text": "Snapchat enthüllt hochpreisige AR-Brille, was zu einem Kurseinbruch der Snap-Aktie führt.",
-      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/"
+      "text": "Bernie Sanders enthüllt einen aggressiven 7-Billionen-Dollar-Plan, um führende KI-Firmen zu besteuern und die Kontrolle über die KI-Industrie in die Hände der Amerikaner zu geben.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/"
     },
     {
-      "text": "Googles neuer Smart Speaker mit Gemini-Integration wird am 25. Juni für 100 Dollar in den Handel kommen und kann ab sofort vorbestellt werden.",
-      "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/"
+      "text": "OpenAI führt verbesserte Spend-Controls und Usage-Analytics für ChatGPT Enterprise ein, um Organisationen mehr Kontrolle über KI-Deployments und Kosten zu geben.",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
     }
   ]
 }

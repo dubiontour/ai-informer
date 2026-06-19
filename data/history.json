@@ -1,5 +1,110 @@
 [
   {
+    "title": "The US says ASML&#8217;s top chip tool may be in China. ASML says it isn&#8217;t",
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-19T07:59:12.000Z"
+  },
+  {
+    "title": "Barret Zoph is out at OpenAI again after just five months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-19T04:49:33.000Z"
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-19T00:51:11.000Z"
+  },
+  {
+    "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+    "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-18T22:12:45.000Z"
+  },
+  {
+    "title": "As China looms, Taiwan makes more drones for defense and the US military",
+    "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-18T21:21:26.000Z"
+  },
+  {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-18T21:20:13.000Z"
+  },
+  {
+    "title": "The White House Is Making Up Its Rules for AI in Real Time",
+    "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-18T21:03:43.000Z"
+  },
+  {
+    "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-18T19:29:51.000Z"
+  },
+  {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-18T18:13:13.000Z"
+  },
+  {
+    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+    "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-18T17:02:49.000Z"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-18T17:00:00.000Z"
+  },
+  {
+    "title": "Amazon employees say they’re facing termination for backing data center limits",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-18T16:00:00.000Z"
+  },
+  {
+    "title": "Who decides when AI is too dangerous?",
+    "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-18T14:00:00.000Z"
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-18T11:00:00.000Z"
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-18T08:00:00.000Z"
+  },
+  {
     "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
     "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
     "source": "Wired AI",
@@ -19,6 +124,20 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-06-18T01:23:51.000Z"
+  },
+  {
+    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "link": "https://huggingface.co/blog/peft-beyond-lora",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "link": "https://huggingface.co/blog/is-it-agentic-enough",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-18T00:00:00.000Z"
   },
   {
     "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
@@ -2791,166 +2910,5 @@
     "source": "Hacker News AI",
     "category": "Community",
     "pubDate": "2026-05-20T10:04:28.000Z"
-  },
-  {
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-20T00:00:00.000Z"
-  },
-  {
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-20T00:00:00.000Z"
-  },
-  {
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "link": "https://openai.com/index/ramp",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-20T00:00:00.000Z"
-  },
-  {
-    "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
-    "link": "https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-19T22:53:04.000Z"
-  },
-  {
-    "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-    "link": "https://github.com/wiltodelta/remove-ai-watermarks",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-19T22:30:31.000Z"
-  },
-  {
-    "title": "Demis Hassabis said this might be the ‘foothills of the singularity.’ What?",
-    "link": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-19T22:16:02.000Z"
-  },
-  {
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-19T21:33:30.000Z"
-  },
-  {
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-19T21:25:31.000Z"
-  },
-  {
-    "title": "The future of Google is a search box that does everything",
-    "link": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-19T21:24:14.000Z"
-  },
-  {
-    "title": "How to use Google’s new AI agents to go beyond your standard searches",
-    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-19T21:16:25.000Z"
-  },
-  {
-    "title": "Google’s AI future demands trust — and your personal data",
-    "link": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-19T21:00:00.000Z"
-  },
-  {
-    "title": "Introducing OpenAI for Singapore",
-    "link": "https://openai.com/index/introducing-openai-for-singapore",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-19T20:30:00.000Z"
-  },
-  {
-    "title": "Roundtables: Inside the Musk v. Altman Trial",
-    "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-19T20:15:18.000Z"
-  },
-  {
-    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-    "link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-19T20:00:48.000Z"
-  },
-  {
-    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-    "link": "https://openai.com/index/advancing-content-provenance/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-19T19:34:30.000Z"
-  },
-  {
-    "title": "Mistral AI acquires Emmi AI",
-    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-19T19:14:12.000Z"
-  },
-  {
-    "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
-    "link": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-19T19:00:46.000Z"
-  },
-  {
-    "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
-    "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-19T18:55:56.000Z"
-  },
-  {
-    "title": "OlmoEarth v1.1: A more efficient family of models",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-19T18:38:09.000Z"
-  },
-  {
-    "title": "Google&#039;s SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-    "link": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-19T18:37:02.000Z"
-  },
-  {
-    "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
-    "link": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-19T18:11:50.000Z"
-  },
-  {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "source": "VentureBeat AI",
-    "category": "News",
-    "pubDate": "2026-05-19T17:45:00.000Z"
-  },
-  {
-    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "link": "https://openai.com/index/advancing-content-provenance",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-19T10:45:00.000Z"
   }
 ]
