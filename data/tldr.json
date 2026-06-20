@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "items": [
     {
-      "text": "Die USA behaupten, dass ASMLs fortschrittlichstes Chip-Fertigungstool in China sein könnte, während ASML dies bestreitet. Der Streit zeigt die Spannungen um Halbleiter-Exportkontrollen zwischen den USA und China.",
-      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/"
+      "text": "Historische Export-Kontrollen wie PGP-Verschlüsselung zeigen, dass Regulierungsmaßnahmen technische Innovation nicht verhindern können. Ein neuer Artikel analysiert, warum auch aktuelle Cyber-Export-Controls wahrscheinlich scheitern werden.",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/"
     },
     {
-      "text": "Barret Zoph verlässt OpenAI nach nur fünf Monaten erneut. Er war erst im Januar zurückgekehrt, nachdem er zuvor Mitgründer von Mira Murati's Konkurrenzunternehmen Thinking Machines Lab war.",
+      "text": "Trotz US-Regierungsbans für Anthropic's Fable 5 zeigen die Nutzungszahlen keine signifikanten Auswirkungen. Das Verbot scheint dem Ruf des Unternehmens nicht zu schaden.",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/"
+    },
+    {
+      "text": "Norwegen führt ein striktes KI-Verbot in Grundschulen ein und setzt damit ein starkes Zeichen gegen den Einsatz von Künstlicher Intelligenz im frühen Bildungswesen.",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"
+    },
+    {
+      "text": "Ein Startup behauptet, einen kritischen Engpass bei der Entwicklung von Large Language Models durchbrochen zu haben. Die Technologie könnte bedeutende Fortschritte in der KI ermöglichen.",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+    },
+    {
+      "text": "Barret Zoph verlässt OpenAI erneut nach nur fünf Monaten, nachdem er im Januar als Co-Gründer von Thinking Machines Lab zurückkehrte. Seine zweite Amtszeit bei OpenAI endet überraschend schnell.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab"
     },
     {
-      "text": "Elastic kauft das CRV-unterstützte Unternehmen DeductiveAI für bis zu 85 Millionen Dollar. Der Deal stärkt Elastics Position im AI-Inference-Markt.",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/"
-    },
-    {
-      "text": "Das Weiße Haus legt die Regeln für KI-Regulierung in Echtzeit fest, insbesondere bei Export-Kontrollen und der Oversight von KI-Modellen wie Anthropics Mythos.",
-      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/"
-    },
-    {
-      "text": "Taiwan erhöht seine Drohnenproduktion für die Verteidigung gegen China und für den US-Militär. Das Land plant 6,6 Milliarden Dollar über sechs Jahre für inländische Drohnenproduktion aus.",
-      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/"
-    },
-    {
-      "text": "Bernie Sanders enthüllt einen aggressiven 7-Billionen-Dollar-Plan, um führende KI-Firmen zu besteuern und die Kontrolle über die KI-Industrie in die Hände der Amerikaner zu geben.",
+      "text": "Bernie Sanders präsentiert einen aggressiven $7-Billionen-Plan zur Umverteilung von AI-Reichtum durch eine 50%-Steuer auf die Aktien der größten KI-Unternehmen. Der Fonds würde Hunderte Milliarden Dollar generieren.",
       "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/"
     },
     {
-      "text": "OpenAI führt verbesserte Spend-Controls und Usage-Analytics für ChatGPT Enterprise ein, um Organisationen mehr Kontrolle über KI-Deployments und Kosten zu geben.",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      "text": "Amazon-Mitarbeiter berichten von Kündigungen als Vergeltung für die Unterstützung einer Obergrenze für Datenzentren in Seattle. Das Unternehmen soll Ingenieure diszipliniert haben, die bei Stadt-Anhörungen aussagten.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action"
     }
   ]
 }
