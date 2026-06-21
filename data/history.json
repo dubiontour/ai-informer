@@ -1,5 +1,61 @@
 [
   {
+    "title": "The 100k Whys of AI",
+    "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-21T05:45:21.000Z"
+  },
+  {
+    "title": "Building reliable agentic AI systems",
+    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-21T04:28:39.000Z"
+  },
+  {
+    "title": "When I reject AI code even if it works",
+    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-21T00:58:13.000Z"
+  },
+  {
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-20T20:32:29.000Z"
+  },
+  {
+    "title": "In the Weights is your new AI-centric vanity search",
+    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-20T19:41:11.000Z"
+  },
+  {
+    "title": "The Atlantic created a searchable database of the music used to train AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-20T18:46:48.000Z"
+  },
+  {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-20T16:39:57.000Z"
+  },
+  {
+    "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+    "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-20T10:00:00.000Z"
+  },
+  {
     "title": "From PGP to Mythos: a brief history of export controls that didn&#8217;t stop anyone",
     "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
     "source": "TechCrunch AI",
@@ -2735,124 +2791,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-05-22T09:00:00.000Z"
-  },
-  {
-    "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-    "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-22T00:04:25.000Z"
-  },
-  {
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-22T00:00:00.000Z"
-  },
-  {
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "link": "https://openai.com/index/virgin-atlantic",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-22T00:00:00.000Z"
-  },
-  {
-    "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
-    "link": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-21T21:51:26.000Z"
-  },
-  {
-    "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-21T20:44:53.000Z"
-  },
-  {
-    "title": "Roundtables: Can AI Learn to Understand the World?",
-    "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-21T20:41:05.000Z"
-  },
-  {
-    "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-21T20:00:06.000Z"
-  },
-  {
-    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-    "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-05-21T19:46:42.000Z"
-  },
-  {
-    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-    "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-21T19:45:00.000Z"
-  },
-  {
-    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-    "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-21T19:19:05.000Z"
-  },
-  {
-    "title": "Scaling creativity in the age of AI",
-    "link": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-21T19:16:43.000Z"
-  },
-  {
-    "title": "Trump delays AI security executive order, saying language &#8216;could have been a blocker&#8217;",
-    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-21T17:30:45.000Z"
-  },
-  {
-    "title": "This AI guitar pedal let me roll my own effects",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-21T17:00:00.000Z"
-  },
-  {
-    "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
-    "link": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-21T15:48:24.000Z"
-  },
-  {
-    "title": "Anthropic’s Code with Claude showed off coding&#8217;s future—whether you like it or not",
-    "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-21T14:30:45.000Z"
-  },
-  {
-    "title": "AdventHealth advances whole-person care with OpenAI",
-    "link": "https://openai.com/index/adventhealth",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-21T12:00:00.000Z"
-  },
-  {
-    "title": "Throwing AI-generated walls of text into conversations",
-    "link": "https://noslopgrenade.com/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-21T09:31:15.000Z"
   }
 ]
