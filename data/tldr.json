@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "items": [
     {
-      "text": "Bayer entwickelt mit Thoughtworks PRINCE, ein agentic AI-System für die Pharmaindustrie, das Sicherheitsstudien integriert und komplexe Forschungsfragen beantwortet sowie regulatorische Dokumente entwirft.",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html"
+      "text": "Samsung Electronics startet eine der größten Enterprise-Deployments von OpenAI und stellt ChatGPT Enterprise und Codex allen Mitarbeitern in Korea sowie weltweit in der Device eXperience Division zur Verfügung.",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
     },
     {
-      "text": "Entwickler lehnen teilweise KI-generierte Code-Lösungen ab, obwohl sie funktionieren, um die kognitiven Anforderungen bei der Code-Review zu reduzieren und bessere architektonische Entscheidungen zu treffen.",
-      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/"
+      "text": "Apple führt in iOS 27 praktische KI-Features ein, die über Siri hinausgehen und die iPhone-Nutzung erweitern werden.",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/"
     },
     {
-      "text": "Signal-Chefin Meredith Whittaker warnt davor, dass AI-Chatbots keine Freunde sind und mahnt zur kritischen Distanz gegenüber diesen Systemen.",
+      "text": "Meredith Whittaker von Signal warnt davor, dass AI-Chatbots keine Freunde sind, und mahnt zur kritischen Distanz gegenüber diesen Systemen.",
       "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/"
     },
     {
-      "text": "Nobelpreisträger John Jumper verlässt DeepMind und wechselt zu Rivale Anthropic, ein bedeutender Wechsel in der KI-Forschungslandschaft.",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/"
-    },
-    {
-      "text": "The Atlantic hat eine durchsuchbare Datenbank mit Musik erstellt, die zur KI-Ausbildung verwendet wurde, obwohl die Tracks nicht dafür bestimmt waren.",
+      "text": "The Atlantic hat eine durchsuchbare Datenbank mit Millionen von Musikstücken erstellt, die für KI-Training verwendet wurden, obwohl sie nicht offiziell darin sein sollten.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data"
     },
     {
-      "text": "Apples neue Siri-Integration zeigt einen intelligenten, hilfreichen KI-Assistenten, der direkt auf iPhones funktioniert.",
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/"
+      "text": "Betrugsfälle rund um die Fußball-Weltmeisterschaft werden immer schwerer zu erkennen, da KI-generierte Inhalte realistischer werden.",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/"
     },
     {
-      "text": "Ein Startup behauptet, einen Engpass überwunden zu haben, der die Entwicklung von Large Language Models bremst.",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+      "text": "Apertus präsentiert ein neues Open Foundation Model für souveräne KI-Systeme, das Unabhängigkeit von kommerziellen Anbietern ermöglichen soll.",
+      "url": "https://apertvs.ai/"
+    },
+    {
+      "text": "Eine Anleitung mit 28 Tipps hilft Nutzern, ihre ChatGPT-Prompts auf das nächste Level zu bringen und bessere Ergebnisse zu erzielen.",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/"
     }
   ]
 }
