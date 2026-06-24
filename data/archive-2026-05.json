@@ -1,5 +1,54 @@
 [
   {
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "link": "https://huggingface.co/blog/agent-glossary",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-25T00:00:00.000Z"
+  },
+  {
+    "title": "Everyone is navigating AI security in real time &#8212; even Google",
+    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-24T21:39:21.000Z"
+  },
+  {
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-24T16:31:29.000Z"
+  },
+  {
+    "title": "I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped out",
+    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-24T15:00:00.000Z"
+  },
+  {
+    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+    "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-24T12:00:00.000Z"
+  },
+  {
+    "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+    "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-24T10:30:00.000Z"
+  },
+  {
     "title": "Ferrari is using IBM&#8217;s AI to create F1 superfans",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "source": "TechCrunch AI",

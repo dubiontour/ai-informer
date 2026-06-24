@@ -1,5 +1,96 @@
 [
   {
+    "title": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-23T23:30:00.000Z"
+  },
+  {
+    "title": "Google Home will soon get better at recognizing you",
+    "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-23T22:28:19.000Z"
+  },
+  {
+    "title": "Hollywood is bending the knee to OpenAI",
+    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-23T22:03:18.000Z"
+  },
+  {
+    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-23T20:17:38.000Z"
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "title": "Why corporate AI super PACs spent $27 million on a local election",
+    "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-23T17:00:00.000Z"
+  },
+  {
+    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-23T14:00:00.000Z"
+  },
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-23T13:00:00.000Z"
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-23T12:51:55.000Z"
+  },
+  {
+    "title": "How to burst the AI bubble: Strike at its roots",
+    "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-23T12:00:34.000Z"
+  },
+  {
+    "title": "The Low-Tech AI of Elden Ring",
+    "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-23T11:40:50.000Z"
+  },
+  {
+    "title": "The $400 million machine powering the future of chipmaking",
+    "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-23T09:00:00.000Z"
+  },
+  {
     "title": "The running list: major tech layoffs in 2026 where employers cited AI",
     "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch AI",
@@ -23,6 +114,13 @@
   {
     "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
     "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-06-23T00:00:00.000Z"
@@ -2791,54 +2889,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-05-25T10:30:00.000Z"
-  },
-  {
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-25T00:00:00.000Z"
-  },
-  {
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "link": "https://huggingface.co/blog/agent-glossary",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-25T00:00:00.000Z"
-  },
-  {
-    "title": "Everyone is navigating AI security in real time &#8212; even Google",
-    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-24T21:39:21.000Z"
-  },
-  {
-    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-    "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-24T16:31:29.000Z"
-  },
-  {
-    "title": "I tried Amazon&#8217;s Bee wearable and am both intrigued and slightly creeped out",
-    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-24T15:00:00.000Z"
-  },
-  {
-    "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
-    "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-24T12:00:00.000Z"
-  },
-  {
-    "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
-    "link": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-24T10:30:00.000Z"
   }
 ]

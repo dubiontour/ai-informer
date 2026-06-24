@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "items": [
     {
-      "text": "Tech-Unternehmen führen 2026 verstärkt Massenentlassungen durch und nennen dabei AI als Hauptgrund für Stellenabbau und Automatisierung in verschiedenen Branchen.",
-      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+      "text": "MoEngage setzt auf Millionen von KI-Agenten als Zukunft des Marketings. Das indische Unternehmen vertraut darauf, dass autonome KI-Agenten die nächste Evolutionsstufe im Marketing-Bereich darstellen.",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/"
     },
     {
-      "text": "OpenAI startet eine neue Initiative zur Identifikation und Behebung von Bugs in Open-Source-Projekten.",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/"
+      "text": "Google Home wird bald Menschen anhand von Kleidung und spezifischen Sounds erkennen können. Die neue Fähigkeit verbessert die Identifikation von Personen in Smart-Home-Szenarien erheblich.",
+      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing"
     },
     {
-      "text": "Nvidia entwickelt neue Rechenzentren mit 100-prozentiger Flüssigkühlung, die trotz höherer Betriebstemperaturen den Wasserverbrauch nahezu auf null reduzieren.",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling"
+      "text": "Hollywood zeigt Bereitschaft, sich OpenAI unterzuordnen. Große Studios lehnen es ab, Luca Guadagninos KI-Film zu erwerben, was auf ein problematisches Verhalten der Unterhaltungsindustrie hindeutet.",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt"
     },
     {
-      "text": "General Motors installiert etwa 50 Roboter in seiner Flaggschiff-EV-Fabrik in Detroit, während 1.300 Arbeiter nach temporären Entlassungen noch ohne Job sind.",
-      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/"
+      "text": "Oracle führte 21.000 Entlassungen durch, um schuldenfinanzierte KI-Investitionen voranzutreiben. Die Reduktion um 12,9 Prozent der Belegschaft wird direkt mit KI-Deployment und Datencenter-Expansion begründet.",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
     },
     {
-      "text": "Meta pausiert sein umstrittenes Mitarbeiter-Tracking-Programm nach einem internen Datenleck, bei dem Tastaturanschlag-Daten allen Mitarbeitern zugänglich waren.",
-      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/"
+      "text": "GPT-5 half einem Immunologen, ein 3 Jahre altes Rätsel zu lösen. Das Modell unterstützte Derya Unutmaz bei der Forschung zu T-Zellen und könnte künftig Krebsforschung beschleunigen.",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery"
     },
     {
-      "text": "Anthropic gerät in Konflikt mit der US-Regierung: Das Unternehmen warnt deutlich häufiger vor AI-Risiken als OpenAI und könnte dadurch zu einem Export-Verbot seiner neuesten Modelle beigetragen haben.",
-      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
+      "text": "Anthropics Claude Tag lernt Unternehmenskultur durch Slack-Nachrichten. Das System nutzt unternehmenseigene Kommunikation, um sich besser an spezifische Organisationen anzupassen.",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/"
     },
     {
-      "text": "AI-gestützte Virtual-Staging-Tools in Immobilienanzeigen zeigen unrealistische Wohnräume und täuschen Mietinteressenten über tatsächliche Größe und Ausstattung.",
-      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings"
+      "text": "Unternehmens-KI Super PACs gaben 27 Millionen Dollar für eine lokale Wahl aus. Die massive Investition in ein New York Democratic Primary könnte ein Signal für kommende Wahlzyklen sein.",
+      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district"
     }
   ]
 }
