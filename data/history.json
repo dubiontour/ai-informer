@@ -1,5 +1,138 @@
 [
   {
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-26T02:29:23.000Z"
+  },
+  {
+    "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+    "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-26T00:49:13.000Z"
+  },
+  {
+    "title": "Run a vLLM Server on HF Jobs in One Command",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-25T23:34:39.000Z"
+  },
+  {
+    "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-25T23:13:45.000Z"
+  },
+  {
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-25T21:57:06.000Z"
+  },
+  {
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-25T20:19:25.000Z"
+  },
+  {
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-25T19:04:57.000Z"
+  },
+  {
+    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+    "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-25T18:38:51.000Z"
+  },
+  {
+    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+    "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-25T18:01:48.000Z"
+  },
+  {
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-25T17:38:44.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-25T17:38:27.000Z"
+  },
+  {
+    "title": "Which tokens does a hybrid model predict better?",
+    "link": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-25T16:11:42.000Z"
+  },
+  {
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "link": "https://github.com/inkeep/open-knowledge",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-25T16:04:46.000Z"
+  },
+  {
+    "title": "Repositioning retail for the AI era",
+    "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-25T14:22:59.000Z"
+  },
+  {
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-25T12:00:00.000Z"
+  },
+  {
+    "title": "World Cup Teams Are in a Race for AI Dominance",
+    "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-25T11:00:00.000Z"
+  },
+  {
+    "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+    "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-25T09:06:19.000Z"
+  },
+  {
+    "title": "How agents are transforming work",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-25T02:00:00.000Z"
+  },
+  {
     "title": "Europe is pushing back on Washington&#8217;s chip war",
     "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
     "source": "TechCrunch AI",
@@ -2833,138 +2966,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-05-27T10:30:28.000Z"
-  },
-  {
-    "title": "Building self-improving tax agents with Codex",
-    "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-27T07:00:00.000Z"
-  },
-  {
-    "title": "Did the Pope use AI to write about the dangers of AI?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-27T00:38:11.000Z"
-  },
-  {
-    "title": "Election information and safeguards in 2026",
-    "link": "https://openai.com/index/election-safeguards-2026",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-27T00:00:00.000Z"
-  },
-  {
-    "title": "Reachy Mini goes fully local",
-    "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-27T00:00:00.000Z"
-  },
-  {
-    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-    "link": "https://huggingface.co/blog/delta-weight-sync",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-27T00:00:00.000Z"
-  },
-  {
-    "title": "Pope Leo Schooled the Tech Bros on Tolkien",
-    "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-26T23:19:03.000Z"
-  },
-  {
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-26T22:32:56.000Z"
-  },
-  {
-    "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-    "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-26T20:46:03.000Z"
-  },
-  {
-    "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-    "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-26T20:17:47.000Z"
-  },
-  {
-    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-    "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-26T19:50:33.000Z"
-  },
-  {
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-26T18:33:01.000Z"
-  },
-  {
-    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
-    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-26T17:46:01.000Z"
-  },
-  {
-    "title": "3D-printable humanoid legs let robotics experiments run wild",
-    "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-26T17:16:07.000Z"
-  },
-  {
-    "title": "This startup is betting India&#8217;s gig economy can train the world&#8217;s robots",
-    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-26T16:00:00.000Z"
-  },
-  {
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-26T14:54:10.000Z"
-  },
-  {
-    "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
-    "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-26T14:00:00.000Z"
-  },
-  {
-    "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-26T12:46:03.000Z"
-  },
-  {
-    "title": "A reality check on the AI jobs hysteria",
-    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-26T09:00:00.000Z"
-  },
-  {
-    "title": "It’s time to address the looming crisis in entry-level work.",
-    "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-05-26T09:00:00.000Z"
   }
 ]

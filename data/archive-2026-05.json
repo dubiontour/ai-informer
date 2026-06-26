@@ -1,5 +1,138 @@
 [
   {
+    "title": "Building self-improving tax agents with Codex",
+    "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-27T07:00:00.000Z"
+  },
+  {
+    "title": "Did the Pope use AI to write about the dangers of AI?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-27T00:38:11.000Z"
+  },
+  {
+    "title": "Election information and safeguards in 2026",
+    "link": "https://openai.com/index/election-safeguards-2026",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "Reachy Mini goes fully local",
+    "link": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "link": "https://huggingface.co/blog/delta-weight-sync",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+    "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-26T23:19:03.000Z"
+  },
+  {
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-26T22:32:56.000Z"
+  },
+  {
+    "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+    "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-26T20:46:03.000Z"
+  },
+  {
+    "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+    "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-26T20:17:47.000Z"
+  },
+  {
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "link": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-26T19:50:33.000Z"
+  },
+  {
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-26T18:33:01.000Z"
+  },
+  {
+    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+    "link": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-26T17:46:01.000Z"
+  },
+  {
+    "title": "3D-printable humanoid legs let robotics experiments run wild",
+    "link": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-26T17:16:07.000Z"
+  },
+  {
+    "title": "This startup is betting India&#8217;s gig economy can train the world&#8217;s robots",
+    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-26T16:00:00.000Z"
+  },
+  {
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-26T14:54:10.000Z"
+  },
+  {
+    "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+    "link": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-26T14:00:00.000Z"
+  },
+  {
+    "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-26T12:46:03.000Z"
+  },
+  {
+    "title": "A reality check on the AI jobs hysteria",
+    "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-26T09:00:00.000Z"
+  },
+  {
+    "title": "It’s time to address the looming crisis in entry-level work.",
+    "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-26T09:00:00.000Z"
+  },
+  {
     "title": "Using AI to write better code more slowly",
     "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
     "source": "Hacker News AI",
