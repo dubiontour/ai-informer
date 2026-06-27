@@ -1,5 +1,89 @@
 [
   {
+    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-27T01:01:37.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos 5 is back",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-27T00:33:44.000Z"
+  },
+  {
+    "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+    "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-27T00:26:14.000Z"
+  },
+  {
+    "title": "South Korea plans to train entire military as \"drone warriors\"",
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-26T22:19:05.000Z"
+  },
+  {
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "link": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-26T20:04:55.000Z"
+  },
+  {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-26T18:32:14.000Z"
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-26T18:19:36.000Z"
+  },
+  {
+    "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+    "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-26T17:05:40.000Z"
+  },
+  {
+    "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-26T17:00:00.000Z"
+  },
+  {
+    "title": "Europe Is Fed Up and Wants Its Own AI",
+    "link": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-26T15:00:00.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s Mythos mess is only getting worse",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-26T14:07:03.000Z"
+  },
+  {
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-26T10:00:00.000Z"
+  },
+  {
     "title": "What happened after 2k people tried to hack my AI assistant",
     "link": "https://www.fernandoi.cl/posts/hackmyclaw/",
     "source": "Hacker News AI",
@@ -2840,131 +2924,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-05-28T09:51:11.000Z"
-  },
-  {
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-28T07:00:00.000Z"
-  },
-  {
-    "title": "Why Google&#8217;s AI can&#8217;t spell Google (or anything else)",
-    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-28T00:17:41.000Z"
-  },
-  {
-    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-    "link": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-28T00:10:42.000Z"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "title": "OpenAI’s Frontier Governance Framework",
-    "link": "https://openai.com/index/openai-frontier-governance-framework",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-28T00:00:00.000Z"
-  },
-  {
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-27T20:10:00.000Z"
-  },
-  {
-    "title": "YouTube to automatically label AI-generated videos",
-    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-27T20:00:51.000Z"
-  },
-  {
-    "title": "Nvidia bets $150B on Taiwan as Trump&#039;s plan to make US an AI hub backfires",
-    "link": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-27T19:59:40.000Z"
-  },
-  {
-    "title": "Huawei's ‘Chip Queen’ Throws Down the Gauntlet",
-    "link": "https://www.wired.com/story/huawei-chip-queen-moores-law-tau/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-27T18:00:00.000Z"
-  },
-  {
-    "title": "YouTube to begin automatically labeling AI videos",
-    "link": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-27T17:36:10.000Z"
-  },
-  {
-    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-    "link": "https://huggingface.co/blog/ibm-research/itbench-aa",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-05-27T17:20:29.000Z"
-  },
-  {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-05-27T16:28:41.000Z"
-  },
-  {
-    "title": "AI tried to bury this politician — now people have actually heard of him",
-    "link": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-27T15:40:00.000Z"
-  },
-  {
-    "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-27T14:36:10.000Z"
-  },
-  {
-    "title": "This smart bird feeder captures more of my backyard drama",
-    "link": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-27T14:00:00.000Z"
-  },
-  {
-    "title": "Former Google and Apple Researchers Launch a Startup to Build AI’s Missing Feedback Loop",
-    "link": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-27T14:00:00.000Z"
-  },
-  {
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "link": "https://openai.com/index/cisco",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-05-27T11:00:00.000Z"
-  },
-  {
-    "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
-    "link": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-05-27T10:30:28.000Z"
   }
 ]
