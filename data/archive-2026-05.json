@@ -1,5 +1,124 @@
 [
   {
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-29T03:00:00.000Z"
+  },
+  {
+    "title": "Glean&#8217;s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-29T00:44:37.000Z"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "link": "https://huggingface.co/blog/torch-profiler",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "title": "LLMs believe false statements even after explicit warnings that they&#039;re false",
+    "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-28T21:29:43.000Z"
+  },
+  {
+    "title": "The internet is being rebuilt for machines",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-28T21:24:01.000Z"
+  },
+  {
+    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-28T20:29:53.000Z"
+  },
+  {
+    "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+    "link": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-28T20:14:07.000Z"
+  },
+  {
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-28T20:06:07.000Z"
+  },
+  {
+    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+    "link": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-28T18:30:48.000Z"
+  },
+  {
+    "title": "Claude’s new model is more ‘honest’ when it messes up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-28T17:00:00.000Z"
+  },
+  {
+    "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+    "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-28T16:08:45.000Z"
+  },
+  {
+    "title": "Here Comes Ojai, Waymo’s New Chinese-Made Robotaxi",
+    "link": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-28T15:00:00.000Z"
+  },
+  {
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "link": "https://llmgame.scalex.dev",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-28T13:02:00.000Z"
+  },
+  {
+    "title": "How Endava builds an agentic organization with Codex",
+    "link": "https://openai.com/index/endava",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-28T12:00:00.000Z"
+  },
+  {
+    "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+    "link": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-28T11:00:00.000Z"
+  },
+  {
+    "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+    "link": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-28T10:30:00.000Z"
+  },
+  {
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-28T09:51:11.000Z"
+  },
+  {
     "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
     "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
     "source": "TechCrunch AI",
