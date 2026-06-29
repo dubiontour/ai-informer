@@ -1,5 +1,117 @@
 [
   {
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-29T22:14:22.000Z"
+  },
+  {
+    "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+    "link": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-29T20:56:59.000Z"
+  },
+  {
+    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+    "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-29T19:07:46.000Z"
+  },
+  {
+    "title": "So you&#8217;ve heard these AI terms and nodded along; let&#8217;s fix that",
+    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-29T18:49:19.000Z"
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-05-29T17:57:05.000Z"
+  },
+  {
+    "title": "Tech companies desperately want to film you doing chores",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-29T17:37:43.000Z"
+  },
+  {
+    "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+    "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-05-29T16:30:00.000Z"
+  },
+  {
+    "title": "Notes from the Mistral AI Now Summit",
+    "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-29T16:22:01.000Z"
+  },
+  {
+    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "link": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-29T16:19:54.000Z"
+  },
+  {
+    "title": "Startup offers free home cleaning—if it can record it all for robot training",
+    "link": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-05-29T16:16:14.000Z"
+  },
+  {
+    "title": "Jony Ive’s funky Ferrari",
+    "link": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-29T12:25:12.000Z"
+  },
+  {
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "link": "https://openai.com/index/boston-childrens-hospital",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-29T12:00:00.000Z"
+  },
+  {
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "link": "https://openai.com/index/braintrust",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-05-29T12:00:00.000Z"
+  },
+  {
+    "title": "This AI startup will clean your home for free to train future robots",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-05-29T11:58:40.000Z"
+  },
+  {
+    "title": "Is AI causing a repeat of frontend’s lost decade?",
+    "link": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-05-29T11:09:32.000Z"
+  },
+  {
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "link": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-05-29T10:00:00.000Z"
+  },
+  {
     "title": "Strengthening societal resilience with Rosalind Biodefense",
     "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "source": "OpenAI",

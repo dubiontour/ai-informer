@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "items": [
     {
-      "text": "Ford entließ Arbeitnehmer zugunsten von KI-Automatisierung, was sich negativ auswirkte. Das Unternehmen musste die Konsequenzen dieser Strategie bewältigen.",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html"
+      "text": "Ein humanoider Roboter zeigt beeindruckende Fähigkeiten als Büro-Praktikant und könnte traditionelle Internships in Zukunft ersetzen.",
+      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/"
     },
     {
-      "text": "Margaret Atwood kritisiert KI mit dem Prinzip \"Garbage in, garbage out\". Die Autorin testete Claude einmalig und war nicht beeindruckt von den Ergebnissen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out"
+      "text": "Chinas Z.ai behauptet, mit Mythos in der Cybersecurity-Analysefähigkeit gleichzuziehen, obwohl GLM-5.2 bei allgemeinen Aufgaben noch hinter Anthropic und OpenAI zurückbleibt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
     },
     {
-      "text": "Ein Apple Vision Pro Executive wechselt Berichten zufolge zu OpenAI. Der Wechsel zeigt die Talentbewegungen zwischen großen Technologieunternehmen.",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/"
+      "text": "Suno startet das Spark-Inkubator-Programm, um unabhängige Künstler in sein KI-Musikgenerator-System zu integrieren.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
     },
     {
-      "text": "Anthropics Mythos 5 ist zurück nach Verhandlungen mit der Trump-Administration. Das Modell steht nun für ausgewählte US-Organisationen zur Verfügung.",
-      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/"
+      "text": "Ford stellt erfahrene Ingenieure wieder ein, nachdem KI-Systeme bei der Automobilentwicklung nicht die erwarteten Ergebnisse lieferten.",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
     },
     {
-      "text": "Asiatische KI-Startups entwickeln Mythos-ähnliche Modelle als Reaktion auf Anthropics Exportverbote. Die Regionalentwicklung von KI-Modellen nimmt zu.",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/"
+      "text": "HP startet strategische Partnerschaft mit OpenAI, um Frontier-KI-Fähigkeiten nach erfolgreichen Pilotprojekten unternehmensübergreifend einzuführen.",
+      "url": "https://openai.com/index/hp-frontier-partnership"
     },
     {
-      "text": "Die New York Times verklagt Microsoft wegen des Baus eines speziellen Supercomputers für OpenAI, um Urheberrechte zu verletzen. Der Fall wird nach dem neuen Supreme-Court-Urteil zu Urheberrechtsverstößen neu bewertet.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/"
+      "text": "Ein Professor an der Brown University prangert massiven KI-Betrug bei Prüfungen an und warnt vor Risiken für die akademische Integrität.",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
     },
     {
-      "text": "Europa plant die Entwicklung eigener KI-Systeme, um weniger abhängig von US-Technologieunternehmen zu sein. Die Initiative zielt auf technologische Unabhängigkeit ab.",
-      "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/"
+      "text": "Ankläger verwendeten ChatGPT-Protokolle als Beweise im Palisades-Feuer-Prozess, aber die Jury war nicht überzeugt und führte zu einem Mistrial.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
     }
   ]
 }
