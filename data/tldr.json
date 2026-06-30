@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "items": [
     {
-      "text": "Ein humanoider Roboter zeigt beeindruckende Fähigkeiten als Büro-Praktikant und könnte traditionelle Internships in Zukunft ersetzen.",
-      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/"
+      "text": "Die Debatte über KI-Auswirkungen auf Arbeitsplätze wird zunehmend komplexer und unübersichtlicher, da neue Daten und Perspektiven die bisherigen Annahmen in Frage stellen.",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
     },
     {
-      "text": "Chinas Z.ai behauptet, mit Mythos in der Cybersecurity-Analysefähigkeit gleichzuziehen, obwohl GLM-5.2 bei allgemeinen Aufgaben noch hinter Anthropic und OpenAI zurückbleibt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity"
+      "text": "Die Coding-Plattform Base44 launcht sein eigenes KI-Modell, um sich gegen größere Konkurrenten zu behaupten - ein Trend unter KI-Startups zur Sicherung ihrer Marktposition.",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
     },
     {
-      "text": "Suno startet das Spark-Inkubator-Programm, um unabhängige Künstler in sein KI-Musikgenerator-System zu integrieren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine"
+      "text": "Meta-Auftragnehmer gaben sich als Teenager aus, um Konkurrenz-Chatbots zu Themen wie Selbstmord, Sex und Drogen zu befragen, um deren Sicherheitsvorkehrungen zu testen.",
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"
     },
     {
-      "text": "Ford stellt erfahrene Ingenieure wieder ein, nachdem KI-Systeme bei der Automobilentwicklung nicht die erwarteten Ergebnisse lieferten.",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/"
+      "text": "Südkorea investiert 1 Billion Dollar in Speicherchip-Produktion und humanoide Roboter mit Ziel der kommerziellen Markteinführung bis 2028.",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
     },
     {
-      "text": "HP startet strategische Partnerschaft mit OpenAI, um Frontier-KI-Fähigkeiten nach erfolgreichen Pilotprojekten unternehmensübergreifend einzuführen.",
-      "url": "https://openai.com/index/hp-frontier-partnership"
+      "text": "Google Gemini bietet personalisierte KI-Bildgenerierung jetzt kostenlos für US-Nutzer an und verstärkt damit den Wettbewerb bei KI-Tools.",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-generation-is-now-free-for-u-s-users/"
     },
     {
-      "text": "Ein Professor an der Brown University prangert massiven KI-Betrug bei Prüfungen an und warnt vor Risiken für die akademische Integrität.",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html"
+      "text": "Tidal wird ab sofort KI-generierte Musik nicht mehr bezahlen und wird sie ab Juli als solche kennzeichnen, verbietet sie aber nicht vollständig.",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label"
     },
     {
-      "text": "Ankläger verwendeten ChatGPT-Protokolle als Beweise im Palisades-Feuer-Prozess, aber die Jury war nicht überzeugt und führte zu einem Mistrial.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial"
+      "text": "Gesetzgeber fordern ein Verbot für KI-Unternehmen, Gesundheitsdaten zu verkaufen, um die Privatsphäre von Chatbot-Nutzern zu schützen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
     }
   ]
 }

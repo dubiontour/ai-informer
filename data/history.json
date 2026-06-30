@@ -1,10 +1,94 @@
 [
   {
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-30T04:01:00.000Z"
+  },
+  {
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-30T02:28:41.000Z"
+  },
+  {
+    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-29T21:49:26.000Z"
+  },
+  {
+    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+    "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-29T21:09:43.000Z"
+  },
+  {
+    "title": "Gemini&#8217;s personalized AI image generation is now free for US users",
+    "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-29T20:12:59.000Z"
+  },
+  {
+    "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+    "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-29T19:47:35.000Z"
+  },
+  {
+    "title": "OpenAI is teasing new hardware… for Codex",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-29T18:52:03.000Z"
+  },
+  {
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-29T18:02:48.000Z"
+  },
+  {
+    "title": "AI agents are not your &#8220;coworkers&#8221;",
+    "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-29T18:00:00.000Z"
+  },
+  {
+    "title": "Lawmakers want to ban AI companies from selling your health data",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-29T16:00:00.000Z"
+  },
+  {
+    "title": "Agent confidence on the technical frontier",
+    "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-29T14:44:01.000Z"
+  },
+  {
     "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
     "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-29T08:00:00.000Z"
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-29T07:00:00.000Z"
   },
   {
     "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
@@ -2756,54 +2840,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-05-31T09:00:00.000Z"
-  },
-  {
-    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-30T21:45:00.000Z"
-  },
-  {
-    "title": "&#8216;What a joke&#8217;: Github Copilot&#8217;s new token-based billing spurs consternation among devs",
-    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-30T16:30:00.000Z"
-  },
-  {
-    "title": "Meta is reportedly developing an AI pendant",
-    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-30T15:59:58.000Z"
-  },
-  {
-    "title": "How one founder’s bet on ‘the old school web’ is paying off",
-    "link": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-30T13:00:00.000Z"
-  },
-  {
-    "title": "AI grifters are creating fake Black people to sell Shein junk",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-30T13:00:00.000Z"
-  },
-  {
-    "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-30T12:00:00.000Z"
-  },
-  {
-    "title": "Do You Actually Need to Pay for Transcription Software?",
-    "link": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-30T09:30:00.000Z"
   }
 ]
