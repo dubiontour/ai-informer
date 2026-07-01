@@ -1,5 +1,124 @@
 [
   {
+    "title": "The &#8216;Father of the Internet&#8217; is finally retiring",
+    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-01T03:15:37.000Z"
+  },
+  {
+    "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
+    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-01T02:16:06.000Z"
+  },
+  {
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-01T02:04:40.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-01T00:03:55.000Z"
+  },
+  {
+    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+    "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-30T23:23:04.000Z"
+  },
+  {
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-30T21:50:04.000Z"
+  },
+  {
+    "title": "New attack provides one more reason why AI browsers are a bad idea",
+    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-30T20:03:14.000Z"
+  },
+  {
+    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-30T19:24:51.000Z"
+  },
+  {
+    "title": "Google&#039;s new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+    "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-30T18:36:10.000Z"
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-30T18:32:50.000Z"
+  },
+  {
+    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-30T17:19:15.000Z"
+  },
+  {
+    "title": "Trump&#039;s plan to redesign every .gov website leads to AI-designed horrors",
+    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-30T16:59:02.000Z"
+  },
+  {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-06-30T16:02:40.000Z"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-30T14:39:11.000Z"
+  },
+  {
+    "title": "Agriculture is ready for AI, but its data isn&#8217;t",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-30T12:00:00.000Z"
+  },
+  {
+    "title": "Bernie Sanders Saw This Coming",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-30T10:30:00.000Z"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-30T09:00:00.000Z"
+  },
+  {
     "title": "The AI jobs debate just got messier",
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "source": "TechCrunch AI",
@@ -12,6 +131,27 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-06-30T02:28:41.000Z"
+  },
+  {
+    "title": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-30T00:00:00.000Z"
   },
   {
     "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
@@ -2805,40 +2945,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-01T11:00:00.000Z"
-  },
-  {
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-01T04:44:55.000Z"
-  },
-  {
-    "title": "Erin Brockovich takes aim at data center secrecy",
-    "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-31T21:05:14.000Z"
-  },
-  {
-    "title": "Making sense of the debate over AI psychosis",
-    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-05-31T15:30:00.000Z"
-  },
-  {
-    "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-05-31T13:00:00.000Z"
-  },
-  {
-    "title": "How Turkey Hacked the Hair Transplant Industry",
-    "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-05-31T09:00:00.000Z"
   }
 ]

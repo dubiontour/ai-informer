@@ -1,33 +1,33 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "items": [
     {
-      "text": "Die Debatte über KI-Auswirkungen auf Arbeitsplätze wird zunehmend komplexer und unübersichtlicher, da neue Daten und Perspektiven die bisherigen Annahmen in Frage stellen.",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/"
+      "text": "Trump-Administration hebt Exportkontrollen für Anthropics Mythos- und Fable-KI-Modelle auf, wodurch die lange blockierten Consumer-Modelle zurück auf den Markt kommen.",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
     },
     {
-      "text": "Die Coding-Plattform Base44 launcht sein eigenes KI-Modell, um sich gegen größere Konkurrenten zu behaupten - ein Trend unter KI-Startups zur Sicherung ihrer Marktposition.",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/"
+      "text": "Anthropic launcht Claude Science als neues Flagship-Produkt und stärkt damit sein Portfolio im wissenschaftlichen KI-Bereich.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
     },
     {
-      "text": "Meta-Auftragnehmer gaben sich als Teenager aus, um Konkurrenz-Chatbots zu Themen wie Selbstmord, Sex und Drogen zu befragen, um deren Sicherheitsvorkehrungen zu testen.",
-      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/"
+      "text": "Google stellt Nano Banana 2 Lite vor – sein schnellstes und günstigstes Bildgenerierungsmodell, ideal für schnelle Prototyping-Anwendungen.",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/"
     },
     {
-      "text": "Südkorea investiert 1 Billion Dollar in Speicherchip-Produktion und humanoide Roboter mit Ziel der kommerziellen Markteinführung bis 2028.",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
+      "text": "Googles NotebookLM erhält neue Funktion zur Erstellung von TikTok-ähnlichen KI-Video-Clips, die Forschungsergebnisse in 60 Sekunden zusammenfassen.",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
     },
     {
-      "text": "Google Gemini bietet personalisierte KI-Bildgenerierung jetzt kostenlos für US-Nutzer an und verstärkt damit den Wettbewerb bei KI-Tools.",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-generation-is-now-free-for-u-s-users/"
+      "text": "Sicherheitsforschung zeigt neue Angriffsmethode gegen KI-Browser, bei der falsche Aussagen (2+2=5) LLMs dazu bringen, Sicherheitsvorkehrungen zu ignorieren.",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
     },
     {
-      "text": "Tidal wird ab sofort KI-generierte Musik nicht mehr bezahlen und wird sie ab Juli als solche kennzeichnen, verbietet sie aber nicht vollständig.",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label"
+      "text": "Wayve startet mit 85 Millionen Dollar Mitarbeiterbeteiligung bei 8,5 Milliarden Dollar Bewertung – deutliches Zeichen für Stabilität im Autonomous-Driving-Sektor.",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
     },
     {
-      "text": "Gesetzgeber fordern ein Verbot für KI-Unternehmen, Gesundheitsdaten zu verkaufen, um die Privatsphäre von Chatbot-Nutzern zu schützen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
+      "text": "Netflix nutzt KI-generierte Gene-Wilder-Stimme in neuer Willy-Wonka-Reality-Show und zeigt praktische Anwendung von Sprachsynthese im Unterhaltungsbereich.",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder"
     }
   ]
 }
