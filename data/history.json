@@ -1,5 +1,68 @@
 [
   {
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-02T05:30:00.000Z"
+  },
+  {
+    "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
+    "link": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-01T20:28:57.000Z"
+  },
+  {
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-01T18:54:18.000Z"
+  },
+  {
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-01T18:47:22.000Z"
+  },
+  {
+    "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+    "link": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-01T18:10:00.000Z"
+  },
+  {
+    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+    "link": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-01T16:44:18.000Z"
+  },
+  {
+    "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+    "link": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-01T16:00:00.000Z"
+  },
+  {
+    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+    "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-01T14:35:16.000Z"
+  },
+  {
+    "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-01T12:00:00.000Z"
+  },
+  {
     "title": "The &#8216;Father of the Internet&#8217; is finally retiring",
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
     "source": "TechCrunch AI",
@@ -26,6 +89,13 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-07-01T00:03:55.000Z"
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-01T00:00:00.000Z"
   },
   {
     "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
@@ -2805,145 +2875,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-06-02T09:00:00.000Z"
-  },
-  {
-    "title": "Advancing youth safety and opportunity through global leadership",
-    "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-02T07:00:00.000Z"
-  },
-  {
-    "title": "Codex is becoming a productivity tool for everyone",
-    "link": "https://openai.com/index/codex-for-knowledge-work",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-02T02:00:00.000Z"
-  },
-  {
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-01T22:55:09.000Z"
-  },
-  {
-    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-    "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-01T22:18:09.000Z"
-  },
-  {
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-01T21:35:00.000Z"
-  },
-  {
-    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
-    "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-01T20:55:15.000Z"
-  },
-  {
-    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-    "link": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-01T20:44:37.000Z"
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-01T20:03:40.000Z"
-  },
-  {
-    "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-    "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-01T20:02:31.000Z"
-  },
-  {
-    "title": "Gemini’s new AI agent is about as good as Google’s demo",
-    "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-01T20:00:00.000Z"
-  },
-  {
-    "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-    "link": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-01T19:20:47.000Z"
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-    "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-01T18:52:19.000Z"
-  },
-  {
-    "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-    "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-01T17:17:58.000Z"
-  },
-  {
-    "title": "Our views on AI policy and political advocacy",
-    "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-01T17:00:00.000Z"
-  },
-  {
-    "title": "AI Agent Guidelines for CS336 at Stanford",
-    "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-01T16:41:49.000Z"
-  },
-  {
-    "title": "Florida sues OpenAI and Sam Altman over AI risks",
-    "link": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-01T16:02:04.000Z"
-  },
-  {
-    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-    "link": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-01T15:45:17.000Z"
-  },
-  {
-    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-    "link": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-01T13:51:18.000Z"
-  },
-  {
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "link": "https://openai.com/index/stargate-michigan-data-center",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-01T12:00:00.000Z"
-  },
-  {
-    "title": "Norse Atlantic Airways Offers Dirt-Cheap Tickets. There’s a Catch",
-    "link": "https://www.wired.com/story/norse-airlines-ftc-complaints-ai-scams/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-01T11:00:00.000Z"
   }
 ]

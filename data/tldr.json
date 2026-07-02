@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "items": [
     {
-      "text": "Trump-Administration hebt Exportkontrollen für Anthropics Mythos- und Fable-KI-Modelle auf, wodurch die lange blockierten Consumer-Modelle zurück auf den Markt kommen.",
-      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
+      "text": "Ein indischer Tech-Mogul investiert $30 Millionen seines eigenen Geldes, um eine KI-Alternative zu Microsoft Office zu entwickeln.",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
     },
     {
-      "text": "Anthropic launcht Claude Science als neues Flagship-Produkt und stärkt damit sein Portfolio im wissenschaftlichen KI-Bereich.",
+      "text": "SpaceX hat einen KI-Geräte-Prototyp entwickelt, der offenbar ähnlich wie ein Smartphone funktioniert.",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+    },
+    {
+      "text": "Die USA heben Exportsperren für Anthropics Claude-Modelle Fable 5 und Mythos 5 auf, nachdem die Trump-Administration Sicherheitsmassnahmen einforderte.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
+    },
+    {
+      "text": "Claude Science ist Anthropics neues Flaggschiff-Produkt und markiert eine strategische Ausrichtung auf wissenschaftliche Anwendungen.",
       "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
     },
     {
-      "text": "Google stellt Nano Banana 2 Lite vor – sein schnellstes und günstigstes Bildgenerierungsmodell, ideal für schnelle Prototyping-Anwendungen.",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/"
+      "text": "Google Gemini für seinen Home Speaker ist noch nicht marktreif, obwohl die Hardware hochwertig ist.",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home"
     },
     {
-      "text": "Googles NotebookLM erhält neue Funktion zur Erstellung von TikTok-ähnlichen KI-Video-Clips, die Forschungsergebnisse in 60 Sekunden zusammenfassen.",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips"
-    },
-    {
-      "text": "Sicherheitsforschung zeigt neue Angriffsmethode gegen KI-Browser, bei der falsche Aussagen (2+2=5) LLMs dazu bringen, Sicherheitsvorkehrungen zu ignorieren.",
+      "text": "Forscher entdecken neue Attacken auf KI-Browser, die Sicherheitsvorkehrungen durch Desinformation umgehen können.",
       "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
     },
     {
-      "text": "Wayve startet mit 85 Millionen Dollar Mitarbeiterbeteiligung bei 8,5 Milliarden Dollar Bewertung – deutliches Zeichen für Stabilität im Autonomous-Driving-Sektor.",
-      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/"
-    },
-    {
-      "text": "Netflix nutzt KI-generierte Gene-Wilder-Stimme in neuer Willy-Wonka-Reality-Show und zeigt praktische Anwendung von Sprachsynthese im Unterhaltungsbereich.",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder"
+      "text": "Googles neues Nano Banana 2 Lite Bildmodell ist das schnellste und günstigste in Googles Portfolio.",
+      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/"
     }
   ]
 }
