@@ -1,5 +1,103 @@
 [
   {
+    "title": "Adding MCP Tools to Reachy Mini",
+    "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-03T00:00:00.000Z"
+  },
+  {
+    "title": "AI outperforms law professors in Stanford Law study",
+    "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-02T23:43:12.000Z"
+  },
+  {
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-02T22:50:56.000Z"
+  },
+  {
+    "title": "Microsoft Build 2026: The 7 biggest announcements",
+    "link": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-02T19:23:52.000Z"
+  },
+  {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-02T19:11:48.000Z"
+  },
+  {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-02T19:02:21.000Z"
+  },
+  {
+    "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+    "link": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-02T18:00:00.000Z"
+  },
+  {
+    "title": "Trump signs downsized AI order after weeks of reversals",
+    "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-02T16:40:16.000Z"
+  },
+  {
+    "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+    "link": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-02T15:30:00.000Z"
+  },
+  {
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo31",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-02T14:13:23.000Z"
+  },
+  {
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "link": "https://openai.com/index/travelers",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-02T12:00:00.000Z"
+  },
+  {
+    "title": "Rehumanizing global health care with agentic AI",
+    "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-02T11:23:34.000Z"
+  },
+  {
+    "title": "Codex for every role, tool, and workflow",
+    "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-02T09:00:00.000Z"
+  },
+  {
+    "title": "How small businesses can leverage AI",
+    "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-02T09:00:00.000Z"
+  },
+  {
     "title": "Advancing youth safety and opportunity through global leadership",
     "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "source": "OpenAI",

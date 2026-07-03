@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "items": [
     {
-      "text": "Ein indischer Tech-Mogul investiert $30 Millionen seines eigenen Geldes, um eine KI-Alternative zu Microsoft Office zu entwickeln.",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+      "text": "Mark Zuckerberg teilt Facebook-Mitarbeitern mit, dass die Fortschritte bei AI-Agenten langsamer voranschreiten als erhofft.",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
     },
     {
-      "text": "SpaceX hat einen KI-Geräte-Prototyp entwickelt, der offenbar ähnlich wie ein Smartphone funktioniert.",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/"
+      "text": "Googles Stromverbrauch stieg 2025 um 37 Prozent – die größte Steigerung in der Unternehmensgeschichte durch AI-Datencenter-Ausbau.",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/"
     },
     {
-      "text": "Die USA heben Exportsperren für Anthropics Claude-Modelle Fable 5 und Mythos 5 auf, nachdem die Trump-Administration Sicherheitsmassnahmen einforderte.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
+      "text": "OpenAI verhandelt mit Trumps Regierung über einen 5-prozentigen staatlichen Anteil am Unternehmen.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
     },
     {
-      "text": "Claude Science ist Anthropics neues Flaggschiff-Produkt und markiert eine strategische Ausrichtung auf wissenschaftliche Anwendungen.",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+      "text": "Datenschützer warnen die FTC vor erheblichen Datenschutzrisiken durch Elon Musks Plattform X und fordern Fortsetzung der Überwachung.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
     },
     {
-      "text": "Google Gemini für seinen Home Speaker ist noch nicht marktreif, obwohl die Hardware hochwertig ist.",
+      "text": "Eine Studie zeigt, dass Sprachmodelle in Gruppendenken verfallen – ein Startup versucht, dieses Problem zu lösen.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
+    },
+    {
+      "text": "Googles neuer Home Speaker hat ausgezeichnete Hardware, aber Gemini ist noch nicht einsatzbereit für intelligente Haushalte.",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home"
     },
     {
-      "text": "Forscher entdecken neue Attacken auf KI-Browser, die Sicherheitsvorkehrungen durch Desinformation umgehen können.",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
-    },
-    {
-      "text": "Googles neues Nano Banana 2 Lite Bildmodell ist das schnellste und günstigste in Googles Portfolio.",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/"
+      "text": "Meta startet ein Gaming-App namens Pocket und beginnt, Premium-Features für Smart Glasses zu berechnen.",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
     }
   ]
 }
