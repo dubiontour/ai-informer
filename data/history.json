@@ -1,5 +1,47 @@
 [
   {
+    "title": "The only AI glossary you&#8217;ll need this year",
+    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-03T21:20:00.000Z"
+  },
+  {
+    "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
+    "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-03T18:43:00.000Z"
+  },
+  {
+    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+    "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-03T16:30:00.000Z"
+  },
+  {
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-07-03T14:25:43.000Z"
+  },
+  {
+    "title": "Anthropic wants to develop its own drugs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-03T13:56:52.000Z"
+  },
+  {
+    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-03T11:49:10.000Z"
+  },
+  {
     "title": "Mark Zuckerberg tells staff that AI agents haven&#8217;t progressed as quickly as he&#8217;d hoped",
     "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "source": "TechCrunch AI",
@@ -2686,173 +2728,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-06-04T09:00:00.000Z"
-  },
-  {
-    "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-    "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-04T01:01:00.000Z"
-  },
-  {
-    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-04T00:18:02.000Z"
-  },
-  {
-    "title": "Biodefense in the Intelligence Age",
-    "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-04T00:00:00.000Z"
-  },
-  {
-    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-    "link": "https://huggingface.co/blog/hf-cli-for-agents",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-04T00:00:00.000Z"
-  },
-  {
-    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-    "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-03T22:56:51.000Z"
-  },
-  {
-    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-    "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-03T20:26:51.000Z"
-  },
-  {
-    "title": "Alphabet&#8217;s record-breaking $85B raise for Google&#8217;s AI business is a helluva good signal",
-    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-03T19:38:32.000Z"
-  },
-  {
-    "title": "Google&#039;s new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-    "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-03T19:10:03.000Z"
-  },
-  {
-    "title": "Google&#8217;s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-03T19:07:42.000Z"
-  },
-  {
-    "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-    "link": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-03T18:49:32.000Z"
-  },
-  {
-    "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
-    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-03T18:11:15.000Z"
-  },
-  {
-    "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-    "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-03T18:00:00.000Z"
-  },
-  {
-    "title": "As AI gets better, it reveals an empty promise",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-03T17:45:35.000Z"
-  },
-  {
-    "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-    "link": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-03T16:07:31.000Z"
-  },
-  {
-    "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-03T14:04:00.000Z"
-  },
-  {
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-03T13:15:00.000Z"
-  },
-  {
-    "title": "Direct Preference Optimization Beyond Chatbots",
-    "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-03T12:55:11.000Z"
-  },
-  {
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-03T12:25:14.000Z"
-  },
-  {
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "link": "https://openai.com/index/wasmer",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-03T12:00:00.000Z"
-  },
-  {
-    "title": "Mathematicians issue warning as AI rapidly gains ground",
-    "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-03T10:05:48.000Z"
-  },
-  {
-    "title": "A blueprint for democratic governance of frontier AI",
-    "link": "https://openai.com/index/frontier-safety-blueprint",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-03T10:00:00.000Z"
-  },
-  {
-    "title": "AI has a water problem. Google thinks it has a fix",
-    "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-03T09:00:00.000Z"
-  },
-  {
-    "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-    "link": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-03T09:00:00.000Z"
-  },
-  {
-    "title": "Google must let publishers opt out of AI Search features, rules UK",
-    "link": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-03T08:45:48.000Z"
   }
 ]

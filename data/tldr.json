@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "items": [
     {
-      "text": "Mark Zuckerberg teilt Facebook-Mitarbeitern mit, dass die Fortschritte bei AI-Agenten langsamer voranschreiten als erhofft.",
+      "text": "Mark Zuckerberg teilte Meta-Mitarbeitern mit, dass AI-Agenten langsamer voranschreiten als erhofft. Die Entwicklung dieser autonomen Systeme hat sich als herausfordernder erwiesen als in früheren Aussagen angedeutet.",
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
     },
     {
-      "text": "Googles Stromverbrauch stieg 2025 um 37 Prozent – die größte Steigerung in der Unternehmensgeschichte durch AI-Datencenter-Ausbau.",
+      "text": "Google DeepMind verzeichnet einen historischen Stromanstieg von 37% im Jahr 2025 durch KI-Infrastrukturausbau. Der Gesamtstromverbrauch ist seit 2019 um über 250% gestiegen.",
       "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/"
     },
     {
-      "text": "OpenAI verhandelt mit Trumps Regierung über einen 5-prozentigen staatlichen Anteil am Unternehmen.",
+      "text": "OpenAI bietet der Trump-Administration eine 5%-Beteiligung an, deutlich unter Senator Sanders' Forderungen. CEO Sam Altman argumentiert, dass eine finanzielle Beteiligung die beste Lösung wäre.",
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
     },
     {
-      "text": "Datenschützer warnen die FTC vor erheblichen Datenschutzrisiken durch Elon Musks Plattform X und fordern Fortsetzung der Überwachung.",
+      "text": "Google DeepMind und A24 kündigen Forschungspartnerschaft an zur Entwicklung neuer KI-Werkzeuge für Kreative. Die Zusammenarbeit soll Filmemacher bei innovativen Workflows unterstützen.",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+    },
+    {
+      "text": "Anthropic möchte eigene Medikamente entwickeln und nutzt KI-Technologie für Arzneimittelforschung. Das Potenzial für KI in der Pharmaindustrie ist groß, aber der Weg zum Patienten ist noch lang.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
+    },
+    {
+      "text": "Midjourney zeigt Behind-the-Scenes-Video des Medical Scanners, lässt aber Fragen zur medizinischen Transformation offen. Die bisherigen Belege für die ehrgeizigen Medizin-Ziele sind begrenzt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
+    },
+    {
+      "text": "Datenschutz-Befürworter warnen die FTC vor Elon Musks X-Plattform als \"ernsthaftes Datenschutzrisiko\". Sie fordern, die FTC-Überwachung beizubehalten und nicht zu beenden.",
       "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
-    },
-    {
-      "text": "Eine Studie zeigt, dass Sprachmodelle in Gruppendenken verfallen – ein Startup versucht, dieses Problem zu lösen.",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
-    },
-    {
-      "text": "Googles neuer Home Speaker hat ausgezeichnete Hardware, aber Gemini ist noch nicht einsatzbereit für intelligente Haushalte.",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home"
-    },
-    {
-      "text": "Meta startet ein Gaming-App namens Pocket und beginnt, Premium-Features für Smart Glasses zu berechnen.",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/"
     }
   ]
 }
