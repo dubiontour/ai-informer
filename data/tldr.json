@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "items": [
     {
-      "text": "Mark Zuckerberg teilte Meta-Mitarbeitern mit, dass AI-Agenten langsamer voranschreiten als erhofft. Die Entwicklung dieser autonomen Systeme hat sich als herausfordernder erwiesen als in früheren Aussagen angedeutet.",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+      "text": "Google veröffentlicht einen neuen Werbespot, der sich vorstellt, wie die Unabhängigkeitserklärung mit Hilfe von KI geschrieben worden wäre.",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
     },
     {
-      "text": "Google DeepMind verzeichnet einen historischen Stromanstieg von 37% im Jahr 2025 durch KI-Infrastrukturausbau. Der Gesamtstromverbrauch ist seit 2019 um über 250% gestiegen.",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/"
+      "text": "Midjourney fordert Hollywood-Studios auf, Details ihrer KI-Nutzung offenzulegen.",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
     },
     {
-      "text": "OpenAI bietet der Trump-Administration eine 5%-Beteiligung an, deutlich unter Senator Sanders' Forderungen. CEO Sam Altman argumentiert, dass eine finanzielle Beteiligung die beste Lösung wäre.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
+      "text": "Alibaba verbietet Mitarbeitern angeblich die Nutzung von Claude Code aus Sicherheitsbedenken.",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
     },
     {
-      "text": "Google DeepMind und A24 kündigen Forschungspartnerschaft an zur Entwicklung neuer KI-Werkzeuge für Kreative. Die Zusammenarbeit soll Filmemacher bei innovativen Workflows unterstützen.",
+      "text": "Die Fanfiction-Community führt einen Kampf gegen KI-generierte Inhalte und spaltet sich intern darüber.",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+    },
+    {
+      "text": "Google DeepMind und A24 kündigen eine bahnbrechende Forschungspartnerschaft an, um KI-Tools für Künstler zu entwickeln.",
       "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
     },
     {
-      "text": "Anthropic möchte eigene Medikamente entwickeln und nutzt KI-Technologie für Arzneimittelforschung. Das Potenzial für KI in der Pharmaindustrie ist groß, aber der Weg zum Patienten ist noch lang.",
+      "text": "Anthropic plant die Entwicklung eigener Medikamente mit Hilfe von KI-Technologie.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
     },
     {
-      "text": "Midjourney zeigt Behind-the-Scenes-Video des Medical Scanners, lässt aber Fragen zur medizinischen Transformation offen. Die bisherigen Belege für die ehrgeizigen Medizin-Ziele sind begrenzt.",
+      "text": "Midjourneys medizinischer Scanner wirft Fragen auf, da ein Behind-the-Scenes-Video wenig Belege für transformative Ambitionen im Gesundheitswesen bietet.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
-    },
-    {
-      "text": "Datenschutz-Befürworter warnen die FTC vor Elon Musks X-Plattform als \"ernsthaftes Datenschutzrisiko\". Sie fordern, die FTC-Überwachung beizubehalten und nicht zu beenden.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/"
     }
   ]
 }
