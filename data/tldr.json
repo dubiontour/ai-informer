@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "items": [
     {
-      "text": "Google veröffentlicht einen neuen Werbespot, der sich vorstellt, wie die Unabhängigkeitserklärung mit Hilfe von KI geschrieben worden wäre.",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/"
+      "text": "Anthropic gibt 2,3x seiner Lohnkosten für Computing-Ressourcen aus – etwa 515.000 Dollar pro Mitarbeiter jährlich. Dies übersteigt deutlich den Marktdurchschnitt, wo Top-1%-Unternehmen nur 89.000 Dollar pro Ingenieur ausgeben.",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/"
     },
     {
-      "text": "Midjourney fordert Hollywood-Studios auf, Details ihrer KI-Nutzung offenzulegen.",
+      "text": "Hugging Face hat sein 🤗 Kernels-Projekt überarbeitet und führt neue Repository-Typen, verbesserte Sicherheit mit Kernel-Signing und revampte CLIs ein. Das Ziel ist eine reibungslose und sichere Paketverteilung von Custom Kernels.",
+      "url": "https://huggingface.co/blog/revamped-kernels"
+    },
+    {
+      "text": "Reiche Familien zahlen zehntausende Dollar, um ihre Kinder als Testpersonen für unerprobte KI-Lerntechnologien an speziellen Schulen einzuschreiben. Dies wirft Fragen über die Nutzung von privilegierten Kindern als Beta-Tester auf.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"
+    },
+    {
+      "text": "Eine neue KI-Tutor-Studie an Dartmouth zeigt signifikante Lerneffekte mit einer standardisierten Effektgröße von 0,71–1,30 SD. Dies demonstriert vielversprechende Ergebnisse beim Einsatz von KI im Bildungsbereich.",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+    },
+    {
+      "text": "Amazon akzeptiert keine neuen Kunden mehr für Mechanical Turk. Diese Entscheidung betrifft die beliebte Crowdsourcing-Plattform, die häufig für KI-Trainingsdaten genutzt wird.",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+    },
+    {
+      "text": "Midjourney fordert Hollywood-Studios auf, ihre KI-Nutzung offenzulegen. Der KI-Bildgenerator will mehr Transparenz darüber, wie Studios seine Technologie in Filmproduktionen einsetzen.",
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
     },
     {
-      "text": "Alibaba verbietet Mitarbeitern angeblich die Nutzung von Claude Code aus Sicherheitsbedenken.",
-      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
-    },
-    {
-      "text": "Die Fanfiction-Community führt einen Kampf gegen KI-generierte Inhalte und spaltet sich intern darüber.",
+      "text": "Die Fanfiction-Community kämpft gegen KI-generierte Inhalte und spaltet sich selbst. Neue Bewegungen zielen darauf ab, Autoren zu identifizieren, die generative KI nutzen, was zu Konflikten in der Community führt.",
       "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
-    },
-    {
-      "text": "Google DeepMind und A24 kündigen eine bahnbrechende Forschungspartnerschaft an, um KI-Tools für Künstler zu entwickeln.",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
-    },
-    {
-      "text": "Anthropic plant die Entwicklung eigener Medikamente mit Hilfe von KI-Technologie.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development"
-    },
-    {
-      "text": "Midjourneys medizinischer Scanner wirft Fragen auf, da ein Behind-the-Scenes-Video wenig Belege für transformative Ambitionen im Gesundheitswesen bietet.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video"
     }
   ]
 }
