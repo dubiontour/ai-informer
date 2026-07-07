@@ -1,5 +1,96 @@
 [
   {
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-06T23:59:54.000Z"
+  },
+  {
+    "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-06T23:56:14.000Z"
+  },
+  {
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-06T23:21:03.000Z"
+  },
+  {
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-06T20:14:55.000Z"
+  },
+  {
+    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-06T19:49:10.000Z"
+  },
+  {
+    "title": "Your family&#8217;s $300 stake in OpenAI",
+    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-06T18:00:00.000Z"
+  },
+  {
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "link": "https://github.com/iOfficeAI/OfficeCLI",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-06T16:47:44.000Z"
+  },
+  {
+    "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+    "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-06T16:44:18.000Z"
+  },
+  {
+    "title": "I spy",
+    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-06T16:00:00.000Z"
+  },
+  {
+    "title": "PRX Part 4: Our Data Strategy",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-06T15:30:55.000Z"
+  },
+  {
+    "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+    "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-06T14:17:42.000Z"
+  },
+  {
+    "title": "Microsoft is laying off 4,800 employees",
+    "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-06T13:30:00.000Z"
+  },
+  {
     "title": "When AI Costs More Than the Engineer",
     "link": "https://tomtunguz.com/ai-spend-breakeven-2029/",
     "source": "Hacker News AI",
@@ -2490,68 +2581,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-06-07T11:08:30.000Z"
-  },
-  {
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-06T20:32:24.000Z"
-  },
-  {
-    "title": "Five labs, five minds: building a multi-model finance drama on small models",
-    "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-06T19:02:33.000Z"
-  },
-  {
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-06T18:35:27.000Z"
-  },
-  {
-    "title": "What to expect from WWDC 2026: Siri&#8217;s highly anticipated revamp and Apple Intelligence updates",
-    "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-06T18:13:36.000Z"
-  },
-  {
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-06T17:42:15.000Z"
-  },
-  {
-    "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-06T15:05:00.000Z"
-  },
-  {
-    "title": "Meta made its own AI-generated clickbait news feed",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-06T14:00:00.000Z"
-  },
-  {
-    "title": "Here comes new Siri again",
-    "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-06T12:00:00.000Z"
-  },
-  {
-    "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-    "link": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-06T10:30:00.000Z"
   }
 ]

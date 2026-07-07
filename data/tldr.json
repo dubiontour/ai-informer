@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "items": [
     {
-      "text": "Anthropic gibt 2,3x seiner Lohnkosten für Computing-Ressourcen aus – etwa 515.000 Dollar pro Mitarbeiter jährlich. Dies übersteigt deutlich den Marktdurchschnitt, wo Top-1%-Unternehmen nur 89.000 Dollar pro Ingenieur ausgeben.",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/"
+      "text": "LeRobot v0.6.0 veröffentlicht: Neue Version mit Funktionen zum Imaginieren, Evaluieren und Verbessern von Robotik-Modellen.",
+      "url": "https://huggingface.co/blog/lerobot-release-v060"
     },
     {
-      "text": "Hugging Face hat sein 🤗 Kernels-Projekt überarbeitet und führt neue Repository-Typen, verbesserte Sicherheit mit Kernel-Signing und revampte CLIs ein. Das Ziel ist eine reibungslose und sichere Paketverteilung von Custom Kernels.",
-      "url": "https://huggingface.co/blog/revamped-kernels"
+      "text": "Kleine KI-Modelle gewinnen an Bedeutung in Regionen mit unzuverlässigen Netzwerken und fehlender Infrastruktur für lebensrettende Anwendungen.",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
     },
     {
-      "text": "Reiche Familien zahlen zehntausende Dollar, um ihre Kinder als Testpersonen für unerprobte KI-Lerntechnologien an speziellen Schulen einzuschreiben. Dies wirft Fragen über die Nutzung von privilegierten Kindern als Beta-Tester auf.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep"
+      "text": "Erste vermeintlich KI-gesteuerte Ransomware-Attacke benötigte dennoch menschliche Beteiligung zur Ausführung.",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
     },
     {
-      "text": "Eine neue KI-Tutor-Studie an Dartmouth zeigt signifikante Lerneffekte mit einer standardisierten Effektgröße von 0,71–1,30 SD. Dies demonstriert vielversprechende Ergebnisse beim Einsatz von KI im Bildungsbereich.",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf"
+      "text": "SK Hynix, südkoreanischer Speicherhersteller, profitiert vom KI-Boom und wird bald für US-Investoren zugänglich.",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/"
     },
     {
-      "text": "Amazon akzeptiert keine neuen Kunden mehr für Mechanical Turk. Diese Entscheidung betrifft die beliebte Crowdsourcing-Plattform, die häufig für KI-Trainingsdaten genutzt wird.",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/"
+      "text": "GLM 5.2 signalisiert bevorstehenden Margin-Kollaps in der KI-Industrie durch sinkende Inferenzkosten und verstärkte Konkurrenz.",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"
     },
     {
-      "text": "Midjourney fordert Hollywood-Studios auf, ihre KI-Nutzung offenzulegen. Der KI-Bildgenerator will mehr Transparenz darüber, wie Studios seine Technologie in Filmproduktionen einsetzen.",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/"
+      "text": "Anthropic entfernt heimlich verwendeten Claude-Tracker nach Kritik: Firma hatte chinesische Nutzer überwacht und verstieß damit gegen eigene Anti-Überwachungs-Haltung.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
     },
     {
-      "text": "Die Fanfiction-Community kämpft gegen KI-generierte Inhalte und spaltet sich selbst. Neue Bewegungen zielen darauf ab, Autoren zu identifizieren, die generative KI nutzen, was zu Konflikten in der Community führt.",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+      "text": "UK-Regulator warnt vor KI-Wettrüsten im Finanzsektor und fordert stärkere Befugnisse zur Überwachung von LLM-Nutzung.",
+      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/"
     }
   ]
 }
