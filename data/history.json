@@ -1,7 +1,133 @@
 [
   {
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-08T07:16:00.000Z"
+  },
+  {
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-08T07:00:51.000Z"
+  },
+  {
+    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-07T22:18:10.000Z"
+  },
+  {
+    "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+    "link": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-07T21:59:29.000Z"
+  },
+  {
+    "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+    "link": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-07T21:30:00.000Z"
+  },
+  {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-07T21:15:33.000Z"
+  },
+  {
+    "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+    "link": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-07T21:03:07.000Z"
+  },
+  {
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-07T20:31:58.000Z"
+  },
+  {
+    "title": "Why the rise of open source AI isn&#8217;t hurting Anthropic &#8230; yet",
+    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-07T20:04:32.000Z"
+  },
+  {
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-07T17:46:59.000Z"
+  },
+  {
+    "title": "Facing US export controls, China&#039;s DeepSeek plans to make its own chips",
+    "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-07T16:14:53.000Z"
+  },
+  {
+    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+    "link": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-07T16:00:00.000Z"
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-07T15:20:06.000Z"
+  },
+  {
+    "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+    "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-07T13:00:00.000Z"
+  },
+  {
+    "title": "The foundational elements of AI architecture that IT leaders need to scale",
+    "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-07T11:10:52.000Z"
+  },
+  {
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "link": "https://huggingface.co/blog/skypilot-hf-storage",
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-07-07T00:00:00.000Z"
@@ -2518,68 +2644,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-06-08T14:00:00.000Z"
-  },
-  {
-    "title": "Built to benefit everyone: our plan",
-    "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-08T01:30:00.000Z"
-  },
-  {
-    "title": "Introducing the OpenAI Economic Research Exchange",
-    "link": "https://openai.com/index/economic-research-exchange",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-08T00:00:00.000Z"
-  },
-  {
-    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-    "link": "https://huggingface.co/blog/openenv-agentic-rl",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-08T00:00:00.000Z"
-  },
-  {
-    "title": "Is this the dawn of the Tokenpocalypse?",
-    "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-07T20:26:13.000Z"
-  },
-  {
-    "title": "Amazing Digital Dentures (a failed project)",
-    "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-07T19:44:27.000Z"
-  },
-  {
-    "title": "Notion restores access to Anthropic after service disruption",
-    "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-07T17:56:22.000Z"
-  },
-  {
-    "title": "OpenAI is still working on that ‘super app’",
-    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-07T16:23:22.000Z"
-  },
-  {
-    "title": "AI ‘content creators’ are getting harder to spot",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-07T12:00:00.000Z"
-  },
-  {
-    "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-    "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-07T11:08:30.000Z"
   }
 ]
