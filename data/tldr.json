@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "items": [
     {
-      "text": "SambaNova, ein KI-Chip-Hersteller, sammelt 1 Milliarde Dollar bei einer Bewertung von 11 Milliarden Dollar ein – nur 5 Monate nach seiner letzten Mega-Finanzierungsrunde.",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/"
+      "text": "Lovable ist in Verhandlungen, seine Bewertung zu verdoppeln und auf 13,2 Milliarden Dollar zu steigern.",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/"
     },
     {
-      "text": "Sicherheitsforscher entdecken, dass Hacker mit neun populären KI-Tools massive Botnets aufbauen können, indem sie eine Technik namens \"HalluSquatting\" nutzen, die LLMs' Unfähigkeit auszunutzen, \"Ich weiß nicht\" zu sagen.",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
+      "text": "Ein Brown-University-Professor ordnete eine Präsenzprüfung an, nachdem er AI-Betrug vermutete – die Noten sanken um 50 Prozent.",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
     },
     {
-      "text": "Meta startet seinen neuen Image-Generator \"Muse Image\" und trifft auf Widerstand von Nutzern, die besorgt sind, dass ihre Instagram-Fotos ohne Zustimmung für KI-Training verwendet werden.",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+      "text": "Googles Deepfake-Erkennungssystem wurde verwendet, um ein Betrugsbild von Mitch McConnell zu debunken.",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
     },
     {
-      "text": "Meta ermöglicht es jedem, Instagram-Fotos anderer Nutzer in KI-generierten Bildern zu verwenden, es sei denn, diese Nutzer deaktivieren diese Option aktiv.",
-      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/"
+      "text": "Elon Musk stellt Grok 4.5 vor, das er als ein 'Opus-Klasse-Modell' beschreibt.",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
     },
     {
-      "text": "Joshua Achiam, OpenAIs Chief Futurist, verlässt das Unternehmen in einem bedeutsamen Führungswechsel.",
-      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/"
+      "text": "OpenAI veröffentlicht nationale Sicherheitsprinzipien für die Zusammenarbeit mit Regierungen bei AI-Einsätzen.",
+      "url": "https://openai.com/index/government-national-security-partnerships"
     },
     {
-      "text": "China's DeepSeek plant angesichts von US-Exportkontrollen die Entwicklung eigener Chips, um die Abhängigkeit von Nvidia und Huawei zu verringern.",
-      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/"
+      "text": "ChatGPTs überarbeiteter Sprachmodus mit dem GPT-Live-1-Modell kann gleichzeitig sprechen und zuhören und unterbricht weniger häufig.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live"
     },
     {
-      "text": "Anthropic startet Claude Cowork auf Mobilgeräten und im Web mit Cloud-Funktionalität, die es dem KI-Agenten ermöglicht, an Aufgaben zu arbeiten, auch wenn der Nutzer seinen Laptop schließt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web"
+      "text": "OpenAI findet heraus, dass etwa 30 Prozent der Aufgaben in SWE-Bench Pro fehlerhaft sind und keine aussagekräftigen Daten zur Code-Fähigkeit liefern.",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
     }
   ]
 }

@@ -1,5 +1,124 @@
 [
   {
+    "title": "Why Apple&#8217;s slow-and-steady AI bet is starting to look pretty smart",
+    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-09T01:56:48.000Z"
+  },
+  {
+    "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of &#8216;dual-pricing&#8217; valuation tricks",
+    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-09T00:45:56.000Z"
+  },
+  {
+    "title": "Industrial policy for the Intelligence Age",
+    "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "title": "As OpenAI files for IPO, Sam Altman&#8217;s eye-scanning company is doing layoffs, report says",
+    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-08T22:41:45.000Z"
+  },
+  {
+    "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+    "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-08T21:31:58.000Z"
+  },
+  {
+    "title": "Apple bets cheaper AI will woo small developers",
+    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-08T21:02:00.000Z"
+  },
+  {
+    "title": "Say hi to \"Siri AI\"&#8212;Apple announces new, more \"conversational\" voice assistant",
+    "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-08T19:30:05.000Z"
+  },
+  {
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-08T19:14:47.000Z"
+  },
+  {
+    "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+    "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-08T19:00:30.000Z"
+  },
+  {
+    "title": "Apple Core AI Framework",
+    "link": "https://developer.apple.com/documentation/coreai/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-08T18:47:38.000Z"
+  },
+  {
+    "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+    "link": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-08T18:34:23.000Z"
+  },
+  {
+    "title": "Apple’s New Siri AI Is Ready to Get Personal",
+    "link": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-08T18:17:44.000Z"
+  },
+  {
+    "title": "Amazon is launching AI-generated custom merch",
+    "link": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-08T17:52:51.000Z"
+  },
+  {
+    "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+    "link": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-08T17:44:28.000Z"
+  },
+  {
+    "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+    "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-08T17:34:24.000Z"
+  },
+  {
+    "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+    "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-08T16:00:00.000Z"
+  },
+  {
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "link": "https://openai.com/index/openai-submits-confidential-s-1",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-08T14:00:00.000Z"
+  },
+  {
     "title": "Built to benefit everyone: our plan",
     "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
     "source": "OpenAI",
