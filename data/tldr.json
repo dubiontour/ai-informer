@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "items": [
     {
-      "text": "Lovable ist in Verhandlungen, seine Bewertung zu verdoppeln und auf 13,2 Milliarden Dollar zu steigern.",
-      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/"
+      "text": "OpenAI hat die neue Modellfamilie GPT-5.6 gestartet, die als bevorzugtes Modell für Microsoft Copilot 365 fungiert. Die Freigabe erfolgt inmitten von Spekulationen über eine mögliche Trennung zwischen OpenAI und Microsoft.",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
     },
     {
-      "text": "Ein Brown-University-Professor ordnete eine Präsenzprüfung an, nachdem er AI-Betrug vermutete – die Noten sanken um 50 Prozent.",
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/"
+      "text": "OpenAI hat ChatGPT Work vorgestellt, ein neues Tool, das über Stunden hinweg eigenständig arbeiten und ganze Workflows automatisieren kann. Das Tool soll komplexe Aufgaben wie Budgetanalysen oder Marketing-Kampagnen bewältigen.",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
     },
     {
-      "text": "Googles Deepfake-Erkennungssystem wurde verwendet, um ein Betrugsbild von Mitch McConnell zu debunken.",
-      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/"
+      "text": "Fidji Simo tritt von ihrer Position als CEO of AGI Deployment bei OpenAI zurück und wechselt in eine Teilzeit-Beraterrolle. Der Schritt folgt einer medizinischen Auszeit vor einigen Monaten.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor"
     },
     {
-      "text": "Elon Musk stellt Grok 4.5 vor, das er als ein 'Opus-Klasse-Modell' beschreibt.",
-      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
+      "text": "Microsofts CO2-Emissionen sind im letzten Jahr um 25 Prozent gestiegen, wie der Jahresbericht zur Nachhaltigkeit zeigt. Das Unternehmen warnt, dass Nachhaltigkeitslösungen mit den AI-Anforderungen nicht Schritt halten.",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026"
     },
     {
-      "text": "OpenAI veröffentlicht nationale Sicherheitsprinzipien für die Zusammenarbeit mit Regierungen bei AI-Einsätzen.",
-      "url": "https://openai.com/index/government-national-security-partnerships"
+      "text": "OpenAI fährt das ChatGPT-Browser-Projekt Atlas weniger als ein Jahr nach dem Start herunter. Das Tool sollte ursprünglich eigenständig Aufgaben im Web für Nutzer erledigen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
     },
     {
-      "text": "ChatGPTs überarbeiteter Sprachmodus mit dem GPT-Live-1-Modell kann gleichzeitig sprechen und zuhören und unterbricht weniger häufig.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live"
+      "text": "Humanoid-Roboter unter der Kontrolle von Chirurgen führten erstmals Operationen an lebenden Tieren durch. Bei der Studie entfernten die Roboter erfolgreich Gallenblasen von Schweinen.",
+      "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/"
     },
     {
-      "text": "OpenAI findet heraus, dass etwa 30 Prozent der Aufgaben in SWE-Bench Pro fehlerhaft sind und keine aussagekräftigen Daten zur Code-Fähigkeit liefern.",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+      "text": "OpenAI steht vor Sanktionsverfahren, nachdem das Unternehmen Millionen von ChatGPT-Logs versteckt haben soll. Die New York Times und andere Nachrichtenmedien beschuldigen OpenAI, jahrelang Beweise für Urheberrechtsverletzungen verschleiert zu haben.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
     }
   ]
 }

@@ -1,5 +1,131 @@
 [
   {
+    "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+    "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-10T06:00:00.000Z"
+  },
+  {
+    "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-10T00:16:54.000Z"
+  },
+  {
+    "title": "Microsoft’s carbon emissions went up 25 percent last year",
+    "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-10T00:04:13.000Z"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "link": "https://huggingface.co/blog/torch-attention-profile",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "title": "Fidji Simo steps down from OpenAI&#8217;s no. 2 role",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-09T23:38:00.000Z"
+  },
+  {
+    "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-09T23:24:04.000Z"
+  },
+  {
+    "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+    "link": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-09T23:13:18.000Z"
+  },
+  {
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-09T22:24:24.000Z"
+  },
+  {
+    "title": "OpenAI wants its new tool to do your work for you and with you",
+    "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-09T21:25:55.000Z"
+  },
+  {
+    "title": "Building a real-time AI tutor for 5-year-olds",
+    "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-09T20:51:06.000Z"
+  },
+  {
+    "title": "The ChatGPT browser is already dead",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-09T20:34:05.000Z"
+  },
+  {
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-09T20:22:28.000Z"
+  },
+  {
+    "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+    "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-09T20:12:03.000Z"
+  },
+  {
+    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+    "link": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-09T18:57:53.000Z"
+  },
+  {
+    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+    "link": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-09T18:30:00.000Z"
+  },
+  {
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-09T13:00:00.000Z"
+  },
+  {
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-09T10:00:00.000Z"
+  },
+  {
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-09T10:00:00.000Z"
+  },
+  {
     "title": "Lovable reportedly in talks to double its valuation to $13.2B",
     "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
     "source": "TechCrunch AI",
@@ -2462,173 +2588,5 @@
     "source": "Google DeepMind",
     "category": "Research",
     "pubDate": "2026-06-10T10:21:19.000Z"
-  },
-  {
-    "title": "Meta signs first AI data center deal in India with Reliance",
-    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-10T07:05:26.000Z"
-  },
-  {
-    "title": "Rich Sutton on AI creativity and discovery",
-    "link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-10T02:25:24.000Z"
-  },
-  {
-    "title": "German ruling declares Google liable for false answers in AI Overviews",
-    "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-10T01:44:13.000Z"
-  },
-  {
-    "title": "Google just fired a warning shot in the AI subscription price wars",
-    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-10T00:26:10.000Z"
-  },
-  {
-    "title": "I tried Siri AI, and so far it actually works",
-    "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-09T23:43:00.000Z"
-  },
-  {
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-09T23:17:51.000Z"
-  },
-  {
-    "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-    "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-09T21:00:00.000Z"
-  },
-  {
-    "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-    "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-09T20:24:25.000Z"
-  },
-  {
-    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-09T19:38:28.000Z"
-  },
-  {
-    "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-    "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-09T19:20:25.000Z"
-  },
-  {
-    "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
-    "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-09T18:57:25.000Z"
-  },
-  {
-    "title": "CEOs who think AI replaces their employees are just bad CEOs",
-    "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-09T18:45:59.000Z"
-  },
-  {
-    "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
-    "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-09T17:00:46.000Z"
-  },
-  {
-    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-    "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-09T15:56:23.000Z"
-  },
-  {
-    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-    "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-06-09T15:16:25.000Z"
-  },
-  {
-    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-    "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-06-09T14:10:19.000Z"
-  },
-  {
-    "title": "Powering the future of robotics in Europe",
-    "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-06-09T14:02:33.000Z"
-  },
-  {
-    "title": "Apple says its AI is still private, even when it&#039;s running on Google&#039;s servers",
-    "link": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-09T13:05:49.000Z"
-  },
-  {
-    "title": "How engineers at Nextdoor use Codex to build without limits",
-    "link": "https://openai.com/index/nextdoor",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-09T12:00:00.000Z"
-  },
-  {
-    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-    "link": "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-09T10:46:19.000Z"
-  },
-  {
-    "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-09T10:30:00.000Z"
-  },
-  {
-    "title": "Learning to lead in a hybrid human-AI enterprise",
-    "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-06-09T10:20:06.000Z"
-  },
-  {
-    "title": "What Codex unlocks for Notion",
-    "link": "https://openai.com/index/notion",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-09T10:00:00.000Z"
-  },
-  {
-    "title": "Five things you need to know about AI",
-    "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-06-09T09:16:45.000Z"
   }
 ]
