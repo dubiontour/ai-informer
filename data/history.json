@@ -1,5 +1,82 @@
 [
   {
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-11T01:07:26.000Z"
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-10T23:55:07.000Z"
+  },
+  {
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-10T23:49:50.000Z"
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-10T21:36:51.000Z"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-10T21:00:29.000Z"
+  },
+  {
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-10T20:44:05.000Z"
+  },
+  {
+    "title": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
+    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-10T19:00:00.000Z"
+  },
+  {
+    "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+    "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-10T15:46:18.000Z"
+  },
+  {
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-10T13:45:02.000Z"
+  },
+  {
+    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+    "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-10T10:30:00.000Z"
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-10T07:00:00.000Z"
+  },
+  {
     "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
     "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
     "source": "Wired AI",
@@ -105,6 +182,13 @@
     "pubDate": "2026-07-09T18:30:00.000Z"
   },
   {
+    "title": "AI 2040: Plan A",
+    "link": "https://ai-2040.com/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-09T16:21:44.000Z"
+  },
+  {
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "source": "OpenAI",
@@ -121,6 +205,13 @@
   {
     "title": "GPT-5.5 Bio Bug Bounty",
     "link": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-09T10:00:00.000Z"
+  },
+  {
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-07-09T10:00:00.000Z"
@@ -2448,145 +2539,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-06-11T08:00:00.000Z"
-  },
-  {
-    "title": "Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsourcing",
-    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-11T04:02:19.000Z"
-  },
-  {
-    "title": "Anthropic&#8217;s Dario Amodei has just one direct report",
-    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-11T03:53:06.000Z"
-  },
-  {
-    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-    "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-11T03:11:22.000Z"
-  },
-  {
-    "title": "AI agent runs amok in Fedora and elsewhere",
-    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-11T00:10:08.000Z"
-  },
-  {
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "title": "OpenAI to acquire Ona",
-    "link": "https://openai.com/index/openai-to-acquire-ona",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "link": "https://huggingface.co/blog/torch-mlp-fusion",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-11T00:00:00.000Z"
-  },
-  {
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-10T22:31:19.000Z"
-  },
-  {
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "link": "https://openai.com/index/openai-on-oracle-cloud",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-10T20:00:00.000Z"
-  },
-  {
-    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-    "link": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-10T19:29:21.000Z"
-  },
-  {
-    "title": "Claude Fable won’t answer basic biology questions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-10T18:43:34.000Z"
-  },
-  {
-    "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-    "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-10T17:45:11.000Z"
-  },
-  {
-    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-    "link": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-10T17:19:31.000Z"
-  },
-  {
-    "title": "DiffusionGemma: 4x faster text generation",
-    "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-06-10T16:24:11.000Z"
-  },
-  {
-    "title": "Apache Burr: Build reliable AI agents and applications",
-    "link": "https://burr.apache.org/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-10T15:01:06.000Z"
-  },
-  {
-    "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
-    "link": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-10T14:00:00.000Z"
-  },
-  {
-    "title": "China Opens World’s First Wind-Powered Underwater Data Center",
-    "link": "https://www.wired.com/story/china-opens-worlds-first-wind-powered-underwater-data-center/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-10T13:39:32.000Z"
-  },
-  {
-    "title": "Investing in multi-agent AI safety research",
-    "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-06-10T10:21:19.000Z"
   }
 ]
