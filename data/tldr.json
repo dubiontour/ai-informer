@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "items": [
     {
-      "text": "OpenAI's Head of Safety verlässt das Unternehmen und signalisiert mögliche Spannungen bei der Sicherheitspriorisierung des KI-Unternehmens.",
+      "text": "Mesh LLM ermöglicht dezentrale KI-Berechnung durch das Pooling von GPUs und Speicher über mehrere Maschinen hinweg mit OpenAI-kompatibler API, was Unternehmen mehr Kontrolle und Kostenkontrolle bietet.",
+      "url": "https://www.iroh.computer/blog/mesh-llm"
+    },
+    {
+      "text": "OpenAI erweitert ChatGPT-Integration in Haushalte durch Familienabos und tiefere Produktintegration, um die Nutzerbasis über einzelne Professionelle hinaus zu vergrößern.",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+    },
+    {
+      "text": "OpenAIs Leiter für Sicherheit verlässt das Unternehmen, was Fragen zur Zukunft der Sicherheitsrichtlinien des Unternehmens aufwirft.",
       "url": "https://www.wired.com/story/openai-head-of-safety-leaving/"
     },
     {
-      "text": "Meta deaktiviert Instagram-Funktion zum Erstellen von KI-Deepfakes öffentlicher Konten nach massiver Nutzer-Gegenreaktion.",
+      "text": "Meta deaktiviert Instagram-Funktion zur Erstellung von AI-Deepfakes öffentlicher Profile nach massivem Backlash von Nutzern und Regulatoren.",
       "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes"
     },
     {
-      "text": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Hardware-Geheimnissen durch ehemalige Apple-Mitarbeiter bei OpenAI.",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets"
+      "text": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Hardware-Geheimnissen durch ehemalige Apple-Mitarbeiter, was ein Muster von Industriespionage aufdeckt.",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/"
     },
     {
-      "text": "Die EU fordert Meta auf, Autoplay und Infinite Scroll zu deaktivieren oder massive Geldstrafen zu riskieren, da diese Features süchtig machen.",
+      "text": "Die EU droht Meta mit massiven Geldstrafen, falls das Unternehmen suchtmachende Funktionen wie Autoplay und unendliches Scrollen nicht deaktiviert.",
       "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/"
     },
     {
-      "text": "OpenAI startet ChatGPT Work, ein neues Tool das unabhängig arbeiten und Projekte über Stunden hinweg abschließen kann.",
-      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
-    },
-    {
-      "text": "Anthropic entdeckt einen verborgenen Raum im KI-Modell Claude, wo dieser über komplexe Konzepte rätselhaft hineinarbeitet.",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-    },
-    {
-      "text": "Humanoid-Roboter unter Fernsteuerung von Chirurgen führten erstmals eine Operation an lebenden Schweinen durch.",
-      "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/"
+      "text": "Instagrams Adam Mosseri weist Bedenken bezüglich KI-generierter Inhalte ab und bietet nur begrenzte Filteroptionen statt vollständiger Ausschluss an.",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters"
     }
   ]
 }

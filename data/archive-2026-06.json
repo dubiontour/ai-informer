@@ -1,5 +1,96 @@
 [
   {
+    "title": "Siri won’t be your AI girlfriend",
+    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-12T07:00:31.000Z"
+  },
+  {
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-12T04:42:53.000Z"
+  },
+  {
+    "title": "Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for India&#8217;s scale",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-12T04:30:00.000Z"
+  },
+  {
+    "title": "Theker just raised $85M to build the factory robot that doesn&#8217;t specialize in anything",
+    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-12T01:48:07.000Z"
+  },
+  {
+    "title": "Jeff Bezos&#8217;s Prometheus raises $12B to build an &#8216;artificial general engineer&#8217; for the physical world",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-12T01:04:38.000Z"
+  },
+  {
+    "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
+    "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-12T01:00:00.000Z"
+  },
+  {
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-11T23:37:49.000Z"
+  },
+  {
+    "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
+    "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-11T21:21:04.000Z"
+  },
+  {
+    "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+    "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-11T17:26:57.000Z"
+  },
+  {
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-11T11:40:43.000Z"
+  },
+  {
+    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+    "link": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-11T11:00:45.000Z"
+  },
+  {
+    "title": "Deezer launches an AI music detector for other streaming services",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-11T08:00:00.000Z"
+  },
+  {
     "title": "Opendoor&#8217;s India exit is fueling a bigger conversation about AI and outsourcing",
     "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
     "source": "TechCrunch AI",
