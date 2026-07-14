@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-14",
   "items": [
     {
-      "text": "Hacker News diskutiert die Einführung einer Kennzeichnung für KI-generierte Artikel, um Lesern die Möglichkeit zu geben, diese zu filtern. Die Plattform hat bereits Regeln gegen KI-generierte Kommentare, erwägt aber noch keine für Artikel-Inhalte.",
-      "url": "https://news.ycombinator.com/item?id=48886741"
+      "text": "Video-Generierungsstartup PixVerse sammelt 439 Millionen Dollar ein und überschreitet eine Bewertung von 2 Milliarden Dollar.",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
     },
     {
-      "text": "Ploy migrierte seinen KI-Agent erfolgreich auf OpenAIs neues Modell GPT-5.6 Sol und erreichte dabei 2,2x schnellere Ausführung und 27% niedrigere Kosten. Das Modell übertraf erstmals Claude Opus in ihren strengen Tests für Website-Generierung.",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6"
+      "text": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen durch einen ehemaligen Ingenieur, der eine Sicherheitslücke ausnutzte.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/"
     },
     {
-      "text": "Apples gescheitertes selbstfahrendes Auto-Programm hinterlässt ein Erbe leistungsstarker KI-Chips: Das Unternehmen beschleunigt die Entwicklung des M7 Ultra mit bis zu 1,5TB RAM-Unterstützung. Die Auto-Technologie wird in andere Apple-Produkte integriert.",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
+      "text": "Apples Siri AI wird zu einem universellen Tool und erhält im iOS-27-Beta bedeutende neue Fähigkeiten zur Geräteintegration.",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on"
     },
     {
-      "text": "Der weltweite Kampf gegen massive KI-Datenzentren intensiviert sich, da Gemeinden gegen Bedenken wie steigende Energiekosten, Wasserverbrauch und Lärmbelastung kämpfen. Die Auseinandersetzung um KI-Infrastruktur ist gerade erst am Anfang.",
-      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight"
+      "text": "Waze erhält neue KI-gestützte Funktionen mit Google Gemini für verbesserte Sprachbefehle und Navigation.",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty"
     },
     {
-      "text": "Wissenschaftler nutzen AI und Quantencomputing zur Erzeugung neuer Peptide als zusätzliches Forschungsprojekt. Die Kombination beider Technologien eröffnet neue Möglichkeiten für die biologische Materialwissenschaft.",
-      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/"
+      "text": "Forscher zeigen, dass Verteidiger Prompt Injections nutzen können, um KI-Hacking-Agenten zu deaktivieren und Cyberangriffe zu stoppen.",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/"
     },
     {
-      "text": "OpenAI positioniert ChatGPT gezielt für Haushalte und Familien, um die AI-Nutzung tiefer in Privathaushalte zu integrieren. Das Unternehmen setzt auf familiengerechte Features für breitere Adoption.",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/"
+      "text": "Google und AIM starten ATL Saathi, ein Gemini-gestütztes KI-Tool zur Unterstützung indischer Pädagogen in Robotik-Laboren.",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
     },
     {
-      "text": "Ray-Ban Meta AI-Brille wird von Künstlerin Lorde kritisiert und als \"nicht sexy\" bezeichnet. Trotz technischer Fortschritte bleiben Designbedenken bei Consumer-AI-Hardware ein Thema.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy"
+      "text": "World Models versprechen, physikalische Szenen zu simulieren, haben aber praktische Grenzen bei der Nachbildung komplexer realer Welt-Szenarien.",
+      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
     }
   ]
 }
