@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "items": [
     {
-      "text": "Video-Generierungsstartup PixVerse sammelt 439 Millionen Dollar ein und überschreitet eine Bewertung von 2 Milliarden Dollar.",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+      "text": "OpenAI-Forscher Miles Wang verhandelt über die Gründung eines AI-Drogenentdeckungs-Startups mit einer Bewertung von 2 Milliarden Dollar.",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/"
     },
     {
-      "text": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen durch einen ehemaligen Ingenieur, der eine Sicherheitslücke ausnutzte.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/"
+      "text": "OpenAIs erstes Hardware-Gerät soll ein bildschirmloser sprechender Lautsprecher mit Bewegungsfähigkeit sein, der 2027 angekündigt werden könnte.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device"
     },
     {
-      "text": "Apples Siri AI wird zu einem universellen Tool und erhält im iOS-27-Beta bedeutende neue Fähigkeiten zur Geräteintegration.",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on"
+      "text": "Meta wird von 26 Mitarbeitern verklagt, die behaupten, dass das Unternehmen AI-Systeme zur Auswahl von behinderten Arbeitnehmern und solchen in medizinischer Auszeit für Massenentlassungen verwendete.",
+      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs"
     },
     {
-      "text": "Waze erhält neue KI-gestützte Funktionen mit Google Gemini für verbesserte Sprachbefehle und Navigation.",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty"
+      "text": "SpaceXAIs Grok-Programmierwerkzeug lud die gesamten Codebases von Benutzern ohne Zustimmung in Cloud-Speicher hoch; Elon Musk kündigte an, alle bisherigen Daten zu löschen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload"
     },
     {
-      "text": "Forscher zeigen, dass Verteidiger Prompt Injections nutzen können, um KI-Hacking-Agenten zu deaktivieren und Cyberangriffe zu stoppen.",
-      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/"
+      "text": "Google modernisiert seine Bildsuche zum 25. Jahrestag mit erweiterten AI-Funktionen, die personalisierte Galerien basierend auf einzigartigen Interessen erstellen.",
+      "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/"
     },
     {
-      "text": "Google und AIM starten ATL Saathi, ein Gemini-gestütztes KI-Tool zur Unterstützung indischer Pädagogen in Robotik-Laboren.",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/"
+      "text": "Das US-Militär setzte zum ersten Mal explosive Drohnenboote im Kampf gegen eine iranische Marinebasis und ein U-Boot ein.",
+      "url": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/"
     },
     {
-      "text": "World Models versprechen, physikalische Szenen zu simulieren, haben aber praktische Grenzen bei der Nachbildung komplexer realer Welt-Szenarien.",
-      "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/"
+      "text": "OpenAI veröffentlicht Leitlinien zur Verwaltung von AI-Investitionen in der agentengestützten Ära mit fünf praktischen Schritten zur Kostenkontrolle und Wertsteigerung.",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
     }
   ]
 }

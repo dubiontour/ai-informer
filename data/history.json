@@ -1,5 +1,110 @@
 [
   {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-15T00:27:04.000Z"
+  },
+  {
+    "title": "Lorde says AI glasses are &#8216;not sexy&#8217;",
+    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-14T23:10:02.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
+    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-14T22:22:24.000Z"
+  },
+  {
+    "title": "Financing the AI boom: from cash flows to debt [pdf]",
+    "link": "https://www.bis.org/publ/bisbull120.pdf",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-14T21:58:36.000Z"
+  },
+  {
+    "title": "OpenAI may announce a ChatGPT smart speaker this year",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-14T21:26:32.000Z"
+  },
+  {
+    "title": "Lawsuit claims Meta&#039;s layoff decisions were made by AI, not humans",
+    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-14T20:05:53.000Z"
+  },
+  {
+    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-14T19:25:00.000Z"
+  },
+  {
+    "title": "US military sent explosive drone boats into combat for the first time",
+    "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-14T18:00:01.000Z"
+  },
+  {
+    "title": "Meta accused of using biased AI targeting for mass layoffs",
+    "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-14T17:18:11.000Z"
+  },
+  {
+    "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+    "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-14T16:28:14.000Z"
+  },
+  {
+    "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+    "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-14T16:05:18.000Z"
+  },
+  {
+    "title": "Are we offloading too much of our thinking to AI?",
+    "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-14T15:18:13.000Z"
+  },
+  {
+    "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-14T10:30:00.000Z"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-14T10:00:00.000Z"
+  },
+  {
+    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+    "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-14T10:00:00.000Z"
+  },
+  {
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
     "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
     "source": "TechCrunch AI",
@@ -18,6 +123,20 @@
     "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
     "source": "TechCrunch AI",
     "category": "News",
+    "pubDate": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "OpenAI",
+    "category": "Research",
     "pubDate": "2026-07-14T00:00:00.000Z"
   },
   {
@@ -2413,26 +2532,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-06-15T07:25:41.000Z"
-  },
-  {
-    "title": "China may have accessed Mythos",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-14T18:27:55.000Z"
-  },
-  {
-    "title": "Introducing the OpenAI Partner Network",
-    "link": "https://openai.com/index/introducing-openai-partner-network",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-14T17:00:00.000Z"
-  },
-  {
-    "title": "As AI companies race to go public, who else is along for the ride?",
-    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-14T16:38:09.000Z"
   }
 ]
