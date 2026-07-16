@@ -1,5 +1,96 @@
 [
   {
+    "title": "Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T06:59:00.000Z"
+  },
+  {
+    "title": "DOJ Lawyers Argue xAI Is ‘Vital’ for National Security in NAACP Lawsuit",
+    "link": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T03:06:37.000Z"
+  },
+  {
+    "title": "Inside the fight over Claude Mythos 5",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T03:00:00.000Z"
+  },
+  {
+    "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+    "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T00:53:46.000Z"
+  },
+  {
+    "title": "Predicting model behavior before release by simulating deployment",
+    "link": "https://openai.com/index/deployment-simulation",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google&#8217;s Israel, ICE ties",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-15T23:51:44.000Z"
+  },
+  {
+    "title": "The US government&#8217;s Anthropic models ban was never about an AI jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-15T21:50:21.000Z"
+  },
+  {
+    "title": "Facebook’s new AI Mode search gets its info from public posts",
+    "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-15T21:15:08.000Z"
+  },
+  {
+    "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+    "link": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-15T19:07:02.000Z"
+  },
+  {
+    "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-15T19:04:53.000Z"
+  },
+  {
+    "title": "Why do South Koreans love AI so much?",
+    "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-15T18:46:08.000Z"
+  },
+  {
+    "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+    "link": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-15T09:00:00.000Z"
+  },
+  {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-15T07:25:41.000Z"
+  },
+  {
     "title": "China may have accessed Mythos",
     "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
     "source": "The Verge AI",
