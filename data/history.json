@@ -1,5 +1,152 @@
 [
   {
+    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+    "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-16T22:17:27.000Z"
+  },
+  {
+    "title": "It&#039;s official: EU will force Google to share search data and open up AI on Android",
+    "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-16T20:41:45.000Z"
+  },
+  {
+    "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+    "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-16T20:26:23.000Z"
+  },
+  {
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-16T20:18:15.000Z"
+  },
+  {
+    "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+    "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-16T20:09:48.000Z"
+  },
+  {
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-16T20:03:23.000Z"
+  },
+  {
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "source": "VentureBeat AI",
+    "category": "News",
+    "pubDate": "2026-07-16T19:16:48.000Z"
+  },
+  {
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "source": "VentureBeat AI",
+    "category": "News",
+    "pubDate": "2026-07-16T19:02:38.000Z"
+  },
+  {
+    "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+    "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-16T18:35:18.000Z"
+  },
+  {
+    "title": "Google Vids now lets you star in your own AI videos",
+    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-16T18:32:54.000Z"
+  },
+  {
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-16T18:22:06.000Z"
+  },
+  {
+    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-16T17:58:37.000Z"
+  },
+  {
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+    "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "source": "VentureBeat AI",
+    "category": "News",
+    "pubDate": "2026-07-16T17:06:08.000Z"
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-16T16:01:21.000Z"
+  },
+  {
+    "title": "Why teens deserve access to safe AI",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-16T16:00:00.000Z"
+  },
+  {
+    "title": "Google&#8217;s AI Mode now lets you link and interact with select apps",
+    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-16T16:00:00.000Z"
+  },
+  {
+    "title": "Google is renaming NotebookLM to Gemini Notebook",
+    "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-16T16:00:00.000Z"
+  },
+  {
+    "title": "Claude can now use your 1Password credentials for you",
+    "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-16T13:00:00.000Z"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-16T11:49:48.000Z"
+  },
+  {
+    "title": "Please Stop Making Me Opt Out of AI",
+    "link": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-16T10:00:00.000Z"
+  },
+  {
+    "title": "Our approach to bioresilience",
+    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-07-16T09:30:42.000Z"
+  },
+  {
     "title": "Stop saying that AI is just a tool and it only matters how it is used",
     "link": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
     "source": "Hacker News AI",
@@ -12,6 +159,20 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-07-16T04:00:00.000Z"
+  },
+  {
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "link": "https://openai.com/index/cars24",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "title": "Security incident disclosure — July 2026",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-16T00:00:00.000Z"
   },
   {
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -2455,110 +2616,5 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-06-17T09:01:25.000Z"
-  },
-  {
-    "title": "The founder's playbook: Building an AI-native startup",
-    "link": "https://claude.com/blog/the-founders-playbook",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-17T07:04:42.000Z"
-  },
-  {
-    "title": "Introducing LifeSciBench",
-    "link": "https://openai.com/index/introducing-life-sci-bench",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-17T00:00:00.000Z"
-  },
-  {
-    "title": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests",
-    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-16T22:34:17.000Z"
-  },
-  {
-    "title": "Unlocking UK house-building with AI-accelerated planning",
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-06-16T21:29:50.000Z"
-  },
-  {
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-16T20:11:00.000Z"
-  },
-  {
-    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-16T18:00:00.000Z"
-  },
-  {
-    "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-    "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-16T17:50:52.000Z"
-  },
-  {
-    "title": "Has AI already killed self-help nonfiction books?",
-    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-16T17:11:05.000Z"
-  },
-  {
-    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-    "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-16T17:04:05.000Z"
-  },
-  {
-    "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
-    "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-16T17:00:00.000Z"
-  },
-  {
-    "title": "My Father Wants to Age in Place. AI Will Be Watching",
-    "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-16T14:00:00.000Z"
-  },
-  {
-    "title": "What Do We Need From Our Homes Right Now?",
-    "link": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-16T14:00:00.000Z"
-  },
-  {
-    "title": "SpaceX is officially buying Cursor for $60 billion",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-16T11:41:31.000Z"
-  },
-  {
-    "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
-    "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-16T09:30:00.000Z"
-  },
-  {
-    "title": "Want to get a data center online quickly? Give it some flex.",
-    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-06-16T09:00:00.000Z"
   }
 ]

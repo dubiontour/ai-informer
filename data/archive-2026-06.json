@@ -1,5 +1,110 @@
 [
   {
+    "title": "The founder's playbook: Building an AI-native startup",
+    "link": "https://claude.com/blog/the-founders-playbook",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-17T07:04:42.000Z"
+  },
+  {
+    "title": "Introducing LifeSciBench",
+    "link": "https://openai.com/index/introducing-life-sci-bench",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s latest feud with the Trump admin may actually help it, sales data suggests",
+    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T22:34:17.000Z"
+  },
+  {
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-06-16T21:29:50.000Z"
+  },
+  {
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T20:11:00.000Z"
+  },
+  {
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-16T18:00:00.000Z"
+  },
+  {
+    "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+    "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T17:50:52.000Z"
+  },
+  {
+    "title": "Has AI already killed self-help nonfiction books?",
+    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-16T17:11:05.000Z"
+  },
+  {
+    "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+    "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T17:04:05.000Z"
+  },
+  {
+    "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+    "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T17:00:00.000Z"
+  },
+  {
+    "title": "My Father Wants to Age in Place. AI Will Be Watching",
+    "link": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T14:00:00.000Z"
+  },
+  {
+    "title": "What Do We Need From Our Homes Right Now?",
+    "link": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T14:00:00.000Z"
+  },
+  {
+    "title": "SpaceX is officially buying Cursor for $60 billion",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-16T11:41:31.000Z"
+  },
+  {
+    "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
+    "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-16T09:30:00.000Z"
+  },
+  {
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-16T09:00:00.000Z"
+  },
+  {
     "title": "Malaysia&#8217;s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
     "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
     "source": "TechCrunch AI",
