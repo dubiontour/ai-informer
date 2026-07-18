@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-18",
   "items": [
     {
-      "text": "Kritische Analyse: Der Satz \"AI ist nur ein Werkzeug\" wird zu häufig verwendet und vereinfacht die komplexen Implikationen von KI-Systemen. Ein Experte argumentiert, dass diese Phrase von Tech-Industrie genutzt wird, um echte Bedenken zu ignorieren.",
-      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html"
+      "text": "Neil Rimer glaubt, dass AI-Investitionen wieder verstärkt fließen werden und signalisiert damit eine Belebung des AI-Finanzierungsmarkts nach einer Phase der Zurückhaltung.",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
     },
     {
-      "text": "Applied Computing entwickelt ein KI-Modell für gesamte Öl- und Gasanlagen, um Betreibern ein ganzheitliches System zur Optimierung und Überwachung ihrer Produktionsprozesse zu bieten.",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
+      "text": "Databricks erreicht eine Bewertung von 188 Milliarden Dollar und setzt seinen Aufstieg als führendes AI-Unternehmen fort.",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
     },
     {
-      "text": "Microsoft trainiert Verkäufer offenbar darauf, OpenAI und Anthropic gegenüber potentiellen Kunden negativ darzustellen, um seine eigenen KI-Lösungen zu bevorzugen.",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/"
+      "text": "San Francisco fordert Apple und Google auf, 13 AI-Nudify-Apps aus ihren App Stores zu entfernen, da diese illegale Deepfake-Pornografie ermöglichen.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
     },
     {
-      "text": "Unternehmen haben bei der Bereitstellung von KI-Agenten ein Implementierungsproblem, nicht ein Plattformproblem. Die meisten sogenannten \"Agenten\" sind tatsächlich nur Chatbot-Wrappers mit begrenzte Orchestrierung.",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
+      "text": "TikTok testet ein AI-Erkennungstool, mit dem Creator nach unauthorisierten AI-Deepfakes scannen und diese dem Unternehmen melden können.",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool"
     },
     {
-      "text": "OpenAI stellt die Codex Micro vor, eine 230-Dollar RGB-beleuchtete Miniatur-Tastatur zur Überwachung und Interaktion mit mehreren KI-Agenten. Dies ist das erste offizielle Hardware-Produkt des Unternehmens.",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
+      "text": "Google-unterstützte FireSat-Satelliten starten erfolgreich und werden bis Ende des Jahres Wildfire-Erkennung in den USA, Australien und Europa ermöglichen.",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
     },
     {
-      "text": "OpenAI entwickelt GPT-Red, ein spezialisiertes KI-System, das wie ein Super-Hacker agiert, um die Sicherheit und Robustheit seiner Modelle durch umfassende Adversarial-Tests zu verbessern.",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+      "text": "OpenAI veröffentlicht einen Scorecard-Ansatz für die AI-Ära, um CFOs dabei zu helfen, den echten Wert von AI-Investitionen jenseits von Token-Kosten zu messen.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
     },
     {
-      "text": "Die USA fördern KI-Sicherheit durch Zusammenarbeit von Bundesstaaten und Bundesregierung. Kalifornien, New York und Illinois führen Frontier-AI-Sicherheitsgesetze ein, die einen einheitlichen nationalen Standard schaffen.",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+      "text": "Kaiser-Krankenschwestern berichten, dass AI-Systeme und Überwachungstechnologie ihre Arbeitsbedingungen und die Patientenversorgung verschlechtern.",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
     }
   ]
 }

@@ -1,5 +1,103 @@
 [
   {
+    "title": "Neil Rimer thinks the AI money is coming back out",
+    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-18T04:47:25.000Z"
+  },
+  {
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-17T22:55:09.000Z"
+  },
+  {
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-17T22:26:30.000Z"
+  },
+  {
+    "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
+    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-17T22:12:56.000Z"
+  },
+  {
+    "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+    "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-17T19:50:18.000Z"
+  },
+  {
+    "title": "TikTok is testing an AI likeness detection tool",
+    "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-17T19:34:30.000Z"
+  },
+  {
+    "title": "Apple’s plot to crush OpenAI",
+    "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-17T17:41:32.000Z"
+  },
+  {
+    "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+    "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-17T16:10:05.000Z"
+  },
+  {
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-17T15:57:54.000Z"
+  },
+  {
+    "title": "The state of open source AI",
+    "link": "https://stateofopensource.ai/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-17T14:31:10.000Z"
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-17T10:00:00.000Z"
+  },
+  {
+    "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+    "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-17T10:00:00.000Z"
+  },
+  {
+    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+    "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-17T09:00:00.000Z"
+  },
+  {
+    "title": "The risk of weather data sabotage is rising",
+    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-17T08:57:32.000Z"
+  },
+  {
     "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
     "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
     "source": "Wired AI",
@@ -2483,138 +2581,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-06-18T08:00:00.000Z"
-  },
-  {
-    "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
-    "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-18T06:00:00.000Z"
-  },
-  {
-    "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-18T03:12:31.000Z"
-  },
-  {
-    "title": "How to turn off AI in your Google Docs",
-    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-18T01:23:51.000Z"
-  },
-  {
-    "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-    "link": "https://huggingface.co/blog/peft-beyond-lora",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-18T00:00:00.000Z"
-  },
-  {
-    "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-    "link": "https://huggingface.co/blog/is-it-agentic-enough",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-18T00:00:00.000Z"
-  },
-  {
-    "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-    "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-17T22:52:00.000Z"
-  },
-  {
-    "title": "Roelof Botha joins SpaceX&#8217;s board of directors",
-    "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-17T20:32:52.000Z"
-  },
-  {
-    "title": "After unveiling ridiculously expensive AR glasses, Snap&#8217;s stock takes a dive",
-    "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-17T20:24:28.000Z"
-  },
-  {
-    "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-    "link": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-17T19:25:19.000Z"
-  },
-  {
-    "title": "Anthropic got hit by export rules nobody understands",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-17T18:28:50.000Z"
-  },
-  {
-    "title": "Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital",
-    "link": "https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-17T18:25:35.000Z"
-  },
-  {
-    "title": "\"Dangerous\" AI models are coming no matter what",
-    "link": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-17T17:50:46.000Z"
-  },
-  {
-    "title": "Two-thirds of Americans think AI is advancing too quickly",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-17T17:20:24.000Z"
-  },
-  {
-    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-    "link": "https://github.com/Adam-CAD/CADAM",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-17T16:14:04.000Z"
-  },
-  {
-    "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
-    "link": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-17T15:57:14.000Z"
-  },
-  {
-    "title": "MolmoMotion: Language-guided 3D motion forecasting",
-    "link": "https://huggingface.co/blog/allenai/molmomotion",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-17T15:26:44.000Z"
-  },
-  {
-    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-17T10:18:05.000Z"
-  },
-  {
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "link": "https://openai.com/index/ai-chemist-improves-reaction",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-17T10:00:00.000Z"
-  },
-  {
-    "title": "GLM-5.2: Built for Long-Horizon Tasks",
-    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-17T09:01:25.000Z"
   }
 ]
