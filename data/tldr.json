@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "items": [
     {
-      "text": "Neil Rimer glaubt, dass AI-Investitionen wieder verstärkt fließen werden und signalisiert damit eine Belebung des AI-Finanzierungsmarkts nach einer Phase der Zurückhaltung.",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+      "text": "Experten warnen vor \"AI-Psychose\" in Unternehmen: Analysten berichten von massiver Irrationalität bei der KI-Adoption, was rationale Entscheidungsfindung in Organisationen behindert.",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
     },
     {
-      "text": "Databricks erreicht eine Bewertung von 188 Milliarden Dollar und setzt seinen Aufstieg als führendes AI-Unternehmen fort.",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
+      "text": "NYC-Bürgermeister verbietet KI-Bilder in Immobilienanzeigen: Landlords müssen künftig offenlegen, wenn sie AI-generierte oder AI-bearbeitete Fotos zur Bewerbung von Mietobjekten nutzen.",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
     },
     {
-      "text": "San Francisco fordert Apple und Google auf, 13 AI-Nudify-Apps aus ihren App Stores zu entfernen, da diese illegale Deepfake-Pornografie ermöglichen.",
+      "text": "Autor Dave Eggers kritisiert ChatGPT bei OpenAI-Vortrag: Eggers warnte vor KI-Tools, die kreative Stimmen zum Schweigen bringen und ganze Generationen von Schriftstellern gefährden.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
+    },
+    {
+      "text": "San Francisco ordnet Entfernung von KI-Entkleidungs-Apps an: Apple und Google müssen 13 Nudify-Apps aus ihren Stores entfernen, die nicht-konsentuelle Nacktfotos erstellen.",
       "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
     },
     {
-      "text": "TikTok testet ein AI-Erkennungstool, mit dem Creator nach unauthorisierten AI-Deepfakes scannen und diese dem Unternehmen melden können.",
+      "text": "TikTok testet KI-Deepfake-Erkennungstool: Creators können die Plattform scannen lassen, um unbefugte KI-Abbilder ihrer Likeness zu finden und zu melden.",
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool"
     },
     {
-      "text": "Google-unterstützte FireSat-Satelliten starten erfolgreich und werden bis Ende des Jahres Wildfire-Erkennung in den USA, Australien und Europa ermöglichen.",
+      "text": "Regierung pilotiert KI für Versicherungsgenehmigungen: Experten diskutieren, ob KI-Einsatz bei Prior-Authorization-Prozessen die Gesundheitsversorgung verbessert oder verschlimmert.",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+    },
+    {
+      "text": "Google-gestützte FireSat-Satelliten zur Waldbranderkennung starten: Drei neue Mikrosatelliten können Waldbrände frühzeitig erkennen und unterstützen die Brandbekämpfung in USA, Australien und Europa.",
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
-    },
-    {
-      "text": "OpenAI veröffentlicht einen Scorecard-Ansatz für die AI-Ära, um CFOs dabei zu helfen, den echten Wert von AI-Investitionen jenseits von Token-Kosten zu messen.",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
-    },
-    {
-      "text": "Kaiser-Krankenschwestern berichten, dass AI-Systeme und Überwachungstechnologie ihre Arbeitsbedingungen und die Patientenversorgung verschlechtern.",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/"
     }
   ]
 }

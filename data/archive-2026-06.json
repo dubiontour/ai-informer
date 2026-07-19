@@ -1,5 +1,103 @@
 [
   {
+    "title": "Barret Zoph is out at OpenAI again after just five months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-19T04:49:33.000Z"
+  },
+  {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-19T00:51:11.000Z"
+  },
+  {
+    "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
+    "link": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-18T22:12:45.000Z"
+  },
+  {
+    "title": "As China looms, Taiwan makes more drones for defense and the US military",
+    "link": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-18T21:21:26.000Z"
+  },
+  {
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-18T21:20:13.000Z"
+  },
+  {
+    "title": "The White House Is Making Up Its Rules for AI in Real Time",
+    "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-18T21:03:43.000Z"
+  },
+  {
+    "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-18T19:29:51.000Z"
+  },
+  {
+    "title": "MosaicLeaks: Can your research agent keep a secret?",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-18T18:13:13.000Z"
+  },
+  {
+    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+    "link": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-18T17:02:49.000Z"
+  },
+  {
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-18T17:00:00.000Z"
+  },
+  {
+    "title": "Amazon employees say they’re facing termination for backing data center limits",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-18T16:00:00.000Z"
+  },
+  {
+    "title": "Who decides when AI is too dangerous?",
+    "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-18T14:00:00.000Z"
+  },
+  {
+    "title": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-18T11:00:00.000Z"
+  },
+  {
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-18T08:00:00.000Z"
+  },
+  {
     "title": "The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed",
     "link": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
     "source": "Wired AI",
