@@ -1,5 +1,54 @@
 [
   {
+    "title": "From PGP to Mythos: a brief history of export controls that didn&#8217;t stop anyone",
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-19T22:40:14.000Z"
+  },
+  {
+    "title": "Is the US government&#8217;s Anthropic ban accidentally helping the brand?",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-19T16:08:17.000Z"
+  },
+  {
+    "title": "Norway imposes near ban on AI in elementary school",
+    "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-19T16:03:15.000Z"
+  },
+  {
+    "title": "The US banned Anthropic&#8217;s Fable 5 release, but the numbers don&#8217;t seem to care",
+    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-19T16:01:03.000Z"
+  },
+  {
+    "title": "The film about Sam Altman has been dropped by Amazon MGM",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-19T14:15:29.000Z"
+  },
+  {
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-19T10:40:24.000Z"
+  },
+  {
+    "title": "The US says ASML&#8217;s top chip tool may be in China. ASML says it isn&#8217;t",
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-19T07:59:12.000Z"
+  },
+  {
     "title": "Barret Zoph is out at OpenAI again after just five months",
     "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
     "source": "The Verge AI",

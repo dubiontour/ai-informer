@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "items": [
     {
-      "text": "Experten warnen vor \"AI-Psychose\" in Unternehmen: Analysten berichten von massiver Irrationalität bei der KI-Adoption, was rationale Entscheidungsfindung in Organisationen behindert.",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3"
+      "text": "Jensen Huang besuchte Japan und es gibt wichtige Entwicklungen zu beobachten bezüglich NVIDIAs Strategien in der Region und möglichen Partnerschaften.",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
     },
     {
-      "text": "NYC-Bürgermeister verbietet KI-Bilder in Immobilienanzeigen: Landlords müssen künftig offenlegen, wenn sie AI-generierte oder AI-bearbeitete Fotos zur Bewerbung von Mietobjekten nutzen.",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/"
+      "text": "Eine Apple-Klage könnte OpenAIs Hardware-Pläne erheblich beeinträchtigen und verzögern.",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
     },
     {
-      "text": "Autor Dave Eggers kritisiert ChatGPT bei OpenAI-Vortrag: Eggers warnte vor KI-Tools, die kreative Stimmen zum Schweigen bringen und ganze Generationen von Schriftstellern gefährden.",
+      "text": "Der Musiker 1010Benja zeigt mit Suno, dass KI-generierte Musik über Standard-KI-Inhalte hinausgehen kann.",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
+    },
+    {
+      "text": "Filmregisseur Christopher Nolan warnt vor KI als offensichtliches \"Trojanisches Pferd\" und kritisiert deren Auswirkungen auf die Kreativindustrie.",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+    },
+    {
+      "text": "Autor Dave Eggers kritisierte OpenAI in einer Rede vor Mitarbeitern und sagte, ChatGPT \"unterdrücke eine ganze Generation\".",
       "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
     },
     {
-      "text": "San Francisco ordnet Entfernung von KI-Entkleidungs-Apps an: Apple und Google müssen 13 Nudify-Apps aus ihren Stores entfernen, die nicht-konsentuelle Nacktfotos erstellen.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
-    },
-    {
-      "text": "TikTok testet KI-Deepfake-Erkennungstool: Creators können die Plattform scannen lassen, um unbefugte KI-Abbilder ihrer Likeness zu finden und zu melden.",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool"
-    },
-    {
-      "text": "Regierung pilotiert KI für Versicherungsgenehmigungen: Experten diskutieren, ob KI-Einsatz bei Prior-Authorization-Prozessen die Gesundheitsversorgung verbessert oder verschlimmert.",
+      "text": "Die US-Regierung pilotiert ein Programm, das KI für Versicherungsgenehmigungen nutzt – mit unklaren Auswirkungen auf Patienten und Ärzte.",
       "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
     },
     {
-      "text": "Google-gestützte FireSat-Satelliten zur Waldbranderkennung starten: Drei neue Mikrosatelliten können Waldbrände frühzeitig erkennen und unterstützen die Brandbekämpfung in USA, Australien und Europa.",
-      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
+      "text": "Prompt-Injection-Angriffe erschweren die Effektivität von KI-basierten Hacking-Agenten erheblich.",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/"
     }
   ]
 }
