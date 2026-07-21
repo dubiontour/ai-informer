@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "items": [
     {
-      "text": "Jensen Huang besuchte Japan und es gibt wichtige Entwicklungen zu beobachten bezüglich NVIDIAs Strategien in der Region und möglichen Partnerschaften.",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+      "text": "Fünf US-Tech-Giganten haben versteckte Schulden von 1,65 Billionen Dollar durch intransparente AI-Finanzierung angehäuft. Die opaken Investitionen in KI-Infrastruktur werden zunehmend zum finanziellen Risiko.",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
     },
     {
-      "text": "Eine Apple-Klage könnte OpenAIs Hardware-Pläne erheblich beeinträchtigen und verzögern.",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+      "text": "Anthropic hat eine bedeutende Urheberrechtssiedlung in Höhe von 1,5 Milliarden Dollar vor Gericht erhalten. Die Genehmigung markiert einen Wendepunkt in rechtlichen Konflikten zwischen KI-Unternehmen und Rechteinhabern.",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
     },
     {
-      "text": "Der Musiker 1010Benja zeigt mit Suno, dass KI-generierte Musik über Standard-KI-Inhalte hinausgehen kann.",
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music"
+      "text": "Trumps neuer AI-Czar ist bereits zurückgetreten. Die schnelle Amtszeit deutet auf Unstabilität in der US-amerikanischen KI-Politikgestaltung hin.",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/"
     },
     {
-      "text": "Filmregisseur Christopher Nolan warnt vor KI als offensichtliches \"Trojanisches Pferd\" und kritisiert deren Auswirkungen auf die Kreativindustrie.",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+      "text": "Sony verklagt Udio über 30.000 urheberrechtlich geschützte Songs, einschließlich Werken von Beyoncé und Harry Styles. Der Rechtsstreit zeigt wachsende Konflikte zwischen AI-Musikgeneratoren und der Musikindustrie.",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright"
     },
     {
-      "text": "Autor Dave Eggers kritisierte OpenAI in einer Rede vor Mitarbeitern und sagte, ChatGPT \"unterdrücke eine ganze Generation\".",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
+      "text": "Google entwickelt einen neuen AI-Chip zur Optimierung von Gemini-Effizienz. Der proprietäre Chip soll die Leistung und Kosteneffektivität von Googles KI-Modellen verbessern.",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
     },
     {
-      "text": "Die US-Regierung pilotiert ein Programm, das KI für Versicherungsgenehmigungen nutzt – mit unklaren Auswirkungen auf Patienten und Ärzte.",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+      "text": "Etwa ein Drittel neuer arXiv-Papiere zeigt Merkmale von maschinengeneriertem Text. Eine Studie mit 12.750 Papers identifiziert wachsenden KI-Schreibeinsatz in akademischen Publikationen.",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv"
     },
     {
-      "text": "Prompt-Injection-Angriffe erschweren die Effektivität von KI-basierten Hacking-Agenten erheblich.",
-      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/"
+      "text": "OpenAI warnt vor Sicherheitsrisiken bei langfristig laufenden KI-Modellen. Neue Evaluierungen und Überwachungsmechanismen sollen die Kontrolle über autonome KI-Systeme verbessern.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
     }
   ]
 }

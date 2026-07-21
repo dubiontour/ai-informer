@@ -1,5 +1,110 @@
 [
   {
+    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+    "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-21T03:56:03.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s landmark $1.5B copyright settlement is approved",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-21T00:12:24.000Z"
+  },
+  {
+    "title": "Trump&#8217;s latest AI czar has already resigned",
+    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-20T22:21:04.000Z"
+  },
+  {
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-20T22:19:12.000Z"
+  },
+  {
+    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+    "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-20T21:55:52.000Z"
+  },
+  {
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-20T21:21:15.000Z"
+  },
+  {
+    "title": "SpaceX in your index fund, explained",
+    "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-20T21:00:00.000Z"
+  },
+  {
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-20T18:00:00.000Z"
+  },
+  {
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-20T16:36:36.000Z"
+  },
+  {
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "link": "https://news.ycombinator.com/item?id=48981136",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-20T16:32:10.000Z"
+  },
+  {
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-20T16:00:00.000Z"
+  },
+  {
+    "title": "Introducing Cosmos 3 Edge",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-20T15:58:51.000Z"
+  },
+  {
+    "title": "Beyond grep: The case for a context-rich AI coding harness",
+    "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-20T11:20:10.000Z"
+  },
+  {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-20T10:00:00.000Z"
+  },
+  {
+    "title": "AI is more likely than humans to form biases when hiring",
+    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-20T08:39:01.000Z"
+  },
+  {
     "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
     "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
     "source": "TechCrunch AI",
@@ -2469,61 +2574,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-21T10:30:00.000Z"
-  },
-  {
-    "title": "The 100k Whys of AI",
-    "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-21T05:45:21.000Z"
-  },
-  {
-    "title": "Building reliable agentic AI systems",
-    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-21T04:28:39.000Z"
-  },
-  {
-    "title": "When I reject AI code even if it works",
-    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-21T00:58:13.000Z"
-  },
-  {
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-20T20:32:29.000Z"
-  },
-  {
-    "title": "In the Weights is your new AI-centric vanity search",
-    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-20T19:41:11.000Z"
-  },
-  {
-    "title": "The Atlantic created a searchable database of the music used to train AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-20T18:46:48.000Z"
-  },
-  {
-    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-20T16:39:57.000Z"
-  },
-  {
-    "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-    "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-20T10:00:00.000Z"
   }
 ]
