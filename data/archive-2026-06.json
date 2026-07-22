@@ -1,5 +1,47 @@
 [
   {
+    "title": "We got local models to triage the OpenClaw repo for FREE!*",
+    "link": "https://huggingface.co/blog/local-models-pr-triage",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-21T23:00:00.000Z"
+  },
+  {
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "link": "https://apertvs.ai/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-21T21:29:43.000Z"
+  },
+  {
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-21T15:28:17.000Z"
+  },
+  {
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-21T14:40:28.000Z"
+  },
+  {
+    "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+    "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-21T10:30:00.000Z"
+  },
+  {
     "title": "The 100k Whys of AI",
     "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
     "source": "Hacker News AI",

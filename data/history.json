@@ -1,5 +1,117 @@
 [
   {
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-22T03:20:57.000Z"
+  },
+  {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-21T23:55:10.000Z"
+  },
+  {
+    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+    "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-21T22:50:01.000Z"
+  },
+  {
+    "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+    "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-21T22:06:43.000Z"
+  },
+  {
+    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-21T21:48:54.000Z"
+  },
+  {
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-21T20:56:55.000Z"
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-21T20:00:27.000Z"
+  },
+  {
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-21T19:22:28.000Z"
+  },
+  {
+    "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
+    "link": "https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-21T19:05:00.000Z"
+  },
+  {
+    "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+    "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-21T17:33:14.000Z"
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-21T17:00:00.000Z"
+  },
+  {
+    "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+    "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-21T16:58:25.000Z"
+  },
+  {
+    "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+    "link": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-21T16:08:44.000Z"
+  },
+  {
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-07-21T15:16:30.000Z"
+  },
+  {
+    "title": "Advancing next-gen AI with materials science innovation",
+    "link": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-21T10:37:34.000Z"
+  },
+  {
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-21T07:00:00.000Z"
+  },
+  {
     "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
     "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
     "source": "Hacker News AI",
@@ -12,6 +124,20 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-07-21T00:12:24.000Z"
+  },
+  {
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "link": "https://huggingface.co/blog/grabette",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-21T00:00:00.000Z"
   },
   {
     "title": "Trump&#8217;s latest AI czar has already resigned",
@@ -2532,47 +2658,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-22T09:30:00.000Z"
-  },
-  {
-    "title": "We got local models to triage the OpenClaw repo for FREE!*",
-    "link": "https://huggingface.co/blog/local-models-pr-triage",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-22T00:00:00.000Z"
-  },
-  {
-    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-21T23:00:00.000Z"
-  },
-  {
-    "title": "Apertus – Open Foundation Model for Sovereign AI",
-    "link": "https://apertvs.ai/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-21T21:29:43.000Z"
-  },
-  {
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-21T15:28:17.000Z"
-  },
-  {
-    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-21T14:40:28.000Z"
-  },
-  {
-    "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-    "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-21T10:30:00.000Z"
   }
 ]
