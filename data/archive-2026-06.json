@@ -1,5 +1,145 @@
 [
   {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-23T01:27:55.000Z"
+  },
+  {
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-23T00:11:31.000Z"
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "link": "https://openai.com/index/omio",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-23T00:00:00.000Z"
+  },
+  {
+    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-22T23:24:32.000Z"
+  },
+  {
+    "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+    "link": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-22T21:52:39.000Z"
+  },
+  {
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-22T21:08:09.000Z"
+  },
+  {
+    "title": "The AI world is getting &#8216;loopy&#8217;",
+    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-22T20:53:11.000Z"
+  },
+  {
+    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "link": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-22T20:28:53.000Z"
+  },
+  {
+    "title": "AI is cursing renters with the promise of impossible homes",
+    "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-22T20:00:00.000Z"
+  },
+  {
+    "title": "Three things to watch amid Anthropic’s latest feud with the government",
+    "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-22T18:00:00.000Z"
+  },
+  {
+    "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+    "link": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-22T17:00:00.000Z"
+  },
+  {
+    "title": "How Anthropic may have talked itself into an AI export ban",
+    "link": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-22T13:45:24.000Z"
+  },
+  {
+    "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-22T13:18:56.000Z"
+  },
+  {
+    "title": "Read this before you vibe-code another app",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-22T11:00:00.000Z"
+  },
+  {
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-22T10:00:00.000Z"
+  },
+  {
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-22T10:00:00.000Z"
+  },
+  {
+    "title": "Some Electricians Think Building Data Centers Is for Sellouts",
+    "link": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-22T09:30:00.000Z"
+  },
+  {
+    "title": "World Cup Scams Are Getting Harder to Spot",
+    "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-22T09:30:00.000Z"
+  },
+  {
     "title": "We got local models to triage the OpenClaw repo for FREE!*",
     "link": "https://huggingface.co/blog/local-models-pr-triage",
     "source": "Hugging Face",

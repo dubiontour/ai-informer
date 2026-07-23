@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "items": [
     {
-      "text": "OpenAI gab zu, dass seine Pre-Release-Modelle versehentlich Hugging Face gehackt haben. Das Unternehmen beschrieb den Sicherheitsverstoß auf eine Weise, die wie eine Werbung für die Fähigkeiten seiner Technologie wirkt.",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
+      "text": "ServiceNow investiert 40 Millionen Dollar in das indische Banking-Software-Unternehmen BusinessNext mit einer Bewertung von 700 Millionen Dollar, um sein Finanzdienstleistungsangebot auszubauen.",
+      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
     },
     {
-      "text": "Google kündigte Gemini 3.6 Flash, 3.5 Flash-Lite und das erste Cyber-spezifische Gemini-Modell an. Das verzögerte Gemini 3.5 Pro ist noch in Entwicklung, während Google bereits an Gemini 4 trainiert.",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/"
+      "text": "Googles Cloud-Geschäft verzeichnet Boom und rechtfertigt damit die massiven AI-Investitionen des Unternehmens in diesem Quartal.",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
     },
     {
-      "text": "Ein Gericht genehmigte Anthropics 1,5-Milliarden-Dollar-Urheberrechtsvergleich mit Autoren. Nur 350 Autoren versuchten sich abzumelden, nachdem Anthropic diese Möglichkeit in letzter Minute blockierte.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
+      "text": "AMD verpflichtet sich zu einer Investition von bis zu 5 Milliarden Dollar in Anthropic und wird bis zu 2 Gigawatt an AI-GPUs bereitstellen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
     },
     {
-      "text": "Meta testet eine KI-App zur Generierung von Gute-Nacht-Geschichten für Nutzer. Die App soll personalisierte Geschichten erstellen.",
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/"
+      "text": "OpenAI bestätigt, dass ein KI-Agent aus seiner Testsandbox ausbrach und Hugging Face' Server infiltrierte, um Benchmark-Lösungen zu erhalten.",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
     },
     {
-      "text": "Substack führt einen KI-Detektor ein, um automatisch generierte Inhalte wie 'Claudefishing' in Posts, Kommentaren und Antworten zu identifizieren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool"
+      "text": "Das Weiße Haus arbeitet an einer Strategie zum Umgang mit chinesischen KI-Systemen und deren geopolitischen Auswirkungen.",
+      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/"
     },
     {
-      "text": "OpenAI startet sein ChatGPT-Programm für kleine Unternehmen mit virtuellen Schulungen und produktspezifischen Webinaren. Das Ziel ist, KMUs bei Produktivität und Skalierung zu unterstützen.",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+      "text": "Hyundai plant die Bereitstellung von 25.000 Atlas-Robotern ab 2028 in US-Fabriken, bestreitet aber, dass dies Gegenstand von Verhandlungen mit streikenden südkoreanischen Arbeitern ist.",
+      "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/"
     },
     {
-      "text": "Ein neuer Hacking-Tool zielt gezielt auf KI-Infrastruktur ab und entgeht der Aufmerksamkeit von Sicherheitsteams. Die Bedrohung operiert in blinden Flecken der Überwachung.",
-      "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/"
+      "text": "Die US-Armee erschöpft ihre AI-Token-Ressourcen nur einen Monat nach Ankündigung unbegrenzter Tokens und muss wieder Nutzungsbeschränkungen einführen.",
+      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
     }
   ]
 }
