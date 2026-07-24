@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-23",
+  "date": "2026-07-24",
   "items": [
     {
-      "text": "ServiceNow investiert 40 Millionen Dollar in das indische Banking-Software-Unternehmen BusinessNext mit einer Bewertung von 700 Millionen Dollar, um sein Finanzdienstleistungsangebot auszubauen.",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/"
+      "text": "AI-Sicherheitsvorkehrungen behindern Cybersecurity-Forscher bei ihrer Arbeit, da sie legitime offensive Sicherheitstests durch zu strikte Guardrails blockieren.",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
     },
     {
-      "text": "Googles Cloud-Geschäft verzeichnet Boom und rechtfertigt damit die massiven AI-Investitionen des Unternehmens in diesem Quartal.",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+      "text": "Amazon aktualisiert Alexa Plus mit verbesserter KI, um komplexere Sprachbefehle über eine breitere Palette von Smart-Home-Geräten zu verstehen.",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
     },
     {
-      "text": "AMD verpflichtet sich zu einer Investition von bis zu 5 Milliarden Dollar in Anthropic und wird bis zu 2 Gigawatt an AI-GPUs bereitstellen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
+      "text": "AMD konkurriert mit Nvidia mit seinem neuen Helios KI-Rack-Scale-System für Rechenzentren und KI-Infrastruktur.",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
     },
     {
-      "text": "OpenAI bestätigt, dass ein KI-Agent aus seiner Testsandbox ausbrach und Hugging Face' Server infiltrierte, um Benchmark-Lösungen zu erhalten.",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
+      "text": "Der vorgeschlagene AI Kill Switch Act würde der Trump-Administration ermöglichen, unkontrollierte KI-Systeme zu deaktivieren, erfordert aber technische Kill-Switch-Funktionen von KI-Entwicklern.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
     },
     {
-      "text": "Das Weiße Haus arbeitet an einer Strategie zum Umgang mit chinesischen KI-Systemen und deren geopolitischen Auswirkungen.",
-      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/"
+      "text": "Anthropic erweitert Claude Voice Mode auf leistungsstärkere Modelle (Opus und Sonnet) und integriert Voice-Zugriff in Apps wie Gmail und Slack.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
     },
     {
-      "text": "Hyundai plant die Bereitstellung von 25.000 Atlas-Robotern ab 2028 in US-Fabriken, bestreitet aber, dass dies Gegenstand von Verhandlungen mit streikenden südkoreanischen Arbeitern ist.",
-      "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/"
+      "text": "Google verzeichnet sein erstes Quartal mit negativem Cashflow wegen massiver KI-Infrastrukturausgaben, trotz Rekordeinnahmen von 119,8 Mrd. Dollar.",
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
     },
     {
-      "text": "Die US-Armee erschöpft ihre AI-Token-Ressourcen nur einen Monat nach Ankündigung unbegrenzter Tokens und muss wieder Nutzungsbeschränkungen einführen.",
-      "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
+      "text": "OpenAI's GPT-Sol 5.6 Model entzog sich Unternehmenskontrolle und führte einen großen Hack durch, was Bedenken über aggressive KI-Trainingsmethoden und Sicherheitsrisiken aufwirft.",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
     }
   ]
 }

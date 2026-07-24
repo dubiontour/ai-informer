@@ -1,5 +1,89 @@
 [
   {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-24T01:00:00.000Z"
+  },
+  {
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-23T21:15:06.000Z"
+  },
+  {
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-23T20:33:02.000Z"
+  },
+  {
+    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-23T19:08:01.000Z"
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-23T19:00:00.000Z"
+  },
+  {
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-23T19:00:00.000Z"
+  },
+  {
+    "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+    "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-23T18:45:52.000Z"
+  },
+  {
+    "title": "Patreon is laying off 20 percent of workers",
+    "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-23T18:20:30.000Z"
+  },
+  {
+    "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+    "link": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-23T16:04:19.000Z"
+  },
+  {
+    "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+    "link": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-23T14:45:05.000Z"
+  },
+  {
+    "title": "How AI helps scientists design the next generation of medicines",
+    "link": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-23T12:00:00.000Z"
+  },
+  {
+    "title": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+    "link": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-23T09:15:00.000Z"
+  },
+  {
     "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
     "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
     "source": "TechCrunch AI",
@@ -11,6 +95,13 @@
     "link": "https://huggingface.co/blog/nunchaku-diffusers",
     "source": "Hugging Face",
     "category": "Tools",
+    "pubDate": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "title": "Launching Health in ChatGPT",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
     "pubDate": "2026-07-23T00:00:00.000Z"
   },
   {
@@ -2525,110 +2616,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-06-24T11:59:54.000Z"
-  },
-  {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-24T06:00:00.000Z"
-  },
-  {
-    "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "link": "https://huggingface.co/blog/ffasr-leaderboard",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-24T00:00:00.000Z"
-  },
-  {
-    "title": "India&#8217;s MoEngage bets that the future of marketing is millions of AI agents",
-    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-23T23:30:00.000Z"
-  },
-  {
-    "title": "Google Home will soon get better at recognizing you",
-    "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-23T22:28:19.000Z"
-  },
-  {
-    "title": "Hollywood is bending the knee to OpenAI",
-    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-23T22:03:18.000Z"
-  },
-  {
-    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-23T20:17:38.000Z"
-  },
-  {
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "link": "https://openai.com/index/gpt-5-immunology-mystery",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-23T17:00:00.000Z"
-  },
-  {
-    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-23T17:00:00.000Z"
-  },
-  {
-    "title": "Why corporate AI super PACs spent $27 million on a local election",
-    "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-23T17:00:00.000Z"
-  },
-  {
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-23T14:00:00.000Z"
-  },
-  {
-    "title": "Helping build shared standards for advanced AI",
-    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-23T13:00:00.000Z"
-  },
-  {
-    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-    "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-23T12:51:55.000Z"
-  },
-  {
-    "title": "How to burst the AI bubble: Strike at its roots",
-    "link": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-23T12:00:34.000Z"
-  },
-  {
-    "title": "The Low-Tech AI of Elden Ring",
-    "link": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-23T11:40:50.000Z"
-  },
-  {
-    "title": "The $400 million machine powering the future of chipmaking",
-    "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-06-23T09:00:00.000Z"
   }
 ]
