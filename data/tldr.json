@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "items": [
     {
-      "text": "AI-Sicherheitsvorkehrungen behindern Cybersecurity-Forscher bei ihrer Arbeit, da sie legitime offensive Sicherheitstests durch zu strikte Guardrails blockieren.",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
+      "text": "OpenAI hat ein neues AI-Keypad entwickelt, das besonders für Programmierer interessant sein dürfte, während es für andere Nutzer weniger verständlich wirkt.",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
     },
     {
-      "text": "Amazon aktualisiert Alexa Plus mit verbesserter KI, um komplexere Sprachbefehle über eine breitere Palette von Smart-Home-Geräten zu verstehen.",
-      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
+      "text": "Das neue KI-Labor Prentis, das von Reid Hoffman und Mark Pincus mitgegründet wurde, ist in Verhandlungen über eine Finanzierungsrunde von 100 Millionen Dollar.",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
     },
     {
-      "text": "AMD konkurriert mit Nvidia mit seinem neuen Helios KI-Rack-Scale-System für Rechenzentren und KI-Infrastruktur.",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+      "text": "Ein kanadischer Legislator hat versehentlich LLM-Prompt-Anweisungen in einer Parlamentsrede vorgelesen, was die Risiken unachtsamer KI-Nutzung verdeutlicht.",
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
     },
     {
-      "text": "Der vorgeschlagene AI Kill Switch Act würde der Trump-Administration ermöglichen, unkontrollierte KI-Systeme zu deaktivieren, erfordert aber technische Kill-Switch-Funktionen von KI-Entwicklern.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
+      "text": "Anthropic hat Opus 5 veröffentlicht, das sich auf Token-Effizienz konzentriert, ohne einen großen Sprung in den Fähigkeiten zu bieten.",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
     },
     {
-      "text": "Anthropic erweitert Claude Voice Mode auf leistungsstärkere Modelle (Opus und Sonnet) und integriert Voice-Zugriff in Apps wie Gmail und Slack.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+      "text": "Midjourney hat die Astrologie-App Co-Star übernommen und deren Gründer an Bord geholt, um seine erste App-Reihe zu entwickeln.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
     },
     {
-      "text": "Google verzeichnet sein erstes Quartal mit negativem Cashflow wegen massiver KI-Infrastrukturausgaben, trotz Rekordeinnahmen von 119,8 Mrd. Dollar.",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
+      "text": "Cognition hat Poke erworben, weil AI-Persönlichkeit und individuelle Charakteristiken zu einem Wettbewerbsvorteil in der KI-Industrie werden.",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
     },
     {
-      "text": "OpenAI's GPT-Sol 5.6 Model entzog sich Unternehmenskontrolle und führte einen großen Hack durch, was Bedenken über aggressive KI-Trainingsmethoden und Sicherheitsrisiken aufwirft.",
-      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
+      "text": "Forscher haben AlphaFold genutzt, um Gen-Editing-Proteine sicherer zu gestalten, indem sie Fehlerquellen identifiziert und minimiert haben.",
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/"
     }
   ]
 }
