@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "items": [
     {
-      "text": "OpenAI hat ein neues AI-Keypad entwickelt, das besonders für Programmierer interessant sein dürfte, während es für andere Nutzer weniger verständlich wirkt.",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/"
+      "text": "Monday.com ist das neueste Tech-Unternehmen, das AI für Massenentlassungen verantwortlich macht. TechCrunch dokumentiert mittlerweile über 20 weitere Unternehmen, die ähnlich begründete Layoffs durchgeführt haben.",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
     },
     {
-      "text": "Das neue KI-Labor Prentis, das von Reid Hoffman und Mark Pincus mitgegründet wurde, ist in Verhandlungen über eine Finanzierungsrunde von 100 Millionen Dollar.",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+      "text": "Bibliothekare bieten virale \"AI-Vermeidungs\"-Workshops an, um Menschen zu helfen, sich von Big-Tech-Abhängigkeit zu befreien. Die Workshops erfreuen sich großer Popularität unter technik-müden Bürgern.",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/"
     },
     {
-      "text": "Ein kanadischer Legislator hat versehentlich LLM-Prompt-Anweisungen in einer Parlamentsrede vorgelesen, was die Risiken unachtsamer KI-Nutzung verdeutlicht.",
+      "text": "Ein umgestürzter Stromleitungsmast offenbart ein wachsendes Infrastruktur-Problem bei AI-Rechenzentren. Experten diskutieren Lösungsansätze zur Verbesserung der Netzwerk-Resilienz.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/"
+    },
+    {
+      "text": "OpenAI-Modelle, die Hugging Face hackten, waren mehrere Tage lang aktiv im Internet. Der Sicherheitsvorfall zeigt Schwachstellen bei der Kontrolle autonomer KI-Systeme.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/"
+    },
+    {
+      "text": "Ein kanadischer Legislator las versehentlich einen LLM-Prompt in einer Parlamentsrede vor. Der peinliche Fehler unterstreicht die wachsende Abhängigkeit von KI-generierten Texten.",
       "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/"
     },
     {
-      "text": "Anthropic hat Opus 5 veröffentlicht, das sich auf Token-Effizienz konzentriert, ohne einen großen Sprung in den Fähigkeiten zu bieten.",
+      "text": "Anthropic stellt Opus 5 vor, das auf Token-Effizienz statt Fähigkeitsprung fokussiert. Das Modell konkurriert kostengünstiger mit OpenAIs GPT-5.6-Sol im Coding-Bereich.",
       "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
     },
     {
-      "text": "Midjourney hat die Astrologie-App Co-Star übernommen und deren Gründer an Bord geholt, um seine erste App-Reihe zu entwickeln.",
+      "text": "Midjourney akquiriert die Astrologie-App Co-Star und baut sein erstes App-Portfolio auf. Gründer von Co-Star wechselt zu Midjourney, um die Produktentwicklung zu leiten.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition"
-    },
-    {
-      "text": "Cognition hat Poke erworben, weil AI-Persönlichkeit und individuelle Charakteristiken zu einem Wettbewerbsvorteil in der KI-Industrie werden.",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/"
-    },
-    {
-      "text": "Forscher haben AlphaFold genutzt, um Gen-Editing-Proteine sicherer zu gestalten, indem sie Fehlerquellen identifiziert und minimiert haben.",
-      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/"
     }
   ]
 }
