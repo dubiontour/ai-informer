@@ -1,5 +1,117 @@
 [
   {
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "link": "https://learnvector.ai/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-29T01:49:19.000Z"
+  },
+  {
+    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-29T00:15:30.000Z"
+  },
+  {
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-29T00:09:05.000Z"
+  },
+  {
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-28T21:36:39.000Z"
+  },
+  {
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-28T21:29:34.000Z"
+  },
+  {
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-28T20:45:12.000Z"
+  },
+  {
+    "title": "Despite AI hype, Google&#039;s data shows workers aren&#039;t automating themselves away",
+    "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-28T20:20:20.000Z"
+  },
+  {
+    "title": "AI leaders sign a statement asking the government to do something about automated AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-28T19:46:43.000Z"
+  },
+  {
+    "title": "AI’s finally expensive enough to make Wall Street nervous",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-28T19:33:03.000Z"
+  },
+  {
+    "title": "Scientific computing in the age of agentic AI",
+    "link": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-28T17:00:00.000Z"
+  },
+  {
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-28T16:27:42.000Z"
+  },
+  {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-28T15:01:45.000Z"
+  },
+  {
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-28T12:30:00.000Z"
+  },
+  {
+    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-28T10:30:00.000Z"
+  },
+  {
+    "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-28T10:00:00.000Z"
+  },
+  {
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-28T09:18:57.000Z"
+  },
+  {
     "title": "Hugging Face Has a Deepfake Nudes Problem",
     "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
     "source": "Wired AI",
@@ -2434,61 +2546,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-06-29T08:00:00.000Z"
-  },
-  {
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-29T07:00:00.000Z"
-  },
-  {
-    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-28T21:42:51.000Z"
-  },
-  {
-    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-28T20:27:36.000Z"
-  },
-  {
-    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-28T19:05:39.000Z"
-  },
-  {
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "link": "https://openai.com/index/hp-frontier-partnership",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-28T17:00:00.000Z"
-  },
-  {
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
-    "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-06-28T16:41:12.000Z"
-  },
-  {
-    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-06-28T15:00:00.000Z"
-  },
-  {
-    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-28T14:12:06.000Z"
   }
 ]

@@ -1,5 +1,61 @@
 [
   {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-29T07:00:00.000Z"
+  },
+  {
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-28T21:42:51.000Z"
+  },
+  {
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-28T20:27:36.000Z"
+  },
+  {
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-28T19:05:39.000Z"
+  },
+  {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-28T17:00:00.000Z"
+  },
+  {
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-06-28T16:41:12.000Z"
+  },
+  {
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-06-28T15:00:00.000Z"
+  },
+  {
+    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-28T14:12:06.000Z"
+  },
+  {
     "title": "Ford hired AI and sacked humans. It backfired badly",
     "link": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
     "source": "Hacker News AI",
