@@ -1,5 +1,96 @@
 [
   {
+    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+    "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-30T23:23:04.000Z"
+  },
+  {
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-30T21:50:04.000Z"
+  },
+  {
+    "title": "New attack provides one more reason why AI browsers are a bad idea",
+    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-30T20:03:14.000Z"
+  },
+  {
+    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-30T19:24:51.000Z"
+  },
+  {
+    "title": "Google&#039;s new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+    "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-30T18:36:10.000Z"
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-30T18:32:50.000Z"
+  },
+  {
+    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-06-30T17:19:15.000Z"
+  },
+  {
+    "title": "Trump&#039;s plan to redesign every .gov website leads to AI-designed horrors",
+    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-06-30T16:59:02.000Z"
+  },
+  {
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-06-30T16:02:40.000Z"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-06-30T14:39:11.000Z"
+  },
+  {
+    "title": "Agriculture is ready for AI, but its data isn&#8217;t",
+    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-06-30T12:00:00.000Z"
+  },
+  {
+    "title": "Bernie Sanders Saw This Coming",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-06-30T10:30:00.000Z"
+  },
+  {
+    "title": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-06-30T09:00:00.000Z"
+  },
+  {
     "title": "The AI jobs debate just got messier",
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "source": "TechCrunch AI",

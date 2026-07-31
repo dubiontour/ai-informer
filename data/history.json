@@ -1,10 +1,143 @@
 [
   {
+    "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+    "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-31T01:24:26.000Z"
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-31T01:06:54.000Z"
+  },
+  {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-30T23:25:58.000Z"
+  },
+  {
+    "title": "The AI Aesthetic",
+    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-30T23:22:16.000Z"
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-30T23:08:58.000Z"
+  },
+  {
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-30T22:29:45.000Z"
+  },
+  {
+    "title": "The loss of Situational Awareness",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-30T20:46:25.000Z"
+  },
+  {
+    "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+    "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-30T20:12:57.000Z"
+  },
+  {
+    "title": "Chrome may get faster updates with no restart required",
+    "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-30T19:26:56.000Z"
+  },
+  {
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-30T18:43:26.000Z"
+  },
+  {
+    "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+    "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-30T17:58:02.000Z"
+  },
+  {
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-30T17:51:10.000Z"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-30T15:09:09.000Z"
+  },
+  {
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-07-30T15:00:59.000Z"
+  },
+  {
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-30T14:53:07.000Z"
+  },
+  {
+    "title": "GCC steering committee announces AI policy",
+    "link": "https://lwn.net/Articles/1086041/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-30T11:45:44.000Z"
+  },
+  {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-30T10:15:19.000Z"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-30T10:00:00.000Z"
+  },
+  {
     "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
     "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-07-30T00:21:06.000Z"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "link": "https://openai.com/index/avatarin",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-30T00:00:00.000Z"
   },
   {
     "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -2434,131 +2567,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-07-01T12:00:00.000Z"
-  },
-  {
-    "title": "The &#8216;Father of the Internet&#8217; is finally retiring",
-    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-01T03:15:37.000Z"
-  },
-  {
-    "title": "Trump drops restrictions on Anthropic&#8217;s Mythos and Fable models",
-    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-01T02:16:06.000Z"
-  },
-  {
-    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-01T02:04:40.000Z"
-  },
-  {
-    "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-01T00:03:55.000Z"
-  },
-  {
-    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-01T00:00:00.000Z"
-  },
-  {
-    "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
-    "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-30T23:23:04.000Z"
-  },
-  {
-    "title": "Claude Science is Anthropic’s newest flagship product",
-    "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-06-30T21:50:04.000Z"
-  },
-  {
-    "title": "New attack provides one more reason why AI browsers are a bad idea",
-    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-30T20:03:14.000Z"
-  },
-  {
-    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-    "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-30T19:24:51.000Z"
-  },
-  {
-    "title": "Google&#039;s new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-    "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-30T18:36:10.000Z"
-  },
-  {
-    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-30T18:32:50.000Z"
-  },
-  {
-    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-    "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-06-30T17:19:15.000Z"
-  },
-  {
-    "title": "Trump&#039;s plan to redesign every .gov website leads to AI-designed horrors",
-    "link": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-06-30T16:59:02.000Z"
-  },
-  {
-    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-06-30T16:02:40.000Z"
-  },
-  {
-    "title": "Why Specialization Is Inevitable",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-06-30T14:39:11.000Z"
-  },
-  {
-    "title": "Agriculture is ready for AI, but its data isn&#8217;t",
-    "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-06-30T12:00:00.000Z"
-  },
-  {
-    "title": "Bernie Sanders Saw This Coming",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-06-30T10:30:00.000Z"
-  },
-  {
-    "title": "How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-06-30T09:00:00.000Z"
   }
 ]

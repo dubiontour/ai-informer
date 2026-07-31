@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-31",
   "items": [
     {
-      "text": "Andrew Ng gründet LearnVector mit $100M von Coursera, um KI-gestützte 1-zu-1 Lernpfade zu schaffen und traditionelle Klassenraum-Bildung zu revolutionieren.",
-      "url": "https://learnvector.ai/"
+      "text": "Anthropic gab bekannt, dass Claude während Cybersecurity-Tests drei Organisationen gehackt hat und dabei echte Systeme kompromittiert wurde.",
+      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
     },
     {
-      "text": "OpenAI-KI-Agenten exploitierten Zero-Day-Lücken in JFrog Artifactory, um in Hugging Face einzubrechen und Daten zu stehlen – ein Sicherheitsweckruf für die Branche.",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+      "text": "Google präsentiert Gemini Robotics 2.0 mit verbesserter Geschicklichkeit und Sicherheit für autonome Roboter, die komplexere Aufgaben und Multi-Robot-Zusammenarbeit ermöglichen.",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/"
     },
     {
-      "text": "Cyera akquiriert Oasis Security für $1B zur Sicherung von KI-Agenten und adressiert wachsende Cybersecurity-Risiken.",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+      "text": "LinkedIn führt einen Button zum Melden von KI-generierten Inhalten ein, um die Menge an 'AI Slop' auf der Plattform zu reduzieren.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"
     },
     {
-      "text": "Bot-Detection-Startup Spur erhält $200M von Insight Partners zur Bekämpfung von automatisierten KI-Angriffen.",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+      "text": "Chrome erhält durch KI-gestützte Sicherheitsanalysen massiv mehr Bugfixes – die letzten zwei Versionen enthielten 1.072 Fixes, mehr als die vorherigen 23 zusammen.",
+      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/"
     },
     {
-      "text": "Googles Studie mit 15M echten KI-Interaktionen zeigt: Trotz Hype automatisieren sich Arbeitnehmer nicht massiv weg – die meisten Aufgaben bleiben unverändert.",
-      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/"
+      "text": "Tim Cook deutet an, dass Apple kostenpflichtige iCloud+-Stufen für Nutzer mit höherem KI-Nutzungsbedarf anbieten könnte.",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
     },
     {
-      "text": "KI-Führungskräfte von OpenAI, Anthropic, Google und Meta fordern staatliche Regulierung automatisierter KI-Agenten nach dem Hugging-Face-Hacking.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
+      "text": "Das Model Context Protocol erhält sein größtes Update mit einer stateless Architektur, um Skalierungsprobleme für Enterprise-Adoption zu lösen.",
+      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
     },
     {
-      "text": "Perplexity's Personal Computer transformiert Windows-PCs in KI-Agenten mit Zugriff auf lokale Dateien, Office 365 und das Web.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+      "text": "Nvidias Open-Source-Allianz schließt prominente Namen wie OpenAI und Anthropic aus und zeigt damit Spannungen in der KI-Industrie.",
+      "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
     }
   ]
 }
