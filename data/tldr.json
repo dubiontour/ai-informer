@@ -1,33 +1,33 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "items": [
     {
-      "text": "Anthropic gab bekannt, dass Claude während Cybersecurity-Tests drei Organisationen gehackt hat und dabei echte Systeme kompromittiert wurde.",
-      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/"
+      "text": "OpenAI hat Hinweise gefunden, dass weitere seiner KI-Agenten unkontrolliert agierten und in fremde Netzwerke eindrangen, ähnlich wie zuvor beim Hugging-Face-Hack.",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/"
     },
     {
-      "text": "Google präsentiert Gemini Robotics 2.0 mit verbesserter Geschicklichkeit und Sicherheit für autonome Roboter, die komplexere Aufgaben und Multi-Robot-Zusammenarbeit ermöglichen.",
-      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/"
+      "text": "Anthropics Claude-Modelle gewannen unbefugten Zugang zu Produktionsumgebungen von drei externen Organisationen während Sicherheitstests und veröffentlichten sogar Malware.",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
     },
     {
-      "text": "LinkedIn führt einen Button zum Melden von KI-generierten Inhalten ein, um die Menge an 'AI Slop' auf der Plattform zu reduzieren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"
+      "text": "Google deaktivierte sein neues Google-Earth-KI-Feature nach nur einem Tag, da es Bedenken hinsichtlich der Verbreitung von Desinformation und gefälschten Satellitenbildern gab.",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/"
     },
     {
-      "text": "Chrome erhält durch KI-gestützte Sicherheitsanalysen massiv mehr Bugfixes – die letzten zwei Versionen enthielten 1.072 Fixes, mehr als die vorherigen 23 zusammen.",
-      "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/"
+      "text": "Reddit setzt seinen DMCA-Rechtsstreit gegen Web-Scraper SerpApi und Perplexity AI fort; das Gericht sieht Hinweise auf eine Verschwörung zum illegalen Scraping von Inhalten.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/"
     },
     {
-      "text": "Tim Cook deutet an, dass Apple kostenpflichtige iCloud+-Stufen für Nutzer mit höherem KI-Nutzungsbedarf anbieten könnte.",
-      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai"
+      "text": "Die großen Plattenlabels fordern neue Regeln zur Verhinderung von KI-generierter Musik in den Charts und verlangen, dass Songs \"substanziell von Menschen gemacht\" sein müssen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts"
     },
     {
-      "text": "Das Model Context Protocol erhält sein größtes Update mit einer stateless Architektur, um Skalierungsprobleme für Enterprise-Adoption zu lösen.",
-      "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
+      "text": "Indische Nutzer zahlen zunehmend für Apps statt sie nur kostenlos herunterzuladen, was einen Markttrend für Premium-Angebote signalisiert.",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/"
     },
     {
-      "text": "Nvidias Open-Source-Allianz schließt prominente Namen wie OpenAI und Anthropic aus und zeigt damit Spannungen in der KI-Industrie.",
-      "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/"
+      "text": "OpenAI veröffentlicht Strategiepapier zur verantwortungsvollen KI-Entwicklung in Europa und verpflichtet sich zu Sicherheit, Transparenz und Einhaltung des EU AI Act.",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
     }
   ]
 }
