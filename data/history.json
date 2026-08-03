@@ -1,5 +1,40 @@
 [
   {
+    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "link": "https://arxiv.org/abs/2607.28271",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-03T03:06:12.000Z"
+  },
+  {
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-02T20:54:22.000Z"
+  },
+  {
+    "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+    "link": "https://frogs.vaguespac.es/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-02T19:42:08.000Z"
+  },
+  {
+    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-02T19:36:08.000Z"
+  },
+  {
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-02T13:00:00.000Z"
+  },
+  {
     "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
     "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
     "source": "Wired AI",
@@ -2553,47 +2588,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-07-04T12:00:00.000Z"
-  },
-  {
-    "title": "The only AI glossary you&#8217;ll need this year",
-    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-03T21:20:00.000Z"
-  },
-  {
-    "title": "The browser wars aren&#8217;t about search anymore — here are the best alternatives to Chrome and Safari",
-    "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-03T18:43:00.000Z"
-  },
-  {
-    "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
-    "link": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-03T16:30:00.000Z"
-  },
-  {
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-07-03T14:25:43.000Z"
-  },
-  {
-    "title": "Anthropic wants to develop its own drugs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-03T13:56:52.000Z"
-  },
-  {
-    "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-03T11:49:10.000Z"
   }
 ]
