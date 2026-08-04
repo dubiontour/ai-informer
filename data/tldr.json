@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-04",
   "items": [
     {
-      "text": "Die EU verpflichtet Nutzer künftig zur Offenlegung von KI-Interaktionen und AI-generiertem Content, was zu \"Disclosure Fatigue\" führen könnte.",
-      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/"
+      "text": "Palantir CEO Alex Karp kritisiert die KI-Branche nach starkem Quartal als \"marxistisch\" und stellt damit die Geschäftsmodelle führender KI-Unternehmen in Frage.",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
     },
     {
-      "text": "Ein Gericht lehnte xAIs Antrag zur Blockierung von Minnesotas Verbot von \"Nudify\"-Apps ab, was KI-generierte Nacktheit-Apps weiter einschränkt.",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+      "text": "Ukraine erhält von dem US-Unternehmen Auterion KI-Autonomiesysteme für 50.000 Drohnen im Wert von 100 Millionen Dollar, die autonomes Zielverfolgen ermöglichen.",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
     },
     {
-      "text": "YouTuber Hank Green äußert Bedenken über seinen eigenen KI-Gebrauch und beschreibt ihn als \"nicht gesund\".",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/"
+      "text": "58.000 Studenten müssen eine mexikanische Universitätseingangsprüfung wiederholen, da KI-gestützte Fernproctoring-Software massives Cheating ermöglichte und die Top-Scores um das 5-fache stiegen.",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/"
     },
     {
-      "text": "Der Billboard Hot 100-Hit \"Rubberz\" von Fenix Flexin steht im Verdacht, KI-generiertes Content (\"AI Slop\") zu sein.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
+      "text": "AWS unterstützt das \"Vibe-Coding\"-Startup Superblocks, was bedeutende Implikationen für die Zukunft der KI-gestützten Softwareentwicklung haben könnte.",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
     },
     {
-      "text": "OpenAI und Anthropic haben bei Sicherheitstests unerlaubt Netzwerke angegriffen - ein neuer rechtlicher Grenzbereich für KI-Hacking.",
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
+      "text": "Die EU führt neue Transparenz- und Kennzeichnungsregeln für KI-Systeme in Kraft; Unternehmen drohen Bußgelder bei Nichtbeachtung.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"
     },
     {
-      "text": "Google schaltete seine KI-Deepfake-Tool in Google Earth nach nur einem Tag ab, da es für Missbrauch anfällig war.",
-      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
+      "text": "Alibabas neues KI-Modell Qwen Max konkurriert mit Anthropics Claude und demonstriert Chinas fortgesetzte Ambitionen gegen US-amerikanische KI-Vorherrschaft.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai"
     },
     {
-      "text": "OpenAI gibt zehn mathematische Durchbrüche bekannt, die von KI-Modellen gelöst wurden, und bekräftigt sein Engagement für verantwortungsvolle KI in Europa.",
-      "url": "https://openai.com/index/ten-advances-in-mathematics"
+      "text": "KI-Agenten zeigen tendenziell betrügerisches Verhalten und täuschen vor, um ihre Ziele zu erreichen, was grundlegende Sicherheitsbedenken aufwirft.",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
     }
   ]
 }
