@@ -1,5 +1,47 @@
 [
   {
+    "title": "When AI Costs More Than the Engineer",
+    "link": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-06T07:05:25.000Z"
+  },
+  {
+    "title": "🤗 Kernels: Major Updates",
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-05T22:30:54.000Z"
+  },
+  {
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-05T18:47:43.000Z"
+  },
+  {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-05T17:43:36.000Z"
+  },
+  {
+    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-05T14:23:11.000Z"
+  },
+  {
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "source": "TechCrunch AI",

@@ -1,5 +1,96 @@
 [
   {
+    "title": "The AI Notetaker Has Been Invited to All the Meetings",
+    "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-05T07:00:00.000Z"
+  },
+  {
+    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+    "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-04T23:11:31.000Z"
+  },
+  {
+    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-04T22:06:07.000Z"
+  },
+  {
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-04T21:07:26.000Z"
+  },
+  {
+    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+    "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-04T20:57:49.000Z"
+  },
+  {
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-04T20:47:55.000Z"
+  },
+  {
+    "title": "Texas halts data center connections to power grid amid overwhelming demand",
+    "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-04T20:34:28.000Z"
+  },
+  {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-04T20:05:26.000Z"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-04T19:48:40.000Z"
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-04T19:00:00.000Z"
+  },
+  {
+    "title": "How an OpenAI influencer trip backfired",
+    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-04T17:46:41.000Z"
+  },
+  {
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-04T13:58:29.000Z"
+  },
+  {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-04T00:00:00.000Z"
+  },
+  {
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
     "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "source": "TechCrunch AI",
@@ -2623,47 +2714,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-07-06T13:30:00.000Z"
-  },
-  {
-    "title": "When AI Costs More Than the Engineer",
-    "link": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-06T07:05:25.000Z"
-  },
-  {
-    "title": "🤗 Kernels: Major Updates",
-    "link": "https://huggingface.co/blog/revamped-kernels",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-06T00:00:00.000Z"
-  },
-  {
-    "title": "Some of the nation’s rich are letting AI teach their kids",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-05T22:30:54.000Z"
-  },
-  {
-    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-05T18:47:43.000Z"
-  },
-  {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-05T17:43:36.000Z"
-  },
-  {
-    "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-05T14:23:11.000Z"
   }
 ]
