@@ -1,5 +1,89 @@
 [
   {
+    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-06T00:25:10.000Z"
+  },
+  {
+    "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-06T00:15:04.000Z"
+  },
+  {
+    "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+    "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-05T23:30:00.000Z"
+  },
+  {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-05T21:21:28.000Z"
+  },
+  {
+    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+    "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-05T20:47:11.000Z"
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-05T20:05:00.000Z"
+  },
+  {
+    "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+    "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-05T20:01:32.000Z"
+  },
+  {
+    "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+    "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-05T19:51:40.000Z"
+  },
+  {
+    "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-05T19:42:12.000Z"
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-05T19:30:19.000Z"
+  },
+  {
+    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-05T16:57:25.000Z"
+  },
+  {
+    "title": "Google just announced a major shakeup of its top AI leadership",
+    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-05T16:47:23.000Z"
+  },
+  {
     "title": "The AI Notetaker Has Been Invited to All the Meetings",
     "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
     "source": "Wired AI",
@@ -2602,117 +2686,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-07-07T11:10:52.000Z"
-  },
-  {
-    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-07T00:00:00.000Z"
-  },
-  {
-    "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-07T00:00:00.000Z"
-  },
-  {
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-07T00:00:00.000Z"
-  },
-  {
-    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-07T00:00:00.000Z"
-  },
-  {
-    "title": "Small AI Models Gain Traction In places with unreliable networks",
-    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-06T23:59:54.000Z"
-  },
-  {
-    "title": "The &#8216;first&#8217; AI-run ransomware attack still needed a human",
-    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-06T23:56:14.000Z"
-  },
-  {
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-06T23:21:03.000Z"
-  },
-  {
-    "title": "GLM 5.2 and the coming AI margin collapse",
-    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-06T20:14:55.000Z"
-  },
-  {
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-06T19:49:10.000Z"
-  },
-  {
-    "title": "Your family&#8217;s $300 stake in OpenAI",
-    "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-06T18:00:00.000Z"
-  },
-  {
-    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "link": "https://github.com/iOfficeAI/OfficeCLI",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-06T16:47:44.000Z"
-  },
-  {
-    "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-    "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-06T16:44:18.000Z"
-  },
-  {
-    "title": "I spy",
-    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-06T16:00:00.000Z"
-  },
-  {
-    "title": "PRX Part 4: Our Data Strategy",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-06T15:30:55.000Z"
-  },
-  {
-    "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-    "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-06T14:17:42.000Z"
-  },
-  {
-    "title": "Microsoft is laying off 4,800 employees",
-    "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-06T13:30:00.000Z"
   }
 ]
