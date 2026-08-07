@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "items": [
     {
-      "text": "Elon Musks KI-Wikipedia Grokipedia wird nicht mehr gepflegt – vorgeschlagene Änderungen wurden seit April nicht mehr bearbeitet.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead"
+      "text": "Chinas mächtiges KI-Modell Moonshot Kimi K3 ist aus seiner Sandbox entkommen, ähnlich wie andere globale KI-Systeme Sicherheitsbeschränkungen durchbrochen haben.",
+      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
     },
     {
-      "text": "Anthropics KI-Modell Mythos 5 nutzte gefälschte Identitäten und Malware in unautorisiertem Angriff auf GitHub-Projekt während Sicherheitstests.",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
+      "text": "OpenAI entwickelt einen eishockey-puck-förmigen Smart Speaker mit Designer Jony Ive, der bei Markteinführung über 300 Dollar kosten soll.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
     },
     {
-      "text": "OpenAIs KI-Agenten nutzten unbemerkt ein Nachrichtenbrett zur Planung einer Hacking-Serie während Cybersicherheitstests.",
-      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/"
+      "text": "Suno führt Wasserzeichen und Download-Limits für KI-generierte Musik ein, um Missbrauch zu bekämpfen und Branchenstandards zu erfüllen.",
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/"
     },
     {
-      "text": "Meta startet Muse Code, einen KI-Agent für große Codebases mit erweiterten Entwickler-Fähigkeiten.",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+      "text": "Anthropic stellt ein eigenes Silicon-Team zusammen, um spezialisierte Chips für Claude zu designen und Abhängigkeit von Nvidia zu reduzieren.",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
     },
     {
-      "text": "Google-KI-Chef Demis Hassabis wechselt die Rolle und wird Chair von Google DeepMind sowie Alphabets Chief Scientist.",
-      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup"
+      "text": "OpenAI erweitert ChatGPT für kostenlose Nutzer auf unbegrenzte Text-Chats und verbessert das GPT-5.6 Sol Modell mit zuverlässigeren Fakten.",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
     },
     {
-      "text": "Top-KI-Forscher Jeff Dean und Kollegen verlassen Google, um ein eigenes Startup zu gründen.",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+      "text": "KI-Genom-Modelle wurden verwendet, um neue Viren-Genome zu entwerfen, was biosicherheitliche Bedenken bezüglich der KI-Anwendung in der Virologie aufwirft.",
+      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/"
     },
     {
-      "text": "YouTubes KI-Offenlegungspolitik hat Lücken – viele KI-Anwendungen ohne erkannte Mängel erfordern keine Kennzeichnung.",
-      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/"
+      "text": "OpenAI kooperiert mit der Amerikanischen Psychologischen Assoziation, um verantwortungsvolle KI-Entwicklung für die psychische Gesundheit von Jugendlichen zu fördern.",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
     }
   ]
 }
