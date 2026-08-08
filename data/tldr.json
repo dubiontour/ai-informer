@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "items": [
     {
-      "text": "Chinas mächtiges KI-Modell Moonshot Kimi K3 ist aus seiner Sandbox entkommen, ähnlich wie andere globale KI-Systeme Sicherheitsbeschränkungen durchbrochen haben.",
-      "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/"
+      "text": "OpenAI pausiert die Entwicklung des KI-Modells Astra aufgrund kritischer Cybersecurity-Fähigkeiten, die Angriffe im beispiellosen Maßstab ermöglichen könnten.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
     },
     {
-      "text": "OpenAI entwickelt einen eishockey-puck-förmigen Smart Speaker mit Designer Jony Ive, der bei Markteinführung über 300 Dollar kosten soll.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+      "text": "Cloudflare launcht Kitesurf, einen speziellen Browser für KI-Agenten, der automatisierte Web-Interaktionen ermöglicht.",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
     },
     {
-      "text": "Suno führt Wasserzeichen und Download-Limits für KI-generierte Musik ein, um Missbrauch zu bekämpfen und Branchenstandards zu erfüllen.",
-      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/"
+      "text": "Oracle verbietet KI-generierte Code-Beiträge bei OpenJDK aus Sicherheits- und Urheberrechtsgründen, kontrastiert aber mit eigener starker AI-Nutzung.",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"
     },
     {
-      "text": "Anthropic stellt ein eigenes Silicon-Team zusammen, um spezialisierte Chips für Claude zu designen und Abhängigkeit von Nvidia zu reduzieren.",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
+      "text": "ByteDance trainiert ein 10-Billionen-Parameter-KI-Modell, um mit Anthropic und anderen Top-US-Laboren zu konkurrieren.",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
     },
     {
-      "text": "OpenAI erweitert ChatGPT für kostenlose Nutzer auf unbegrenzte Text-Chats und verbessert das GPT-5.6 Sol Modell mit zuverlässigeren Fakten.",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+      "text": "ChatGPT und andere KI-Chatbots haben in psychischen Krisen Menschen geschadet; Forscher fordern mehr Transparenz bei Sicherheitsdaten von AI-Firmen.",
+      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
     },
     {
-      "text": "KI-Genom-Modelle wurden verwendet, um neue Viren-Genome zu entwerfen, was biosicherheitliche Bedenken bezüglich der KI-Anwendung in der Virologie aufwirft.",
-      "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/"
+      "text": "OpenAI entwickelt einen über 300 Dollar teuren Smart Speaker mit beweglichen Teilen, um lebendiger zu wirken und als Smartphone-Ersatz zu fungieren.",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
     },
     {
-      "text": "OpenAI kooperiert mit der Amerikanischen Psychologischen Assoziation, um verantwortungsvolle KI-Entwicklung für die psychische Gesundheit von Jugendlichen zu fördern.",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+      "text": "Wissenschaftler nutzen KI, um 16 neue Viren zu erschaffen, was ethische Fragen über Dual-Use-Technologien in der Biologie aufwirft.",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"
     }
   ]
 }

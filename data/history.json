@@ -1,5 +1,117 @@
 [
   {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-07T22:48:24.000Z"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-07T21:30:11.000Z"
+  },
+  {
+    "title": "Watching Roku’s AI channel is like eating from a trough",
+    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-07T18:59:46.000Z"
+  },
+  {
+    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-07T18:40:34.000Z"
+  },
+  {
+    "title": "Managing AI Coding Costs at Scale",
+    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-07T18:25:17.000Z"
+  },
+  {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-07T17:53:32.000Z"
+  },
+  {
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-07T17:36:30.000Z"
+  },
+  {
+    "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+    "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-07T17:36:22.000Z"
+  },
+  {
+    "title": "What&#8217;s behind the Google AI shake-up",
+    "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-07T16:45:14.000Z"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-07T16:16:09.000Z"
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-07T15:20:00.000Z"
+  },
+  {
+    "title": "Scientists Used AI to Create 16 New Viruses",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-07T14:13:57.000Z"
+  },
+  {
+    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+    "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-07T13:49:37.000Z"
+  },
+  {
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-07T13:29:22.000Z"
+  },
+  {
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-07T10:00:00.000Z"
+  },
+  {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-07T09:00:00.000Z"
+  },
+  {
     "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
     "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
     "source": "Wired AI",
@@ -2595,117 +2707,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-07-09T10:00:00.000Z"
-  },
-  {
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-08T22:41:33.000Z"
-  },
-  {
-    "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-08T21:42:44.000Z"
-  },
-  {
-    "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
-    "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-08T21:08:26.000Z"
-  },
-  {
-    "title": "Google&#8217;s deepfake detector system used to debunk McConnell hoax pic",
-    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-08T20:37:03.000Z"
-  },
-  {
-    "title": "I Built a Self-Improving AI, and So Can You",
-    "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-08T20:09:21.000Z"
-  },
-  {
-    "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-08T19:56:37.000Z"
-  },
-  {
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an &#8216;Opus-class model&#8217;",
-    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-08T19:30:16.000Z"
-  },
-  {
-    "title": "Data for Agents",
-    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-08T17:16:05.000Z"
-  },
-  {
-    "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-08T17:00:00.000Z"
-  },
-  {
-    "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
-    "link": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-08T16:39:48.000Z"
-  },
-  {
-    "title": "Our approach to government and national security partnerships",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-08T13:30:00.000Z"
-  },
-  {
-    "title": "Separating signal from noise in coding evaluations",
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-08T13:00:00.000Z"
-  },
-  {
-    "title": "Pickup Artist Mystery Has an AI Girlfriend",
-    "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-08T11:00:00.000Z"
-  },
-  {
-    "title": "Helping K–12 educators build practical AI skills",
-    "link": "https://openai.com/index/k-12-educators-practical-skills",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-08T10:00:00.000Z"
-  },
-  {
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-08T07:16:00.000Z"
-  },
-  {
-    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-08T07:00:51.000Z"
   }
 ]
