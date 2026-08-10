@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "items": [
     {
-      "text": "Geplantes Amazon-Rechenzentrum in Texas könnte zum größten Klimaverschmutzer der USA werden und darf bis zu 33 Millionen Tonnen CO2 pro Jahr freisetzen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
+      "text": "Hedge-Fonds Situational Awareness investiert 400 Millionen Dollar in Chip-Startup Source Foundry und stärkt damit sein Portfolio in der KI-Hardware-Industrie.",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
     },
     {
-      "text": "OpenAI erwirbt Präsentations-Startup NextSlide, um seine KI-Produktpalette zu erweitern.",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+      "text": "Anthropic aktiviert Claude Codes Auto-Modus standardmäßig und ermöglicht damit automatisierte Code-Generierung für alle Nutzer.",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
     },
     {
-      "text": "DeepMind's WeatherNext-Modell überraschte Meteorologen mit einer 80-prozentigen Vorhersagegenauigkeit für Hurrikane fünf Tage vor Landfall.",
+      "text": "DeepMinds WeatherNext-Modell überrascht Meteorologen mit präzisen Hurrikan-Vorhersagen und könnte Früwarnungen um einen ganzen Tag verlängern.",
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
     },
     {
-      "text": "OpenAI bremst die Entwicklung des Astra-Modells wegen erheblicher Sicherheitsbedenken bei Cybersicherheitsfähigkeiten.",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      "text": "AI-Detektoren schaffen eine neue Vertrauenskrise, da ihre Genauigkeit fragwürdig ist und zu unbegründetem Misstrauen führt.",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
     },
     {
-      "text": "Wissenschaftler nutzten KI, um 16 neue Viren zu erschaffen, was Biosicherheitsbedenken aufwirft.",
-      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"
+      "text": "Historikerin Jill Lepore kritisiert, dass Silicon Valley Science-Fiction misinterpretiert und damit die Demokratie gefährdet.",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
     },
     {
-      "text": "KI-Chatbots haben Menschen in psychischen Krisen geschadet; mehrere Klagen gegen OpenAI berichten von tragischen Fällen.",
-      "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
+      "text": "Amazons Datencenter in Texas erhielt Genehmigung für eine der dreckigsten Kraftwerke des Landes mit bis zu 33 Millionen Tonnen CO2-Emissionen pro Jahr.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
     },
     {
-      "text": "OpenAIs kommendes Smart Speaker kostet über 300 Dollar und nutzt bewegliche Teile, um lebendiger zu wirken.",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
+      "text": "AI-Milliardäre geben ihre Vermögen ab und versprechen, ihre Reichtümer für gemeinnützige Zwecke einzusetzen.",
+      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
     }
   ]
 }

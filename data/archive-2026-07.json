@@ -1,5 +1,89 @@
 [
   {
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-11T01:07:26.000Z"
+  },
+  {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-10T23:55:07.000Z"
+  },
+  {
+    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-10T23:49:50.000Z"
+  },
+  {
+    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-10T21:36:51.000Z"
+  },
+  {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-10T21:00:29.000Z"
+  },
+  {
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-10T20:44:05.000Z"
+  },
+  {
+    "title": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
+    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-10T19:00:00.000Z"
+  },
+  {
+    "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+    "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-10T15:46:18.000Z"
+  },
+  {
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-10T13:45:02.000Z"
+  },
+  {
+    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
+    "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-10T10:30:00.000Z"
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-10T07:00:00.000Z"
+  },
+  {
+    "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
+    "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-10T06:00:00.000Z"
+  },
+  {
     "title": "OpenAI says GPT 5.6 is the &#8216;preferred model&#8217; for Microsoft Copilot 365 amid breakup chatter",
     "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "source": "TechCrunch AI",

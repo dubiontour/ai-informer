@@ -1,5 +1,54 @@
 [
   {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-09T20:35:17.000Z"
+  },
+  {
+    "title": "The tragedy of the commons, AI edition",
+    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-09T19:43:52.000Z"
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-09T19:20:32.000Z"
+  },
+  {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-09T15:00:00.000Z"
+  },
+  {
+    "title": "AI detectors are creating a new era of distrust",
+    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-09T12:00:00.000Z"
+  },
+  {
+    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-09T10:30:00.000Z"
+  },
+  {
+    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-09T09:30:00.000Z"
+  },
+  {
     "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
     "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "source": "TechCrunch AI",
@@ -2532,89 +2581,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-07-11T14:13:00.000Z"
-  },
-  {
-    "title": "OpenAI’s Head of Safety Is Leaving the Company",
-    "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-11T01:07:26.000Z"
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-10T23:55:07.000Z"
-  },
-  {
-    "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-    "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-10T23:49:50.000Z"
-  },
-  {
-    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-10T21:36:51.000Z"
-  },
-  {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-10T21:00:29.000Z"
-  },
-  {
-    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
-    "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-10T20:44:05.000Z"
-  },
-  {
-    "title": "Open source AI matters more than ever, according to Hugging Face&#8217;s Clem Delangue",
-    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-10T19:00:00.000Z"
-  },
-  {
-    "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
-    "link": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-10T15:46:18.000Z"
-  },
-  {
-    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-    "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-10T13:45:02.000Z"
-  },
-  {
-    "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art",
-    "link": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-10T10:30:00.000Z"
-  },
-  {
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "link": "https://openai.com/index/deutsche-telekom",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-10T07:00:00.000Z"
-  },
-  {
-    "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot",
-    "link": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-10T06:00:00.000Z"
   }
 ]
