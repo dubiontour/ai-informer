@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "items": [
     {
-      "text": "Hedge-Fonds Situational Awareness investiert 400 Millionen Dollar in Chip-Startup Source Foundry und stärkt damit sein Portfolio in der KI-Hardware-Industrie.",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+      "text": "OpenAI hat eine 7-Milliarden-Dollar-Mitarbeiterbeteiligung abgeschlossen, womit das Unternehmen seinen Mitarbeitern erhebliche finanzielle Anreize bietet.",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
     },
     {
-      "text": "Anthropic aktiviert Claude Codes Auto-Modus standardmäßig und ermöglicht damit automatisierte Code-Generierung für alle Nutzer.",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+      "text": "OpenAI startet ein neues Cyber-Sicherheitsmodell als Reaktion auf die wachsende Zahl von KI-gestützten Cyberangriffen.",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
     },
     {
-      "text": "DeepMinds WeatherNext-Modell überrascht Meteorologen mit präzisen Hurrikan-Vorhersagen und könnte Früwarnungen um einen ganzen Tag verlängern.",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
+      "text": "Meta kündet offene Sprachmodelle wie Muse Glimmer und Muse Spark 1.2 an und repositioniert sich als Open-Weight-AI-Anbieter gegen propriäre Konkurrenten.",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
     },
     {
-      "text": "AI-Detektoren schaffen eine neue Vertrauenskrise, da ihre Genauigkeit fragwürdig ist und zu unbegründetem Misstrauen führt.",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
+      "text": "Mark Zuckerbergs umfassendes KI-Manifest wird kritisiert, da es zentrale Bedenken widerspiegelt, die die Öffentlichkeit an KI-Entwicklung hat.",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble"
     },
     {
-      "text": "Historikerin Jill Lepore kritisiert, dass Silicon Valley Science-Fiction misinterpretiert und damit die Demokratie gefährdet.",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/"
+      "text": "Amazon finanziert ein Gaskraftwerk in Texas, das zur größten Einzelquelle von Klimaverschmutzung in den USA werden könnte, um KI-Rechenzentren zu versorgen.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
     },
     {
-      "text": "Amazons Datencenter in Texas erhielt Genehmigung für eine der dreckigsten Kraftwerke des Landes mit bis zu 33 Millionen Tonnen CO2-Emissionen pro Jahr.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
+      "text": "Die akademische Peer-Review ist durch die Flut von KI-gestützten Forschungsarbeiten überlastet und kämpft damit, mit dem Volumen Schritt zu halten.",
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
     },
     {
-      "text": "AI-Milliardäre geben ihre Vermögen ab und versprechen, ihre Reichtümer für gemeinnützige Zwecke einzusetzen.",
-      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/"
+      "text": "Ford startet einen KI-Assistenten in seiner mobilen App zur Überprüfung von Kraftstoffstand und Reifendruck, mit Verfügbarkeit im Fahrzeug ab 2027.",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app"
     }
   ]
 }

@@ -1,5 +1,145 @@
 [
   {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-11T00:03:18.000Z"
+  },
+  {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-10T23:56:15.000Z"
+  },
+  {
+    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+    "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-10T22:13:03.000Z"
+  },
+  {
+    "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
+    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-10T20:53:02.000Z"
+  },
+  {
+    "title": "Amazon backs power plant that may become top source of US climate pollution",
+    "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-10T20:45:52.000Z"
+  },
+  {
+    "title": "AI professors are negotiating the new realities of academic research",
+    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-10T20:00:00.000Z"
+  },
+  {
+    "title": "What building an AI-native finance function taught me",
+    "link": "https://openai.com/index/building-an-ai-native-finance-function",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-10T17:00:00.000Z"
+  },
+  {
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-10T16:25:36.000Z"
+  },
+  {
+    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
+    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-10T15:19:05.000Z"
+  },
+  {
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-10T14:00:00.000Z"
+  },
+  {
+    "title": "What happens to Bose when headphones become AI?",
+    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-10T14:00:00.000Z"
+  },
+  {
+    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+    "link": "https://openai.com/index/model-ml",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-10T12:00:00.000Z"
+  },
+  {
+    "title": "The AI Slop Backlash Is Actually Having an Impact",
+    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-10T11:30:00.000Z"
+  },
+  {
+    "title": "Peer review is overwhelmed—can it survive in the AI era?",
+    "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-10T11:00:47.000Z"
+  },
+  {
+    "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-10T11:00:00.000Z"
+  },
+  {
+    "title": "The Rise of the 1 am Job Interview",
+    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-10T10:30:00.000Z"
+  },
+  {
+    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-10T10:05:36.000Z"
+  },
+  {
+    "title": "AI for science needs reasoning, not just data",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-10T09:00:00.000Z"
+  },
+  {
+    "title": "These startups are chasing the next big thing in LLMs",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-10T09:00:00.000Z"
+  },
+  {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "link": "https://huggingface.co/blog/muse-glimmer",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-10T00:00:00.000Z"
+  },
+  {
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
     "source": "TechCrunch AI",
@@ -2567,19 +2707,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-07-12T10:00:00.000Z"
-  },
-  {
-    "title": "Mesh LLM: distributed AI computing on iroh",
-    "link": "https://www.iroh.computer/blog/mesh-llm",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-11T22:38:57.000Z"
-  },
-  {
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-11T14:13:00.000Z"
   }
 ]
