@@ -1,5 +1,96 @@
 [
   {
+    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-12T00:39:26.000Z"
+  },
+  {
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-11T21:39:11.000Z"
+  },
+  {
+    "title": "Gemini becomes Google&#039;s fastest-growing product ever as it hits 1B users",
+    "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-11T19:48:12.000Z"
+  },
+  {
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-11T19:41:42.000Z"
+  },
+  {
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-11T19:15:35.000Z"
+  },
+  {
+    "title": "Google’s Gemini app surges to 1 billion users",
+    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-11T18:49:12.000Z"
+  },
+  {
+    "title": "Another OpenAI executive takes off",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-11T17:50:01.000Z"
+  },
+  {
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-11T13:37:10.000Z"
+  },
+  {
+    "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+    "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-11T12:37:12.000Z"
+  },
+  {
+    "title": "A New Trick Reveals AI Models’ Inner Thoughts",
+    "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-11T11:00:00.000Z"
+  },
+  {
+    "title": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-11T10:00:00.000Z"
+  },
+  {
+    "title": "Daybreak models are now available on AWS",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-11T10:00:00.000Z"
+  },
+  {
+    "title": "AI Is Dead. Organoids Are Alive",
+    "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-11T10:00:00.000Z"
+  },
+  {
     "title": "OpenAI reportedly completed a $7 billion employee tender offer",
     "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
     "source": "TechCrunch AI",
@@ -2665,47 +2756,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-07-13T09:00:00.000Z"
-  },
-  {
-    "title": "Ask HN: Add flag for AI-generated articles",
-    "link": "https://news.ycombinator.com/item?id=48886741",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-13T01:24:20.000Z"
-  },
-  {
-    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-12T20:10:19.000Z"
-  },
-  {
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-12T17:13:07.000Z"
-  },
-  {
-    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-12T16:27:06.000Z"
-  },
-  {
-    "title": "The fight against AI data centers is just beginning",
-    "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-12T12:00:00.000Z"
-  },
-  {
-    "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-    "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-12T10:00:00.000Z"
   }
 ]

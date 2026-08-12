@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ask HN: Add flag for AI-generated articles",
+    "link": "https://news.ycombinator.com/item?id=48886741",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-13T01:24:20.000Z"
+  },
+  {
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-12T20:10:19.000Z"
+  },
+  {
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-12T17:13:07.000Z"
+  },
+  {
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-12T16:27:06.000Z"
+  },
+  {
+    "title": "The fight against AI data centers is just beginning",
+    "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-12T12:00:00.000Z"
+  },
+  {
+    "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+    "link": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-12T10:00:00.000Z"
+  },
+  {
     "title": "Mesh LLM: distributed AI computing on iroh",
     "link": "https://www.iroh.computer/blog/mesh-llm",
     "source": "Hacker News AI",

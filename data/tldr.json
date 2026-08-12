@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "items": [
     {
-      "text": "OpenAI hat eine 7-Milliarden-Dollar-Mitarbeiterbeteiligung abgeschlossen, womit das Unternehmen seinen Mitarbeitern erhebliche finanzielle Anreize bietet.",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/"
+      "text": "Gemini erreicht 1 Milliarde Nutzer und ist damit Googles am schnellsten wachsendes Produkt aller Zeiten.",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
     },
     {
-      "text": "OpenAI startet ein neues Cyber-Sicherheitsmodell als Reaktion auf die wachsende Zahl von KI-gestützten Cyberangriffen.",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+      "text": "ChatGPT und Gemini haben beide die 1-Milliarden-Nutzer-Marke überschritten, wobei OpenAI noch führend bleibt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
     },
     {
-      "text": "Meta kündet offene Sprachmodelle wie Muse Glimmer und Muse Spark 1.2 an und repositioniert sich als Open-Weight-AI-Anbieter gegen propriäre Konkurrenten.",
+      "text": "OpenAI startet ChatGPT Desktop-App für Linux und expandiert damit auf weitere Plattformen.",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+    },
+    {
+      "text": "OpenAI testet nun Werbeanzeigen in ChatGPT, um kostenlosen Zugang zu unterstützen, während die Unabhängigkeit der Antworten gewährleistet bleibt.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt"
+    },
+    {
+      "text": "Brad Lightcap, ehemaliger COO von OpenAI, verlässt das Unternehmen und verstärkt damit die Serie von Führungswechseln.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure"
+    },
+    {
+      "text": "Meta kündigt open-weight KI-Modelle an und positioniert sich gegen proprietäre Konkurrenten wie OpenAI und Anthropic.",
       "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
     },
     {
-      "text": "Mark Zuckerbergs umfassendes KI-Manifest wird kritisiert, da es zentrale Bedenken widerspiegelt, die die Öffentlichkeit an KI-Entwicklung hat.",
-      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble"
-    },
-    {
-      "text": "Amazon finanziert ein Gaskraftwerk in Texas, das zur größten Einzelquelle von Klimaverschmutzung in den USA werden könnte, um KI-Rechenzentren zu versorgen.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/"
-    },
-    {
-      "text": "Die akademische Peer-Review ist durch die Flut von KI-gestützten Forschungsarbeiten überlastet und kämpft damit, mit dem Volumen Schritt zu halten.",
-      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
-    },
-    {
-      "text": "Ford startet einen KI-Assistenten in seiner mobilen App zur Überprüfung von Kraftstoffstand und Reifendruck, mit Verfügbarkeit im Fahrzeug ab 2027.",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app"
+      "text": "Neue Forschungsmethode ermöglicht es, die inneren Gedankenprozesse von KI-Modellen sichtbar zu machen.",
+      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/"
     }
   ]
 }
