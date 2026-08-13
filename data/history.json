@@ -1,10 +1,157 @@
 [
   {
+    "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
+    "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-12T22:26:37.000Z"
+  },
+  {
+    "title": "The web’s newest weapon against AI scrapers is a font",
+    "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-12T22:02:25.000Z"
+  },
+  {
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-12T21:43:21.000Z"
+  },
+  {
+    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+    "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-12T21:00:30.000Z"
+  },
+  {
+    "title": "The White House Is Going to Expand Its AI Policy",
+    "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-12T21:00:00.000Z"
+  },
+  {
+    "title": "Amazon will train on Twitch streamers&#8217; content by default, unless they opt out",
+    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-12T20:10:40.000Z"
+  },
+  {
+    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-12T18:45:00.000Z"
+  },
+  {
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-12T18:19:12.000Z"
+  },
+  {
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-12T17:29:10.000Z"
+  },
+  {
+    "title": "Scaling AI agents with trustworthy data",
+    "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-12T16:51:57.000Z"
+  },
+  {
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-12T16:14:36.000Z"
+  },
+  {
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-12T15:52:07.000Z"
+  },
+  {
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "link": "https://knownagents.com/insights",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-12T14:02:46.000Z"
+  },
+  {
+    "title": "Putting sign language AI into users’ hands",
+    "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-08-12T14:01:59.000Z"
+  },
+  {
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-12T14:00:51.000Z"
+  },
+  {
+    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-12T14:00:00.000Z"
+  },
+  {
+    "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+    "link": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-12T14:00:00.000Z"
+  },
+  {
+    "title": "AI is removing the middle class of software engineering?",
+    "link": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-12T13:20:05.000Z"
+  },
+  {
+    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+    "link": "https://discoveredmaterials.com/research/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-12T07:51:20.000Z"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-12T06:00:00.000Z"
+  },
+  {
     "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
     "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-08-12T00:39:26.000Z"
+  },
+  {
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "link": "https://openai.com/index/ringcentral",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-12T00:00:00.000Z"
   },
   {
     "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -2658,103 +2805,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-07-14T10:00:00.000Z"
-  },
-  {
-    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-14T02:46:42.000Z"
-  },
-  {
-    "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8220;everything for everyone&#8221;",
-    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-14T00:45:00.000Z"
-  },
-  {
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-14T00:00:00.000Z"
-  },
-  {
-    "title": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-14T00:00:00.000Z"
-  },
-  {
-    "title": "How sales teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-14T00:00:00.000Z"
-  },
-  {
-    "title": "Siri AI Is Becoming Apple’s Everything Tool",
-    "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-13T21:39:09.000Z"
-  },
-  {
-    "title": "Siri AI is already changing how I use my iPhone",
-    "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-13T20:43:20.000Z"
-  },
-  {
-    "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-    "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-13T19:17:51.000Z"
-  },
-  {
-    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-13T18:00:00.000Z"
-  },
-  {
-    "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-    "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-13T17:00:00.000Z"
-  },
-  {
-    "title": "Now, defenders are embracing the prompt injection, too",
-    "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-13T15:06:34.000Z"
-  },
-  {
-    "title": "Empowering India’s next generation of innovators with ATL Saathi",
-    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-07-13T12:37:28.000Z"
-  },
-  {
-    "title": "Simulating everything, sort of: The promise and limits of world models",
-    "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-13T11:00:51.000Z"
-  },
-  {
-    "title": "Waze is getting a bunch of new AI-powered features",
-    "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-13T09:00:00.000Z"
   }
 ]

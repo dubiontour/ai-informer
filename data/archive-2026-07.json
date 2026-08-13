@@ -1,5 +1,103 @@
 [
   {
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-14T02:46:42.000Z"
+  },
+  {
+    "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8220;everything for everyone&#8221;",
+    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-14T00:45:00.000Z"
+  },
+  {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-14T00:00:00.000Z"
+  },
+  {
+    "title": "Siri AI Is Becoming Apple’s Everything Tool",
+    "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-13T21:39:09.000Z"
+  },
+  {
+    "title": "Siri AI is already changing how I use my iPhone",
+    "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-13T20:43:20.000Z"
+  },
+  {
+    "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+    "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-13T19:17:51.000Z"
+  },
+  {
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "link": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-13T18:00:00.000Z"
+  },
+  {
+    "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+    "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-13T17:00:00.000Z"
+  },
+  {
+    "title": "Now, defenders are embracing the prompt injection, too",
+    "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-13T15:06:34.000Z"
+  },
+  {
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-07-13T12:37:28.000Z"
+  },
+  {
+    "title": "Simulating everything, sort of: The promise and limits of world models",
+    "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-13T11:00:51.000Z"
+  },
+  {
+    "title": "Waze is getting a bunch of new AI-powered features",
+    "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-13T09:00:00.000Z"
+  },
+  {
     "title": "Ask HN: Add flag for AI-generated articles",
     "link": "https://news.ycombinator.com/item?id=48886741",
     "source": "Hacker News AI",

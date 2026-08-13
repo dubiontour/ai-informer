@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "items": [
     {
-      "text": "Gemini erreicht 1 Milliarde Nutzer und ist damit Googles am schnellsten wachsendes Produkt aller Zeiten.",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/"
+      "text": "Anthropic führt Wasserzeichen in Claude ein, um unbefugte Nutzung am Arbeitsplatz und in Schulen zu erkennen – einige Nutzer protestieren gegen diese Maßnahme.",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
     },
     {
-      "text": "ChatGPT und Gemini haben beide die 1-Milliarden-Nutzer-Marke überschritten, wobei OpenAI noch führend bleibt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users"
+      "text": "ShieldFont, eine neue Schriftart, soll KI-Scraper dazu bringen, verfälschte Inhalte zu erfassen, während Webseiten für Menschen lesbar bleiben.",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
     },
     {
-      "text": "OpenAI startet ChatGPT Desktop-App für Linux und expandiert damit auf weitere Plattformen.",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+      "text": "Ein Supply-Chain-Angriff auf das KI-Tool LiteLLM offenbarte Terabytes von Zugangsdaten von über 2.500 Organisationen wie Microsoft, Amazon und Cisco.",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
     },
     {
-      "text": "OpenAI testet nun Werbeanzeigen in ChatGPT, um kostenlosen Zugang zu unterstützen, während die Unabhängigkeit der Antworten gewährleistet bleibt.",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt"
+      "text": "Twitch-Nutzer können nun der Verwendung ihres Inhalts zum Training von Amazons KI-Modellen widersprechen, nachdem Amazon jahrelang Streamer-Content nutzte.",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
     },
     {
-      "text": "Brad Lightcap, ehemaliger COO von OpenAI, verlässt das Unternehmen und verstärkt damit die Serie von Führungswechseln.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure"
+      "text": "Das White House plant die Erweiterung seiner KI-Politik, um umfassendere Regelungen für Künstliche Intelligenz zu schaffen.",
+      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/"
     },
     {
-      "text": "Meta kündigt open-weight KI-Modelle an und positioniert sich gegen proprietäre Konkurrenten wie OpenAI und Anthropic.",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+      "text": "Das KI-Coding-Startup Cognition führt Verhandlungen für eine Finanzierungsrunde bei einer Bewertung von 40 Milliarden Dollar.",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/"
     },
     {
-      "text": "Neue Forschungsmethode ermöglicht es, die inneren Gedankenprozesse von KI-Modellen sichtbar zu machen.",
-      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/"
+      "text": "Google DeepMind präsentiert ein Durchbruch-Modell für Gebärdensprache-zu-Text, das erstmals KI-Features für gehörlose Nutzer in Gboard und Live Transcribe ermöglicht.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
     }
   ]
 }
