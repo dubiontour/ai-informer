@@ -1,5 +1,166 @@
 [
   {
+    "title": "The Safety Reckoning Inside OpenAI",
+    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-13T22:37:19.000Z"
+  },
+  {
+    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-13T21:42:38.000Z"
+  },
+  {
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-13T21:14:43.000Z"
+  },
+  {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-13T21:13:24.000Z"
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-13T20:14:39.000Z"
+  },
+  {
+    "title": "OpenAI is losing its second executive this week",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-13T19:28:39.000Z"
+  },
+  {
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-13T19:25:38.000Z"
+  },
+  {
+    "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-13T19:22:40.000Z"
+  },
+  {
+    "title": "The new Instagram logo is the perfect embodiment of AI slop",
+    "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-13T17:32:10.000Z"
+  },
+  {
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-13T17:16:04.000Z"
+  },
+  {
+    "title": "Introducing Gemini 3.7 Flash",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-08-13T17:04:18.000Z"
+  },
+  {
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-13T17:00:13.000Z"
+  },
+  {
+    "title": "AI At Home Part 1: A Box Of Scraps",
+    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-13T16:22:05.000Z"
+  },
+  {
+    "title": "Suno is trying to look more like a real music production tool",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-13T16:00:00.000Z"
+  },
+  {
+    "title": "Anthropic could be worth $2 trillion when it goes public",
+    "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-13T13:58:56.000Z"
+  },
+  {
+    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-13T13:41:10.000Z"
+  },
+  {
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-13T13:05:29.000Z"
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-13T11:00:00.000Z"
+  },
+  {
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "link": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-13T10:00:00.000Z"
+  },
+  {
+    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-13T09:00:00.000Z"
+  },
+  {
+    "title": "How kids feel about AI, in their own words",
+    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-13T09:00:00.000Z"
+  },
+  {
+    "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-13T09:00:00.000Z"
+  },
+  {
+    "title": "What We Learned by Reproducing 2,200 papers from ICML",
+    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-13T00:00:00.000Z"
+  },
+  {
     "title": "Some Claude users are mad that Anthropic&#8217;s new watermarks will catch them using it at their jobs, classes",
     "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "source": "TechCrunch AI",
@@ -2693,117 +2854,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-07-15T10:00:00.000Z"
-  },
-  {
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-15T00:27:04.000Z"
-  },
-  {
-    "title": "Welcome Inkling by Thinking Machines",
-    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-15T00:00:00.000Z"
-  },
-  {
-    "title": "Lorde says AI glasses are &#8216;not sexy&#8217;",
-    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-14T23:10:02.000Z"
-  },
-  {
-    "title": "OpenAI&#8217;s first hardware device is reportedly a screenless speaker that can move",
-    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-14T22:22:24.000Z"
-  },
-  {
-    "title": "Financing the AI boom: from cash flows to debt [pdf]",
-    "link": "https://www.bis.org/publ/bisbull120.pdf",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-14T21:58:36.000Z"
-  },
-  {
-    "title": "OpenAI may announce a ChatGPT smart speaker this year",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-14T21:26:32.000Z"
-  },
-  {
-    "title": "Lawsuit claims Meta&#039;s layoff decisions were made by AI, not humans",
-    "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-14T20:05:53.000Z"
-  },
-  {
-    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-14T19:25:00.000Z"
-  },
-  {
-    "title": "US military sent explosive drone boats into combat for the first time",
-    "link": "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-14T18:00:01.000Z"
-  },
-  {
-    "title": "Meta accused of using biased AI targeting for mass layoffs",
-    "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-14T17:18:11.000Z"
-  },
-  {
-    "title": "Google revamps image search for its 25th anniversary with more images and more AI",
-    "link": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-14T16:28:14.000Z"
-  },
-  {
-    "title": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
-    "link": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-14T16:05:18.000Z"
-  },
-  {
-    "title": "Are we offloading too much of our thinking to AI?",
-    "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-14T15:18:13.000Z"
-  },
-  {
-    "title": "This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-14T10:30:00.000Z"
-  },
-  {
-    "title": "How to manage AI investments in the agentic era",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-14T10:00:00.000Z"
-  },
-  {
-    "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-    "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-14T10:00:00.000Z"
   }
 ]
