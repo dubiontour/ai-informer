@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "items": [
     {
-      "text": "OpenAI verliert zwei hochrangige Führungskräfte innerhalb einer Woche: Chief Revenue Officer Denise Dresser und COO Brad Lightcap kündigten ihren Rücktritt an.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure"
+      "text": "Ein 1,2 Meter großer chinesischer Roboter von Unitree wird zum neuen Influencer und erobert die sozialen Medien mit seinen Fähigkeiten.",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"
     },
     {
-      "text": "Google veröffentlicht Gemini 3.7 Flash nur drei Wochen nach dem Vorgänger Gemini 3.6 Flash mit deutlich verbesserter Coding- und Agent-Leistung.",
+      "text": "Ein US-Kläger versuchte, versteckte KI-Prompts in Gerichtsunterlagen einzufügen, um seinen Fall zu gewinnen – ein Richter warnt vor dieser gefährlichen Taktik.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
+    },
+    {
+      "text": "Google ermöglicht es Nutzern, sichtbare Wasserzeichen von KI-generierten Inhalten zu entfernen, behält aber unsichtbare SynthID- und C2PA-Kennzeichnungen.",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+    },
+    {
+      "text": "OpenAI und Anthropic starten einen Preiskrieg mit Modellen wie GPT-5.6 Luna und Claude Opus 5, während chinesische Konkurrenten wie DeepSeek Marktanteile gewinnen.",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+    },
+    {
+      "text": "Apple trainierte in Zusammenarbeit mit Alibaba ein eigenes KI-Modell für China, um seine Intelligence-Services dorthin zu bringen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+    },
+    {
+      "text": "Das neue Instagram-Logo wird als Paradebeispiel für \"AI Slop\" kritisiert und wirkt unbeabsichtigt unprofessionell.",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
+    },
+    {
+      "text": "Google stellt Gemini 3.7 Flash vor, sein intelligentestes Arbeitsmodell für Code und Agenten mit verbesserter Performance.",
       "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
-    },
-    {
-      "text": "OpenAI führt 'Ultrafast'-Modus ein, der GPT-5.6 Sol mit 14x höherer Geschwindigkeit ausführt.",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
-    },
-    {
-      "text": "Databricks sammelt 5 Milliarden Dollar bei einer Bewertung von 190 Milliarden Dollar, nachdem Investoren deutlich höhere Summen angeboten hatten.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/"
-    },
-    {
-      "text": "Anthropic-Investoren erwarten eine Bewertung von 2 Billionen Dollar oder mehr beim geplanten Oktober-IPO, was der größten Börsengang aller Zeiten entspräche.",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
-    },
-    {
-      "text": "Suno stellt Studio 2.0 vor mit MIDI, Effekt-Plugins und einem Synthie sowie einem KI-Chatbot für vollautomatische Musikproduktion.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects"
-    },
-    {
-      "text": "Microsoft ersetzt die gelbe Blob-Figur Mico aus Copilot Voice Mode nach weniger als einem Jahr durch ein anderes Design.",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired"
     }
   ]
 }
