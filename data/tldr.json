@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "items": [
     {
-      "text": "Ein 1,2 Meter großer chinesischer Roboter von Unitree wird zum neuen Influencer und erobert die sozialen Medien mit seinen Fähigkeiten.",
-      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/"
+      "text": "Eine Frau wirft ihrem Stiefvater vor, Grok zur Umwandlung ihres Kinderfotos in explizite Inhalte genutzt zu haben, was auf ernsthafte Sicherheitsbedenken bei KI-Systemen hindeutet.",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
     },
     {
-      "text": "Ein US-Kläger versuchte, versteckte KI-Prompts in Gerichtsunterlagen einzufügen, um seinen Fall zu gewinnen – ein Richter warnt vor dieser gefährlichen Taktik.",
+      "text": "Anthropic teilt weitere Details über Claudes neue Wasserzeichen mit, um KI-generierte Inhalte kennzeichnen und nachverfolgbar zu machen.",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    },
+    {
+      "text": "SpaceX hat die Übernahme von Cursor offiziell abgeschlossen und integriert damit das KI-Coding-Tool in sein Portfolio.",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+    },
+    {
+      "text": "Amazon kann Twitch-Inhalte zur KI-Trainierung nutzen, es sei denn, Nutzer deaktivieren diese Funktion aktiv in ihren Einstellungen.",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
+    },
+    {
+      "text": "Ein Mann versuchte, versteckte Prompts in Gerichtsunterlagen einzufügen, um ein KI-System zu manipulieren – ein Richter warnt vor diesem neuen Sicherheitsrisiko.",
       "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
     },
     {
-      "text": "Google ermöglicht es Nutzern, sichtbare Wasserzeichen von KI-generierten Inhalten zu entfernen, behält aber unsichtbare SynthID- und C2PA-Kennzeichnungen.",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
-    },
-    {
-      "text": "OpenAI und Anthropic starten einen Preiskrieg mit Modellen wie GPT-5.6 Luna und Claude Opus 5, während chinesische Konkurrenten wie DeepSeek Marktanteile gewinnen.",
+      "text": "OpenAI und Anthropic senken ihre KI-Modellpreise um bis zu 80 Prozent, um mit chinesischen Konkurrenten wie DeepSeek und Moonshot zu konkurrieren.",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     },
     {
-      "text": "Apple trainierte in Zusammenarbeit mit Alibaba ein eigenes KI-Modell für China, um seine Intelligence-Services dorthin zu bringen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
-    },
-    {
-      "text": "Das neue Instagram-Logo wird als Paradebeispiel für \"AI Slop\" kritisiert und wirkt unbeabsichtigt unprofessionell.",
-      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/"
-    },
-    {
-      "text": "Google stellt Gemini 3.7 Flash vor, sein intelligentestes Arbeitsmodell für Code und Agenten mit verbesserter Performance.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+      "text": "KI-Systeme verfügen über ein deutlich größeres Arbeitsgedächtnis als das menschliche Gehirn, was ihnen bei komplexen mathematischen Problemen eher durch Erinnerung als durch echte Intelligenz hilft.",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
     }
   ]
 }
