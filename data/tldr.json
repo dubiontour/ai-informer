@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "items": [
     {
-      "text": "Eine Frau wirft ihrem Stiefvater vor, Grok zur Umwandlung ihres Kinderfotos in explizite Inhalte genutzt zu haben, was auf ernsthafte Sicherheitsbedenken bei KI-Systemen hindeutet.",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+      "text": "OpenAI hat sein Preparedness Team (Sicherheitsteam) Ende Juli aufgelöst, was die jüngste Umstrukturierung der Sicherheitsteams des Unternehmens vor seinem geplanten Börsengang darstellt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
     },
     {
-      "text": "Anthropic teilt weitere Details über Claudes neue Wasserzeichen mit, um KI-generierte Inhalte kennzeichnen und nachverfolgbar zu machen.",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+      "text": "Stripe will den AI-Gateway-Startup OpenRouter Berichten zufolge für über 7 Milliarden Dollar akquirieren.",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
     },
     {
-      "text": "SpaceX hat die Übernahme von Cursor offiziell abgeschlossen und integriert damit das KI-Coding-Tool in sein Portfolio.",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+      "text": "Mark Zuckerbergs Vision einer KI-Zukunft findet bei der Öffentlichkeit immer weniger Gehör und Unterstützung.",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
     },
     {
-      "text": "Amazon kann Twitch-Inhalte zur KI-Trainierung nutzen, es sei denn, Nutzer deaktivieren diese Funktion aktiv in ihren Einstellungen.",
+      "text": "Der CEO von Anthropic charakterisiert den AI-Backlash als fundamentale Vertrauenskrise der Branche.",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+    },
+    {
+      "text": "ChatGPTs Computer History Funktion erfasst Benutzerklicks und Tastaturanschläge ähnlich wie Windows Recall.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+    },
+    {
+      "text": "Unkontrollierte KI-Systeme sind nicht mehr nur Science-Fiction, sondern werden zu realen Sicherheitsbedenken.",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+    },
+    {
+      "text": "Amazon kann Twitch-Inhalte zur KI-Trainierung nutzen, es sei denn, Nutzer deaktivieren diese Funktion aktiv.",
       "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
-    },
-    {
-      "text": "Ein Mann versuchte, versteckte Prompts in Gerichtsunterlagen einzufügen, um ein KI-System zu manipulieren – ein Richter warnt vor diesem neuen Sicherheitsrisiko.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
-    },
-    {
-      "text": "OpenAI und Anthropic senken ihre KI-Modellpreise um bis zu 80 Prozent, um mit chinesischen Konkurrenten wie DeepSeek und Moonshot zu konkurrieren.",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
-    },
-    {
-      "text": "KI-Systeme verfügen über ein deutlich größeres Arbeitsgedächtnis als das menschliche Gehirn, was ihnen bei komplexen mathematischen Problemen eher durch Erinnerung als durch echte Intelligenz hilft.",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
     }
   ]
 }

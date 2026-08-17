@@ -1,5 +1,47 @@
 [
   {
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-16T21:32:56.000Z"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-16T20:57:04.000Z"
+  },
+  {
+    "title": "Why people aren&#8217;t buying Mark Zuckerberg’s AI future",
+    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-16T20:32:01.000Z"
+  },
+  {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-16T16:53:51.000Z"
+  },
+  {
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-16T14:56:40.000Z"
+  },
+  {
+    "title": "Rogue AI aren’t science fiction anymore",
+    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-16T12:00:00.000Z"
+  },
+  {
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "source": "TechCrunch AI",
@@ -2616,103 +2658,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-07-18T09:00:00.000Z"
-  },
-  {
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-18T04:47:25.000Z"
-  },
-  {
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here&#8217;s how it actually performs",
-    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-17T22:55:09.000Z"
-  },
-  {
-    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-17T22:26:30.000Z"
-  },
-  {
-    "title": "Databricks hits $188B valuation, extending its run as AI&#8217;s favorite second act",
-    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-17T22:12:56.000Z"
-  },
-  {
-    "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-    "link": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-17T19:50:18.000Z"
-  },
-  {
-    "title": "TikTok is testing an AI likeness detection tool",
-    "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-17T19:34:30.000Z"
-  },
-  {
-    "title": "Apple’s plot to crush OpenAI",
-    "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-17T17:41:32.000Z"
-  },
-  {
-    "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-    "link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-17T16:10:05.000Z"
-  },
-  {
-    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-17T15:57:54.000Z"
-  },
-  {
-    "title": "The state of open source AI",
-    "link": "https://stateofopensource.ai/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-17T14:31:10.000Z"
-  },
-  {
-    "title": "A scorecard for the AI age",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-17T10:00:00.000Z"
-  },
-  {
-    "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-    "link": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-17T10:00:00.000Z"
-  },
-  {
-    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-    "link": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-17T09:00:00.000Z"
-  },
-  {
-    "title": "The risk of weather data sabotage is rising",
-    "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-17T08:57:32.000Z"
   }
 ]
