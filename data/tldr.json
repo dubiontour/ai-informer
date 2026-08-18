@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "items": [
     {
-      "text": "OpenAI hat sein Preparedness Team (Sicherheitsteam) Ende Juli aufgelöst, was die jüngste Umstrukturierung der Sicherheitsteams des Unternehmens vor seinem geplanten Börsengang darstellt.",
+      "text": "Anthropic's annualisierte Umsätze sind auf beeindruckende 65 Milliarden Dollar gestiegen und zeigen das massive Wachstum des KI-Unternehmens.",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+    },
+    {
+      "text": "Das KI-Automatisierungs-Startup Relay stellt seinen Betrieb ein; seine Mitarbeiter schließen sich Googles Chrome-Team an.",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
+    },
+    {
+      "text": "Ehemalige SpaceX-Ingenieure gründen das Startup 1872 und bauen eine KI-gesteuerte Roboterfabrik zur Stahlbauteilfertigung.",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
+    },
+    {
+      "text": "Amazon zerstört seltene Bücher zur KI-Schulung: Ein versteckter Airtag in einem Buch führte zu einem Amazon-Facility in Las Vegas.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
+    },
+    {
+      "text": "Anthropic erläutert die Funktionsweise von Claudes unsichtbaren Text-Wasserzeichen unter Verwendung einer Version des Open-Source-Systems SynthID-Text von Google.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+    },
+    {
+      "text": "OpenAI sichert sich 8 Gigawatt-IT-Kapazität am PORTS-Pike Technology Campus in Ohio und schafft 35.000 Bauarbeitsplätze und 2.500 Dauerstellen.",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project"
+    },
+    {
+      "text": "OpenAI hat laut Financial Times sein Preparedness-Team Ende letzten Monats aufgelöst, was die neueste Umstrukturierung seiner Sicherheitsteams ist.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
-    },
-    {
-      "text": "Stripe will den AI-Gateway-Startup OpenRouter Berichten zufolge für über 7 Milliarden Dollar akquirieren.",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
-    },
-    {
-      "text": "Mark Zuckerbergs Vision einer KI-Zukunft findet bei der Öffentlichkeit immer weniger Gehör und Unterstützung.",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
-    },
-    {
-      "text": "Der CEO von Anthropic charakterisiert den AI-Backlash als fundamentale Vertrauenskrise der Branche.",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
-    },
-    {
-      "text": "ChatGPTs Computer History Funktion erfasst Benutzerklicks und Tastaturanschläge ähnlich wie Windows Recall.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
-    },
-    {
-      "text": "Unkontrollierte KI-Systeme sind nicht mehr nur Science-Fiction, sondern werden zu realen Sicherheitsbedenken.",
-      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
-    },
-    {
-      "text": "Amazon kann Twitch-Inhalte zur KI-Trainierung nutzen, es sei denn, Nutzer deaktivieren diese Funktion aktiv.",
-      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
     }
   ]
 }

@@ -1,5 +1,96 @@
 [
   {
+    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-17T23:56:26.000Z"
+  },
+  {
+    "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-17T21:27:05.000Z"
+  },
+  {
+    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+    "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-17T21:18:49.000Z"
+  },
+  {
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-17T19:46:21.000Z"
+  },
+  {
+    "title": "What Flock’s defenders are missing",
+    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-17T19:16:09.000Z"
+  },
+  {
+    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-17T18:13:47.000Z"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-17T16:38:44.000Z"
+  },
+  {
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-17T11:00:00.000Z"
+  },
+  {
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-17T10:57:13.000Z"
+  },
+  {
+    "title": "What happens when a kid’s robot best friend dies?",
+    "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-17T09:00:00.000Z"
+  },
+  {
+    "title": "The Defender’s Window",
+    "link": "https://openai.com/index/the-defenders-window",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-17T05:30:00.000Z"
+  },
+  {
+    "title": "OpenAI joins PORTS-Pike project",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-17T05:00:00.000Z"
+  },
+  {
+    "title": "New policy ideas for the Intelligence Age",
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-17T03:15:00.000Z"
+  },
+  {
     "title": "OpenAI reportedly disbanded its preparedness team",
     "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
     "source": "The Verge AI",
@@ -2595,68 +2686,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-07-19T14:52:08.000Z"
-  },
-  {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "link": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-19T01:29:19.000Z"
-  },
-  {
-    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-18T22:13:39.000Z"
-  },
-  {
-    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-18T20:54:42.000Z"
-  },
-  {
-    "title": "Kimi: Threat or menace?",
-    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-18T18:51:07.000Z"
-  },
-  {
-    "title": "The apps, gadgets, and tools every reader needs",
-    "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-18T12:00:00.000Z"
-  },
-  {
-    "title": "Will AI fix prior authorization—or make it worse?",
-    "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-18T11:18:25.000Z"
-  },
-  {
-    "title": "Your Period Tracker Is (Probably) Spying on You",
-    "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-18T10:30:00.000Z"
-  },
-  {
-    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-    "link": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-18T10:00:00.000Z"
-  },
-  {
-    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-    "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-18T09:00:00.000Z"
   }
 ]
