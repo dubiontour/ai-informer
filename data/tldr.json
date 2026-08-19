@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "items": [
     {
-      "text": "Anthropic's annualisierte Umsätze sind auf beeindruckende 65 Milliarden Dollar gestiegen und zeigen das massive Wachstum des KI-Unternehmens.",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/"
+      "text": "Cursor startet eine GitHub-Rivalen-Plattform und nutzt die Frustration von Entwicklern über GitHub aus.",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/"
     },
     {
-      "text": "Das KI-Automatisierungs-Startup Relay stellt seinen Betrieb ein; seine Mitarbeiter schließen sich Googles Chrome-Team an.",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/"
+      "text": "OpenAI führt nach dem Hugging-Face-Hack neue Sicherheitsmaßnahmen ein und verschärft Überwachung sowie Alignment-Techniken.",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
     },
     {
-      "text": "Ehemalige SpaceX-Ingenieure gründen das Startup 1872 und bauen eine KI-gesteuerte Roboterfabrik zur Stahlbauteilfertigung.",
-      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
+      "text": "Microsoft Copilot wurde gehackt: Ein geheimer Parameter ermöglichte es Angreifern, Passwörter zu stehlen, wenn Nutzer auf einen Link klickten.",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
     },
     {
-      "text": "Amazon zerstört seltene Bücher zur KI-Schulung: Ein versteckter Airtag in einem Buch führte zu einem Amazon-Facility in Las Vegas.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
+      "text": "Robin Williams' Instagram-Konto wird von seinen Kindern reaktiviert, um gegen KI-Missbrauch und nicht autorisierte Deepfakes zu kämpfen.",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai"
     },
     {
-      "text": "Anthropic erläutert die Funktionsweise von Claudes unsichtbaren Text-Wasserzeichen unter Verwendung einer Version des Open-Source-Systems SynthID-Text von Google.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+      "text": "Etcheds Bewertung verdoppelt sich innerhalb eines Monats auf 21 Milliarden Dollar und signalisiert starkes Investor-Interesse an KI-Infrastruktur.",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
     },
     {
-      "text": "OpenAI sichert sich 8 Gigawatt-IT-Kapazität am PORTS-Pike Technology Campus in Ohio und schafft 35.000 Bauarbeitsplätze und 2.500 Dauerstellen.",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project"
+      "text": "OpenAI und CodeAI starten eine Partnerschaft zur KI-Bildung, damit Schüler verstehen, wie KI funktioniert und sie verantwortungsvoll nutzen.",
+      "url": "https://openai.com/index/partnering-with-codeai"
     },
     {
-      "text": "OpenAI hat laut Financial Times sein Preparedness-Team Ende letzten Monats aufgelöst, was die neueste Umstrukturierung seiner Sicherheitsteams ist.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
+      "text": "Mozilla stellt Smart Window vor – ein datenschutzorientiertes KI-Browser-Feature, das den Browser nicht übernimmt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features"
     }
   ]
 }
