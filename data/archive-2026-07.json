@@ -1,5 +1,124 @@
 [
   {
+    "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+    "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-21T03:56:03.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s landmark $1.5B copyright settlement is approved",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-21T00:12:24.000Z"
+  },
+  {
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "link": "https://huggingface.co/blog/grabette",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-21T00:00:00.000Z"
+  },
+  {
+    "title": "Trump&#8217;s latest AI czar has already resigned",
+    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-20T22:21:04.000Z"
+  },
+  {
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-20T22:19:12.000Z"
+  },
+  {
+    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+    "link": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-20T21:55:52.000Z"
+  },
+  {
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-20T21:21:15.000Z"
+  },
+  {
+    "title": "SpaceX in your index fund, explained",
+    "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-20T21:00:00.000Z"
+  },
+  {
+    "title": "China’s AI models have Trump’s AI world at war with itself",
+    "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-20T18:00:00.000Z"
+  },
+  {
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-20T16:36:36.000Z"
+  },
+  {
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "link": "https://news.ycombinator.com/item?id=48981136",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-20T16:32:10.000Z"
+  },
+  {
+    "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+    "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-20T16:00:00.000Z"
+  },
+  {
+    "title": "Introducing Cosmos 3 Edge",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-20T15:58:51.000Z"
+  },
+  {
+    "title": "Beyond grep: The case for a context-rich AI coding harness",
+    "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-20T11:20:10.000Z"
+  },
+  {
+    "title": "Safety and alignment in an era of long-horizon models",
+    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-20T10:00:00.000Z"
+  },
+  {
+    "title": "AI is more likely than humans to form biases when hiring",
+    "link": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-20T08:39:01.000Z"
+  },
+  {
     "title": "What to watch for after Jensen Huang&#8217;s Japan visit",
     "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
     "source": "TechCrunch AI",
