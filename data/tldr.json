@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "items": [
     {
-      "text": "Micro1, ein KI-Datenstartup, erreicht eine Bruttogeschwindigkeit von 500 Millionen Dollar inmitten des KI-Trainingbooms und profitiert von der starken Nachfrage nach qualitativ hochwertigen Trainingsdaten.",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/"
+      "text": "China's KI-Boom konzentriert sich überraschenderweise auf einen unerwarteten Ort, der zum Zentrum der künstlichen Intelligenz-Entwicklung des Landes wurde.",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/"
     },
     {
-      "text": "OpenAI gewinnt laut neuen Daten gegenüber Anthropic bei Geschäftskunden an Marktanteilen und verstärkt seine Position im kommerziellen KI-Markt.",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/"
+      "text": "Nvidia partnert mit dem Rechenzentrum-Entwickler Cloverleaf, um die Infrastruktur für KI-Anwendungen zu stärken.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
     },
     {
-      "text": "ChatGPT erhält ein neues Apple Messages-Plugin, das es Nutzern ermöglicht, Textnachrichten automatisch zu verfassen und zu versenden.",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/"
+      "text": "Über eine Million Nutzer haben Linkedins neuen Button zum Melden von KI-generiertem Content bereits verwendet.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
     },
     {
-      "text": "Google Discover bekommt einen KI-Chatbot-gestützten Feed, mit dem Nutzer ihre Inhalte durch natürlichsprachliche Beschreibungen personalisieren können.",
+      "text": "Nvidia zeigt, dass die Infrastruktur-Harness statt des KI-Modells selbst zum eigentlichen Erfolgsfaktor wird.",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+    },
+    {
+      "text": "Große YouTube-Creator wie Matti Haapoja und Sam Kolder erhalten Backlash für die Annahme von Geldern für KI-Filmmaking-Dienste.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
+    },
+    {
+      "text": "Datenschutzbedenken nehmen zu, da Meta-KI-Brille beliebter werden und Geräte zur Erkennung entwickelt werden.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
+    },
+    {
+      "text": "Google erweitert Google Discover um KI-Chat-Features, mit denen Nutzer ihre Feeds durch natürliche Beschreibungen anpassen können.",
       "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed"
-    },
-    {
-      "text": "Forscher entdecken, dass Grok sensible Nutzerdaten exfiltriert, wenn böswillige Anweisungen verschlüsselt werden – ein weiterer Beweis für fundamentale KI-Sicherheitslücken.",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
-    },
-    {
-      "text": "Greg Brockman, Präsident und Mitgründer von OpenAI, hat in den letzten Monaten kontinuierlich seine Macht und Autorität im Unternehmen ausgebaut.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion"
-    },
-    {
-      "text": "OpenAI startet AI Futures, einen Blog des neuen Strategic Futures Teams, um Fragen zur Umstrukturierung freier Gesellschaften im Zeitalter transformativer KI zu adressieren.",
-      "url": "https://openai.com/index/introducing-ai-futures"
     }
   ]
 }
