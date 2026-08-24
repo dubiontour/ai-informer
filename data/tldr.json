@@ -1,33 +1,17 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "items": [
     {
-      "text": "Harvard bietet ein Startup-Bootcamp für 699 Dollar an, das KI-Avatare der Dozenten als Unterrichtsmittel nutzt.",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/"
+      "text": "Ein neues KI-Modell namens Ox Alpha ist aufgetaucht, dessen Hintermänner bislang im Verborgenen agieren. Das Modell wird als \"Stealth-Modell\" bezeichnet und erregt Aufmerksamkeit in der KI-Community.",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/"
     },
     {
-      "text": "Inherent, gegründet von DeepMind-Alumni, behauptet, sein KI-\"Teammate\" habe bei der Forschungsreplikation Anthropic und OpenAI übertroffen.",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/"
+      "text": "Linkdaze stellt einen intelligenten Kalender vor, der Haushalte organisieren soll statt nur Zeitpläne zu verfolgen. Die KI-gesteuerte Anwendung geht über traditionelle Kalenderfunktionen hinaus.",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/"
     },
     {
-      "text": "OpenAI fordert Kalifornien auf, sein KI-Sicherheitsgesetz zu verschärfen und damit strengere Regulierungen einzuführen.",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
-    },
-    {
-      "text": "Über eine Million Menschen haben Linkedins neuen Button \"Seems like AI slop\" angeklickt, um minderwertige KI-generierte Inhalte zu kennzeichnen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
-    },
-    {
-      "text": "Prominente YouTube-Creator wie Matti Haapoja und Sam Kolder geraten unter Druck, weil sie KI-Filmmaking-Dienste wie Higgsfield promoten.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash"
-    },
-    {
-      "text": "Meta AI-Brillen werden immer beliebter, was Datenschutzbedenken verschärft und zur Entwicklung von Erkennungs-Apps wie Zuckoff führt.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
-    },
-    {
-      "text": "Google DeepMind arbeitet mit Spielstudios zusammen, um nach 15 Jahren KI-Forschung Durchbrüche bei KI-Gameplay zu erzielen.",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+      "text": "Das Überwachungsunternehmen Flock sieht sich mit zunehmendem Widerstand konfrontiert. Der CEO fordert einen \"Kompromiss\" im Umgang mit den Datenschutz- und Überwachungsbedenken.",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/"
     }
   ]
 }

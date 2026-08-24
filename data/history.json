@@ -1,5 +1,26 @@
 [
   {
+    "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-23T20:01:36.000Z"
+  },
+  {
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-23T19:14:08.000Z"
+  },
+  {
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-23T15:30:00.000Z"
+  },
+  {
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "source": "TechCrunch AI",
@@ -2567,89 +2588,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-07-25T10:30:00.000Z"
-  },
-  {
-    "title": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-25T00:23:11.000Z"
-  },
-  {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-24T22:25:58.000Z"
-  },
-  {
-    "title": "Canadian legislator reads out apparent LLM response in floor speech",
-    "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-24T21:25:15.000Z"
-  },
-  {
-    "title": "Anthropic&#039;s Opus 5 is about token efficiency, not a capability leap",
-    "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-24T21:05:51.000Z"
-  },
-  {
-    "title": "Midjourney bought the astrology app Co-Star",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-24T19:06:58.000Z"
-  },
-  {
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-24T18:07:32.000Z"
-  },
-  {
-    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-24T17:53:01.000Z"
-  },
-  {
-    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-24T17:31:26.000Z"
-  },
-  {
-    "title": "You can’t ignore Google Zero anymore",
-    "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-24T17:29:48.000Z"
-  },
-  {
-    "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-24T17:00:00.000Z"
-  },
-  {
-    "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-    "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-24T15:00:00.000Z"
-  },
-  {
-    "title": "Some Kids Will Never Think AI Is Cool",
-    "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-24T10:00:00.000Z"
   }
 ]
