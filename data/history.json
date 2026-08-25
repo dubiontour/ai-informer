@@ -1,5 +1,75 @@
 [
   {
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-25T00:23:12.000Z"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-24T21:45:53.000Z"
+  },
+  {
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-24T21:24:17.000Z"
+  },
+  {
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-24T19:54:19.000Z"
+  },
+  {
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-24T16:41:45.000Z"
+  },
+  {
+    "title": "How to encourage smarter AI use in the classroom",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-24T14:20:19.000Z"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-24T12:00:00.000Z"
+  },
+  {
+    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-24T09:30:00.000Z"
+  },
+  {
+    "title": "Kids outlearn AI—and we still don&#8217;t know why",
+    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-24T09:00:00.000Z"
+  },
+  {
     "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
     "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "source": "TechCrunch AI",
@@ -2560,33 +2630,5 @@
     "source": "Hacker News AI",
     "category": "Community",
     "pubDate": "2026-07-26T13:13:03.000Z"
-  },
-  {
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-26T01:30:00.000Z"
-  },
-  {
-    "title": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech",
-    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-25T16:00:00.000Z"
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
-    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-25T13:05:00.000Z"
-  },
-  {
-    "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-    "link": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-25T10:30:00.000Z"
   }
 ]
