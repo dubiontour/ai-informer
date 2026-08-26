@@ -1,5 +1,110 @@
 [
   {
+    "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-26T03:30:00.000Z"
+  },
+  {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-26T00:40:59.000Z"
+  },
+  {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-26T00:06:20.000Z"
+  },
+  {
+    "title": "World humanoid robot games show runners breaking records, bursting into flames",
+    "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-25T20:59:03.000Z"
+  },
+  {
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-25T15:14:14.000Z"
+  },
+  {
+    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-25T15:10:03.000Z"
+  },
+  {
+    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-25T14:00:00.000Z"
+  },
+  {
+    "title": "Apple&#039;s new desktop computers are designed specifically for local AI development",
+    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-25T13:00:11.000Z"
+  },
+  {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-25T11:39:24.000Z"
+  },
+  {
+    "title": "It Should Be Harder to Apply for a Job. No, Really",
+    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-25T09:30:00.000Z"
+  },
+  {
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-25T09:15:03.000Z"
+  },
+  {
+    "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-25T09:15:00.000Z"
+  },
+  {
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-25T09:00:00.000Z"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-25T07:05:00.000Z"
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-25T07:00:00.000Z"
+  },
+  {
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "source": "TechCrunch AI",
@@ -11,6 +116,13 @@
     "link": "https://huggingface.co/blog/gradio-workflow-guide",
     "source": "Hugging Face",
     "category": "Tools",
+    "pubDate": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "source": "OpenAI",
+    "category": "Research",
     "pubDate": "2026-08-25T00:00:00.000Z"
   },
   {
@@ -2595,40 +2707,5 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-07-27T09:32:20.000Z"
-  },
-  {
-    "title": "How AI is expanding what people do at work",
-    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-27T03:30:00.000Z"
-  },
-  {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-27T00:19:14.000Z"
-  },
-  {
-    "title": "Making sense of the panic over Chinese AI",
-    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-26T19:40:57.000Z"
-  },
-  {
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-26T16:33:13.000Z"
-  },
-  {
-    "title": "The New AI Superpowers: Focus and Followthrough",
-    "link": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-26T13:13:03.000Z"
   }
 ]

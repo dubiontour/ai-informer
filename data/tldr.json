@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "items": [
     {
-      "text": "Die SEC untersucht Situational Awareness, einen prominenten AI-Hedgefonds, der kürzlich fast kollabiert ist.",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+      "text": "Indische Voice-AI-Firma Ringg erhält Investitionen von Peak XV und expandiert über Telefongespräche hinaus in neue Anwendungsbereiche.",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/"
     },
     {
-      "text": "Eine Stanford-Studie zeigt, dass AI besonders junge Arbeitnehmer in Einstiegspositionen trifft – mit 19% weniger Beschäftigung in AI-betroffenen Feldern.",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/"
+      "text": "Robotik-Startup Generalist erreicht 3-Milliarden-Dollar-Bewertung und signalisiert wachsendes Vertrauen in die KI-Robotik-Branche.",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/"
     },
     {
-      "text": "Taiwan hat neun Personen angeklagt, darunter ein Nvidia-Manager und Supermicro-Mitarbeiter, wegen illegaler Ausfuhr von AI-Servern nach China.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/"
+      "text": "OpenAI verliert Top-Manager aus dem Rechenzentrum-Bereich; die Serie hochrangiger Abgänge bei dem KI-Unternehmen setzt sich fort.",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/"
     },
     {
-      "text": "OpenAI stellt GPT-5.6 in Kiro bereit, seinem Software-Development-Agent, um Entwicklern bessere Preis-Leistung und höhere Code-Qualität zu bieten.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro"
+      "text": "Beim World Humanoid Robot Games in Peking brechen Roboter Usain-Bolt-Rekorde, einige Maschinen erleiden aber auch Defekte bei hohen Geschwindigkeiten.",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/"
     },
     {
-      "text": "Lehrer berichten über Deepfakes ihrer Identitäten, die von Schülern erstellt und verbreitet werden.",
-      "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/"
+      "text": "KI wird Radiologen nicht ersetzen, wird aber ihre Jobs massiv verändern; die Radiologen-Positionen wachsen entgegen früheren Prognosen.",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
     },
     {
-      "text": "Kinder lernen Sprachen schneller als AI-Systeme, doch Forscher verstehen noch nicht, warum dieser Unterschied existiert.",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+      "text": "OpenAIs neuer Jalapeño-Chip übertrifft Nvidias Superchips in KI-Inference-Benchmarks und zeigt Fortschritte im Chip-Wettbewerb.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
     },
     {
-      "text": "Hugging Face präsentiert Gradio-Workflows für vereinfachte Erstellung, Ausführung und Bereitstellung von AI-Anwendungen.",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide"
+      "text": "Apple präsentiert M6- und M5-Ultra-Chips speziell für lokale KI-Entwicklung; Mac mini und Mac Studio erhalten bedeutende Hardware-Upgrades.",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
     }
   ]
 }
