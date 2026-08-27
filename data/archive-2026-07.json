@@ -1,5 +1,145 @@
 [
   {
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-28T15:01:45.000Z"
+  },
+  {
+    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-28T12:30:00.000Z"
+  },
+  {
+    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-28T10:30:00.000Z"
+  },
+  {
+    "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-28T10:00:00.000Z"
+  },
+  {
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-28T09:18:57.000Z"
+  },
+  {
+    "title": "Hugging Face Has a Deepfake Nudes Problem",
+    "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-28T05:30:00.000Z"
+  },
+  {
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-28T04:30:00.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-28T00:13:33.000Z"
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-27T21:56:14.000Z"
+  },
+  {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-27T21:17:11.000Z"
+  },
+  {
+    "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+    "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-27T20:12:42.000Z"
+  },
+  {
+    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+    "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-27T20:08:00.000Z"
+  },
+  {
+    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+    "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-27T18:48:41.000Z"
+  },
+  {
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-27T18:00:00.000Z"
+  },
+  {
+    "title": "Why China is giving away its best AI models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-27T16:51:50.000Z"
+  },
+  {
+    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-27T12:06:22.000Z"
+  },
+  {
+    "title": "The path to artificial superintelligence",
+    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-27T12:00:00.000Z"
+  },
+  {
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-27T11:40:16.000Z"
+  },
+  {
+    "title": "This Is Donald Trump’s AI Brain Trust",
+    "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-27T10:00:00.000Z"
+  },
+  {
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-27T09:32:20.000Z"
+  },
+  {
     "title": "How AI is expanding what people do at work",
     "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "source": "OpenAI",

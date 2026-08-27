@@ -1,5 +1,152 @@
 [
   {
+    "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+    "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-27T14:56:52.000Z"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source": "VentureBeat AI",
+    "category": "News",
+    "pubDate": "2026-08-27T14:30:00.000Z"
+  },
+  {
+    "title": "AI&#8217;s memory crunch is coming for Android apps",
+    "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-27T14:27:04.000Z"
+  },
+  {
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-27T14:01:42.000Z"
+  },
+  {
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "source": "VentureBeat AI",
+    "category": "News",
+    "pubDate": "2026-08-27T14:01:00.000Z"
+  },
+  {
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-27T14:00:13.000Z"
+  },
+  {
+    "title": "How much of a problem is AI’s water use?",
+    "link": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-27T13:57:08.000Z"
+  },
+  {
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-27T12:58:59.000Z"
+  },
+  {
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "source": "VentureBeat AI",
+    "category": "News",
+    "pubDate": "2026-08-27T12:01:00.000Z"
+  },
+  {
+    "title": "Submit Your Questions: The Great Data Center Backlash",
+    "link": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-27T11:00:00.000Z"
+  },
+  {
+    "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+    "link": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-27T10:30:00.000Z"
+  },
+  {
+    "title": "The UK Power Grid Has a Phantom Data Center Problem",
+    "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-27T06:00:00.000Z"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-26T21:40:53.000Z"
+  },
+  {
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-26T21:36:06.000Z"
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-26T19:00:00.000Z"
+  },
+  {
+    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-26T17:00:00.000Z"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-26T10:00:00.000Z"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-26T10:00:00.000Z"
+  },
+  {
+    "title": "Raised on AI",
+    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-26T09:00:00.000Z"
+  },
+  {
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-26T09:00:00.000Z"
+  },
+  {
     "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
     "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
     "source": "TechCrunch AI",
@@ -19,6 +166,13 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-08-26T00:06:20.000Z"
+  },
+  {
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-26T00:00:00.000Z"
   },
   {
     "title": "World humanoid robot games show runners breaking records, bursting into flames",
@@ -2567,145 +2721,5 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-07-28T16:27:42.000Z"
-  },
-  {
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-28T15:01:45.000Z"
-  },
-  {
-    "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-28T12:30:00.000Z"
-  },
-  {
-    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-28T10:30:00.000Z"
-  },
-  {
-    "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-    "link": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-28T10:00:00.000Z"
-  },
-  {
-    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-    "link": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-28T09:18:57.000Z"
-  },
-  {
-    "title": "Hugging Face Has a Deepfake Nudes Problem",
-    "link": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-28T05:30:00.000Z"
-  },
-  {
-    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-28T04:30:00.000Z"
-  },
-  {
-    "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
-    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-28T00:13:33.000Z"
-  },
-  {
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-27T21:56:14.000Z"
-  },
-  {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-27T21:17:11.000Z"
-  },
-  {
-    "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-    "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-27T20:12:42.000Z"
-  },
-  {
-    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-    "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-27T20:08:00.000Z"
-  },
-  {
-    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-    "link": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-27T18:48:41.000Z"
-  },
-  {
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-27T18:00:00.000Z"
-  },
-  {
-    "title": "Why China is giving away its best AI models",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-27T16:51:50.000Z"
-  },
-  {
-    "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-27T12:06:22.000Z"
-  },
-  {
-    "title": "The path to artificial superintelligence",
-    "link": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-27T12:00:00.000Z"
-  },
-  {
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-27T11:40:16.000Z"
-  },
-  {
-    "title": "This Is Donald Trump’s AI Brain Trust",
-    "link": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-27T10:00:00.000Z"
-  },
-  {
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-27T09:32:20.000Z"
   }
 ]
