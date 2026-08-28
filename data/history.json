@@ -1,5 +1,110 @@
 [
   {
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-28T16:28:40.000Z"
+  },
+  {
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-28T15:42:24.000Z"
+  },
+  {
+    "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-28T15:00:00.000Z"
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T12:46:12.000Z"
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T12:21:06.000Z"
+  },
+  {
+    "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+    "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-28T11:00:00.000Z"
+  },
+  {
+    "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+    "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-28T10:56:22.000Z"
+  },
+  {
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-28T06:33:57.000Z"
+  },
+  {
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-28T03:14:06.000Z"
+  },
+  {
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-28T02:00:00.000Z"
+  },
+  {
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-27T23:16:45.000Z"
+  },
+  {
+    "title": "Anthropic&#039;s new hardware standard lets AI agents control the physical world",
+    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-27T22:15:43.000Z"
+  },
+  {
+    "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-27T20:52:31.000Z"
+  },
+  {
+    "title": "Google’s AI note-taking app now allows you to interact with books",
+    "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-27T19:30:00.000Z"
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-08-27T16:11:32.000Z"
+  },
+  {
     "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
     "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
     "source": "TechCrunch AI",
@@ -49,6 +154,13 @@
     "pubDate": "2026-08-27T13:57:08.000Z"
   },
   {
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-08-27T12:59:16.000Z"
+  },
+  {
     "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
     "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
     "source": "Ars Technica AI",
@@ -75,6 +187,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-08-27T10:30:00.000Z"
+  },
+  {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-27T09:00:00.000Z"
   },
   {
     "title": "The UK Power Grid Has a Phantom Data Center Problem",
@@ -2595,131 +2714,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-07-29T17:58:24.000Z"
-  },
-  {
-    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-    "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-07-29T16:02:10.000Z"
-  },
-  {
-    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-29T15:00:00.000Z"
-  },
-  {
-    "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
-    "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-29T10:30:00.000Z"
-  },
-  {
-    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-29T10:00:00.000Z"
-  },
-  {
-    "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
-    "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-29T09:30:00.000Z"
-  },
-  {
-    "title": "The AI Hype Index: Unsexy AI",
-    "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-29T08:42:57.000Z"
-  },
-  {
-    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-    "link": "https://learnvector.ai/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-07-29T01:49:19.000Z"
-  },
-  {
-    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-    "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-29T00:15:30.000Z"
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-29T00:09:05.000Z"
-  },
-  {
-    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-29T00:00:00.000Z"
-  },
-  {
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-28T21:36:39.000Z"
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-28T21:29:34.000Z"
-  },
-  {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-28T20:45:12.000Z"
-  },
-  {
-    "title": "Despite AI hype, Google&#039;s data shows workers aren&#039;t automating themselves away",
-    "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-28T20:20:20.000Z"
-  },
-  {
-    "title": "AI leaders sign a statement asking the government to do something about automated AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-28T19:46:43.000Z"
-  },
-  {
-    "title": "AI’s finally expensive enough to make Wall Street nervous",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-28T19:33:03.000Z"
-  },
-  {
-    "title": "Scientific computing in the age of agentic AI",
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-28T17:00:00.000Z"
-  },
-  {
-    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-07-28T16:27:42.000Z"
   }
 ]
