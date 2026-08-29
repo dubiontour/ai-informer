@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "items": [
     {
-      "text": "Trump-EPA plant Änderungen: Die Trump-Administration will Bundesbestimmungen zur Luftverschmutzung streichen, um Rechenzentren vor öffentlicher Kontrolle zu bewahren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit"
+      "text": "KI-Giganten warnen vor einer Cyberattacken-Apokalypse innerhalb der nächsten Monate. Sicherheitsexperten erheben schwerwiegende Bedenken hinsichtlich bevorstehender Bedrohungen.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/"
     },
     {
-      "text": "Meta-Sicherheit: Meta schließt Sicherheitslücke bei AI-Brille durch Blockade von Aufnahmen, wenn LED-Licht verdeckt wird.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
+      "text": "Anthropic-Forscher zeigt bedeutende Durchbrüche bei selbstverbessernder KI. Die Entwicklung könnte das KI-Forschungsfeld transformieren.",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/"
     },
     {
-      "text": "Anthropic-Gerichtsieg: Gericht erklärt Pentagon-Kennzeichnung als \"illegale Vergeltung\" gegen Anthropic wegen Redefreiheitsverletzung.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling"
+      "text": "Anthropic wurde illegal von der Trump-Administration auf schwarze Liste gesetzt, wie ein Bundesgericht entschied. Das Unternehmen wurde bestraft, weil es sich weigerte, seine Produkte für Lethal Autonomous Weapons zu nutzen.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
     },
     {
-      "text": "xAI-Skandal: Elon Musks xAI wird beschuldigt, Kinderpornografie zum Training von Grok-Modellen verwendet zu haben.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/"
+      "text": "OpenAI beendet Partnerschaft mit Cursor nach dessen Übernahme durch SpaceX. Das Unternehmen vertraut nicht darauf, dass SpaceX sich an die Nutzungsbedingungen hält.",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
     },
     {
-      "text": "Anthropic Hardware-Standard: Anthropic präsentiert Model Hardware Standard (MHS) für KI-Agenten zur Kontrolle physischer Geräte.",
+      "text": "Anthropic stellt neuen Hardware-Standard vor, der KI-Agenten ermöglicht, die physische Welt zu kontrollieren. Das Model Hardware Standard (MHS) soll Roboter und Geräte steuern.",
       "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
     },
     {
-      "text": "OpenAI-Thailand-Accelerator: OpenAI startet mit Thailands Regierung erstes AI-Accelerator-Programm für zehn lokale Startups.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+      "text": "Meta verbessert AI-Brille mit Datenschutzmaßnahmen gegen unkonsensuale Aufnahmen. Das Unternehmen stoppt Aufnahmen, wenn Nutzer das Sicherheitslicht abdecken.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
     },
     {
-      "text": "Google Gemini Updates: Gemini Notebook erhält neue 'Expert Intelligence'-Funktion zur Interaktion mit gekauften Büchern.",
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books"
+      "text": "OpenAI unterstützt Thailands nächste Generation von AI-Startups mit einem 8-wöchigen Accelerator-Programm. Die Initiative ist OpenAIs erste öffentlich-private Partnerschaft mit der thailändischen Regierung.",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
     }
   ]
 }

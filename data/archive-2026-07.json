@@ -1,5 +1,96 @@
 [
   {
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-07-30T10:15:19.000Z"
+  },
+  {
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-30T10:00:00.000Z"
+  },
+  {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-30T00:21:06.000Z"
+  },
+  {
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "link": "https://openai.com/index/avatarin",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-30T00:00:00.000Z"
+  },
+  {
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-29T23:00:11.000Z"
+  },
+  {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-29T22:46:03.000Z"
+  },
+  {
+    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+    "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-29T22:17:38.000Z"
+  },
+  {
+    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-29T22:07:06.000Z"
+  },
+  {
+    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+    "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-29T21:48:07.000Z"
+  },
+  {
+    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-29T21:06:52.000Z"
+  },
+  {
+    "title": "Who wins and who loses after US bans foreign robots?",
+    "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-29T20:03:42.000Z"
+  },
+  {
+    "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+    "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-29T18:30:00.000Z"
+  },
+  {
+    "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+    "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-29T17:58:24.000Z"
+  },
+  {
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
     "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "source": "Google DeepMind",

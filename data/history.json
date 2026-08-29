@@ -1,5 +1,54 @@
 [
   {
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-29T10:30:00.000Z"
+  },
+  {
+    "title": "How to Run a Chatbot on Your Own Computer",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-29T10:00:00.000Z"
+  },
+  {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "link": "https://github.com/stemdeckapp/stemdeck",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-29T01:24:13.000Z"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T20:24:11.000Z"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T19:30:38.000Z"
+  },
+  {
+    "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T18:19:40.000Z"
+  },
+  {
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-28T18:07:55.000Z"
+  },
+  {
     "title": "Trump’s EPA wants to let data centers hide their air pollution",
     "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
     "source": "The Verge AI",
@@ -56,6 +105,13 @@
     "pubDate": "2026-08-28T06:33:57.000Z"
   },
   {
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-28T06:00:00.000Z"
+  },
+  {
     "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
     "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
     "source": "The Verge AI",
@@ -68,6 +124,13 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-08-28T02:00:00.000Z"
+  },
+  {
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-28T00:00:00.000Z"
   },
   {
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -2623,96 +2686,5 @@
     "source": "Hacker News AI",
     "category": "Community",
     "pubDate": "2026-07-30T11:45:44.000Z"
-  },
-  {
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-07-30T10:15:19.000Z"
-  },
-  {
-    "title": "Advancing the price-performance frontier with GPT-5.6",
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-30T10:00:00.000Z"
-  },
-  {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-30T00:21:06.000Z"
-  },
-  {
-    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "link": "https://openai.com/index/avatarin",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-07-30T00:00:00.000Z"
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-29T23:00:11.000Z"
-  },
-  {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-07-29T22:46:03.000Z"
-  },
-  {
-    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-    "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-29T22:17:38.000Z"
-  },
-  {
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-29T22:07:06.000Z"
-  },
-  {
-    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-    "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-29T21:48:07.000Z"
-  },
-  {
-    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-    "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-07-29T21:06:52.000Z"
-  },
-  {
-    "title": "Who wins and who loses after US bans foreign robots?",
-    "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-29T20:03:42.000Z"
-  },
-  {
-    "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-    "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-07-29T18:30:00.000Z"
-  },
-  {
-    "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
-    "link": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-07-29T17:58:24.000Z"
   }
 ]
