@@ -1,5 +1,124 @@
 [
   {
+    "title": "Univé builds an AI-ready workforce",
+    "link": "https://openai.com/index/unive",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-07-31T07:00:00.000Z"
+  },
+  {
+    "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+    "link": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-31T01:24:26.000Z"
+  },
+  {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-31T01:06:54.000Z"
+  },
+  {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-30T23:25:58.000Z"
+  },
+  {
+    "title": "The AI Aesthetic",
+    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-30T23:22:16.000Z"
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI&#8217;s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-07-30T23:08:58.000Z"
+  },
+  {
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-30T22:29:45.000Z"
+  },
+  {
+    "title": "The loss of Situational Awareness",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-30T20:46:25.000Z"
+  },
+  {
+    "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+    "link": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-30T20:12:57.000Z"
+  },
+  {
+    "title": "Chrome may get faster updates with no restart required",
+    "link": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-30T19:26:56.000Z"
+  },
+  {
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-07-30T18:43:26.000Z"
+  },
+  {
+    "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+    "link": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-30T17:58:02.000Z"
+  },
+  {
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-07-30T17:51:10.000Z"
+  },
+  {
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-07-30T15:09:09.000Z"
+  },
+  {
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-07-30T15:00:59.000Z"
+  },
+  {
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-07-30T14:53:07.000Z"
+  },
+  {
+    "title": "GCC steering committee announces AI policy",
+    "link": "https://lwn.net/Articles/1086041/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-07-30T11:45:44.000Z"
+  },
+  {
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
     "source": "MIT Tech Review",
