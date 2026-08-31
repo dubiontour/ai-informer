@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "items": [
     {
-      "text": "Sony Music und Warner Chappell klagen gegen Anthropic wegen massiver Urheberrechtsverletzungen. Sie bezeichnen dies als \"eine der größten und unverfrorensten andauernden Diebstähle von geistigem Eigentum in der Geschichte.\"",
+      "text": "Versicherungssachbearbeiter lehnen KI-Systeme zur Schadensbearbeitung ab und beklagen deren Auswirkungen auf ihre Arbeitsbedingungen.",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/"
+    },
+    {
+      "text": "Meta hat Pocket, ein KI-Tool zum \"Vibe Coding\", gestartet, das Game-Entwicklung vereinfacht, aber die Ergebnisse auf Metas Plattform begrenzt.",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
+    },
+    {
+      "text": "Die USA errichten Handelsbarrieren um Drohnen und Roboter, während China durch Massenproduktion diese Beschränkungen umgehen kann.",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+    },
+    {
+      "text": "Meta testet Roboter in Rechenzentren zur Durchführung von Technikertätigkeiten wie Kabelanschlüsse und Server-Neustarts.",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
+    },
+    {
+      "text": "Sony Music Publishing und Warner Chappell verklagen Anthropic wegen angeblicher massiver Urheberrechtsverletzungen durch KI-Training.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
     },
     {
-      "text": "Bundesrichter erklärt Trumps Blacklist gegen Anthropic für illegal. Das Unternehmen wurde wegen Weigerung, autonome tödliche Waffen zu unterstützen, illegal von der Regierung auf die Liste der Versorgungskettenrisiken gesetzt.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
-    },
-    {
-      "text": "Nvidias KI-Vorteil geht über die GPU hinaus. Der Chipmaker baut sein Ökosystem und seine Software-Integration aus, um Wettbewerber zu distanzieren.",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
-    },
-    {
-      "text": "Musiker werden zu Detektiven und jagen KI-Betrüger. Die Verbreitung von KI-generierter EDM-Musik schafft eine Kultur des Misstrauens und der Aufklärung unter Künstlern.",
+      "text": "Musikproduzenten und Künstler werden zu Detektiven, um KI-generierte Musik und Betrüger in der EDM-Szene zu identifizieren.",
       "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
     },
     {
-      "text": "Meta reduziert invasive Aufnahmen durch KI-Brille. Das Unternehmen schloss eine Sicherheitslücke, die das Überschreiben des LED-Warnlichts ermöglichte, das Nutzer über Videoaufnahmen informiert.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
-    },
-    {
-      "text": "Trumps EPA will Datenzentren erlauben, Luftverschmutzung zu verbergen. Die Regierung will eine Bundesregel zur Luftverschmutzung aufheben, um Datenzentren vor öffentlicher Kontrolle zu bewahren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit"
-    },
-    {
-      "text": "KI-Sicherheitsexperten warnen vor \"Cyberapokalypse\" in wenigen Monaten. Die Warnung bezieht sich auf das wachsende Risiko großflächiger KI-gestützter Cyberangriffe auf kritische Infrastrukturen.",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/"
+      "text": "Texas Gouverneur Abbott blockiert zusätzliche Förderung für Flock AI-Überwachungskameras inmitten wachsender politischer Gegenwehr.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
     }
   ]
 }
