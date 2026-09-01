@@ -1,33 +1,33 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "items": [
     {
-      "text": "Versicherungssachbearbeiter lehnen KI-Systeme zur Schadensbearbeitung ab und beklagen deren Auswirkungen auf ihre Arbeitsbedingungen.",
-      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/"
+      "text": "Apple präsentiert belastendes Material gegen ehemaligen Mitarbeiter, der beschuldigt wird, Firmendaten für OpenAI gestohlen zu haben.",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/"
     },
     {
-      "text": "Meta hat Pocket, ein KI-Tool zum \"Vibe Coding\", gestartet, das Game-Entwicklung vereinfacht, aber die Ergebnisse auf Metas Plattform begrenzt.",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
+      "text": "Das Pentagon hat seine eigene Version von ChatGPT und Grok entwickelt und betreibt damit eine unabhängige KI-Infrastruktur.",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/"
     },
     {
-      "text": "Die USA errichten Handelsbarrieren um Drohnen und Roboter, während China durch Massenproduktion diese Beschränkungen umgehen kann.",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+      "text": "Instagram führt neue Beschränkungen für nicht offengelegte KI-Profile ein und verschärft damit die Transparenzanforderungen.",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
     },
     {
-      "text": "Meta testet Roboter in Rechenzentren zur Durchführung von Technikertätigkeiten wie Kabelanschlüsse und Server-Neustarts.",
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
+      "text": "Anthropic wird in Klage von Musikverlegern wie Sony, EMI und Warner Chappell vorgeworfen, massenweise Musikkompositionen illegal zum Trainieren von Claude geplündert zu haben.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/"
     },
     {
-      "text": "Sony Music Publishing und Warner Chappell verklagen Anthropic wegen angeblicher massiver Urheberrechtsverletzungen durch KI-Training.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+      "text": "EU klassifiziert ChatGPT, Reddit und Roblox als \"Very Large Platforms\" unter dem Digital Services Act und verhängt damit strengere Compliance-Anforderungen und bis zu 6% Bußgelder.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/"
     },
     {
-      "text": "Musikproduzenten und Künstler werden zu Detektiven, um KI-generierte Musik und Betrüger in der EDM-Szene zu identifizieren.",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
+      "text": "ChatGPT Ads erreicht in weniger als 200 Tagen eine annualisierte Umsatzrate von 1 Milliarde Dollar und expandiert global.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
     },
     {
-      "text": "Texas Gouverneur Abbott blockiert zusätzliche Förderung für Flock AI-Überwachungskameras inmitten wachsender politischer Gegenwehr.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+      "text": "Debian lehnt es ab, KI-generierte Code-Beiträge zu verbieten und verfolgt eine neutrale Policy zwischen Befürwortung und Verbot.",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy"
     }
   ]
 }

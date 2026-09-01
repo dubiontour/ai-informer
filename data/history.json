@@ -1,5 +1,75 @@
 [
   {
+    "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-01T00:13:00.000Z"
+  },
+  {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-31T20:13:45.000Z"
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-31T19:16:59.000Z"
+  },
+  {
+    "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+    "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-31T18:10:45.000Z"
+  },
+  {
+    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-31T18:00:00.000Z"
+  },
+  {
+    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-31T15:34:58.000Z"
+  },
+  {
+    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-31T14:00:00.000Z"
+  },
+  {
+    "title": "ChatGPT and Reddit now face EU&#039;s toughest online safety rules",
+    "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-31T13:41:40.000Z"
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-31T13:27:36.000Z"
+  },
+  {
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-31T12:41:22.000Z"
+  },
+  {
     "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
     "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
     "source": "Wired AI",
@@ -12,6 +82,27 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-08-31T10:00:34.000Z"
+  },
+  {
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-31T07:00:00.000Z"
+  },
+  {
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "link": "https://openai.com/index/polimill",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-31T07:00:00.000Z"
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-31T04:00:00.000Z"
   },
   {
     "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -2497,47 +2588,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-08-02T13:00:00.000Z"
-  },
-  {
-    "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-    "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-02T07:27:55.000Z"
-  },
-  {
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-01T20:26:04.000Z"
-  },
-  {
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-01T19:45:45.000Z"
-  },
-  {
-    "title": "Is this Billboard Hot 100 hit AI slop?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-01T18:20:00.000Z"
-  },
-  {
-    "title": "Sam Altman is still making the case for parenting via ChatGPT",
-    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-01T17:07:34.000Z"
-  },
-  {
-    "title": "As Reddit stock falls, CEO questions value of Google&#039;s AI Overviews",
-    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-01T12:30:36.000Z"
   }
 ]
