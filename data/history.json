@@ -1,10 +1,108 @@
 [
   {
+    "title": "Google needs Hollywood more than the studios need AI",
+    "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-01T22:50:29.000Z"
+  },
+  {
+    "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-01T22:08:24.000Z"
+  },
+  {
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-01T22:01:36.000Z"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-01T21:39:07.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-01T21:06:24.000Z"
+  },
+  {
+    "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-01T20:53:05.000Z"
+  },
+  {
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-01T20:45:49.000Z"
+  },
+  {
+    "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-01T20:00:00.000Z"
+  },
+  {
+    "title": "Introducing agentic video understanding with Gemini",
+    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-01T17:08:51.000Z"
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "link": "https://openai.com/index/ai-native-company-workflows",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-01T17:00:00.000Z"
+  },
+  {
+    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-01T14:40:00.000Z"
+  },
+  {
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-01T13:00:00.000Z"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-01T12:00:00.000Z"
+  },
+  {
     "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
     "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-09-01T00:13:00.000Z"
+  },
+  {
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-01T00:00:00.000Z"
   },
   {
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -2532,61 +2630,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-08-03T09:30:00.000Z"
-  },
-  {
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-03T08:30:05.000Z"
-  },
-  {
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-03T07:00:00.000Z"
-  },
-  {
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
-    "link": "https://arxiv.org/abs/2607.28271",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-03T03:06:12.000Z"
-  },
-  {
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "link": "https://openai.com/index/circles",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-03T00:00:00.000Z"
-  },
-  {
-    "title": "Sam Altman and AI’s decel debate",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-02T20:54:22.000Z"
-  },
-  {
-    "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-    "link": "https://frogs.vaguespac.es/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-02T19:42:08.000Z"
-  },
-  {
-    "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-02T19:36:08.000Z"
-  },
-  {
-    "title": "Is paying artists enough to convince them to embrace AI?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-02T13:00:00.000Z"
   }
 ]
