@@ -1,5 +1,131 @@
 [
   {
+    "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-03T01:32:02.000Z"
+  },
+  {
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-02T23:01:00.000Z"
+  },
+  {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-02T22:44:56.000Z"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-02T22:24:09.000Z"
+  },
+  {
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-02T20:11:40.000Z"
+  },
+  {
+    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-02T18:41:02.000Z"
+  },
+  {
+    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-02T18:20:00.000Z"
+  },
+  {
+    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+    "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-02T18:13:54.000Z"
+  },
+  {
+    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-02T17:58:33.000Z"
+  },
+  {
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-02T17:52:56.000Z"
+  },
+  {
+    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-02T16:40:50.000Z"
+  },
+  {
+    "title": "Proactive cyber defense for governments and enterprises",
+    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-02T16:24:24.000Z"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-02T16:18:31.000Z"
+  },
+  {
+    "title": "Facilitating AI integration with simplicity at scale",
+    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-02T14:00:00.000Z"
+  },
+  {
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+    "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-02T13:59:59.000Z"
+  },
+  {
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-02T13:49:14.000Z"
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-02T12:00:00.000Z"
+  },
+  {
     "title": "Google needs Hollywood more than the studios need AI",
     "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
     "source": "The Verge AI",
@@ -2539,96 +2665,5 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-08-04T13:58:29.000Z"
-  },
-  {
-    "title": "New ways to learn and teach with ChatGPT Work and Codex",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-04T00:00:00.000Z"
-  },
-  {
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-03T23:19:50.000Z"
-  },
-  {
-    "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
-    "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-03T22:27:46.000Z"
-  },
-  {
-    "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-    "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-03T22:11:39.000Z"
-  },
-  {
-    "title": "Apple is getting this wrong",
-    "link": "https://openai.com/index/apple-is-getting-this-wrong",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-03T22:00:00.000Z"
-  },
-  {
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-03T20:00:00.000Z"
-  },
-  {
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-03T19:28:57.000Z"
-  },
-  {
-    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-03T19:00:50.000Z"
-  },
-  {
-    "title": "Trump’s AI protectionism has come for robotics",
-    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-03T18:43:30.000Z"
-  },
-  {
-    "title": "Europe’s AI labeling and transparency rules are now in effect",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-03T17:38:45.000Z"
-  },
-  {
-    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-03T11:01:11.000Z"
-  },
-  {
-    "title": "AI Conquered Coding. Fast Food Is Next",
-    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-03T10:00:00.000Z"
-  },
-  {
-    "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-03T09:30:00.000Z"
   }
 ]

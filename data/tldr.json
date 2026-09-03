@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "items": [
     {
-      "text": "Anthropic launcht Claude Fable 5.1 und Mythos 5.1 mit bis zu 45% niedrigeren Kosten für agentic AI-Aufgaben.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+      "text": "Meta führt neuen KI-Agenten bei Mitarbeitern ein und moderiert dabei das sogenannte \"Tokenmaxxing\", um kosteneffizientere KI-Systeme zu schaffen.",
+      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
     },
     {
-      "text": "OpenAI verzögerte Entwicklung des Astra-Modells nach dem Hugging Face Hack und implementiert verstärkte Cybersicherheit-Safeguards.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay"
+      "text": "Google veröffentlicht Gemini 3.8 Flash, das dritte Flash-Modell in sechs Wochen, das bessere Reasoning- und Coding-Fähigkeiten bieten soll.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
     },
     {
-      "text": "OpenAI bestätigt, dass Astra kritische Cybersecurity-Fähigkeiten erreicht hat und eigenständig unbekannte Sicherheitslücken ausnutzen kann.",
-      "url": "https://openai.com/index/path-to-astra"
+      "text": "Die Trump-Administration unterstützt OpenAI in der Urheberrechtsklage der New York Times und setzt sich damit für KI-Unternehmen ein.",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
     },
     {
-      "text": "Google führt agentic video understanding in Gemini ein für verbesserte Genauigkeit und niedrigere Token-Nutzung.",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+      "text": "Russische Mathematiker haben entwickelt, wie KI-Modelle ohne Worte miteinander kommunizieren können, was neue Möglichkeiten für KI-Zusammenarbeit eröffnet.",
+      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/"
     },
     {
-      "text": "AfterQuery wird Y Combinators schnellster Unicorn aller Zeiten und erreicht eine Bewertung von 3,2 Milliarden Dollar.",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+      "text": "Forscher warnen vor einem Sicherheitsdesaster bei OpenAIs bevorstehender Astra-Veröffentlichung und kritisieren einen \"Race to the Bottom\" bei Safety-Standards.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
     },
     {
-      "text": "ChatGPT für Healthcare verbindet nun EHR-Daten und neun offizielle Gesundheitsdatenquellen für bessere Patientenversorgung.",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      "text": "Amazons KI-Assistent kann nun gefälschte E-Mails vom Unternehmen erkennen, indem er diese gegen alle bisherigen Amazon-Nachrichten abgleicht.",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
     },
     {
-      "text": "Hugging Face veröffentlicht @huggingface/kernels mit über 200 optimierten WebGPU-Kerneln für schnellere Browser-basierte AI-Inference.",
-      "url": "https://huggingface.co/blog/webgpu-kernels"
+      "text": "Trump könnte gezwungen werden, die geheimen Regeln der Bundesregierung für KI-Sicherheitstests offenzulegen, da ein Gericht dies wegen möglicher Korruption fordert.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/"
     }
   ]
 }

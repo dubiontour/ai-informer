@@ -1,5 +1,96 @@
 [
   {
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8217;",
+    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-03T23:19:50.000Z"
+  },
+  {
+    "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+    "link": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-03T22:27:46.000Z"
+  },
+  {
+    "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+    "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-03T22:11:39.000Z"
+  },
+  {
+    "title": "Apple is getting this wrong",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-03T22:00:00.000Z"
+  },
+  {
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-03T20:00:00.000Z"
+  },
+  {
+    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-03T19:28:57.000Z"
+  },
+  {
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-03T19:00:50.000Z"
+  },
+  {
+    "title": "Trump’s AI protectionism has come for robotics",
+    "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-03T18:43:30.000Z"
+  },
+  {
+    "title": "Europe’s AI labeling and transparency rules are now in effect",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-03T17:38:45.000Z"
+  },
+  {
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-03T11:01:11.000Z"
+  },
+  {
+    "title": "AI Conquered Coding. Fast Food Is Next",
+    "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-03T10:00:00.000Z"
+  },
+  {
+    "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "link": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-03T09:30:00.000Z"
+  },
+  {
     "title": "Here’s why AI agents lie and cheat to reach their goals",
     "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "source": "MIT Tech Review",
