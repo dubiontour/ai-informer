@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "items": [
     {
-      "text": "Meta führt neuen KI-Agenten bei Mitarbeitern ein und moderiert dabei das sogenannte \"Tokenmaxxing\", um kosteneffizientere KI-Systeme zu schaffen.",
-      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
+      "text": "OpenAI hat GPT-6 Astra veröffentlicht, das laut dem Unternehmen die AGI-Ära einleiten könnte und Computer besser als Menschen bedienen soll.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
     },
     {
-      "text": "Google veröffentlicht Gemini 3.8 Flash, das dritte Flash-Modell in sechs Wochen, das bessere Reasoning- und Coding-Fähigkeiten bieten soll.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+      "text": "ChatGPT, Claude, Grok und Gemini erlitten seltene gleichzeitige Ausfallzeiten am Donnerstagmorgen über mehrere Stunden hinweg.",
+      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
     },
     {
-      "text": "Die Trump-Administration unterstützt OpenAI in der Urheberrechtsklage der New York Times und setzt sich damit für KI-Unternehmen ein.",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
+      "text": "Nvidia kauft Hugging Face, die GitHub der KI-Welt, für 13 Milliarden Dollar und plant, die Plattform offen zu halten.",
+      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
     },
     {
-      "text": "Russische Mathematiker haben entwickelt, wie KI-Modelle ohne Worte miteinander kommunizieren können, was neue Möglichkeiten für KI-Zusammenarbeit eröffnet.",
-      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/"
+      "text": "Das Energieunternehmen Crusoe sammelt berichten zufolge 3 Milliarden Dollar bei einer 30-Milliarden-Dollar-Bewertung ein.",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
     },
     {
-      "text": "Forscher warnen vor einem Sicherheitsdesaster bei OpenAIs bevorstehender Astra-Veröffentlichung und kritisieren einen \"Race to the Bottom\" bei Safety-Standards.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+      "text": "Nvidia startet Personal AI Router (PAIR), ein kostenloses Tool, das idle Computer im Heimnetzwerk zu einem persönlichen KI-Datencenter verbindet.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
     },
     {
-      "text": "Amazons KI-Assistent kann nun gefälschte E-Mails vom Unternehmen erkennen, indem er diese gegen alle bisherigen Amazon-Nachrichten abgleicht.",
-      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails"
+      "text": "Google startet KI-gestützte Sprachassistenten-Modi für Gmail, Docs und Keep mit Freisprechfunktion zum Abrufen von Informationen und Zusammenfassungen.",
+      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini"
     },
     {
-      "text": "Trump könnte gezwungen werden, die geheimen Regeln der Bundesregierung für KI-Sicherheitstests offenzulegen, da ein Gericht dies wegen möglicher Korruption fordert.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/"
+      "text": "OpenAI verpflichtet sich zu einer 1-Milliarde-Dollar-Initiative namens Daybreak für Frontline Defenders zur Sicherung kritischer Infrastrukturen weltweit.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
     }
   ]
 }

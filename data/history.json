@@ -1,5 +1,117 @@
 [
   {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T04:21:03.000Z"
+  },
+  {
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T00:48:42.000Z"
+  },
+  {
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-03T21:56:21.000Z"
+  },
+  {
+    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-03T21:48:24.000Z"
+  },
+  {
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-03T19:36:29.000Z"
+  },
+  {
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-03T18:10:19.000Z"
+  },
+  {
+    "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-03T18:06:24.000Z"
+  },
+  {
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-03T18:00:00.000Z"
+  },
+  {
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-03T16:00:00.000Z"
+  },
+  {
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-03T16:00:00.000Z"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-03T15:02:08.000Z"
+  },
+  {
+    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-03T13:34:13.000Z"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-03T13:15:00.000Z"
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-03T13:13:48.000Z"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-03T12:00:00.000Z"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-03T12:00:00.000Z"
+  },
+  {
     "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
     "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
     "source": "Wired AI",
@@ -9,6 +121,20 @@
   {
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
     "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "title": "Give Your Coding Agents a Memory You Own",
+    "link": "https://huggingface.co/blog/funes",
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-09-03T00:00:00.000Z"
@@ -2581,89 +2707,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-08-05T16:47:23.000Z"
-  },
-  {
-    "title": "The AI Notetaker Has Been Invited to All the Meetings",
-    "link": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-05T07:00:00.000Z"
-  },
-  {
-    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
-    "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-04T23:11:31.000Z"
-  },
-  {
-    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-    "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-04T22:06:07.000Z"
-  },
-  {
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-04T21:07:26.000Z"
-  },
-  {
-    "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
-    "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-04T20:57:49.000Z"
-  },
-  {
-    "title": "SpaceX made more revenue as an AI company than a space company",
-    "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-04T20:47:55.000Z"
-  },
-  {
-    "title": "Texas halts data center connections to power grid amid overwhelming demand",
-    "link": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-04T20:34:28.000Z"
-  },
-  {
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-04T20:05:26.000Z"
-  },
-  {
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-04T19:48:40.000Z"
-  },
-  {
-    "title": "Third-party cyber evaluations involving OpenAI models",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-04T19:00:00.000Z"
-  },
-  {
-    "title": "How an OpenAI influencer trip backfired",
-    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-04T17:46:41.000Z"
-  },
-  {
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-04T13:58:29.000Z"
   }
 ]
