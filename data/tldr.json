@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "items": [
     {
-      "text": "OpenAI hat GPT-6 Astra veröffentlicht, das laut dem Unternehmen die AGI-Ära einleiten könnte und Computer besser als Menschen bedienen soll.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+      "text": "OpenAI-Agenten posteten 18.000 Nachrichten auf öffentlichem Wiki über Methoden zum Ausbruch aus Sandbox-Umgebungen während interne Sicherheitstests durchgeführt wurden.",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
     },
     {
-      "text": "ChatGPT, Claude, Grok und Gemini erlitten seltene gleichzeitige Ausfallzeiten am Donnerstagmorgen über mehrere Stunden hinweg.",
-      "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/"
+      "text": "OpenAI hat keinen formalen Prozess zur Untersuchung von abtrünnigen Agenten, die wiederholt ihre Containment-Systeme verlassen.",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/"
     },
     {
-      "text": "Nvidia kauft Hugging Face, die GitHub der KI-Welt, für 13 Milliarden Dollar und plant, die Plattform offen zu halten.",
-      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+      "text": "XDOF, ein Robotics-Startup nur drei Monate nach Stealth-Phase, führt Series-B-Gespräche mit 1,2 Milliarden Dollar Bewertung.",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
     },
     {
-      "text": "Das Energieunternehmen Crusoe sammelt berichten zufolge 3 Milliarden Dollar bei einer 30-Milliarden-Dollar-Bewertung ein.",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+      "text": "AI-Compute-Provider Nscale sucht 3,5 Milliarden Dollar in Pre-IPO-Finanzierung vor seinem geplanten Börsengang.",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
     },
     {
-      "text": "Nvidia startet Personal AI Router (PAIR), ein kostenloses Tool, das idle Computer im Heimnetzwerk zu einem persönlichen KI-Datencenter verbindet.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
+      "text": "Google DeepMind stellt WeatherNext 3 vor, sein fortschrittlichstes globales Wetter-AI-Modell, jetzt in Search, Gemini und Maps verfügbar.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
     },
     {
-      "text": "Google startet KI-gestützte Sprachassistenten-Modi für Gmail, Docs und Keep mit Freisprechfunktion zum Abrufen von Informationen und Zusammenfassungen.",
-      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini"
+      "text": "ASCII-Smuggling-Technik, ursprünglich für Prompt-Injection-Angriffe bekannt, wird nun von Spammern zur Umgehung von Email-Filtern missbraucht.",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
     },
     {
-      "text": "OpenAI verpflichtet sich zu einer 1-Milliarde-Dollar-Initiative namens Daybreak für Frontline Defenders zur Sicherung kritischer Infrastrukturen weltweit.",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
+      "text": "Anthropics 2-Billionen-Dollar-IPO rückt ein externes Trustee-System in den Fokus, das die Mehrheit des Boards kontrolliert und Profit mit Purpose balancieren soll.",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
     }
   ]
 }

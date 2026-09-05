@@ -1,5 +1,96 @@
 [
   {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T23:36:14.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T23:15:11.000Z"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-04T22:17:36.000Z"
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T21:12:11.000Z"
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-04T18:39:19.000Z"
+  },
+  {
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-04T17:51:35.000Z"
+  },
+  {
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-04T17:18:12.000Z"
+  },
+  {
+    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+    "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-04T16:22:18.000Z"
+  },
+  {
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-04T16:05:57.000Z"
+  },
+  {
+    "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-04T15:00:00.000Z"
+  },
+  {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-04T13:34:12.000Z"
+  },
+  {
+    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-04T10:00:00.000Z"
+  },
+  {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-04T09:25:19.000Z"
+  },
+  {
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "source": "TechCrunch AI",
@@ -2602,110 +2693,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-08-06T10:00:00.000Z"
-  },
-  {
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-06T06:00:00.000Z"
-  },
-  {
-    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-06T00:25:10.000Z"
-  },
-  {
-    "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-    "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-06T00:15:04.000Z"
-  },
-  {
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-06T00:00:00.000Z"
-  },
-  {
-    "title": "Baseten on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/baseten",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-06T00:00:00.000Z"
-  },
-  {
-    "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
-    "link": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-05T23:30:00.000Z"
-  },
-  {
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-05T21:21:28.000Z"
-  },
-  {
-    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-    "link": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-05T20:47:11.000Z"
-  },
-  {
-    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-05T20:05:00.000Z"
-  },
-  {
-    "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-    "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-05T20:01:32.000Z"
-  },
-  {
-    "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-    "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-05T19:51:40.000Z"
-  },
-  {
-    "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
-    "link": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-05T19:42:12.000Z"
-  },
-  {
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-05T19:30:19.000Z"
-  },
-  {
-    "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-05T16:57:25.000Z"
-  },
-  {
-    "title": "Google just announced a major shakeup of its top AI leadership",
-    "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-05T16:47:23.000Z"
   }
 ]
