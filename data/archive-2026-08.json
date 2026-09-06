@@ -1,5 +1,110 @@
 [
   {
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-07T09:00:00.000Z"
+  },
+  {
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "link": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-07T01:16:55.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-06T22:43:53.000Z"
+  },
+  {
+    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-06T20:55:39.000Z"
+  },
+  {
+    "title": "Suno hopes to go legit with watermarks for AI-generated music",
+    "link": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-06T20:17:36.000Z"
+  },
+  {
+    "title": "Anthropic will design its own hardware to power Claude",
+    "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-06T20:03:44.000Z"
+  },
+  {
+    "title": "Why Normal People Aren’t Using AI Agents",
+    "link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-06T19:55:45.000Z"
+  },
+  {
+    "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+    "link": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-06T19:30:46.000Z"
+  },
+  {
+    "title": "Large genome models used to design new viruses",
+    "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-06T19:04:57.000Z"
+  },
+  {
+    "title": "Suno shares plans to combat spammy AI music",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-06T17:39:43.000Z"
+  },
+  {
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-06T17:34:42.000Z"
+  },
+  {
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-06T17:00:37.000Z"
+  },
+  {
+    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-06T17:00:00.000Z"
+  },
+  {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-08-06T15:06:15.000Z"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-06T10:00:00.000Z"
+  },
+  {
     "title": "Working with the American Psychological Association on youth mental health and AI",
     "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
     "source": "OpenAI",
