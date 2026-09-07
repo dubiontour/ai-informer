@@ -1,5 +1,117 @@
 [
   {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-07T22:48:24.000Z"
+  },
+  {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-07T21:30:11.000Z"
+  },
+  {
+    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-07T20:01:51.000Z"
+  },
+  {
+    "title": "Watching Roku’s AI channel is like eating from a trough",
+    "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-07T18:59:46.000Z"
+  },
+  {
+    "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-07T18:40:34.000Z"
+  },
+  {
+    "title": "Managing AI Coding Costs at Scale",
+    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-07T18:25:17.000Z"
+  },
+  {
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-07T17:53:32.000Z"
+  },
+  {
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-07T17:36:30.000Z"
+  },
+  {
+    "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
+    "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-07T17:36:22.000Z"
+  },
+  {
+    "title": "What&#8217;s behind the Google AI shake-up",
+    "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-07T16:45:14.000Z"
+  },
+  {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-07T16:16:09.000Z"
+  },
+  {
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-07T15:20:00.000Z"
+  },
+  {
+    "title": "Scientists Used AI to Create 16 New Viruses",
+    "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-07T14:13:57.000Z"
+  },
+  {
+    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
+    "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-07T13:49:37.000Z"
+  },
+  {
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-07T13:29:22.000Z"
+  },
+  {
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-07T10:00:00.000Z"
+  },
+  {
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "link": "https://openai.com/index/hsp-gruppe",
     "source": "OpenAI",
