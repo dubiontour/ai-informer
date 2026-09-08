@@ -1,5 +1,26 @@
 [
   {
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-07T19:24:00.000Z"
+  },
+  {
+    "title": "The complex corporate web behind a $3.2 billion AI data center",
+    "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-07T11:00:03.000Z"
+  },
+  {
+    "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+    "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-07T10:30:00.000Z"
+  },
+  {
     "title": "Supporting independent journalism in Ukraine",
     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "source": "OpenAI",
@@ -2532,40 +2553,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-08-09T09:30:00.000Z"
-  },
-  {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-08T21:24:02.000Z"
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-08T19:41:13.000Z"
-  },
-  {
-    "title": "An Amazon data center could have the worst polluting power plant in the country",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-08T17:53:34.000Z"
-  },
-  {
-    "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-    "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-08T11:05:50.000Z"
-  },
-  {
-    "title": "How to Disable Gemini in Gmail and Google Docs",
-    "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-08T10:00:00.000Z"
   }
 ]
