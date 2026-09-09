@@ -1,5 +1,75 @@
 [
   {
+    "title": "AI for science needs reasoning, not just data",
+    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-10T09:00:00.000Z"
+  },
+  {
+    "title": "These startups are chasing the next big thing in LLMs",
+    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-10T09:00:00.000Z"
+  },
+  {
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "link": "https://huggingface.co/blog/muse-glimmer",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-09T20:35:17.000Z"
+  },
+  {
+    "title": "The tragedy of the commons, AI edition",
+    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-09T19:43:52.000Z"
+  },
+  {
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-09T19:20:32.000Z"
+  },
+  {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-09T15:00:00.000Z"
+  },
+  {
+    "title": "AI detectors are creating a new era of distrust",
+    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-09T12:00:00.000Z"
+  },
+  {
+    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-09T10:30:00.000Z"
+  },
+  {
+    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+    "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-09T09:30:00.000Z"
+  },
+  {
     "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
     "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "source": "TechCrunch AI",

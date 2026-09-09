@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "items": [
     {
-      "text": "TechCrunch erklärt wichtige KI-Begriffe wie \"Opaque Recurrence\" und andere technische Fachausdrücke, die für das Verständnis von KI-Systemen essentiell sind.",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      "text": "OpenAI gerät wegen seiner angeblichen Lösung des Navier-Stokes-Problems unter Druck: Akademiker stellen infrage, wie das Unternehmen diesen mathematischen Meilenstein erreicht hat, während OpenAI behauptet, keine Nutzerdaten verwendet zu haben.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution"
     },
     {
-      "text": "Ein Brand in einem 3,2 Milliarden Dollar teuren KI-Datenzentrum in New York offenbart mangelnde Sicherheitsdokumentation und Verantwortungsprobleme bei komplexen Unternehmensstrukturen.",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+      "text": "Microsoft veröffentlicht Rekord-Patchlösung mit 972 behobenen Schwachstellen, davon 112 kritisch, um sich vor einem erwarteten Anstieg von KI-gestützten Cyberangriffen zu schützen.",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
     },
     {
-      "text": "Flüstern als Kundenfeedback-Methode könnte die Zukunft der Kundeninteraktion mit KI-Systemen prägen und neue Formen der Datenerfassung ermöglichen.",
-      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/"
+      "text": "Hacker stehlen Claude-Token von Abonnenten des KI-Chatbots, was ein neues Sicherheitsrisiko für proprietäre KI-Dienste aufzeigt.",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/"
     },
     {
-      "text": "OpenAI, WAN-IFRA und AIRPPU starten ein Programm zur Unterstützung unabhängiger ukrainischer Medien durch KI-Training und Innovationskompetenz während des Krieges.",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+      "text": "Cognition erreicht eine Bewertung von 48 Milliarden Dollar und signalisiert Investoren, dass der KI-Codierungsmarkt kein Winner-Take-All-Markt ist.",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
     },
     {
-      "text": "Seattle Times und Newsday klagen gegen OpenAI und Microsoft wegen Urheberrechtsverletzung und fordern die Vernichtung der auf ihren Werken basierenden KI-Modelle.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+      "text": "Terence Tao warnt, dass offene mathematische Probleme von KI nicht erneuerbar ausgebeutet werden, was langfristige Auswirkungen auf die mathematische Forschung hat.",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560"
     },
     {
-      "text": "Autoren protestieren gegen Pläne von Verlegern und Agenten, Teile einer Anthropic-Vergleichszahlung zu beanspruchen, die ursprünglich den Schöpfern zugedacht ist.",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+      "text": "Meta debütiert mit Muse, einem persönlichen KI-Agenten mit Fokus auf Datenschutz, um in der KI-Rennstrecke aufzuholen.",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
     },
     {
-      "text": "Travis Kalanicks Startup Atoms expandiert möglicherweise in den Robotaxi-Markt und nutzt KI-Technologie für autonome Fahrzeuge.",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/"
+      "text": "Googles aktualisiertes WeatherNext 3 Wettermodell verbessert die Vorhersagegenauigkeit durch Integration von mehr Satellitendaten.",
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/"
     }
   ]
 }

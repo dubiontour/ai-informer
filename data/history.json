@@ -1,5 +1,145 @@
 [
   {
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-09T03:10:08.000Z"
+  },
+  {
+    "title": "Why this month&#039;s Microsoft patch release is a doozy",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-08T21:11:46.000Z"
+  },
+  {
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-08T21:10:27.000Z"
+  },
+  {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-08T21:04:06.000Z"
+  },
+  {
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "link": "https://mathstodon.xyz/@tao/117237320796901560",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-08T21:00:52.000Z"
+  },
+  {
+    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-08T20:53:52.000Z"
+  },
+  {
+    "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-08T20:16:09.000Z"
+  },
+  {
+    "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+    "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-08T20:12:51.000Z"
+  },
+  {
+    "title": "Muse – Meta’s personal AI agent",
+    "link": "https://ai.meta.com/muse/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-08T19:25:00.000Z"
+  },
+  {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-08T19:00:00.000Z"
+  },
+  {
+    "title": "Meta bets on AI agent Muse to catch up in AI race",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-08T19:00:00.000Z"
+  },
+  {
+    "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+    "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-08T18:43:09.000Z"
+  },
+  {
+    "title": "Update to Google’s AI weather model improves forecast accuracy",
+    "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-08T18:00:56.000Z"
+  },
+  {
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "link": "https://openai.com/index/codex-quantum-computing-experiments",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-08T17:00:00.000Z"
+  },
+  {
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-08T16:42:05.000Z"
+  },
+  {
+    "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-08T14:23:07.000Z"
+  },
+  {
+    "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+    "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-08T14:00:15.000Z"
+  },
+  {
+    "title": "The Work Now Within Reach",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-08T13:00:00.000Z"
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.5",
+    "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-08T11:30:00.000Z"
+  },
+  {
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "link": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-08T10:34:00.000Z"
+  },
+  {
     "title": "Opaque recurrence, and other AI terms that you should probably know",
     "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch AI",
@@ -2483,75 +2623,5 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-08-10T10:05:36.000Z"
-  },
-  {
-    "title": "AI for science needs reasoning, not just data",
-    "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-10T09:00:00.000Z"
-  },
-  {
-    "title": "These startups are chasing the next big thing in LLMs",
-    "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-10T09:00:00.000Z"
-  },
-  {
-    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "link": "https://huggingface.co/blog/muse-glimmer",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-10T00:00:00.000Z"
-  },
-  {
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-09T20:35:17.000Z"
-  },
-  {
-    "title": "The tragedy of the commons, AI edition",
-    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-09T19:43:52.000Z"
-  },
-  {
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-09T19:20:32.000Z"
-  },
-  {
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-09T15:00:00.000Z"
-  },
-  {
-    "title": "AI detectors are creating a new era of distrust",
-    "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-09T12:00:00.000Z"
-  },
-  {
-    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
-    "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-09T10:30:00.000Z"
-  },
-  {
-    "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-    "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-09T09:30:00.000Z"
   }
 ]
