@@ -1,5 +1,117 @@
 [
   {
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-10T00:00:37.000Z"
+  },
+  {
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-09T22:25:22.000Z"
+  },
+  {
+    "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+    "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-09T22:11:55.000Z"
+  },
+  {
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-09T21:43:34.000Z"
+  },
+  {
+    "title": "Suno releases its first AI music model made with record industry help",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-09T21:42:19.000Z"
+  },
+  {
+    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-09T21:16:34.000Z"
+  },
+  {
+    "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+    "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-09T21:15:27.000Z"
+  },
+  {
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-09T20:44:43.000Z"
+  },
+  {
+    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+    "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-09T20:06:28.000Z"
+  },
+  {
+    "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+    "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-09T18:30:00.000Z"
+  },
+  {
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-09T17:00:00.000Z"
+  },
+  {
+    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+    "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-09T16:59:40.000Z"
+  },
+  {
+    "title": "Google&#039;s AI genome system evaluates every possible one-base change",
+    "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-09T16:34:18.000Z"
+  },
+  {
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-09T15:36:24.000Z"
+  },
+  {
+    "title": "The AI policy window is open. We need to act.",
+    "link": "https://openai.com/index/ai-policy-window",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-09T13:00:00.000Z"
+  },
+  {
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-09T11:00:00.000Z"
+  },
+  {
     "title": "What OpenAI’s latest controversy tells us about the future of math",
     "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
     "source": "MIT Tech Review",
@@ -2504,124 +2616,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-08-11T10:00:00.000Z"
-  },
-  {
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-11T00:03:18.000Z"
-  },
-  {
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-10T23:56:15.000Z"
-  },
-  {
-    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-    "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-10T22:13:03.000Z"
-  },
-  {
-    "title": "Mark Zuckerberg&#8217;s AI manifesto is exactly why people don&#8217;t like AI",
-    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-10T20:53:02.000Z"
-  },
-  {
-    "title": "Amazon backs power plant that may become top source of US climate pollution",
-    "link": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-10T20:45:52.000Z"
-  },
-  {
-    "title": "AI professors are negotiating the new realities of academic research",
-    "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-10T20:00:00.000Z"
-  },
-  {
-    "title": "What building an AI-native finance function taught me",
-    "link": "https://openai.com/index/building-an-ai-native-finance-function",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-10T17:00:00.000Z"
-  },
-  {
-    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-10T16:25:36.000Z"
-  },
-  {
-    "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-    "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-10T15:19:05.000Z"
-  },
-  {
-    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-10T14:00:00.000Z"
-  },
-  {
-    "title": "What happens to Bose when headphones become AI?",
-    "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-10T14:00:00.000Z"
-  },
-  {
-    "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "link": "https://openai.com/index/model-ml",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-10T12:00:00.000Z"
-  },
-  {
-    "title": "The AI Slop Backlash Is Actually Having an Impact",
-    "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-10T11:30:00.000Z"
-  },
-  {
-    "title": "Peer review is overwhelmed—can it survive in the AI era?",
-    "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-10T11:00:47.000Z"
-  },
-  {
-    "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-    "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-10T11:00:00.000Z"
-  },
-  {
-    "title": "The Rise of the 1 am Job Interview",
-    "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-10T10:30:00.000Z"
-  },
-  {
-    "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-10T10:05:36.000Z"
   }
 ]
