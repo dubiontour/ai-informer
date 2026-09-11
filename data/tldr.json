@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "items": [
     {
-      "text": "Listen Labs bricht $1,5B-Finanzierungsrunde ab und konzentriert sich auf Gespräche mit Salesforce, was auf mögliche Übernahme hindeutet.",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/"
+      "text": "Viele KI-Forscher warnen vor existenziellen Risiken durch künstliche Intelligenz und befürchten, dass fortgeschrittene KI-Systeme eine Bedrohung für die Menschheit darstellen könnten.",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/"
     },
     {
-      "text": "OpenAI ernennt prominenten KI-Kritiker Paul Christiano in sein Foundation Board und Safety & Security Committee.",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+      "text": "OpenAI untersucht rechtliche Fragen zur Zulässigkeit einer möglichen Verlangsamung der KI-Industrie und deren Auswirkungen auf den Wettbewerb.",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/"
     },
     {
-      "text": "Anthropic-Forscher Jacob Coxon kündigt und warnt, dass selbstverbessernde KI die Menschheit \"bis zum Ende des Jahrzehnts\" gefährden könnte.",
-      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/"
+      "text": "Nvidia-CEO Jensen Huang prognostiziert ein Wachstum von 70% im kommenden Jahr, getrieben durch die anhaltend hohe Nachfrage nach KI-Hardware.",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
     },
     {
-      "text": "Massachusetts erlässt neue Reinenergie-Vorschriften für Datenzentren, um den Stromverbrauch von KI-Infrastruktur zu regulieren.",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/"
+      "text": "OpenAI stoppt neue Pro-Abonnements aufgrund der enormen Nachfrage nach dem neuen Modell Astra, das die Systemkapazitäten stark belastet.",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
     },
     {
-      "text": "Suno veröffentlicht sein erstes KI-Musikmodell v6 in Zusammenarbeit mit der Musikindustrie, kann aber natürliche Unvollkommenheiten noch nicht abbilden.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help"
+      "text": "Slack führt neue Funktionen ein, mit denen Nutzer direkt in Chats interaktive Diagramme und Berichte durch KI-gestützte Beschreibungen erstellen können.",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
     },
     {
-      "text": "NSA, CISA und FBI bezichtigen sechs chinesische KI-Firmen des systematischen Kopierens von US-Frontier-Modellen seit Ende 2024.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
+      "text": "Universal Music Group startet eine KI-Musikplattform in Partnerschaft mit ElevenLabs, die Nutzern Remixes und Mashups ermöglicht.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
     },
     {
-      "text": "Google präsentiert AlphaGenome Atlas, ein System das alle möglichen Einzelbasen-Veränderungen des menschlichen Genoms analysiert.",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/"
+      "text": "Forscher verwenden ChatGPT und Codex, um neue antimikrobielle Moleküle zu entdecken und damit die Bekämpfung von antibiotikaresistenten Infektionen zu beschleunigen.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
     }
   ]
 }

@@ -1,10 +1,115 @@
 [
   {
+    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-11T09:00:00.000Z"
+  },
+  {
+    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-10T23:28:42.000Z"
+  },
+  {
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-10T21:51:59.000Z"
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-10T21:35:00.000Z"
+  },
+  {
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-10T21:25:21.000Z"
+  },
+  {
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-10T20:59:51.000Z"
+  },
+  {
+    "title": "Is AI Actually Going to Kill Us All?",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-10T20:30:37.000Z"
+  },
+  {
+    "title": "Schools are catching on to Big Tech’s playbook",
+    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-10T19:44:20.000Z"
+  },
+  {
+    "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+    "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-10T18:14:14.000Z"
+  },
+  {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-10T16:00:00.000Z"
+  },
+  {
+    "title": "Universal Music is launching an AI music platform with ElevenLabs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-10T15:38:19.000Z"
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "link": "https://openai.com/index/put-data-to-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-10T15:00:00.000Z"
+  },
+  {
+    "title": "Powering AI is an architecture problem",
+    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-10T11:00:00.000Z"
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-10T07:00:00.000Z"
+  },
+  {
     "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
     "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-09-10T00:00:37.000Z"
+  },
+  {
+    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "link": "https://huggingface.co/blog/gradio-workflow-1111",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-10T00:00:00.000Z"
   },
   {
     "title": "OpenAI adds a prominent AI doomer to its board of directors",
@@ -2504,117 +2609,5 @@
     "source": "Hacker News AI",
     "category": "Community",
     "pubDate": "2026-08-12T13:20:05.000Z"
-  },
-  {
-    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-    "link": "https://discoveredmaterials.com/research/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-12T07:51:20.000Z"
-  },
-  {
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-12T06:00:00.000Z"
-  },
-  {
-    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
-    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-12T00:39:26.000Z"
-  },
-  {
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-12T00:00:00.000Z"
-  },
-  {
-    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-    "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-11T21:39:11.000Z"
-  },
-  {
-    "title": "Gemini becomes Google&#039;s fastest-growing product ever as it hits 1B users",
-    "link": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-11T19:48:12.000Z"
-  },
-  {
-    "title": "ChatGPT and Gemini both just passed 1 billion users",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-11T19:41:42.000Z"
-  },
-  {
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-11T19:15:35.000Z"
-  },
-  {
-    "title": "Google’s Gemini app surges to 1 billion users",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-11T18:49:12.000Z"
-  },
-  {
-    "title": "Another OpenAI executive takes off",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-11T17:50:01.000Z"
-  },
-  {
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-11T13:37:10.000Z"
-  },
-  {
-    "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-    "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-11T12:37:12.000Z"
-  },
-  {
-    "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-    "link": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-11T11:00:00.000Z"
-  },
-  {
-    "title": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-11T10:00:00.000Z"
-  },
-  {
-    "title": "Daybreak models are now available on AWS",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-11T10:00:00.000Z"
-  },
-  {
-    "title": "AI Is Dead. Organoids Are Alive",
-    "link": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-11T10:00:00.000Z"
   }
 ]
