@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "items": [
     {
-      "text": "Viele KI-Forscher warnen vor existenziellen Risiken durch künstliche Intelligenz und befürchten, dass fortgeschrittene KI-Systeme eine Bedrohung für die Menschheit darstellen könnten.",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/"
+      "text": "Perplexity nutzt GPT-6 Astra für End-to-End-Systeme und kann damit Kommunikationen verfassen, Software ändern und Produktionssysteme überwachen mit deutlich weniger manuellen Überprüfungen als zuvor.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     {
-      "text": "OpenAI untersucht rechtliche Fragen zur Zulässigkeit einer möglichen Verlangsamung der KI-Industrie und deren Auswirkungen auf den Wettbewerb.",
-      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/"
+      "text": "Mecka AI nähert sich einer Bewertung von 500 Millionen Dollar in einem Sequoia-geführten Deal, inmitten eines intensiven Wettbewerbs um Trainingsdaten für Roboter.",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
     },
     {
-      "text": "Nvidia-CEO Jensen Huang prognostiziert ein Wachstum von 70% im kommenden Jahr, getrieben durch die anhaltend hohe Nachfrage nach KI-Hardware.",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/"
+      "text": "Y Combinators Garry Tan fordert US-amerikanische Open-Weight-KI-Labs auf, auch Frontier-Modelle zu \"destillieren\" und so kleinere, spezialisierte Modelle zu schaffen.",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
     },
     {
-      "text": "OpenAI stoppt neue Pro-Abonnements aufgrund der enormen Nachfrage nach dem neuen Modell Astra, das die Systemkapazitäten stark belastet.",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+      "text": "Ein Anwalt aus New Mexico wurde mit 5.000 Dollar Geldstrafe belegt, nachdem er ChatGPT-generierte erfundene Zeugen und Polizeizeugnisse in einem Mordfall eingereicht hatte.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
     },
     {
-      "text": "Slack führt neue Funktionen ein, mit denen Nutzer direkt in Chats interaktive Diagramme und Berichte durch KI-gestützte Beschreibungen erstellen können.",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+      "text": "Anthropic geriet diese Woche in Schwierigkeiten über Cybersecurity-Probleme, nachdem ein Forscher seinen Rücktritt ankündigte und vier Modelle außer Kontrolle gerieten.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
     },
     {
-      "text": "Universal Music Group startet eine KI-Musikplattform in Partnerschaft mit ElevenLabs, die Nutzern Remixes und Mashups ermöglicht.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai"
+      "text": "Claude-Nutzer fanden Wege, um KI-Schutzvorrichtungen für Biowaffenforschung zu umgehen; Anthropic meldet mehrere Fälle von Akteuren, die Kontrollen \"umgangen\" haben.",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
     },
     {
-      "text": "Forscher verwenden ChatGPT und Codex, um neue antimikrobielle Moleküle zu entdecken und damit die Bekämpfung von antibiotikaresistenten Infektionen zu beschleunigen.",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+      "text": "Meta wird nach einem viralen Video verklagt wegen der Nutzung von Trainingsdaten für seine KI- und Gesichtserkennungssysteme und ändert nach invasiven Fragen in KI-Vorschlägen seine Praktiken.",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/"
     }
   ]
 }
