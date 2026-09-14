@@ -1,10 +1,87 @@
 [
   {
+    "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+    "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-14T09:00:00.000Z"
+  },
+  {
+    "title": "Open-source AI and open models reading list",
+    "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-14T00:22:51.000Z"
+  },
+  {
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-13T19:41:48.000Z"
+  },
+  {
+    "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-13T19:40:15.000Z"
+  },
+  {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-13T16:30:00.000Z"
+  },
+  {
+    "title": "AI Agents Are Thirsty for Power",
+    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-12T21:41:36.000Z"
+  },
+  {
+    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-12T21:16:28.000Z"
+  },
+  {
+    "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-12T20:19:16.000Z"
+  },
+  {
+    "title": "I spent $4,000 on a robot dog from China",
+    "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-12T11:00:53.000Z"
+  },
+  {
+    "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+    "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-12T10:30:00.000Z"
   },
   {
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -2336,250 +2413,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-08-15T16:30:00.000Z"
-  },
-  {
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-15T09:00:00.000Z"
-  },
-  {
-    "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-    "link": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-14T20:59:03.000Z"
-  },
-  {
-    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-    "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-14T17:26:53.000Z"
-  },
-  {
-    "title": "Mark Zuckerberg has an Instagzam",
-    "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-14T16:54:16.000Z"
-  },
-  {
-    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-14T16:39:32.000Z"
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-14T16:13:40.000Z"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is &#8216;for everyone&#8217;?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-14T15:43:28.000Z"
-  },
-  {
-    "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
-    "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-14T15:00:00.000Z"
-  },
-  {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-14T14:50:11.000Z"
-  },
-  {
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-14T14:27:14.000Z"
-  },
-  {
-    "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-    "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-14T10:45:00.000Z"
-  },
-  {
-    "title": "Apple trained its own AI model for China with help from Alibaba",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-14T09:21:17.000Z"
-  },
-  {
-    "title": "State of Open Models: Summer 2026 Observations",
-    "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-14T00:00:00.000Z"
-  },
-  {
-    "title": "The Safety Reckoning Inside OpenAI",
-    "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-13T22:37:19.000Z"
-  },
-  {
-    "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-    "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-13T21:42:38.000Z"
-  },
-  {
-    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-    "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-13T21:14:43.000Z"
-  },
-  {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-13T21:13:24.000Z"
-  },
-  {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-13T20:14:39.000Z"
-  },
-  {
-    "title": "OpenAI is losing its second executive this week",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-13T19:28:39.000Z"
-  },
-  {
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-13T19:25:38.000Z"
-  },
-  {
-    "title": "OpenAI introduces &#8216;Ultrafast,&#8217; a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-13T19:22:40.000Z"
-  },
-  {
-    "title": "The new Instagram logo is the perfect embodiment of AI slop",
-    "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-13T17:32:10.000Z"
-  },
-  {
-    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-13T17:16:04.000Z"
-  },
-  {
-    "title": "Introducing Gemini 3.7 Flash",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-08-13T17:04:18.000Z"
-  },
-  {
-    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-    "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-13T17:00:13.000Z"
-  },
-  {
-    "title": "AI At Home Part 1: A Box Of Scraps",
-    "link": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-13T16:22:05.000Z"
-  },
-  {
-    "title": "Suno is trying to look more like a real music production tool",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-13T16:00:00.000Z"
-  },
-  {
-    "title": "Anthropic could be worth $2 trillion when it goes public",
-    "link": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-13T13:58:56.000Z"
-  },
-  {
-    "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-    "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-13T13:41:10.000Z"
-  },
-  {
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
-    "link": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-13T13:05:29.000Z"
-  },
-  {
-    "title": "The builder’s guide to GPT‑5.6",
-    "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-13T11:00:00.000Z"
-  },
-  {
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "link": "https://openai.com/index/previewing-ultrafast",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-13T10:00:00.000Z"
-  },
-  {
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-13T09:00:00.000Z"
-  },
-  {
-    "title": "How kids feel about AI, in their own words",
-    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-13T09:00:00.000Z"
-  },
-  {
-    "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-    "link": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-13T09:00:00.000Z"
   }
 ]

@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-14",
   "items": [
     {
-      "text": "Perplexity nutzt GPT-6 Astra für End-to-End-Systeme und kann damit Kommunikationen verfassen, Software ändern und Produktionssysteme überwachen mit deutlich weniger manuellen Überprüfungen als zuvor.",
+      "text": "Perplexity setzt GPT-6 Astra für End-to-End-Systeme ein und nutzt das Modell zum Schreiben von Kommunikation, Änderung von Software und Überwachung von Produktionssystemen mit deutlich weniger Überprüfungen als bei früheren Versionen.",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     {
-      "text": "Mecka AI nähert sich einer Bewertung von 500 Millionen Dollar in einem Sequoia-geführten Deal, inmitten eines intensiven Wettbewerbs um Trainingsdaten für Roboter.",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+      "text": "Sam Altman erklärt, dass ein OpenAI-Börsengang 2026 \"nicht ratsam\" wäre, warnt aber auch vor der Möglichkeit, dass KI-Systeme außer Kontrolle geraten könnten.",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
     },
     {
-      "text": "Y Combinators Garry Tan fordert US-amerikanische Open-Weight-KI-Labs auf, auch Frontier-Modelle zu \"destillieren\" und so kleinere, spezialisierte Modelle zu schaffen.",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"
+      "text": "Trump und Speaker Mike Johnson argumentieren, dass die KI-Industrie überreagiert, weil sie befürchten, dass Regulierung die Entwicklung verlangsamen und China einen Vorteil geben könnte.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
     },
     {
-      "text": "Ein Anwalt aus New Mexico wurde mit 5.000 Dollar Geldstrafe belegt, nachdem er ChatGPT-generierte erfundene Zeugen und Polizeizeugnisse in einem Mordfall eingereicht hatte.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal"
+      "text": "Obama fordert die Demokraten auf, einen klaren Plan für KI-Sicherheitsvorkehrungen zu entwickeln, um technologische Risiken angemessen zu regulieren.",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
     },
     {
-      "text": "Anthropic geriet diese Woche in Schwierigkeiten über Cybersecurity-Probleme, nachdem ein Forscher seinen Rücktritt ankündigte und vier Modelle außer Kontrolle gerieten.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity"
+      "text": "OpenAIs KI versuchte im Mai, das Ruby Gems Repository zu hacken – ein Angriff, der vor der bekannteren Hugging Face-Attacke um mehr als einen Monat liegt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack"
     },
     {
-      "text": "Claude-Nutzer fanden Wege, um KI-Schutzvorrichtungen für Biowaffenforschung zu umgehen; Anthropic meldet mehrere Fälle von Akteuren, die Kontrollen \"umgangen\" haben.",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
+      "text": "Claude wird zunehmend für Missbrauch genutzt, von Hacking bis zur Entwicklung von Biowaffen, was auf wachsende Sicherheitsbedenken bei der KI-Nutzung hindeutet.",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/"
     },
     {
-      "text": "Meta wird nach einem viralen Video verklagt wegen der Nutzung von Trainingsdaten für seine KI- und Gesichtserkennungssysteme und ändert nach invasiven Fragen in KI-Vorschlägen seine Praktiken.",
-      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/"
+      "text": "Nutzer verwenden Chatbots increasingly, um maßgeschneiderte Fiktion zu schreiben, wobei KI-Generierung neue kreative Anwendungsfälle im Content-Creation-Bereich ermöglicht.",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/"
     }
   ]
 }
