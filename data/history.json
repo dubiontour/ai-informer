@@ -1,5 +1,110 @@
 [
   {
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-15T01:50:48.000Z"
+  },
+  {
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-14T22:59:41.000Z"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-14T21:51:02.000Z"
+  },
+  {
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-14T21:21:42.000Z"
+  },
+  {
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-14T21:04:32.000Z"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-14T20:44:14.000Z"
+  },
+  {
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-14T20:03:37.000Z"
+  },
+  {
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-14T19:45:13.000Z"
+  },
+  {
+    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+    "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-14T19:38:46.000Z"
+  },
+  {
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-14T17:54:22.000Z"
+  },
+  {
+    "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-14T16:50:00.000Z"
+  },
+  {
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-14T16:00:00.000Z"
+  },
+  {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "link": "https://openai.com/index/fyxer",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-14T12:00:00.000Z"
+  },
+  {
+    "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-14T11:00:00.000Z"
+  },
+  {
+    "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-14T11:00:00.000Z"
+  },
+  {
     "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
     "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
     "source": "Wired AI",
@@ -2371,47 +2476,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-08-16T12:00:00.000Z"
-  },
-  {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-15T21:29:19.000Z"
-  },
-  {
-    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-    "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-15T20:45:00.000Z"
-  },
-  {
-    "title": "AI in drug discovery – what it is, where we stand and the path forward",
-    "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-15T19:12:53.000Z"
-  },
-  {
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-15T18:58:39.000Z"
-  },
-  {
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-15T18:13:02.000Z"
-  },
-  {
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-15T16:30:00.000Z"
   }
 ]
