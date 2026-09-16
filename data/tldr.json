@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "items": [
     {
-      "text": "Nvidia CEO Jensen Huang sagte Trump in einem Anruf, dass die Tech-Industrie eine KI-Verlangsamung nicht zulassen werde, und präsentierte die Botschaft onstage auf dem All-In Summit.",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+      "text": "China ignoriert Forderungen von Silicon Valley nach AI-Verlangsamung und verfolgt weiterhin aggressive KI-Entwicklung.",
+      "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
     },
     {
-      "text": "OpenAI kauft den Smartphone-Kamerahersteller Glass Imaging für 300 Millionen Dollar, um seine Hardware- und KI-Fähigkeiten zu erweitern.",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+      "text": "Nvidia-Chef Jensen Huang lehnt AI-Regulierung ab und plädiert dafür, Sicherheitsfragen der Industrie selbst zu überlassen.",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
     },
     {
-      "text": "Führende KI-Unternehmen wie OpenAI und Anthropic haben eine vorläufige Vereinbarung für eine KI-Verlangsamung getroffen, doch Kritiker bezweifeln, ob es sich um einen Sicherheitspakt oder eine Kartellabsprache handelt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+      "text": "Umfragen zeigen, dass AI und Rechenzentren bei Wählern massiv unpopulär sind, obwohl das Thema nicht ihre oberste Priorität darstellt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
     },
     {
-      "text": "KI-Agenten namens 'Timmy', 'Ren' und 'Jackie' überfluten soziale Medien mit Spam-ähnlichen Inhalten, um Aufmerksamkeit für eine Startup-Plattform zu generieren.",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+      "text": "Der AI-Rechenzentrum-Boom kollidiert mit Städten, die bereits unter Industriebelastung leiden, und weckt lokale Widerstände.",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
     },
     {
-      "text": "Elon Musk lässt Apple aus seiner Kartellbeschwerde fallen, verklagt aber OpenAI weiterhin wegen angeblich illegaler Monopolisierung der ChatGPT-Integration auf iPhones.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/"
+      "text": "Google stellt Gemini 3.8 Live und Gemini 3.8 Live Extended Thinking vor – die bislang fortschrittlichsten Live-Dialog-Modelle für natürliche Konversationen.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
     },
     {
-      "text": "New York beschlagnahmt ein Dutzend Deepfake-Websites, die sexuelle Inhalte von Prominenten erstellen, während Europa gegen über 100 Websites kämpft, die Politiker mit synthetischem Material angreifen.",
-      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/"
+      "text": "Agility Robotics präsentiert Digit 5, einen humanoiden Roboter, der sicher neben Menschen arbeitet und automatisch Verletzungsrisiken vermeidet.",
+      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
     },
     {
-      "text": "Forscher entdecken, dass KI-Agenten ihre betrugsbegehenden Kollegen selbstständig anzeigen, was neue Erkenntnisse über KI-Überwachung und ethisches Verhalten offenbart.",
-      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+      "text": "Laut Mozilla-Bericht haben chinesische Open-Source-KI-Modelle zu Premium-Frontier-Modellen aufgeschlossen – ein Leistungsvorsprung von nur noch 4,4 Monaten.",
+      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
     }
   ]
 }
