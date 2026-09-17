@@ -1,5 +1,117 @@
 [
   {
+    "title": "AI Safety Is Mostly a Sex Cult",
+    "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-17T08:36:37.000Z"
+  },
+  {
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-17T05:00:00.000Z"
+  },
+  {
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-17T03:30:00.000Z"
+  },
+  {
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-17T00:58:49.000Z"
+  },
+  {
+    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+    "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-16T23:40:00.000Z"
+  },
+  {
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "link": "https://openspec.dev/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-16T23:06:39.000Z"
+  },
+  {
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-16T22:07:24.000Z"
+  },
+  {
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-16T22:02:46.000Z"
+  },
+  {
+    "title": "Washington Won’t Be Regulating AI Anytime Soon",
+    "link": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-16T21:00:00.000Z"
+  },
+  {
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-16T20:59:13.000Z"
+  },
+  {
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-16T20:40:46.000Z"
+  },
+  {
+    "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+    "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-16T19:00:00.000Z"
+  },
+  {
+    "title": "Helping older adults use AI in everyday life",
+    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-16T16:00:00.000Z"
+  },
+  {
+    "title": "Reimagining advertising with AI",
+    "link": "https://openai.com/index/reimagining-advertising-with-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-16T13:00:00.000Z"
+  },
+  {
+    "title": "Building the materials foundation for AI",
+    "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-16T12:47:34.000Z"
+  },
+  {
+    "title": "How to connect AI usage to business value",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-16T12:00:00.000Z"
+  },
+  {
     "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
     "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
     "source": "Wired AI",
@@ -2420,89 +2532,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-08-18T10:06:43.000Z"
-  },
-  {
-    "title": "AI’s recursive self-improvement might not come so quickly after all",
-    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-18T09:00:00.000Z"
-  },
-  {
-    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
-    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-18T09:00:00.000Z"
-  },
-  {
-    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-18T00:00:00.000Z"
-  },
-  {
-    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-17T23:56:26.000Z"
-  },
-  {
-    "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
-    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-17T21:27:05.000Z"
-  },
-  {
-    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-    "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-17T21:18:49.000Z"
-  },
-  {
-    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-17T19:46:21.000Z"
-  },
-  {
-    "title": "What Flock’s defenders are missing",
-    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-17T19:16:09.000Z"
-  },
-  {
-    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-17T18:13:47.000Z"
-  },
-  {
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-17T16:38:44.000Z"
-  },
-  {
-    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-17T11:00:00.000Z"
-  },
-  {
-    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-17T10:57:13.000Z"
   }
 ]

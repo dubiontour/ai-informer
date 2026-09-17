@@ -1,5 +1,89 @@
 [
   {
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-18T09:00:00.000Z"
+  },
+  {
+    "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
+    "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-18T09:00:00.000Z"
+  },
+  {
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-17T23:56:26.000Z"
+  },
+  {
+    "title": "AI automation startup Relay shuts down, staff joins Google&#8217;s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-17T21:27:05.000Z"
+  },
+  {
+    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+    "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-17T21:18:49.000Z"
+  },
+  {
+    "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-17T19:46:21.000Z"
+  },
+  {
+    "title": "What Flock’s defenders are missing",
+    "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-17T19:16:09.000Z"
+  },
+  {
+    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+    "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-17T18:13:47.000Z"
+  },
+  {
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-17T16:38:44.000Z"
+  },
+  {
+    "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+    "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-17T11:00:00.000Z"
+  },
+  {
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-17T10:57:13.000Z"
+  },
+  {
     "title": "What happens when a kid’s robot best friend dies?",
     "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
     "source": "MIT Tech Review",

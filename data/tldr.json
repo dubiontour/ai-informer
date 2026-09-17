@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "items": [
     {
-      "text": "China ignoriert Forderungen von Silicon Valley nach AI-Verlangsamung und verfolgt weiterhin aggressive KI-Entwicklung.",
-      "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
+      "text": "Treble, ein isländisches Startup, sammelt 18 Millionen Dollar für seine Voice-Simulation-Plattform ein. Die Finanzierung unterstreicht das wachsende Interesse an KI-gestützten Sprachcloning-Technologien.",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
     },
     {
-      "text": "Nvidia-Chef Jensen Huang lehnt AI-Regulierung ab und plädiert dafür, Sicherheitsfragen der Industrie selbst zu überlassen.",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+      "text": "AI-Agenten könnten bald als vollwertige Teamkollegen in Startups arbeiten. Gusto, Insight Partners und Leland diskutieren auf der TechCrunch Disrupt 2026, wie KI-Agenten die Arbeitswelt verändern.",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
     },
     {
-      "text": "Umfragen zeigen, dass AI und Rechenzentren bei Wählern massiv unpopulär sind, obwohl das Thema nicht ihre oberste Priorität darstellt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+      "text": "Snap führt 'Specs Intelligence' ein, einen KI-Assistenten für seine Smart Glasses. Das Tool ist als vorschaubare iOS-Version verfügbar und kommt bald auch auf dem Mac.",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
     },
     {
-      "text": "Der AI-Rechenzentrum-Boom kollidiert mit Städten, die bereits unter Industriebelastung leiden, und weckt lokale Widerstände.",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
+      "text": "OpenAI schafft ein neues Framework zur Offenlegung von schlechtem KI-Verhalten. Die Initiative zielt darauf ab, Transparenz bei KI-Sicherheitsproblemen und Modellfehlverhalten zu fördern.",
+      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
     },
     {
-      "text": "Google stellt Gemini 3.8 Live und Gemini 3.8 Live Extended Thinking vor – die bislang fortschrittlichsten Live-Dialog-Modelle für natürliche Konversationen.",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      "text": "Apple entwickelt Berichten zufolge einen Server mit M-series Ultra Chips für KI-Anwendungen, mit geplantem Release 2029. Dies wäre Apples erstes Enterprise-Server-Angebot seit zwei Jahrzehnten.",
+      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
     },
     {
-      "text": "Agility Robotics präsentiert Digit 5, einen humanoiden Roboter, der sicher neben Menschen arbeitet und automatisch Verletzungsrisiken vermeidet.",
-      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/"
+      "text": "KI-Rechenzentren erzeugen deutlich mehr Elektroschrott als bisher angenommen. Ein neuer Bericht warnt vor dem wachsenden Umweltproblem durch die expandierende AI-Infrastruktur.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
     },
     {
-      "text": "Laut Mozilla-Bericht haben chinesische Open-Source-KI-Modelle zu Premium-Frontier-Modellen aufgeschlossen – ein Leistungsvorsprung von nur noch 4,4 Monaten.",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/"
+      "text": "OpenAI startet mit OATS ein Programm zur KI-Schulung für ältere Erwachsene. Kostenlose ChatGPT-Workshops werden in 10 US-Städten für 1.000 Senioren angeboten.",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
     }
   ]
 }
