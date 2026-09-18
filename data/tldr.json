@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "items": [
     {
-      "text": "Treble, ein isländisches Startup, sammelt 18 Millionen Dollar für seine Voice-Simulation-Plattform ein. Die Finanzierung unterstreicht das wachsende Interesse an KI-gestützten Sprachcloning-Technologien.",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/"
+      "text": "Napster kehrt zurück und will Lehrer digital klonen – das wiederbelebte Musik-Unternehmen entwickelt KI-Technologie zur Erstellung digitaler Lehrerabbilder für Bildungszwecke.",
+      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/"
     },
     {
-      "text": "AI-Agenten könnten bald als vollwertige Teamkollegen in Startups arbeiten. Gusto, Insight Partners und Leland diskutieren auf der TechCrunch Disrupt 2026, wie KI-Agenten die Arbeitswelt verändern.",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/"
+      "text": "Crusoe sammelt 3,9 Milliarden Dollar für den Bau von massiven Rechenzentren und modularen KI-Fabriken zur Skalierung der Infrastruktur.",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
     },
     {
-      "text": "Snap führt 'Specs Intelligence' ein, einen KI-Assistenten für seine Smart Glasses. Das Tool ist als vorschaubare iOS-Version verfügbar und kommt bald auch auf dem Mac.",
-      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
+      "text": "Google DeepMind gründet Institut zur Verbreiterung der AGI-Debatte und zur Förderung eines breiter gefächerten Diskurses über künstliche allgemeine Intelligenz.",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
     },
     {
-      "text": "OpenAI schafft ein neues Framework zur Offenlegung von schlechtem KI-Verhalten. Die Initiative zielt darauf ab, Transparenz bei KI-Sicherheitsproblemen und Modellfehlverhalten zu fördern.",
-      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
+      "text": "PrismML stellt winziges Large Language Model vor, das die Art und Weise, wie Menschen KI nutzen, fundamental verändern könnte.",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
     },
     {
-      "text": "Apple entwickelt Berichten zufolge einen Server mit M-series Ultra Chips für KI-Anwendungen, mit geplantem Release 2029. Dies wäre Apples erstes Enterprise-Server-Angebot seit zwei Jahrzehnten.",
-      "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+      "text": "NATO-gestützte Startup Scaleout Systems setzt kleine KI-Modelle auf Drohnen ein, um automatisch Ziele auf dem Schlachtfeld zu identifizieren und anzugreifen.",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
     },
     {
-      "text": "KI-Rechenzentren erzeugen deutlich mehr Elektroschrott als bisher angenommen. Ein neuer Bericht warnt vor dem wachsenden Umweltproblem durch die expandierende AI-Infrastruktur.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban"
+      "text": "Google führt experimentelle \"CC\" KI-Agent für Familien ein, der bis zu sechs Benutzer unterstützt und gemeinsame Datennutzung zur Planung und Aufgabenverwaltung ermöglicht.",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
     },
     {
-      "text": "OpenAI startet mit OATS ein Programm zur KI-Schulung für ältere Erwachsene. Kostenlose ChatGPT-Workshops werden in 10 US-Städten für 1.000 Senioren angeboten.",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+      "text": "Anthropic stellt aktualisierte Projects-Funktion in Claude Code vor, die mehrere KI-Agenten gleichzeitig mit gemeinsamer Speichernutzung in der Cloud verwaltet.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
     }
   ]
 }
