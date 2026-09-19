@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "items": [
     {
-      "text": "Napster kehrt zurück und will Lehrer digital klonen – das wiederbelebte Musik-Unternehmen entwickelt KI-Technologie zur Erstellung digitaler Lehrerabbilder für Bildungszwecke.",
-      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/"
+      "text": "OpenAI und Microsoft kannten die 'Doom Loop' für das Web und setzten sie trotzdem um. Laut Berichten wussten die Unternehmen, dass ihre Praktiken zu einer Abwärtsspirale für Webinhalte führen würden.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
     },
     {
-      "text": "Crusoe sammelt 3,9 Milliarden Dollar für den Bau von massiven Rechenzentren und modularen KI-Fabriken zur Skalierung der Infrastruktur.",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+      "text": "Eine KI-Halluzination hätte fast zu einem US-Militärangriff auf ein chinesisches Schiff geführt. Ein fehlerhafter AI-generierter Geheimdienstbericht suggerierte fälschlicherweise, dass das Schiff Kernwaffen-Komponenten transportierte.",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
     },
     {
-      "text": "Google DeepMind gründet Institut zur Verbreiterung der AGI-Debatte und zur Förderung eines breiter gefächerten Diskurses über künstliche allgemeine Intelligenz.",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/"
+      "text": "Die FAA investiert 875 Millionen Dollar in ein KI-Tool zur Verwaltung von Luftverkehrsstaus. Das SMART-System soll zunächst im Washington-DC-Bereich eingesetzt werden, bevor es landesweit ausgerollt wird.",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
     },
     {
-      "text": "PrismML stellt winziges Large Language Model vor, das die Art und Weise, wie Menschen KI nutzen, fundamental verändern könnte.",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/"
+      "text": "Kaliforniens Gouverneur Gavin Newsom fordert einen KI-Kill-Switch. Er unterzeichnete eine Executive Order, um Experten zu beauftragen, neue KI-Sicherheitsrichtlinien zu empfehlen.",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
     },
     {
-      "text": "NATO-gestützte Startup Scaleout Systems setzt kleine KI-Modelle auf Drohnen ein, um automatisch Ziele auf dem Schlachtfeld zu identifizieren und anzugreifen.",
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
+      "text": "Virginias Gouverneur schafft eine KI-Task-Force und beschränkt Datenzentren. Eine Executive Order hebt NDAs für Datenzentrum-Entwicklung auf und zielt auf transparentere Regulierung ab.",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
     },
     {
-      "text": "Google führt experimentelle \"CC\" KI-Agent für Familien ein, der bis zu sechs Benutzer unterstützt und gemeinsame Datennutzung zur Planung und Aufgabenverwaltung ermöglicht.",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
+      "text": "Ein US-Regierungswebsite nutzte ein chinesisches KI-Modell, das das FBI als 'bösartig' bezeichnete. Die Federal Register-Website setzte vorübergehend Alibabas Qwen-Modell ein, das mittlerweile entfernt wurde.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
     },
     {
-      "text": "Anthropic stellt aktualisierte Projects-Funktion in Claude Code vor, die mehrere KI-Agenten gleichzeitig mit gemeinsamer Speichernutzung in der Cloud verwaltet.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects"
+      "text": "OpenAI präsentiert den Australian Youth Safety Blueprint zur Sicherheit von Jugendlichen. Das Programm definiert sechs Säulen für verantwortungsvolle KI, einschließlich Medienkompetenz und alterungsgerechter Schutzmaßnahmen.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint"
     }
   ]
 }

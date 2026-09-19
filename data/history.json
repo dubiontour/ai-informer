@@ -1,5 +1,103 @@
 [
   {
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-19T09:00:00.000Z"
+  },
+  {
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-19T01:00:00.000Z"
+  },
+  {
+    "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-19T00:12:07.000Z"
+  },
+  {
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-18T23:25:01.000Z"
+  },
+  {
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-18T21:07:24.000Z"
+  },
+  {
+    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+    "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-18T20:26:33.000Z"
+  },
+  {
+    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+    "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-18T19:21:09.000Z"
+  },
+  {
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-18T19:20:50.000Z"
+  },
+  {
+    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-18T18:29:17.000Z"
+  },
+  {
+    "title": "US government website used Chinese model the FBI called \"malicious\"",
+    "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-18T17:28:50.000Z"
+  },
+  {
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-18T17:04:51.000Z"
+  },
+  {
+    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+    "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-18T15:00:08.000Z"
+  },
+  {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "link": "https://openai.com/index/australian-youth-safety-blueprint",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-18T12:00:00.000Z"
+  },
+  {
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-18T11:29:22.000Z"
+  },
+  {
     "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
     "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
     "source": "Wired AI",
@@ -2413,110 +2511,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-08-20T09:47:22.000Z"
-  },
-  {
-    "title": "Introducing AI Futures",
-    "link": "https://openai.com/index/introducing-ai-futures",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-20T07:00:00.000Z"
-  },
-  {
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "link": "https://openai.com/index/stampli",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-20T00:00:00.000Z"
-  },
-  {
-    "title": "Stripe didn&#8217;t really buy OpenRouter because of the &#8216;singularity&#8217;",
-    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-19T23:32:00.000Z"
-  },
-  {
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-19T22:10:46.000Z"
-  },
-  {
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-19T21:51:23.000Z"
-  },
-  {
-    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-    "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-19T20:04:41.000Z"
-  },
-  {
-    "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-    "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-19T19:30:00.000Z"
-  },
-  {
-    "title": "Offering Zero Data Retention for frontier models",
-    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-19T19:00:00.000Z"
-  },
-  {
-    "title": "Google Gemini is getting a dedicated student hub",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-19T19:00:00.000Z"
-  },
-  {
-    "title": "OpenAI hit the brakes. Now what?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-19T17:10:09.000Z"
-  },
-  {
-    "title": "Meta AI is getting a Mac app",
-    "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-19T17:00:00.000Z"
-  },
-  {
-    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-    "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-19T16:44:07.000Z"
-  },
-  {
-    "title": "Meta ran ads for an app promising to nudify female politicians",
-    "link": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-19T15:45:29.000Z"
-  },
-  {
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-    "source": "VentureBeat AI",
-    "category": "News",
-    "pubDate": "2026-08-19T14:18:12.000Z"
-  },
-  {
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "link": "https://huggingface.co/blog/LiquidAI/qad",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-19T13:48:49.000Z"
   }
 ]
