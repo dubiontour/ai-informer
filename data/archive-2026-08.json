@@ -1,5 +1,96 @@
 [
   {
+    "title": "The Single English County Saying No to Palantir",
+    "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-21T06:00:00.000Z"
+  },
+  {
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-21T00:13:44.000Z"
+  },
+  {
+    "title": "Measuring benchmark optimization in speech recognition",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-20T22:36:37.000Z"
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-20T22:09:51.000Z"
+  },
+  {
+    "title": "Google Discover is getting an AI chatbot-tuned feed",
+    "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-20T21:50:22.000Z"
+  },
+  {
+    "title": "Silicon Valley Doesn't Get Why You Hate AI",
+    "link": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-20T18:49:07.000Z"
+  },
+  {
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-20T16:52:57.000Z"
+  },
+  {
+    "title": "It’s Greg Brockman’s OpenAI now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-20T15:45:55.000Z"
+  },
+  {
+    "title": "Debates over AI consciousness are a trap",
+    "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-20T15:42:39.000Z"
+  },
+  {
+    "title": "Welcome to the AI crisis in math",
+    "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-20T14:00:00.000Z"
+  },
+  {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-20T13:00:35.000Z"
+  },
+  {
+    "title": "Unlocking hidden revenue streams with market models",
+    "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-20T09:47:22.000Z"
+  },
+  {
     "title": "Introducing AI Futures",
     "link": "https://openai.com/index/introducing-ai-futures",
     "source": "OpenAI",

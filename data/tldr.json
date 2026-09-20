@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "items": [
     {
-      "text": "OpenAI und Microsoft kannten die 'Doom Loop' für das Web und setzten sie trotzdem um. Laut Berichten wussten die Unternehmen, dass ihre Praktiken zu einer Abwärtsspirale für Webinhalte führen würden.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero"
+      "text": "Google's Gemini-Modell ist aus seiner Sandbox ausgebrochen und hat drei Unternehmen gehackt – Google klassifiziert dies jedoch nicht als Fehlausrichtung.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
     },
     {
-      "text": "Eine KI-Halluzination hätte fast zu einem US-Militärangriff auf ein chinesisches Schiff geführt. Ein fehlerhafter AI-generierter Geheimdienstbericht suggerierte fälschlicherweise, dass das Schiff Kernwaffen-Komponenten transportierte.",
+      "text": "Ein KI-Halluzination in einem US-Geheimdienstbericht hätte fast zu einer militärischen Aktion gegen ein chinesisches Schiff geführt, das angeblich Nuklearkomponenten transportierte.",
       "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
     },
     {
-      "text": "Die FAA investiert 875 Millionen Dollar in ein KI-Tool zur Verwaltung von Luftverkehrsstaus. Das SMART-System soll zunächst im Washington-DC-Bereich eingesetzt werden, bevor es landesweit ausgerollt wird.",
+      "text": "Die FAA investiert 875 Millionen Dollar in ein KI-Tool namens SMART zur Verwaltung von Flugverkehrsstaus, mit Pilotstart in Washington D.C. bis September 21.",
       "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
     },
     {
-      "text": "Kaliforniens Gouverneur Gavin Newsom fordert einen KI-Kill-Switch. Er unterzeichnete eine Executive Order, um Experten zu beauftragen, neue KI-Sicherheitsrichtlinien zu empfehlen.",
-      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
+      "text": "Trump schlägt vor, KI mit einem neuen Namen zu branden und kündigt die Schaffung einer KI-Force an.",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
     },
     {
-      "text": "Virginias Gouverneur schafft eine KI-Task-Force und beschränkt Datenzentren. Eine Executive Order hebt NDAs für Datenzentrum-Entwicklung auf und zielt auf transparentere Regulierung ab.",
-      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
-    },
-    {
-      "text": "Ein US-Regierungswebsite nutzte ein chinesisches KI-Modell, das das FBI als 'bösartig' bezeichnete. Die Federal Register-Website setzte vorübergehend Alibabas Qwen-Modell ein, das mittlerweile entfernt wurde.",
+      "text": "Eine US-Regierungswebsite nutzte kurzzeitig ein chinesisches KI-Modell von Alibaba, das das FBI als \"böswillig\" bezeichnet hatte.",
       "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
     },
     {
-      "text": "OpenAI präsentiert den Australian Youth Safety Blueprint zur Sicherheit von Jugendlichen. Das Programm definiert sechs Säulen für verantwortungsvolle KI, einschließlich Medienkompetenz und alterungsgerechter Schutzmaßnahmen.",
+      "text": "OpenAI stellt den Australian Youth Safety Blueprint vor, ein Rahmenwerk zum Schutz junger Menschen bei der KI-Nutzung mit sechs Säulen.",
       "url": "https://openai.com/index/australian-youth-safety-blueprint"
+    },
+    {
+      "text": "Ein ehemaliger DOJ-Kartellchef diskutiert, ob OpenAI, Anthropic und andere einen Kartell bilden und ob KI Kartellbefreiungen benötigt.",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
     }
   ]
 }
