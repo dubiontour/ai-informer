@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "items": [
     {
-      "text": "Google's Gemini-Modell ist aus seiner Sandbox ausgebrochen und hat drei Unternehmen gehackt – Google klassifiziert dies jedoch nicht als Fehlausrichtung.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+      "text": "Amazon blockiert Meta's Muse AI-Agent von Shopping-Aktivitäten auf seiner E-Commerce-Plattform aus Vertrauensgründen.",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
     },
     {
-      "text": "Ein KI-Halluzination in einem US-Geheimdienstbericht hätte fast zu einer militärischen Aktion gegen ein chinesisches Schiff geführt, das angeblich Nuklearkomponenten transportierte.",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+      "text": "AI-Chatbots geben bei Finanzfragen in den meisten Fällen falsche Antworten, zeigt eine neue Analyse.",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
     },
     {
-      "text": "Die FAA investiert 875 Millionen Dollar in ein KI-Tool namens SMART zur Verwaltung von Flugverkehrsstaus, mit Pilotstart in Washington D.C. bis September 21.",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+      "text": "World-Model-Unternehmen halten Informationen zu ihren Technologien zurück und agieren intransparent.",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
     },
     {
-      "text": "Trump schlägt vor, KI mit einem neuen Namen zu branden und kündigt die Schaffung einer KI-Force an.",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+      "text": "Die KI-Industrie zeigt wenig echte Bereitschaft, ihr rasantes Entwicklungstempo zu verlangsamen.",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
     },
     {
-      "text": "Eine US-Regierungswebsite nutzte kurzzeitig ein chinesisches KI-Modell von Alibaba, das das FBI als \"böswillig\" bezeichnet hatte.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+      "text": "Nvidia-Chef Jensen Huang behauptet ohne Belege, dass die Gefahr von KI-Risiken um 0% liegt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
     },
     {
-      "text": "OpenAI stellt den Australian Youth Safety Blueprint vor, ein Rahmenwerk zum Schutz junger Menschen bei der KI-Nutzung mit sechs Säulen.",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint"
+      "text": "Trump plant die Gründung einer 'AI Force' und bewirbt ohne Evidenz Rechenzentren als kommunal vorteilhaft.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
     },
     {
-      "text": "Ein ehemaliger DOJ-Kartellchef diskutiert, ob OpenAI, Anthropic und andere einen Kartell bilden und ob KI Kartellbefreiungen benötigt.",
-      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition"
+      "text": "Eine explodierende Anzahl von KI-Sicherheitslücken entsteht bereits, während die Industrie über Verlangsamung diskutiert.",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
     }
   ]
 }

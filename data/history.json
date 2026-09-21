@@ -1,5 +1,68 @@
 [
   {
+    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-21T09:21:47.000Z"
+  },
+  {
+    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+    "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-21T04:28:44.000Z"
+  },
+  {
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-20T21:41:08.000Z"
+  },
+  {
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-20T20:29:07.000Z"
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-20T18:56:04.000Z"
+  },
+  {
+    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-20T18:50:18.000Z"
+  },
+  {
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-20T15:39:22.000Z"
+  },
+  {
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-20T10:30:00.000Z"
+  },
+  {
+    "title": "It’s Donald Trump Versus MAGA on Data Centers",
+    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-20T10:30:00.000Z"
+  },
+  {
     "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
     "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "source": "The Verge AI",
@@ -2413,75 +2476,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-08-22T16:30:34.000Z"
-  },
-  {
-    "title": "The Unlikely Place at the Center of China’s AI Boom",
-    "link": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-21T23:25:32.000Z"
-  },
-  {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-21T23:07:25.000Z"
-  },
-  {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-21T22:37:38.000Z"
-  },
-  {
-    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-21T21:25:50.000Z"
-  },
-  {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-21T19:43:39.000Z"
-  },
-  {
-    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-    "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-21T13:43:33.000Z"
-  },
-  {
-    "title": "Major YouTube creators are facing backlash for accepting AI money",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-21T13:37:52.000Z"
-  },
-  {
-    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-    "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-08-21T11:59:48.000Z"
-  },
-  {
-    "title": "I'm becoming AI-blind",
-    "link": "https://cymerys.com/w/im-becoming-ai-blind",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-21T11:48:05.000Z"
-  },
-  {
-    "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-    "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-21T11:00:53.000Z"
   }
 ]
