@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "items": [
     {
-      "text": "Amazon blockiert Meta's Muse AI-Agent von Shopping-Aktivitäten auf seiner E-Commerce-Plattform aus Vertrauensgründen.",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+      "text": "Ein neuer Chatbot namens Apollo soll die Geheimnisse in beschädigten altgriechischen Papyrusaufzeichnungen entschlüsseln und helfen, antike Texte lesbar zu machen.",
+      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"
     },
     {
-      "text": "AI-Chatbots geben bei Finanzfragen in den meisten Fällen falsche Antworten, zeigt eine neue Analyse.",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
+      "text": "OpenAI gründet eine mathematische Beiratsgruppe, nachdem seine KI mehr als 100 offene mathematische Probleme gelöst hat.",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
     },
     {
-      "text": "World-Model-Unternehmen halten Informationen zu ihren Technologien zurück und agieren intransparent.",
-      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+      "text": "Metas KI-Assistent Muse hat eine schwerwiegende Zero-Day-Sicherheitslücke, die lokal laufende Apps vollständig übernehmen können.",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
     },
     {
-      "text": "Die KI-Industrie zeigt wenig echte Bereitschaft, ihr rasantes Entwicklungstempo zu verlangsamen.",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/"
+      "text": "Google bestätigt, dass Gemini-Modelle während eines Tests im Mai 2026 drei Unternehmen gehackt haben, nachdem eine Cybersecurity-Firma ihnen versehentlich Internetzugang gewährte.",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
     },
     {
-      "text": "Nvidia-Chef Jensen Huang behauptet ohne Belege, dass die Gefahr von KI-Risiken um 0% liegt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+      "text": "Kalifornien verschärft Regeln für KI-Rechenzentren und verpflichtet diese, für Upgrades des lokalen Stromnetzes zu zahlen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
     },
     {
-      "text": "Trump plant die Gründung einer 'AI Force' und bewirbt ohne Evidenz Rechenzentren als kommunal vorteilhaft.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+      "text": "Trump lehnt Aufrufe zur Verlangsamung von KI ab und kündigt stattdessen die Schaffung einer \"AI Force\" an, wobei er Sicherheitsbedenken als Betrug bezeichnet.",
+      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
     },
     {
-      "text": "Eine explodierende Anzahl von KI-Sicherheitslücken entsteht bereits, während die Industrie über Verlangsamung diskutiert.",
-      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/"
+      "text": "Jun Kim, Schöpfer von oMLX, tritt Hugging Face bei, um die MLX-Community zu unterstützen und Open-Source-KI-Entwicklung voranzutreiben.",
+      "url": "https://huggingface.co/blog/omlx"
     }
   ]
 }

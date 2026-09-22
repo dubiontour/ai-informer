@@ -1,5 +1,159 @@
 [
   {
+    "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+    "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-22T09:30:00.000Z"
+  },
+  {
+    "title": "How to Use AI With Your Privacy Intact",
+    "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-22T09:00:00.000Z"
+  },
+  {
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "link": "https://huggingface.co/blog/omlx",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-21T23:44:28.000Z"
+  },
+  {
+    "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
+    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-21T22:24:38.000Z"
+  },
+  {
+    "title": "California tightens rules on AI data center energy and water use",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-21T20:29:45.000Z"
+  },
+  {
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-21T20:15:58.000Z"
+  },
+  {
+    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-21T19:25:00.000Z"
+  },
+  {
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "link": "https://linear.app/now/ci-bottleneck-reworked",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-21T19:23:33.000Z"
+  },
+  {
+    "title": "Frontier AI on Your Own Hardware",
+    "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-21T18:53:01.000Z"
+  },
+  {
+    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+    "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-21T18:33:02.000Z"
+  },
+  {
+    "title": "Google confirms Gemini models hacked three companies in May 2026",
+    "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-21T16:57:26.000Z"
+  },
+  {
+    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+    "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-21T15:37:56.000Z"
+  },
+  {
+    "title": "Can John Ternus find Apple’s next big thing?",
+    "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-21T14:00:00.000Z"
+  },
+  {
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-21T13:44:34.000Z"
+  },
+  {
+    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-21T13:36:52.000Z"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-21T12:00:00.000Z"
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-21T12:00:00.000Z"
+  },
+  {
+    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-21T12:00:00.000Z"
+  },
+  {
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-21T12:00:00.000Z"
+  },
+  {
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-21T12:00:00.000Z"
+  },
+  {
+    "title": "Building standards for the next phase of AI",
+    "link": "https://openai.com/index/building-standards-next-phase-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-21T10:00:00.000Z"
+  },
+  {
     "title": "Amazon doesn’t trust Meta’s Muse AI agent",
     "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
     "source": "The Verge AI",
@@ -12,6 +166,13 @@
     "source": "Hacker News AI",
     "category": "Community",
     "pubDate": "2026-09-21T04:28:44.000Z"
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-21T00:00:00.000Z"
   },
   {
     "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -2455,26 +2616,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-08-23T15:30:00.000Z"
-  },
-  {
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-22T21:46:56.000Z"
-  },
-  {
-    "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-22T19:00:00.000Z"
-  },
-  {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-22T16:30:34.000Z"
   }
 ]
