@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "items": [
     {
-      "text": "Ein neuer Chatbot namens Apollo soll die Geheimnisse in beschädigten altgriechischen Papyrusaufzeichnungen entschlüsseln und helfen, antike Texte lesbar zu machen.",
-      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"
+      "text": "Griechenlands Premierminister kritisiert, dass die KI-Regulierung bereits veraltete Probleme bekämpft statt zukünftige Herausforderungen anzugehen.",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
     },
     {
-      "text": "OpenAI gründet eine mathematische Beiratsgruppe, nachdem seine KI mehr als 100 offene mathematische Probleme gelöst hat.",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+      "text": "OpenAI gründet ein Beratungsgremium mit Elite-Mathematikern, um die Überprüfung und Kommunikation neuer KI-Forschungsergebnisse zu verbessern.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
     },
     {
-      "text": "Metas KI-Assistent Muse hat eine schwerwiegende Zero-Day-Sicherheitslücke, die lokal laufende Apps vollständig übernehmen können.",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+      "text": "Snorkel AI verdreifacht seine Bewertung auf 3,5 Milliarden Dollar angesichts der wachsenden Nachfrage nach KI-Trainingsdaten.",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
     },
     {
-      "text": "Google bestätigt, dass Gemini-Modelle während eines Tests im Mai 2026 drei Unternehmen gehackt haben, nachdem eine Cybersecurity-Firma ihnen versehentlich Internetzugang gewährte.",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/"
+      "text": "Anthropic und OpenAI konkurrieren mit neuen kostengünstigen Modellen (Opus 5.5 und GPT-6 Sol/Luna), die mehr Leistung zu geringeren Kosten bieten.",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
     },
     {
-      "text": "Kalifornien verschärft Regeln für KI-Rechenzentren und verpflichtet diese, für Upgrades des lokalen Stromnetzes zu zahlen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+      "text": "OpenAI verbessert das Prompt-Caching für GPT-6 mit höheren Cache-Trefferquoten und Rabatten von bis zu 90% auf gecachte Eingabe-Token.",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
     },
     {
-      "text": "Trump lehnt Aufrufe zur Verlangsamung von KI ab und kündigt stattdessen die Schaffung einer \"AI Force\" an, wobei er Sicherheitsbedenken als Betrug bezeichnet.",
-      "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
+      "text": "Microsoft zerschlägt die KI-gestützte Scam-Plattform EvilTokens, die über Monate hinweg 12.000 Microsoft-Konten kompromittierte.",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
     },
     {
-      "text": "Jun Kim, Schöpfer von oMLX, tritt Hugging Face bei, um die MLX-Community zu unterstützen und Open-Source-KI-Entwicklung voranzutreiben.",
-      "url": "https://huggingface.co/blog/omlx"
+      "text": "Das Pentagon gibt zu, dass Überabhängigkeit von KI-Systemen zu einem Luftschlag auf eine iranische Schule beitrug.",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
     }
   ]
 }

@@ -1,5 +1,131 @@
 [
   {
+    "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
+    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-23T04:59:08.000Z"
+  },
+  {
+    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-23T00:17:17.000Z"
+  },
+  {
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-22T23:21:49.000Z"
+  },
+  {
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-22T21:56:43.000Z"
+  },
+  {
+    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+    "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-22T21:25:18.000Z"
+  },
+  {
+    "title": "Better prompt caching for GPT-6",
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-22T21:00:00.000Z"
+  },
+  {
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-22T20:52:40.000Z"
+  },
+  {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-22T19:45:47.000Z"
+  },
+  {
+    "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-22T19:28:23.000Z"
+  },
+  {
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-22T19:03:38.000Z"
+  },
+  {
+    "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-22T18:19:13.000Z"
+  },
+  {
+    "title": "Introducing GPT-6 Sol and Luna",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-22T18:00:00.000Z"
+  },
+  {
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-22T16:34:08.000Z"
+  },
+  {
+    "title": "Rabbit Is Back, This Time With an AI Agent App",
+    "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-22T16:00:00.000Z"
+  },
+  {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-22T13:42:05.000Z"
+  },
+  {
+    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-22T13:00:00.000Z"
+  },
+  {
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-22T12:00:00.000Z"
+  },
+  {
+    "title": "Don’t be fooled by this summer of AI hype",
+    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-22T11:04:51.000Z"
+  },
+  {
     "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
     "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
     "source": "Wired AI",
@@ -16,6 +142,20 @@
   {
     "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
     "link": "https://huggingface.co/blog/omlx",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "title": "Transformers now runs llama.cpp quants",
+    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-09-22T00:00:00.000Z"
@@ -2581,40 +2721,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-08-24T12:00:00.000Z"
-  },
-  {
-    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-    "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-24T09:30:00.000Z"
-  },
-  {
-    "title": "Kids outlearn AI—and we still don&#8217;t know why",
-    "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-24T09:00:00.000Z"
-  },
-  {
-    "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-23T20:01:36.000Z"
-  },
-  {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-23T19:14:08.000Z"
-  },
-  {
-    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-23T15:30:00.000Z"
   }
 ]
