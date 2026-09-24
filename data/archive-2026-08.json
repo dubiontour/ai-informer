@@ -1,5 +1,110 @@
 [
   {
+    "title": "It Should Be Harder to Apply for a Job. No, Really",
+    "link": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-25T09:30:00.000Z"
+  },
+  {
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-25T09:15:03.000Z"
+  },
+  {
+    "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+    "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-25T09:15:00.000Z"
+  },
+  {
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-25T09:00:00.000Z"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-25T07:05:00.000Z"
+  },
+  {
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-25T07:00:00.000Z"
+  },
+  {
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-25T00:23:12.000Z"
+  },
+  {
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-24T21:45:53.000Z"
+  },
+  {
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-24T21:24:17.000Z"
+  },
+  {
+    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-24T19:54:19.000Z"
+  },
+  {
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-24T16:41:45.000Z"
+  },
+  {
+    "title": "How to encourage smarter AI use in the classroom",
+    "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-24T14:20:19.000Z"
+  },
+  {
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-24T12:00:00.000Z"
+  },
+  {
     "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
     "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
     "source": "Wired AI",

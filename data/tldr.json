@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "items": [
     {
-      "text": "Griechenlands Premierminister kritisiert, dass die KI-Regulierung bereits veraltete Probleme bekämpft statt zukünftige Herausforderungen anzugehen.",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/"
+      "text": "Meta präsentiert Muse, seinen neuen KI-Agenten, der auf Smart Glasses, Smartphones und einem neuen Tamagotchi-ähnlichen Wearable namens Muse Charm verfügbar sein wird.",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
     },
     {
-      "text": "OpenAI gründet ein Beratungsgremium mit Elite-Mathematikern, um die Überprüfung und Kommunikation neuer KI-Forschungsergebnisse zu verbessern.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel"
+      "text": "Meta hat ein eigenständiges Muse AI-Gerät entwickelt, das keinen Smartphone-Zugriff benötigt und noch dieses Jahr verfügbar sein soll.",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
     },
     {
-      "text": "Snorkel AI verdreifacht seine Bewertung auf 3,5 Milliarden Dollar angesichts der wachsenden Nachfrage nach KI-Trainingsdaten.",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/"
+      "text": "Meta bringt Muse auf alle seine Smart-Glasses-Modelle und stellt damit eine nahtlose KI-Agenten-Integration in seine gesamte Hardwarepalette bereit.",
+      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
     },
     {
-      "text": "Anthropic und OpenAI konkurrieren mit neuen kostengünstigen Modellen (Opus 5.5 und GPT-6 Sol/Luna), die mehr Leistung zu geringeren Kosten bieten.",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+      "text": "Meta stellt neue Ray-Ban Meta Audio Glasses für 349 Dollar vor – kameralose Smart Glasses, die privatsphärensensible Nutzer ansprechen.",
+      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026"
     },
     {
-      "text": "OpenAI verbessert das Prompt-Caching für GPT-6 mit höheren Cache-Trefferquoten und Rabatten von bis zu 90% auf gecachte Eingabe-Token.",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+      "text": "YouTube kündigt Custom Feeds und umfangreiche KI-Features an, darunter personalisierbare Inhalts-Tabs und erweiterte Cretor-Tools für später dieses Jahr.",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/"
     },
     {
-      "text": "Microsoft zerschlägt die KI-gestützte Scam-Plattform EvilTokens, die über Monate hinweg 12.000 Microsoft-Konten kompromittierte.",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
+      "text": "Experten warnen, dass Trumps fokus auf den \"KI-Rüstungswettlauf\" USA-China-Sicherheitsgespräche gefährden könnte, die ein globales KI-Governance-System etablieren sollen.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
     },
     {
-      "text": "Das Pentagon gibt zu, dass Überabhängigkeit von KI-Systemen zu einem Luftschlag auf eine iranische Schule beitrug.",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/"
+      "text": "OpenAI Academy hat in zwei Jahren über 4 Millionen Menschen mit praktischen KI-Schulungen erreicht und startet nun ein neues Trainer-Programm zur Expansion.",
+      "url": "https://openai.com/index/two-years-of-openai-academy"
     }
   ]
 }
