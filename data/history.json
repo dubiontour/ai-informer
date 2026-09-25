@@ -1,5 +1,110 @@
 [
   {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-25T09:16:25.000Z"
+  },
+  {
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-25T05:00:00.000Z"
+  },
+  {
+    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-24T19:59:26.000Z"
+  },
+  {
+    "title": "I Think I Found an AI Agent Worth the Risk",
+    "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-24T19:36:35.000Z"
+  },
+  {
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-24T19:15:00.000Z"
+  },
+  {
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-24T19:00:42.000Z"
+  },
+  {
+    "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+    "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-24T18:20:58.000Z"
+  },
+  {
+    "title": "Jensen Huang talks about AI and climate change like a supervillain",
+    "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-24T18:04:44.000Z"
+  },
+  {
+    "title": "Meta is going to let you build games with AI right on your phone",
+    "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-24T17:52:29.000Z"
+  },
+  {
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-24T16:20:39.000Z"
+  },
+  {
+    "title": "Google&#039;s first Suncatcher orbital data center test launches October 1",
+    "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-24T16:16:34.000Z"
+  },
+  {
+    "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+    "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-24T16:01:16.000Z"
+  },
+  {
+    "title": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+    "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-24T16:00:00.000Z"
+  },
+  {
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-24T14:08:57.000Z"
+  },
+  {
+    "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+    "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-24T10:46:56.000Z"
+  },
+  {
     "title": "Everything new coming to Meta&#8217;s AI agent Muse",
     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "source": "TechCrunch AI",
@@ -2665,89 +2770,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-08-26T10:00:00.000Z"
-  },
-  {
-    "title": "Raised on AI",
-    "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-26T09:00:00.000Z"
-  },
-  {
-    "title": "AI models flub these intelligence tests. Can you fare any better?",
-    "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-26T09:00:00.000Z"
-  },
-  {
-    "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-26T03:30:00.000Z"
-  },
-  {
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-26T00:40:59.000Z"
-  },
-  {
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-26T00:06:20.000Z"
-  },
-  {
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-26T00:00:00.000Z"
-  },
-  {
-    "title": "World humanoid robot games show runners breaking records, bursting into flames",
-    "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-25T20:59:03.000Z"
-  },
-  {
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-25T15:14:14.000Z"
-  },
-  {
-    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-25T15:10:03.000Z"
-  },
-  {
-    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-25T14:00:00.000Z"
-  },
-  {
-    "title": "Apple&#039;s new desktop computers are designed specifically for local AI development",
-    "link": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-25T13:00:11.000Z"
-  },
-  {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-08-25T11:39:24.000Z"
   }
 ]
