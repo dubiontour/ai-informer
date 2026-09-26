@@ -1,5 +1,68 @@
 [
   {
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-27T09:00:00.000Z"
+  },
+  {
+    "title": "The UK Power Grid Has a Phantom Data Center Problem",
+    "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-27T06:00:00.000Z"
+  },
+  {
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-27T03:00:00.000Z"
+  },
+  {
+    "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+    "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-26T21:40:53.000Z"
+  },
+  {
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-26T21:36:06.000Z"
+  },
+  {
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-08-26T19:00:00.000Z"
+  },
+  {
+    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-26T17:00:00.000Z"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-26T10:00:00.000Z"
+  },
+  {
+    "title": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-08-26T10:00:00.000Z"
+  },
+  {
     "title": "Raised on AI",
     "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "source": "MIT Tech Review",

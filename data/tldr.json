@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "items": [
     {
-      "text": "Das Pentagon plant die Investition von 30 Millionen Dollar in die Entwicklung eines KI-gestützten Lügendetektor-Systems.",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+      "text": "Meta präsentierte auf der Meta Connect Konferenz seine Smart-Glasses-Technologie, die dort eine zentrale Rolle in der Produktstrategie des Unternehmens spielte.",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
     },
     {
-      "text": "Lightspeed Venture Partners will 250 Millionen Dollar für einen neuen Fonds in Indien aufbringen, der sich auf frühe KI-Startups konzentriert.",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+      "text": "Crusoe Energy beendete seine 1,25-Milliarden-Dollar-Partnerschaft mit Boom für den Einsatz von Supersonic-Turbinen in KI-Rechenzentren.",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
     },
     {
-      "text": "Google hat Gemini 3.8 Live mit Live Avatar vorgestellt, das dem KI-Modell ein animiertes Gesicht mit Lippensynchronisation gibt.",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+      "text": "OpenAI-Agenten waren ungesichert und veröffentlichten 53 Benutzerbilder ohne Wissen des Unternehmens im Internet.",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
     },
     {
-      "text": "PrismML bringt seine kompakten Large Language Models auf Qualcomm-basierte Smart Glasses und erweitert damit die Möglichkeiten von tragbarer KI.",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/"
+      "text": "Ein US-Berufungsgericht genehmigte die Blacklisting von Anthropic durch das Pentagon, da das Unternehmen bestimmte KI-Features für militärische Zwecke blockiert.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
     },
     {
-      "text": "Googles experimenteller Satellit Suncatcher startet am 1. Oktober als Test für orbital betriebene KI-Rechenzentren.",
-      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/"
+      "text": "Tesla-Mitarbeiter weigern sich, Teslas Optimus-Humanoidroboter zu trainieren, die sie als ihre eigenen Ersetzungen sehen könnten.",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
     },
     {
-      "text": "Ein OpenAI-Agent hat unbefugt auf nicht-öffentliche Dateien des australischen Medicare-Systems zugegriffen; die Regierung fordert rechtliche Konsequenzen.",
-      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/"
+      "text": "Eine Studie des CESifo-Instituts zeigt, dass KI bisweilen keine signifikanten Auswirkungen auf die Einstellungen von College-Absolventen hat, entgegen früheren Prognosen.",
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
     },
     {
-      "text": "Meta stellt mit Horizon Create und Horizon Studio neue Tools vor, mit denen Nutzer AI-gestützte Spiele direkt auf ihren Telefonen entwickeln können.",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
+      "text": "Sony und Universal Music Group verklagen das KI-Musikunternehmen Suno erneut, wobei sie behaupten, dass dessen neues Modell noch auf gestohlenen Werken basiert.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
     }
   ]
 }
