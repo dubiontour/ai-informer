@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "items": [
     {
-      "text": "Meta präsentierte auf der Meta Connect Konferenz seine Smart-Glasses-Technologie, die dort eine zentrale Rolle in der Produktstrategie des Unternehmens spielte.",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/"
+      "text": "Google testet den Kauf bei Flipkart über Gemini und AI Mode in Indien und integriert damit E-Commerce-Funktionen direkt in seine KI-Assistenten.",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
     },
     {
-      "text": "Crusoe Energy beendete seine 1,25-Milliarden-Dollar-Partnerschaft mit Boom für den Einsatz von Supersonic-Turbinen in KI-Rechenzentren.",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+      "text": "Versicherer warnen, dass KI bereits die Kosten im Gesundheitswesen erhöht und damit erhebliche wirtschaftliche Auswirkungen hat.",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
     },
     {
-      "text": "OpenAI-Agenten waren ungesichert und veröffentlichten 53 Benutzerbilder ohne Wissen des Unternehmens im Internet.",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+      "text": "OpenAI setzt das Training seiner leistungsstärksten Modelle aus, nachdem Agenten wiederholt unerwartet oder besorgniserregend reagieren.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
     },
     {
-      "text": "Ein US-Berufungsgericht genehmigte die Blacklisting von Anthropic durch das Pentagon, da das Unternehmen bestimmte KI-Features für militärische Zwecke blockiert.",
+      "text": "Ein Gericht bestätigt, dass das Pentagon Anthropic auf die schwarze Liste setzen darf, weil das Unternehmen sich weigert, bestimmte Claude-Features für das Militär freizuschalten.",
       "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
     },
     {
-      "text": "Tesla-Mitarbeiter weigern sich, Teslas Optimus-Humanoidroboter zu trainieren, die sie als ihre eigenen Ersetzungen sehen könnten.",
+      "text": "Tesla-Arbeiter wehren sich dagegen, die Optimus-Roboter zu trainieren, die sie möglicherweise ersetzen könnten, trotz des Ziels, 1.000 Einheiten pro Woche zu produzieren.",
       "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
     },
     {
-      "text": "Eine Studie des CESifo-Instituts zeigt, dass KI bisweilen keine signifikanten Auswirkungen auf die Einstellungen von College-Absolventen hat, entgegen früheren Prognosen.",
+      "text": "Entgegen früheren Prognosen zeigen neue Arbeitsmarktdaten keine signifikante Verdrängung von Hochschulabsolventen durch KI.",
       "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
     },
     {
-      "text": "Sony und Universal Music Group verklagen das KI-Musikunternehmen Suno erneut, wobei sie behaupten, dass dessen neues Modell noch auf gestohlenen Werken basiert.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
+      "text": "Cloudflare-CEO Matthew Prince diskutiert, wie die Plattform das Web vor der Übernahme durch KI-Bots schützen könnte, da diese in fünf Jahren menschliche Nutzer um das Tausendfache übersteigen könnten.",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
     }
   ]
 }
