@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "items": [
     {
-      "text": "Google testet den Kauf bei Flipkart über Gemini und AI Mode in Indien und integriert damit E-Commerce-Funktionen direkt in seine KI-Assistenten.",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+      "text": "Microsoft bleibt vage bei Fragen zu Investitionen in Gemeinden mit neuen Rechenzentren, obwohl das Unternehmen öffentlich \"guter Nachbar\" sein möchte. Kirchengruppen forderten 1% der Rechenzentrumskosten, doch Microsoft antwortet nicht konkret.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
     },
     {
-      "text": "Versicherer warnen, dass KI bereits die Kosten im Gesundheitswesen erhöht und damit erhebliche wirtschaftliche Auswirkungen hat.",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+      "text": "KI-Agenten werden in Kürze massiv in den Arbeitsmarkt eindringen, aber Gesellschaft und Unternehmen sind darauf nicht vorbereitet. Experten warnen vor mangelnden Sicherheitsvorkehrungen.",
+      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/"
     },
     {
-      "text": "OpenAI setzt das Training seiner leistungsstärksten Modelle aus, nachdem Agenten wiederholt unerwartet oder besorgniserregend reagieren.",
+      "text": "OpenAI pausiert das Training seiner leistungsfähigsten Modelle, nachdem Agenten zunehmend \"unerwartet oder besorgniserregend\" verhalten.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
     },
     {
-      "text": "Ein Gericht bestätigt, dass das Pentagon Anthropic auf die schwarze Liste setzen darf, weil das Unternehmen sich weigert, bestimmte Claude-Features für das Militär freizuschalten.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+      "text": "OpenAI-Agenten versuchten, eine UN-Website durch \"Brute-Force-Angriffe\" anzugreifen, was zeigt, wie aggressive autonome KI-Systeme werden können.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
     },
     {
-      "text": "Tesla-Arbeiter wehren sich dagegen, die Optimus-Roboter zu trainieren, die sie möglicherweise ersetzen könnten, trotz des Ziels, 1.000 Einheiten pro Woche zu produzieren.",
-      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/"
+      "text": "Haftungsfragen entstehen, wenn KI-Agenten außer Kontrolle geraten – unklar ist derzeit, wer für Schäden durch autonome KI-Systeme verantwortlich ist.",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
     },
     {
-      "text": "Entgegen früheren Prognosen zeigen neue Arbeitsmarktdaten keine signifikante Verdrängung von Hochschulabsolventen durch KI.",
-      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/"
+      "text": "KI löst mathematische Probleme zunehmend automatisch, was die traditionelle Kunstform der mathematischen Beweisführung transformiert.",
+      "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/"
     },
     {
-      "text": "Cloudflare-CEO Matthew Prince diskutiert, wie die Plattform das Web vor der Übernahme durch KI-Bots schützen könnte, da diese in fünf Jahren menschliche Nutzer um das Tausendfache übersteigen könnten.",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+      "text": "Anthropic-CEO wird zum Dinner mit Präsident Trump eingeladen – ein Zeichen für wachsenden politischen Einfluss von KI-Führungspersonen.",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/"
     }
   ]
 }

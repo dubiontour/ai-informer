@@ -1,5 +1,103 @@
 [
   {
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-29T10:30:00.000Z"
+  },
+  {
+    "title": "How to Run a Chatbot on Your Own Computer",
+    "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-29T10:00:00.000Z"
+  },
+  {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "link": "https://github.com/stemdeckapp/stemdeck",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-08-29T01:24:13.000Z"
+  },
+  {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T20:24:11.000Z"
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T19:30:38.000Z"
+  },
+  {
+    "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T18:19:40.000Z"
+  },
+  {
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-28T18:07:55.000Z"
+  },
+  {
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-08-28T16:28:40.000Z"
+  },
+  {
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "link": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-08-28T15:42:24.000Z"
+  },
+  {
+    "title": "AI Has Human Doctors Asking: What’s Left for Us?",
+    "link": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-28T15:00:00.000Z"
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T12:46:12.000Z"
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-08-28T12:21:06.000Z"
+  },
+  {
+    "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+    "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-28T11:00:00.000Z"
+  },
+  {
+    "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+    "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-08-28T10:56:22.000Z"
+  },
+  {
     "title": "Luanti removed from Google Play due to baseless AI copyright notice",
     "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
     "source": "Hacker News AI",
