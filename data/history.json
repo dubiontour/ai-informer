@@ -1,5 +1,124 @@
 [
   {
+    "title": "Making AI an asset, not an expense",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-29T10:43:45.000Z"
+  },
+  {
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-29T10:36:22.000Z"
+  },
+  {
+    "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-29T10:30:00.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-29T05:13:43.000Z"
+  },
+  {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-29T00:30:00.000Z"
+  },
+  {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-28T23:39:20.000Z"
+  },
+  {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-28T22:17:07.000Z"
+  },
+  {
+    "title": "Experts worry about Nvidia&#039;s AI chip sales in China and influence over Trump",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-28T21:49:10.000Z"
+  },
+  {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-28T21:31:35.000Z"
+  },
+  {
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-28T20:49:39.000Z"
+  },
+  {
+    "title": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-28T19:00:00.000Z"
+  },
+  {
+    "title": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-28T19:00:00.000Z"
+  },
+  {
+    "title": "OpenAI’s AI agents need to catch up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-28T18:45:00.000Z"
+  },
+  {
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-28T18:30:00.000Z"
+  },
+  {
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-28T17:03:16.000Z"
+  },
+  {
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-28T16:43:18.000Z"
+  },
+  {
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-28T11:32:19.000Z"
+  },
+  {
     "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
     "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
     "source": "Ars Technica AI",
@@ -40,6 +159,13 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-09-28T08:06:22.000Z"
+  },
+  {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-28T07:00:00.000Z"
   },
   {
     "title": "Engram is a sampler that turns broken AI hallucinations into music",
@@ -2630,47 +2756,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-08-30T11:03:47.000Z"
-  },
-  {
-    "title": "Why the Hottest New Wearables Want to Be Ignored",
-    "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-30T10:30:00.000Z"
-  },
-  {
-    "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-29T18:41:59.000Z"
-  },
-  {
-    "title": "Sony Music and Warner Chappell are suing Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-29T18:19:53.000Z"
-  },
-  {
-    "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-29T17:36:47.000Z"
-  },
-  {
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-29T13:00:00.000Z"
-  },
-  {
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-29T12:00:00.000Z"
   }
 ]
