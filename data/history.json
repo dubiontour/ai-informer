@@ -1,5 +1,103 @@
 [
   {
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-30T00:19:13.000Z"
+  },
+  {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-29T23:30:55.000Z"
+  },
+  {
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-29T22:25:45.000Z"
+  },
+  {
+    "title": "The internet is convinced Elon Musk&#8217;s xAI trolled OpenAI&#8217;s &#8216;Dots&#8217; launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-29T22:20:59.000Z"
+  },
+  {
+    "title": "Protests against OpenAI get increasingly creative",
+    "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-29T21:52:58.000Z"
+  },
+  {
+    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-29T21:49:09.000Z"
+  },
+  {
+    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+    "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-29T21:14:49.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-29T20:15:47.000Z"
+  },
+  {
+    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-29T19:05:00.000Z"
+  },
+  {
+    "title": "Here&#039;s what actually happened in OpenAI&#039;s Australian gov&#039;t server hack",
+    "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-29T18:11:09.000Z"
+  },
+  {
+    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-29T18:03:01.000Z"
+  },
+  {
+    "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-29T17:15:00.000Z"
+  },
+  {
+    "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-29T15:30:38.000Z"
+  },
+  {
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-29T13:07:00.000Z"
+  },
+  {
     "title": "Making AI an asset, not an expense",
     "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
     "source": "MIT Tech Review",
@@ -21,6 +119,20 @@
     "pubDate": "2026-09-29T10:30:00.000Z"
   },
   {
+    "title": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-29T10:00:00.000Z"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-29T10:00:00.000Z"
+  },
+  {
     "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "source": "TechCrunch AI",
@@ -33,6 +145,13 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-09-29T00:30:00.000Z"
+  },
+  {
+    "title": "Introducing dots",
+    "link": "https://openai.com/index/introducing-dots",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-29T00:00:00.000Z"
   },
   {
     "title": "OpenAI reportedly ditches model over safety concerns",
@@ -2686,75 +2805,5 @@
     "source": "Hacker News AI",
     "category": "Community",
     "pubDate": "2026-08-31T12:41:22.000Z"
-  },
-  {
-    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-    "link": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-08-31T10:30:00.000Z"
-  },
-  {
-    "title": "Pocket&#039;s AI made my game ideas real. Now Meta controls the results.",
-    "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-31T10:00:34.000Z"
-  },
-  {
-    "title": "OpenAI supports California’s bill to advance youth AI safety",
-    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-31T07:00:00.000Z"
-  },
-  {
-    "title": "Polimill builds Japan's next-generation public AI infrastructure",
-    "link": "https://openai.com/index/polimill",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-31T07:00:00.000Z"
-  },
-  {
-    "title": "A milestone in expanding access to AI",
-    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-08-31T04:00:00.000Z"
-  },
-  {
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-31T02:34:00.000Z"
-  },
-  {
-    "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
-    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-30T16:54:25.000Z"
-  },
-  {
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-30T15:35:10.000Z"
-  },
-  {
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-30T15:00:00.000Z"
-  },
-  {
-    "title": "Inside Meta’s push to put robots to work in data centers",
-    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-30T11:03:47.000Z"
   }
 ]

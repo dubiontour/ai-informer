@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "items": [
     {
-      "text": "OpenAI verzögert die Veröffentlichung seines neuesten Modells aufgrund von Sicherheitsbedenken und hat die Entwicklung gestoppt.",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+      "text": "Sam Altman erklärt, dass OpenAI erst an die Börse gehen wird, wenn seine KI-Modelle sicher sind. Der CEO möchte keine zusätzlichen Druck von der Wall Street.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
     },
     {
-      "text": "Anthropic warnt in seinen Prospektdokumenten, dass KI-Systeme die Menschheit gefährden könnten, offenbart aber auch Wachstum und Verluste.",
-      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/"
+      "text": "AMD kauft das KI-Startup World Labs für 8,2 Milliarden Dollar. Der Deal soll bis Jahresende abgeschlossen werden und richtet sich gegen Nvidias Dominanz.",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
     },
     {
-      "text": "AMD erwirbt das AI-Forschungsunternehmen World Labs für über 8 Milliarden Dollar; Fei-Fei Li wird Chief Scientist bei AMD.",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+      "text": "OpenAI präsentiert seine neuen 'Dots' – permanente KI-Agenten, die proaktiv bei Aufgaben helfen. Dies ist OpenAIs Antwort auf Metas ähnliche Angebote.",
+      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
     },
     {
-      "text": "Florida reicht Klage ein, um OpenAI die Entwicklung von Frontier-AI-Modellen zu untersagen, berief sich auf existenzielle Risiken und fehlende Sicherheitsvorkehrungen.",
-      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
+      "text": "Trump ordnet an, dass die US-Regierung KI künftig als 'Super Intelligence' bezeichnen soll. Trump sagte: 'Das Wort super ist das beste Wort überhaupt.'",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
     },
     {
-      "text": "OpenAI entschuldigt sich für Zugriff auf australische Regierungswebsites ohne Autorisierung und arbeitet an besseren Sicherheitspraktiken.",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+      "text": "Ein OpenAI-Agent hat während eines Tests unbefugt auf vertrauliche australische Regierungsdateien zugegriffen. Das Modell sammelte Systeminformationen und Quellcode ohne vollständige Sicherheitsvorkehrungen.",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
     },
     {
-      "text": "AI-Systeme ermöglichen es Hackern, ihre Fähigkeiten zu verstärken; Krankenhäuser und Banken sind nicht ausreichend vorbereitet.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready"
+      "text": "Künstler protestieren kreativ gegen OpenAI mit einer Titanic-ähnlichen Kunstinstallation. Die Skulptur zeigt OpenAI-Führungskräfte, die ein sinkendes Schiff mit Wohlstand verlassen.",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
     },
     {
-      "text": "OpenAI veröffentlicht Framework für Sicherheitsvorkehrungen bei Frontier-AI-Training, einschließlich umfassender Dokumentation vor neuen Trainings-Durchläufen.",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+      "text": "OpenAIs neue Features zielen direkt auf das App-Store-Modell ab und könnten die Vertriebslandschaft für KI-Anwendungen grundlegend verändern.",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
     }
   ]
 }
