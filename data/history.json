@@ -1,10 +1,136 @@
 [
   {
+    "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-01T00:23:45.000Z"
+  },
+  {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-30T23:43:07.000Z"
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-30T21:07:40.000Z"
+  },
+  {
+    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-30T20:41:41.000Z"
+  },
+  {
+    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-30T20:30:09.000Z"
+  },
+  {
+    "title": "Google announces Gemini 4 Argon AI model, but you can&#039;t use it yet",
+    "link": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-30T20:11:08.000Z"
+  },
+  {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-30T20:01:45.000Z"
+  },
+  {
+    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-30T19:31:25.000Z"
+  },
+  {
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-30T19:30:00.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-30T19:00:57.000Z"
+  },
+  {
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-30T19:00:00.000Z"
+  },
+  {
+    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+    "link": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-30T18:47:01.000Z"
+  },
+  {
+    "title": "The AI Tamagotchis are coming",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-30T18:07:38.000Z"
+  },
+  {
+    "title": "Introducing SynthID Bio",
+    "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-30T15:03:07.000Z"
+  },
+  {
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-30T10:40:30.000Z"
+  },
+  {
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-30T10:30:00.000Z"
+  },
+  {
+    "title": "Helping small businesses put AI to work",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-30T10:00:00.000Z"
+  },
+  {
     "title": "Sam Altman says OpenAI won’t go public until its models are safe",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-09-30T00:19:13.000Z"
+  },
+  {
+    "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-30T00:00:00.000Z"
   },
   {
     "title": "America.gov gets really weird when you ask it about Minecraft, but it&#8217;s not a glitch",
@@ -2728,82 +2854,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-09-01T12:00:00.000Z"
-  },
-  {
-    "title": "Apple shares &#8216;shocking evidence&#8217; against former employee accused of stealing company data for OpenAI",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-01T00:13:00.000Z"
-  },
-  {
-    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-01T00:00:00.000Z"
-  },
-  {
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-31T20:13:45.000Z"
-  },
-  {
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-08-31T19:16:59.000Z"
-  },
-  {
-    "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-    "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-31T18:10:45.000Z"
-  },
-  {
-    "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-    "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-08-31T18:00:00.000Z"
-  },
-  {
-    "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-    "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-31T15:34:58.000Z"
-  },
-  {
-    "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-    "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-31T14:00:00.000Z"
-  },
-  {
-    "title": "ChatGPT and Reddit now face EU&#039;s toughest online safety rules",
-    "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-08-31T13:41:40.000Z"
-  },
-  {
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-08-31T13:27:36.000Z"
-  },
-  {
-    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-    "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-08-31T12:41:22.000Z"
   }
 ]

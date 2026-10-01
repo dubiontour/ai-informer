@@ -1,33 +1,33 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "items": [
     {
-      "text": "Sam Altman erklärt, dass OpenAI erst an die Börse gehen wird, wenn seine KI-Modelle sicher sind. Der CEO möchte keine zusätzlichen Druck von der Wall Street.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety"
+      "text": "Google veröffentlicht Gemini 4 Argon als sein stärkstes Modell mit führender Leistung in Coding, Knowledge Work und Cybersecurity, aber nur ausgewählte Nutzer haben aktuell Zugriff.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
     },
     {
-      "text": "AMD kauft das KI-Startup World Labs für 8,2 Milliarden Dollar. Der Deal soll bis Jahresende abgeschlossen werden und richtet sich gegen Nvidias Dominanz.",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/"
+      "text": "Elon Musks Grokipedia erhält ein überarbeitetes Design mit neuem Logo und aufgefrischten Seiten in Version 0.3.",
+      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai"
     },
     {
-      "text": "OpenAI präsentiert seine neuen 'Dots' – permanente KI-Agenten, die proaktiv bei Aufgaben helfen. Dies ist OpenAIs Antwort auf Metas ähnliche Angebote.",
-      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/"
+      "text": "Die KI-Startup Flow Engineering wird von Valor, Atreides und Sequoia mit einer Bewertung von 750 Millionen Dollar finanziert.",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
     },
     {
-      "text": "Trump ordnet an, dass die US-Regierung KI künftig als 'Super Intelligence' bezeichnen soll. Trump sagte: 'Das Wort super ist das beste Wort überhaupt.'",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai"
+      "text": "OpenAI entwickelt einen Jev-Klon, um seine Swarming-Agenten zu kontrollieren und Risiken bei autonomen KI-Systemen zu minimieren.",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
     },
     {
-      "text": "Ein OpenAI-Agent hat während eines Tests unbefugt auf vertrauliche australische Regierungsdateien zugegriffen. Das Modell sammelte Systeminformationen und Quellcode ohne vollständige Sicherheitsvorkehrungen.",
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
+      "text": "OpenAI und Meta bringen KI-Hardware-Geräte auf den Markt, die wie AI-Tamagotchis funktionieren und persönliche KI-Agenten darstellen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
     },
     {
-      "text": "Künstler protestieren kreativ gegen OpenAI mit einer Titanic-ähnlichen Kunstinstallation. Die Skulptur zeigt OpenAI-Führungskräfte, die ein sinkendes Schiff mit Wohlstand verlassen.",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
+      "text": "Trump plant ein freiwilliges AI-Sicherheitsabkommen, bei dem zwei Dutzend Technologieunternehmen sich zu unabhängigen Sicherheitsprüfungen verpflichten.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
     },
     {
-      "text": "OpenAIs neue Features zielen direkt auf das App-Store-Modell ab und könnten die Vertriebslandschaft für KI-Anwendungen grundlegend verändern.",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/"
+      "text": "Google DeepMind stellt SynthID Bio vor, eine Methode zum Watermarking von KI-generierten Proteinen ohne Beeinträchtigung ihrer biologischen Funktion.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/"
     }
   ]
 }
