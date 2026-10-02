@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "items": [
     {
-      "text": "Google veröffentlicht Gemini 4 Argon als sein stärkstes Modell mit führender Leistung in Coding, Knowledge Work und Cybersecurity, aber nur ausgewählte Nutzer haben aktuell Zugriff.",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      "text": "Eine Sicherheitslücke in ChatGPTs Mac-App hätte Hackern Zugriff auf sensible Daten ermöglichen können. Das Sicherheitsproblem wurde inzwischen behoben.",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
     },
     {
-      "text": "Elon Musks Grokipedia erhält ein überarbeitetes Design mit neuem Logo und aufgefrischten Seiten in Version 0.3.",
-      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai"
+      "text": "Gesundheitsarbeiter beschweren sich über Palantirs KI-Systeme im Gesundheitswesen, die erhebliche Probleme verursachen. Die Systeme müssen häufig von Mitarbeitern manuell korrigiert werden.",
+      "url": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/"
     },
     {
-      "text": "Die KI-Startup Flow Engineering wird von Valor, Atreides und Sequoia mit einer Bewertung von 750 Millionen Dollar finanziert.",
-      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/"
+      "text": "MIT-Forschung warnt davor, dass Große Sprachmodelle nicht wirklich logisch denken, sondern Muster reproduzieren. Dies sollte bei der Bewertung ihrer Fähigkeiten berücksichtigt werden.",
+      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
     },
     {
-      "text": "OpenAI entwickelt einen Jev-Klon, um seine Swarming-Agenten zu kontrollieren und Risiken bei autonomen KI-Systemen zu minimieren.",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+      "text": "Googles Guided Vision-Feature hilft Menschen mit Sehbehinderungen, Gemini zur Beschreibung von nahegelegenen Objekten zu nutzen. Die neue Funktion ermöglicht Nachfragen an den KI-Assistenten.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
     },
     {
-      "text": "OpenAI und Meta bringen KI-Hardware-Geräte auf den Markt, die wie AI-Tamagotchis funktionieren und persönliche KI-Agenten darstellen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
+      "text": "ChatGPT erhält eine neue Funktion zum virtuellen Anprobieren von Kleidung. Nutzer können damit Kleidungsstücke an ihrem Körper visualisieren.",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
     },
     {
-      "text": "Trump plant ein freiwilliges AI-Sicherheitsabkommen, bei dem zwei Dutzend Technologieunternehmen sich zu unabhängigen Sicherheitsprüfungen verpflichten.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+      "text": "Ein US-Gericht hat Kartellklagen von Chegg und Penske gegen Google bezüglich KI-Overviews abgewiesen. Das Gericht erkannte an, dass KI-Suche Konsequenzen hat, dies aber kein Kartellverstoß ist.",
+      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
     },
     {
-      "text": "Google DeepMind stellt SynthID Bio vor, eine Methode zum Watermarking von KI-generierten Proteinen ohne Beeinträchtigung ihrer biologischen Funktion.",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/"
+      "text": "Forscher aus Carnegie Mellon, MIT und Stanford haben mit ihrer KI Ataraxos den weltbesten Stratego-Spieler geschlagen. Das System benötigte nur 16 GPUs und Tausende Dollar zum Training.",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
     }
   ]
 }

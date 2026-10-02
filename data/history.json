@@ -1,10 +1,129 @@
 [
   {
+    "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T09:45:00.000Z"
+  },
+  {
+    "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+    "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T09:30:00.000Z"
+  },
+  {
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-02T08:00:00.000Z"
+  },
+  {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-02T04:01:31.000Z"
+  },
+  {
+    "title": "Whatever AI Safety Is, It’s Not This",
+    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-01T22:10:42.000Z"
+  },
+  {
+    "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-01T21:08:11.000Z"
+  },
+  {
+    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+    "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-01T20:11:55.000Z"
+  },
+  {
+    "title": "Google’s new Guided Vision feature can help you read the fine print",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-01T19:47:51.000Z"
+  },
+  {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-01T19:21:53.000Z"
+  },
+  {
+    "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-01T19:18:03.000Z"
+  },
+  {
+    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-01T17:12:21.000Z"
+  },
+  {
+    "title": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-01T17:00:00.000Z"
+  },
+  {
+    "title": "With most information hidden, the game Stratego had stumped AI—until now",
+    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-01T16:28:04.000Z"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-01T16:00:00.000Z"
+  },
+  {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-01T15:01:43.000Z"
+  },
+  {
+    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-01T14:36:50.000Z"
+  },
+  {
     "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
     "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-10-01T00:23:45.000Z"
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "link": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-01T00:00:00.000Z"
   },
   {
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
@@ -2763,96 +2882,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-09-02T12:00:00.000Z"
-  },
-  {
-    "title": "Google needs Hollywood more than the studios need AI",
-    "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-01T22:50:29.000Z"
-  },
-  {
-    "title": "AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now valued at $3.2B",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-01T22:08:24.000Z"
-  },
-  {
-    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-01T22:01:36.000Z"
-  },
-  {
-    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-01T21:39:07.000Z"
-  },
-  {
-    "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-01T21:06:24.000Z"
-  },
-  {
-    "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
-    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-01T20:53:05.000Z"
-  },
-  {
-    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-01T20:45:49.000Z"
-  },
-  {
-    "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-    "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-01T20:00:00.000Z"
-  },
-  {
-    "title": "Introducing agentic video understanding with Gemini",
-    "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-09-01T17:08:51.000Z"
-  },
-  {
-    "title": "How AI-native companies turn workflows into operating capability",
-    "link": "https://openai.com/index/ai-native-company-workflows",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-01T17:00:00.000Z"
-  },
-  {
-    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-01T14:40:00.000Z"
-  },
-  {
-    "title": "Path to Astra: critical capabilities and frontier safeguards",
-    "link": "https://openai.com/index/path-to-astra",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-01T13:00:00.000Z"
-  },
-  {
-    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-01T12:00:00.000Z"
   }
 ]
