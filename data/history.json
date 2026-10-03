@@ -1,5 +1,103 @@
 [
   {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-03T00:45:39.000Z"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-02T23:03:16.000Z"
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-02T21:09:14.000Z"
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-02T21:08:37.000Z"
+  },
+  {
+    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-02T20:30:27.000Z"
+  },
+  {
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-02T20:08:40.000Z"
+  },
+  {
+    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-02T19:15:51.000Z"
+  },
+  {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-02T18:39:36.000Z"
+  },
+  {
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-02T18:00:00.000Z"
+  },
+  {
+    "title": "A model guide for the GPT-6 family",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-02T16:15:00.000Z"
+  },
+  {
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T16:00:00.000Z"
+  },
+  {
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-02T15:49:04.000Z"
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-02T15:19:50.000Z"
+  },
+  {
+    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T15:00:00.000Z"
+  },
+  {
     "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
     "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
     "source": "Wired AI",
@@ -26,6 +124,13 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-10-02T04:01:31.000Z"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-02T00:00:00.000Z"
   },
   {
     "title": "Whatever AI Safety Is, It’s Not This",
@@ -2742,145 +2847,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-09-03T12:00:00.000Z"
-  },
-  {
-    "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-    "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-03T01:32:02.000Z"
-  },
-  {
-    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-03T00:00:00.000Z"
-  },
-  {
-    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-03T00:00:00.000Z"
-  },
-  {
-    "title": "Give Your Coding Agents a Memory You Own",
-    "link": "https://huggingface.co/blog/funes",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-03T00:00:00.000Z"
-  },
-  {
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-02T23:01:00.000Z"
-  },
-  {
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-02T22:44:56.000Z"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-02T22:24:09.000Z"
-  },
-  {
-    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-02T20:11:40.000Z"
-  },
-  {
-    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-    "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-02T18:41:02.000Z"
-  },
-  {
-    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-    "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-02T18:20:00.000Z"
-  },
-  {
-    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-    "link": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-02T18:13:54.000Z"
-  },
-  {
-    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-    "link": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-02T17:58:33.000Z"
-  },
-  {
-    "title": "Amazon’s AI assistant can now spot fake emails from the company",
-    "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-02T17:52:56.000Z"
-  },
-  {
-    "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-02T16:40:50.000Z"
-  },
-  {
-    "title": "Proactive cyber defense for governments and enterprises",
-    "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-09-02T16:24:24.000Z"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-09-02T16:18:31.000Z"
-  },
-  {
-    "title": "Facilitating AI integration with simplicity at scale",
-    "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-02T14:00:00.000Z"
-  },
-  {
-    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-    "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-09-02T13:59:59.000Z"
-  },
-  {
-    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-02T13:49:14.000Z"
-  },
-  {
-    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-02T12:00:00.000Z"
   }
 ]

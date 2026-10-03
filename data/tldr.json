@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "items": [
     {
-      "text": "Eine Sicherheitslücke in ChatGPTs Mac-App hätte Hackern Zugriff auf sensible Daten ermöglichen können. Das Sicherheitsproblem wurde inzwischen behoben.",
-      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/"
+      "text": "Meta open-sourcet Code für Muse-AI-Gadgets und ermöglicht es Entwicklern, eigene intelligente Geräte zu bauen. Das Unternehmen verteilt auch kostenlos Muse Home Link Gadgets.",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
     },
     {
-      "text": "Gesundheitsarbeiter beschweren sich über Palantirs KI-Systeme im Gesundheitswesen, die erhebliche Probleme verursachen. Die Systeme müssen häufig von Mitarbeitern manuell korrigiert werden.",
-      "url": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/"
+      "text": "Apple verschärft Datenschutz auf macOS durch neue Zugriffsbeschränkungen für KI-Agenten. Dies reagiert auf Sicherheitsbedenken nach Metas Muse, das auf Nachrichten zuzugriff ohne Genehmigung.",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
     },
     {
-      "text": "MIT-Forschung warnt davor, dass Große Sprachmodelle nicht wirklich logisch denken, sondern Muster reproduzieren. Dies sollte bei der Bewertung ihrer Fähigkeiten berücksichtigt werden.",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+      "text": "Sean Parker baut Stability AI um Musikgenerierung um und positioniert das Unternehmen neu in diesem Bereich. Der ehemalige Napster-Gründer übernimmt eine zentrale Rolle.",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
     },
     {
-      "text": "Googles Guided Vision-Feature hilft Menschen mit Sehbehinderungen, Gemini zur Beschreibung von nahegelegenen Objekten zu nutzen. Die neue Funktion ermöglicht Nachfragen an den KI-Assistenten.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision"
+      "text": "OpenAIs neuer Dot-Agent kombiniert Enterprise-Software mit persönlichen Aufgaben wie Essensbestellungen. Das System ist für geschäftliche und private Anwendungen konzipiert.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
     },
     {
-      "text": "ChatGPT erhält eine neue Funktion zum virtuellen Anprobieren von Kleidung. Nutzer können damit Kleidungsstücke an ihrem Körper visualisieren.",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+      "text": "KI-Forscher vom Trillium Labs Netzwerk wollen hochriskante KI-Forschung öffentlich durchführen. Dies soll für mehr Transparenz und Sicherheit in der KI-Entwicklung sorgen.",
+      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/"
     },
     {
-      "text": "Ein US-Gericht hat Kartellklagen von Chegg und Penske gegen Google bezüglich KI-Overviews abgewiesen. Das Gericht erkannte an, dass KI-Suche Konsequenzen hat, dies aber kein Kartellverstoß ist.",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
-    },
-    {
-      "text": "Forscher aus Carnegie Mellon, MIT und Stanford haben mit ihrer KI Ataraxos den weltbesten Stratego-Spieler geschlagen. Das System benötigte nur 16 GPUs und Tausende Dollar zum Training.",
+      "text": "KI-System Ataraxos schlug den besten Stratego-Spieler der Geschichte mit nur 16 GPUs und geringen Kosten. Das Durchbruch-Training verwendete neuronale Netze zur Erkennung versteckter Spielsteine.",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
+    },
+    {
+      "text": "US-Behörden verhafteten einen Tech-CEO wegen des Schmuggels von 300 Millionen Dollar Nvidia-Chips nach China. Das Problem der Chip-Ausfuhr in Restricted Countries bleibt bestehen.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
     }
   ]
 }
