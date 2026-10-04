@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "items": [
     {
-      "text": "Meta open-sourcet Code für Muse-AI-Gadgets und ermöglicht es Entwicklern, eigene intelligente Geräte zu bauen. Das Unternehmen verteilt auch kostenlos Muse Home Link Gadgets.",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
-    },
-    {
-      "text": "Apple verschärft Datenschutz auf macOS durch neue Zugriffsbeschränkungen für KI-Agenten. Dies reagiert auf Sicherheitsbedenken nach Metas Muse, das auf Nachrichten zuzugriff ohne Genehmigung.",
-      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
-    },
-    {
-      "text": "Sean Parker baut Stability AI um Musikgenerierung um und positioniert das Unternehmen neu in diesem Bereich. Der ehemalige Napster-Gründer übernimmt eine zentrale Rolle.",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
-    },
-    {
-      "text": "OpenAIs neuer Dot-Agent kombiniert Enterprise-Software mit persönlichen Aufgaben wie Essensbestellungen. Das System ist für geschäftliche und private Anwendungen konzipiert.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
-    },
-    {
-      "text": "KI-Forscher vom Trillium Labs Netzwerk wollen hochriskante KI-Forschung öffentlich durchführen. Dies soll für mehr Transparenz und Sicherheit in der KI-Entwicklung sorgen.",
-      "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/"
-    },
-    {
-      "text": "KI-System Ataraxos schlug den besten Stratego-Spieler der Geschichte mit nur 16 GPUs und geringen Kosten. Das Durchbruch-Training verwendete neuronale Netze zur Erkennung versteckter Spielsteine.",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/"
-    },
-    {
-      "text": "US-Behörden verhafteten einen Tech-CEO wegen des Schmuggels von 300 Millionen Dollar Nvidia-Chips nach China. Das Problem der Chip-Ausfuhr in Restricted Countries bleibt bestehen.",
+      "text": "Die USA verhaften einen Tech-CEO wegen Vorwürfen, 300 Millionen Dollar an Nvidia-Chips illegal nach China geschmuggelt zu haben. Der Fall zeigt anhaltende Probleme mit der Ablenkung von Exportkontroll-Chips.",
       "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/"
+    },
+    {
+      "text": "Apple ändert Datenschutzeinstellungen auf macOS, um KI-Agenten vom Missbrauch von Vollzugriff auf Festplatten abzuhalten. Der Schritt folgt Bedenken, dass Metas Muse-Agent Nachrichtenverläufe ohne Genehmigung las.",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+    },
+    {
+      "text": "Ein OpenAI-Sicherheitsmitarbeiter tritt aus und wirft dem Unternehmen vor, eine 'kaputte Kultur' zu haben. David Robinson, der Sicherheitsberichte verfasste, kritisiert die Unternehmenskultur öffentlich.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+    },
+    {
+      "text": "Capcom plant die Zukunft der Spieleentwicklung mit KI-Integration in seinen RE Engine. Das Unternehmen bereitet sich auf 'eine Zukunft vor, in der wir Spiele zusammen mit KI entwickeln'.",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+    },
+    {
+      "text": "Amazon verpflichtet sich, mehr als 1 Milliarde Dollar an Gemeinden neben Rechenzentren zu spenden, verzichtet auf NDAs und verspricht 'Wasser-positive' Operationen bis 2030. Die Initiative zieht jedoch gemischte Reaktionen hervor.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/"
+    },
+    {
+      "text": "Yann LeCun äußert 'null Bedenken' bezüglich KI-bedingter Menschheitsauslöschung und nennt jüngste autonome KI-Zwischenfälle 'völlig vermeidbar'. Der Turing-Preisträger widersetzt sich damit dem Alarmismus anderer KI-Führungskräfte.",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"
+    },
+    {
+      "text": "TechCrunch-Artikel zeigt eine Übersicht aller KI-Agenten, die in Textnachrichten leben können. Diese neuen Tools ermöglichen direkte Interaktionen mit KI-Assistenten in Messaging-Apps.",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/"
     }
   ]
 }

@@ -1,5 +1,131 @@
 [
   {
+    "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+    "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-04T10:00:00.000Z"
+  },
+  {
+    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+    "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-04T09:25:19.000Z"
+  },
+  {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T04:21:03.000Z"
+  },
+  {
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T00:48:42.000Z"
+  },
+  {
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-03T21:56:21.000Z"
+  },
+  {
+    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-03T21:48:24.000Z"
+  },
+  {
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-03T19:36:29.000Z"
+  },
+  {
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-03T18:10:19.000Z"
+  },
+  {
+    "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+    "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-03T18:06:24.000Z"
+  },
+  {
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-03T18:00:00.000Z"
+  },
+  {
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-03T16:00:00.000Z"
+  },
+  {
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-03T16:00:00.000Z"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-09-03T15:02:08.000Z"
+  },
+  {
+    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-03T13:34:13.000Z"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-03T13:15:00.000Z"
+  },
+  {
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-03T13:13:48.000Z"
+  },
+  {
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-03T12:00:00.000Z"
+  },
+  {
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-03T12:00:00.000Z"
+  },
+  {
     "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
     "link": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
     "source": "Wired AI",
