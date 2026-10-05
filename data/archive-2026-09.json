@@ -1,5 +1,96 @@
 [
   {
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-05T11:15:55.000Z"
+  },
+  {
+    "title": "OpenAI Agents Hacked Another Website",
+    "link": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-05T10:30:00.000Z"
+  },
+  {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T23:36:14.000Z"
+  },
+  {
+    "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T23:15:11.000Z"
+  },
+  {
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-04T22:17:36.000Z"
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-04T21:12:11.000Z"
+  },
+  {
+    "title": "Architecting memory and storage in the AI era",
+    "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-04T18:39:19.000Z"
+  },
+  {
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-04T17:51:35.000Z"
+  },
+  {
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-04T17:18:12.000Z"
+  },
+  {
+    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+    "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-04T16:22:18.000Z"
+  },
+  {
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-04T16:05:57.000Z"
+  },
+  {
+    "title": "Who Cares if AI Is Conscious—It’s Basically Alive",
+    "link": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-04T15:00:00.000Z"
+  },
+  {
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-04T13:34:12.000Z"
+  },
+  {
     "title": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
     "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
     "source": "Wired AI",
