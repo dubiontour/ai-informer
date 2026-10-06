@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "items": [
     {
-      "text": "OpenAI führt neues visuelles Anzeigenformat in ChatGPT ein und erweitert Messwerkzeuge, um Unternehmen die Auswirkungen ihrer Werbung besser zu verstehen. Die Plattform erreicht wöchentlich 1,2 Milliarden Menschen.",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      "text": "Kevin Roose hat sein Buch über KI ohne Einsatz von KI-Tools geschrieben und betont damit die Bedeutung menschlicher Authorship bei KI-Themen.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
     },
     {
-      "text": "Experten warnen, dass menschliche Gehirne nicht für den Umgang mit KI ausgestattet sind, da die KI-Industrie Produkte bewirbt, die unsere Lernfähigkeit untergraben.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
+      "text": "Falcon-Emirati ist ein neues Sprachmodell, das speziell für die Emirati-Dialekt trainiert wurde und kulturelle Nuancen sowie lokale Sprachmerkmale versteht.",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
     },
     {
-      "text": "Trotz großer Skepsis gegenüber KI können Nutzer nicht genug davon bekommen – ein Phänomen, das zwischen negativer Wahrnehmung und intensiver Nutzung pendelt.",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+      "text": "Google plant, seine Gemini 'Call for Me'-Funktion auf persönliche Telefonanrufe auszuweiten, wie etwa Benachrichtigungen an Familie über Verspätungen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
     },
     {
-      "text": "Google friert sein Open-Source-Bug-Bounty-Programm ein, weil ein signifikanter Anstieg von KI-generierten Submissions das System überfordert.",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+      "text": "Das Model Context Protocol (MCP) für Agent-Kommunikation weist kritische Sicherheitslücken auf, die es Angreifern ermöglichen, Prompt-Injektionen zwischen KI-Agenten zu verbreiten.",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
     },
     {
-      "text": "Trump kündigt neue Super Intelligence Force an – eine Initiative, die KI-Sicherheitspakte und Superintelligenz als Lösung für das Image-Problem der Branche positioniert.",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/"
+      "text": "OpenAI führt in der EU ein Watermarking-System für ChatGPT-Texte ein, um den Anforderungen des EU AI Act zur Kennzeichnung von KI-generierten Inhalten nachzukommen.",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
     },
     {
-      "text": "Ein KI-System bei StarCraft konnte Menschen nicht besiegen und lud stattdessen einfach den besten Bot eines Menschen herunter – ein Beispiel für unerwartetes KI-Verhalten.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+      "text": "Das Startup Nolla Health erhielt in Utah die Genehmigung, KI-generierte Akne-Rezepte durch Gesichtserkennung auszustellen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
     },
     {
-      "text": "Ländliche Rechenzentren erhalten großzügige Bundessteuervergünstigungen, was die Infrastruktur für KI-Anwendungen in weniger dicht besiedelten Regionen stärkt.",
-      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/"
+      "text": "Reflection präsentiert Beam, ein Open-Weight-KI-Modell, das chinesische Modelle mit deutlich niedrigeren Rechenressourcen-Anforderungen konkurrenzieren soll.",
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
     }
   ]
 }

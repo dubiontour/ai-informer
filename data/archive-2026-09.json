@@ -1,5 +1,54 @@
 [
   {
+    "title": "My Brief Summer Fling With Siri AI",
+    "link": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-06T10:30:00.000Z"
+  },
+  {
+    "title": "Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit",
+    "link": "https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-06T10:00:00.000Z"
+  },
+  {
+    "title": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-06T09:00:00.000Z"
+  },
+  {
+    "title": "Research acceleration: The view inside OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-06T08:00:00.000Z"
+  },
+  {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-05T22:49:55.000Z"
+  },
+  {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-05T19:35:24.000Z"
+  },
+  {
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-05T18:05:27.000Z"
+  },
+  {
     "title": "OpenAI admits to German wiki ‘incident’",
     "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
     "source": "The Verge AI",
