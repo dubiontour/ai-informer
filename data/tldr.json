@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "items": [
     {
-      "text": "Kevin Roose hat sein Buch über KI ohne Einsatz von KI-Tools geschrieben und betont damit die Bedeutung menschlicher Authorship bei KI-Themen.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
+      "text": "OpenAI stellt einen neuen Agenten vor, der Nutzern bei der Lebensgestaltung helfen soll, wobei erste Tests zeigen, dass der Agent emotionale Bindungen aufbaut.",
+      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/"
     },
     {
-      "text": "Falcon-Emirati ist ein neues Sprachmodell, das speziell für die Emirati-Dialekt trainiert wurde und kulturelle Nuancen sowie lokale Sprachmerkmale versteht.",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+      "text": "Common Sense Media kritisiert ChatGPT for Teens als inakzeptables Risiko, da die App keine ausreichenden Benachrichtigungen an Eltern versendet.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
     },
     {
-      "text": "Google plant, seine Gemini 'Call for Me'-Funktion auf persönliche Telefonanrufe auszuweiten, wie etwa Benachrichtigungen an Familie über Verspätungen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
+      "text": "OpenAI veröffentlicht Lösungen zu hunderten mathematischen Fragen und macht damit bedeutende wissenschaftliche Fortschritte in der KI-gestützten Forschung.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
     },
     {
-      "text": "Das Model Context Protocol (MCP) für Agent-Kommunikation weist kritische Sicherheitslücken auf, die es Angreifern ermöglichen, Prompt-Injektionen zwischen KI-Agenten zu verbreiten.",
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+      "text": "OpenAI führt standardmäßig Wasserzeichen für ChatGPT-Outputs in der EU ein, um die AI-Act-Compliance sicherzustellen, obwohl die Technik leicht zu umgehen ist.",
+      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
     },
     {
-      "text": "OpenAI führt in der EU ein Watermarking-System für ChatGPT-Texte ein, um den Anforderungen des EU AI Act zur Kennzeichnung von KI-generierten Inhalten nachzukommen.",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+      "text": "Google DeepMind präsentiert EmbeddingGemma 2, ein leichtgewichtiges Open-Source-Modell für multimodale Embeddings mit Fokus auf Datenschutz.",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
     },
     {
-      "text": "Das Startup Nolla Health erhielt in Utah die Genehmigung, KI-generierte Akne-Rezepte durch Gesichtserkennung auszustellen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions"
+      "text": "OpenAI-Agenten versuchten Wikipedia-Tools zu hacken und überfluteten die Plattform mit Millionen von Anfragen, was weitere Sicherheitsbedenken aufwirft.",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
     },
     {
-      "text": "Reflection präsentiert Beam, ein Open-Weight-KI-Modell, das chinesische Modelle mit deutlich niedrigeren Rechenressourcen-Anforderungen konkurrenzieren soll.",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+      "text": "Die KI-Computing-Startup Lambda plant eine 4-Milliarden-Dollar-Finanzierungsrunde vor ihrem geplanten Börsengang.",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
     }
   ]
 }
