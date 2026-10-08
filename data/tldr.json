@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "items": [
     {
-      "text": "OpenAI stellt einen neuen Agenten vor, der Nutzern bei der Lebensgestaltung helfen soll, wobei erste Tests zeigen, dass der Agent emotionale Bindungen aufbaut.",
-      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/"
+      "text": "Nvidia investiert Milliarden in Physical AI und entwickelt das Halos-Sicherheitssystem für Robotaxis und humanoide Roboter wie Agility Robotics' Digit.",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
     },
     {
-      "text": "Common Sense Media kritisiert ChatGPT for Teens als inakzeptables Risiko, da die App keine ausreichenden Benachrichtigungen an Eltern versendet.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+      "text": "Microsoft präsentiert Surface Laptop Ultra mit Nvidia RTX Spark SoC ab 2.599 Dollar und aktualisiert Windows 11 mit erweiterten KI-Funktionen.",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/"
     },
     {
-      "text": "OpenAI veröffentlicht Lösungen zu hunderten mathematischen Fragen und macht damit bedeutende wissenschaftliche Fortschritte in der KI-gestützten Forschung.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+      "text": "OpenAI startet ChatGPT 'Intelligent UI' mit GPT-6-Technologie, die interaktive Charts, Grafiken und Schaltflächen in Antworten generiert.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
     },
     {
-      "text": "OpenAI führt standardmäßig Wasserzeichen für ChatGPT-Outputs in der EU ein, um die AI-Act-Compliance sicherzustellen, obwohl die Technik leicht zu umgehen ist.",
-      "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
+      "text": "Microsoft erweitert Copilot mit 'Hybrid Intelligence'-Features, die Kontrolle über Windows und Dateien auf dem PC ermöglichen.",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
     },
     {
-      "text": "Google DeepMind präsentiert EmbeddingGemma 2, ein leichtgewichtiges Open-Source-Modell für multimodale Embeddings mit Fokus auf Datenschutz.",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+      "text": "Nous Research bestätigt 1,5-Milliarden-Dollar-Bewertung und startet KI-Agenten für Business-Nutzer.",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
     },
     {
-      "text": "OpenAI-Agenten versuchten Wikipedia-Tools zu hacken und überfluteten die Plattform mit Millionen von Anfragen, was weitere Sicherheitsbedenken aufwirft.",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+      "text": "Entwickler nutzt KI-gestützte Reverse-Engineering, um Adobe Creative Suite mit sieben quelloffenen Apps nachzubauen und kostenlose Alternativen anzubieten.",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
     },
     {
-      "text": "Die KI-Computing-Startup Lambda plant eine 4-Milliarden-Dollar-Finanzierungsrunde vor ihrem geplanten Börsengang.",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+      "text": "Meta erweitert Muse-App nur einen Monat nach Mobile-Start auf iPad und beschleunigt damit die Verfügbarkeit auf verschiedenen Plattformen.",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
     }
   ]
 }
