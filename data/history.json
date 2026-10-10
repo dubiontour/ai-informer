@@ -1,5 +1,82 @@
 [
   {
+    "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-10T00:18:32.000Z"
+  },
+  {
+    "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-09T22:04:07.000Z"
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-09T21:41:29.000Z"
+  },
+  {
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-09T21:15:38.000Z"
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-09T19:43:50.000Z"
+  },
+  {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-09T19:36:56.000Z"
+  },
+  {
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-09T19:28:49.000Z"
+  },
+  {
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-09T19:09:44.000Z"
+  },
+  {
+    "title": "AI disqualification yields new Nikon Small World in Motion winner",
+    "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-09T18:44:06.000Z"
+  },
+  {
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-09T18:06:57.000Z"
+  },
+  {
+    "title": "Impactful scheduling for GPU clusters",
+    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-09T15:20:29.000Z"
+  },
+  {
     "title": "Even ‘Law & Order’ Is Terrified of AI",
     "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
     "source": "Wired AI",
@@ -23,6 +100,13 @@
   {
     "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
     "link": "https://openai.com/index/sophos",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-09T07:00:00.000Z"
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-10-09T07:00:00.000Z"
@@ -2854,124 +2938,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-09-10T11:00:00.000Z"
-  },
-  {
-    "title": "Introducing ChatGPT for Financial Services",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-10T07:00:00.000Z"
-  },
-  {
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-10T00:00:37.000Z"
-  },
-  {
-    "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-    "link": "https://huggingface.co/blog/gradio-workflow-1111",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-10T00:00:00.000Z"
-  },
-  {
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-09T22:25:22.000Z"
-  },
-  {
-    "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-    "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-09T22:11:55.000Z"
-  },
-  {
-    "title": "Massachusetts hits data centers with new clean power rules",
-    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-09T21:43:34.000Z"
-  },
-  {
-    "title": "Suno releases its first AI music model made with record industry help",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-09T21:42:19.000Z"
-  },
-  {
-    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-09T21:16:34.000Z"
-  },
-  {
-    "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-    "link": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-09T21:15:27.000Z"
-  },
-  {
-    "title": "Read the Apple document explaining how new listening features still protect your privacy",
-    "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-09T20:44:43.000Z"
-  },
-  {
-    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-    "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-09T20:06:28.000Z"
-  },
-  {
-    "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
-    "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-09T18:30:00.000Z"
-  },
-  {
-    "title": "Paul Christiano joins OpenAI Foundation Board",
-    "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-09T17:00:00.000Z"
-  },
-  {
-    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-    "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-09T16:59:40.000Z"
-  },
-  {
-    "title": "Google&#039;s AI genome system evaluates every possible one-base change",
-    "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-09T16:34:18.000Z"
-  },
-  {
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-09T15:36:24.000Z"
-  },
-  {
-    "title": "The AI policy window is open. We need to act.",
-    "link": "https://openai.com/index/ai-policy-window",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-09T13:00:00.000Z"
   }
 ]
