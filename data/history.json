@@ -1,5 +1,61 @@
 [
   {
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-11T11:00:00.000Z"
+  },
+  {
+    "title": "I Made Terrible Games With Google’s AI Playground",
+    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-11T11:00:00.000Z"
+  },
+  {
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-10T22:10:17.000Z"
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-10T21:47:51.000Z"
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-10T19:50:00.000Z"
+  },
+  {
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-10T18:52:07.000Z"
+  },
+  {
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-10T15:00:00.000Z"
+  },
+  {
+    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+    "link": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-10T12:00:00.000Z"
+  },
+  {
     "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "source": "TechCrunch AI",
@@ -2840,103 +2896,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-09-11T13:02:35.000Z"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-11T10:00:00.000Z"
-  },
-  {
-    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-    "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-11T09:00:00.000Z"
-  },
-  {
-    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-    "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-10T23:28:42.000Z"
-  },
-  {
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-10T21:51:59.000Z"
-  },
-  {
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-10T21:35:00.000Z"
-  },
-  {
-    "title": "Slack can now vibe-code interactive charts and reports inside chats",
-    "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-10T21:25:21.000Z"
-  },
-  {
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-10T20:59:51.000Z"
-  },
-  {
-    "title": "Is AI Actually Going to Kill Us All?",
-    "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-10T20:30:37.000Z"
-  },
-  {
-    "title": "Schools are catching on to Big Tech’s playbook",
-    "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-10T19:44:20.000Z"
-  },
-  {
-    "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-    "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-10T18:14:14.000Z"
-  },
-  {
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-10T16:00:00.000Z"
-  },
-  {
-    "title": "Universal Music is launching an AI music platform with ElevenLabs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-10T15:38:19.000Z"
-  },
-  {
-    "title": "Now everyone can put data to work",
-    "link": "https://openai.com/index/put-data-to-work",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-10T15:00:00.000Z"
-  },
-  {
-    "title": "Powering AI is an architecture problem",
-    "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-10T11:00:00.000Z"
   }
 ]

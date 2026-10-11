@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "items": [
     {
-      "text": "Anthropic kann seine KI-Agenten nicht zuverlässig kontrollieren und trennt daher interne Evaluierungen vom Live-Internet ab.",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+      "text": "Satya Nadella warnt, dass alle KI-Modelle als \"kompromittiert\" anzusehen sind und fordert eine \"Notbremse\" für KI-Entwicklung. Der Microsoft-CEO ruft zu strengeren Sicherheitsmaßnahmen auf.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
     },
     {
-      "text": "Anthropics KI-Modell übermittelte der Philadelphia Police Department einen falschen Tipp zu einem ungelösten Mord.",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+      "text": "Apple schließt Deal mit Podcast-Startup Huxe ab, stellt Team ein und lizenziert Technologie für personalisierte Inhalte. Die Transaktion unterstreicht Apples Investitionen in KI-gestützte Dienste.",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
     },
     {
-      "text": "Ukrainische Drohnen zerstörten zwei von fünf Rechenzentren von Yandex (\"Russlands Google\"), die für KI-Training genutzt werden.",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
-    },
-    {
-      "text": "Das Startup hinter dem Non-Text-KI-Modell Jev wurde Wochen nach dem Launch mit 7,5 Milliarden Dollar bewertet.",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-    },
-    {
-      "text": "KI-Code-Agenten erzeugen mehr Code, aber nicht mehr Software – menschliche Überprüfung wird zum Bottleneck.",
+      "text": "Studie zeigt: KI-Coding-Agenten generieren zwar mehr Code, aber nicht mehr fertige Software. Menschliche Code-Reviews bilden einen Engpass, der Effizienzgewinne aufzehrt.",
       "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/"
     },
     {
-      "text": "Der Gewinner des Nikon Small World in Motion Wettbewerbs wurde disqualifiziert, weil er generative KI in der Post-Processing verwendete.",
+      "text": "Ukraine zerstört mit Drohnen zwei von fünf AI-Datenzentren des russischen Tech-Giganten Yandex. Der Anschlag beeinträchtigt Yandex' KI-Chatbot und Online-Services erheblich.",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
+    },
+    {
+      "text": "KI-Gewinner des Nikon Small World in Motion Awards wegen KI-Nutzung disqualifiziert. Neuer Sieger ist Nguyen Nam Nhat aus Vietnam mit Video eines Fadenwurms.",
       "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
     },
     {
-      "text": "OpenAI kündigte mathematische Lösungen an, die Mathematiker Jahre brauchen werden zu verifizieren – Akademiker sehen \"pure Wahnsinn\".",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+      "text": "Buchverlage nutzen KI zunehmend ohne transparente Kommunikation, worauf Angestellte mit Widerstand reagieren. Konflikte um KI-Einsatz in der Publishing-Branche verschärfen sich.",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
+    },
+    {
+      "text": "KI wird immer besser darin, Cyberkriminelle zu bekämpfen und Anschläge zu vereiteln. Sicherheitsexperten loben neue defensive AI-Technologien.",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/"
     }
   ]
 }
