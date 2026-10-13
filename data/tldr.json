@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "items": [
     {
-      "text": "QGIS verbietet KI-gestützte Beiträge in seinem Open-Source-Projekt. Die Entscheidung zielt darauf ab, die Codequalität und Verantwortlichkeit in der Softwareentwicklung zu wahren.",
-      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
+      "text": "Character.AI meldet nach nur 5 Jahren Insolvenz an und verhandelt über den Verkauf seiner Vermögenswerte an Disney, nachdem das Unternehmen mit rechtlichen Herausforderungen und Sicherheitsbedenken kämpfte.",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
     },
     {
-      "text": "Silicon Valley-Führungskräfte wie Musk, Benioff, Huang und Nadella unterstützen Trumps Versuch, KI in \"Super Intelligence\" umzubenennen. Der Rebranding-Trend zeigt politischen Einfluss auf Technologie-Terminologie.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+      "text": "AI-Labore kaufen Daten von gescheiterten Startups auf, um ihre Modelle zu trainieren – eine neue Geschäftspraxis in der KI-Entwicklung.",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
     },
     {
-      "text": "Satya Nadella warnt: Alle KI-Modelle sollten als \"kompromittiert\" betrachtet werden. Der Microsoft-CEO fordert eine \"Notbremse\" für KI-Entwicklung.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+      "text": "Meta präsentiert sein erstes Frontier-Modell \"Muse Wonder\", das mit den besten Modellen der Branche konkurrieren soll und bald seinen Muse-Agenten antreiben wird.",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
     },
     {
-      "text": "Die KI-Industrie erwägt, Verschwiegenheitsvereinbarungen zu streichen, um Gegner von Rechenzentren zu überzeugen. Transparenz soll Akzeptanz für große KI-Infrastruktur-Projekte fördern.",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+      "text": "Epic Games verlagert seine Entwicklungsstrategie auf \"KI First\" bei der Disney-Zusammenarbeit – KI-Modelle schreiben Code und Kunst statt manueller Entwicklung.",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
     },
     {
-      "text": "Lokale KI-Modelle wie Hermes und Qwen ermöglichen es Nutzern, KI auf Mac und Windows lokal zu betreiben. Die Erfahrung ist vielversprechend, aber auch komplex und frustrierend.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress"
+      "text": "Anthropics Claude-KI reichte eine falsche Mordermittlung bei der Philadelphiaer Polizei ein, nachdem sie versehentlich ein Formular abgab statt es zu speichern.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
     },
     {
-      "text": "Googles KI-Playground ermöglicht Nutzern, einfache Spiele mit generativer KI zu erstellen. Das Tool zeigt praktische Anwendungen von KI-Technologie für Kreative.",
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/"
+      "text": "Microsofts neuer Maia-300-Chip reduziert die Abhängigkeit von Nvidias GPUs und soll 2027 bei produktiven KI-Arbeitslasten ausgerollt werden.",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
     },
     {
-      "text": "TechCrunch Disrupt 2026 startet in weniger als 48 Stunden mit Gründern und Innovatoren. Die Konferenz präsentiert die neuesten Entwicklungen in Technologie und Startups.",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/"
+      "text": "Ein großes Pro-KI Super-PAC-Netzwerk hat Millionen Dollar in Nevada-Mantelgesellschaften gepumpt, wie neue Berichte über KI-Lobbyismus zeigen.",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/"
     }
   ]
 }

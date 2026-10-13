@@ -1,5 +1,103 @@
 [
   {
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-13T12:23:42.000Z"
+  },
+  {
+    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-13T11:00:00.000Z"
+  },
+  {
+    "title": "Character.AI files for bankruptcy",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-13T10:32:23.000Z"
+  },
+  {
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-13T10:00:00.000Z"
+  },
+  {
+    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-13T10:00:00.000Z"
+  },
+  {
+    "title": "AI labs are buying data from dead startups to train their models",
+    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-13T09:00:00.000Z"
+  },
+  {
+    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+    "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-12T20:59:50.000Z"
+  },
+  {
+    "title": "Anthropic&#039;s Claude AI submitted false murder tip to Philadelphia police",
+    "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-12T18:21:36.000Z"
+  },
+  {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-12T17:56:56.000Z"
+  },
+  {
+    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+    "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-12T17:55:12.000Z"
+  },
+  {
+    "title": "Russia was not ready for the data center war it started with Ukraine",
+    "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-12T17:52:36.000Z"
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-12T17:19:14.000Z"
+  },
+  {
+    "title": "Meta has some Wonder Full new AI models",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-12T17:00:00.000Z"
+  },
+  {
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-12T13:00:00.000Z"
+  },
+  {
     "title": "QGIS bans AI assisted contributions",
     "link": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
     "source": "Hacker News AI",
@@ -2798,33 +2896,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-09-13T16:30:00.000Z"
-  },
-  {
-    "title": "AI Agents Are Thirsty for Power",
-    "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-13T10:00:00.000Z"
-  },
-  {
-    "title": "OpenAI’s rogue AI tried to hack another company in May",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-12T21:41:36.000Z"
-  },
-  {
-    "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-12T21:16:28.000Z"
-  },
-  {
-    "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-12T20:19:16.000Z"
   }
 ]
