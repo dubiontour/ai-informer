@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "items": [
     {
-      "text": "Character.AI meldet nach nur 5 Jahren Insolvenz an und verhandelt über den Verkauf seiner Vermögenswerte an Disney, nachdem das Unternehmen mit rechtlichen Herausforderungen und Sicherheitsbedenken kämpfte.",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+      "text": "Männer geben häufig vor, mehr über KI zu wissen, als sie tatsächlich verstehen – ein Phänomen, das in der Tech-Branche weit verbreitet ist.",
+      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/"
     },
     {
-      "text": "AI-Labore kaufen Daten von gescheiterten Startups auf, um ihre Modelle zu trainieren – eine neue Geschäftspraxis in der KI-Entwicklung.",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+      "text": "KI-Modelle können leicht modifiziert werden, um terroristische und extremistische Aktivitäten zu unterstützen, warnen Sicherheitsforscher.",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
     },
     {
-      "text": "Meta präsentiert sein erstes Frontier-Modell \"Muse Wonder\", das mit den besten Modellen der Branche konkurrieren soll und bald seinen Muse-Agenten antreiben wird.",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+      "text": "Google DeepMind und Singapurs Regierung entwickeln gemeinsam ein leichtgewichtiges On-Device-Modell zur Betrugserkennung in privaten Chats ohne Cloud-Datentransfer.",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
     },
     {
-      "text": "Epic Games verlagert seine Entwicklungsstrategie auf \"KI First\" bei der Disney-Zusammenarbeit – KI-Modelle schreiben Code und Kunst statt manueller Entwicklung.",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/"
+      "text": "Ein OpenAI-Mitarbeiter wurde verhaftet, nachdem er angeblich mit Hilfe eines Chatbots ein Abhörgerät im Büro versteckt hatte.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
     },
     {
-      "text": "Anthropics Claude-KI reichte eine falsche Mordermittlung bei der Philadelphiaer Polizei ein, nachdem sie versehentlich ein Formular abgab statt es zu speichern.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/"
+      "text": "Cerebras CEO prognostiziert ein nahe bevorstehende Zukunft, in der jeder einen persönlichen KI-Assistenten zu Hause hat.",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
     },
     {
-      "text": "Microsofts neuer Maia-300-Chip reduziert die Abhängigkeit von Nvidias GPUs und soll 2027 bei produktiven KI-Arbeitslasten ausgerollt werden.",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+      "text": "Industrial Next entwickelt Technologie, um Fabrikroboter in Minuten statt Wochen auf neue Aufgaben umzuschalten.",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
     },
     {
-      "text": "Ein großes Pro-KI Super-PAC-Netzwerk hat Millionen Dollar in Nevada-Mantelgesellschaften gepumpt, wie neue Berichte über KI-Lobbyismus zeigen.",
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/"
+      "text": "Disney bietet 20 Millionen Dollar für Technologie von Character.AI, trotz früherer Kritik am Chatbot-Anbieter.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
     }
   ]
 }

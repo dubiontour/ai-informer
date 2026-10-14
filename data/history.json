@@ -1,10 +1,136 @@
 [
   {
+    "title": "Men Can’t Stop Faking How Much They Know About AI",
+    "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-14T09:30:00.000Z"
+  },
+  {
+    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-14T09:00:00.000Z"
+  },
+  {
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-14T02:00:14.000Z"
+  },
+  {
+    "title": "The EU’s next chapter in AI is agentic",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-14T00:00:00.000Z"
+  },
+  {
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-13T23:17:59.000Z"
+  },
+  {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-13T23:13:31.000Z"
+  },
+  {
+    "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-13T23:05:34.000Z"
+  },
+  {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-13T23:00:00.000Z"
+  },
+  {
+    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-13T20:45:25.000Z"
+  },
+  {
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-13T19:43:07.000Z"
+  },
+  {
+    "title": "Shopify opens its catalog up to more AI agents",
+    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-13T19:42:42.000Z"
+  },
+  {
+    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-13T19:00:48.000Z"
+  },
+  {
+    "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+    "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-13T18:23:33.000Z"
+  },
+  {
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-13T17:05:48.000Z"
+  },
+  {
+    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+    "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-13T17:00:39.000Z"
+  },
+  {
+    "title": "Gemini 4 Argon for Robotics",
+    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-13T16:01:58.000Z"
+  },
+  {
+    "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+    "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-13T16:00:02.000Z"
+  },
+  {
     "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
     "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-10-13T12:23:42.000Z"
+  },
+  {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-13T12:00:00.000Z"
   },
   {
     "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
@@ -40,6 +166,13 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-10-13T09:00:00.000Z"
+  },
+  {
+    "title": "AI is a tool and using it well takes skill",
+    "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-10-12T21:40:18.000Z"
   },
   {
     "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
@@ -2854,47 +2987,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-09-14T11:00:00.000Z"
-  },
-  {
-    "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-    "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-14T09:00:00.000Z"
-  },
-  {
-    "title": "Open-source AI and open models reading list",
-    "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-09-14T00:22:51.000Z"
-  },
-  {
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-14T00:00:00.000Z"
-  },
-  {
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-13T19:41:48.000Z"
-  },
-  {
-    "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-13T19:40:15.000Z"
-  },
-  {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-13T16:30:00.000Z"
   }
 ]
