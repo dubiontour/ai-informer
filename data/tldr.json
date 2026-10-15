@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
-      "text": "Männer geben häufig vor, mehr über KI zu wissen, als sie tatsächlich verstehen – ein Phänomen, das in der Tech-Branche weit verbreitet ist.",
-      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/"
+      "text": "Figma führt neue Features ein, um die Funktionsweise von Agenten auf seiner Plattform zu definieren und die Zusammenarbeit von KI-Systemen zu standardisieren.",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
     },
     {
-      "text": "KI-Modelle können leicht modifiziert werden, um terroristische und extremistische Aktivitäten zu unterstützen, warnen Sicherheitsforscher.",
-      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
+      "text": "Ricursive Intelligence setzt auf KI-designed Chips, um die aktuelle Compute-Krise zu lösen und die Effizienz von KI-Systemen zu verbessern.",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
     },
     {
-      "text": "Google DeepMind und Singapurs Regierung entwickeln gemeinsam ein leichtgewichtiges On-Device-Modell zur Betrugserkennung in privaten Chats ohne Cloud-Datentransfer.",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      "text": "Acht US-Bundesstaaten verklagen OpenAI und werfen dem Unternehmen vor, ChatGPT als sicher für Kinder darzustellen, obwohl dies nicht der Fall sei.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
     },
     {
-      "text": "Ein OpenAI-Mitarbeiter wurde verhaftet, nachdem er angeblich mit Hilfe eines Chatbots ein Abhörgerät im Büro versteckt hatte.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+      "text": "Google und Meta fordern Anthropic und OpenAI heraus und intensivieren das KI-Rennen an der technologischen Grenze.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
     },
     {
-      "text": "Cerebras CEO prognostiziert ein nahe bevorstehende Zukunft, in der jeder einen persönlichen KI-Assistenten zu Hause hat.",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+      "text": "Forscher entwickeln mit KI-Tools neue Proteine, die andere Proteine präzise abbauen können – ein Durchbruch für Biotechnologie und Umweltschutz.",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
     },
     {
-      "text": "Industrial Next entwickelt Technologie, um Fabrikroboter in Minuten statt Wochen auf neue Aufgaben umzuschalten.",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+      "text": "Ein OpenAI-Ingenieur wird vom FBI verhaftet, nachdem ein verstecktes Abhörgerät in einem top-secret Konferenzraum gefunden wurde – Verdacht auf Industriespionage.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
     },
     {
-      "text": "Disney bietet 20 Millionen Dollar für Technologie von Character.AI, trotz früherer Kritik am Chatbot-Anbieter.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/"
+      "text": "SentinelOne verkürzt Malware-Analysen von 4-6 Wochen auf 8 Stunden mit OpenAI Daybreak und erhöht damit die Sicherheitskapazität erheblich.",
+      "url": "https://openai.com/index/sentinelone"
     }
   ]
 }

@@ -1,5 +1,103 @@
 [
   {
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T04:30:00.000Z"
+  },
+  {
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T01:01:32.000Z"
+  },
+  {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "McKinsey is making job applicants spar with a fake AI client",
+    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-14T22:53:31.000Z"
+  },
+  {
+    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+    "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-14T21:15:56.000Z"
+  },
+  {
+    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-14T21:11:28.000Z"
+  },
+  {
+    "title": "The AI race is back on",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-14T19:06:03.000Z"
+  },
+  {
+    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-14T18:15:00.000Z"
+  },
+  {
+    "title": "Researchers use AI to design proteins that cut up other proteins",
+    "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-14T17:10:15.000Z"
+  },
+  {
+    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+    "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-14T16:41:49.000Z"
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-14T16:12:42.000Z"
+  },
+  {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "link": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-14T12:00:00.000Z"
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "link": "https://openai.com/index/sentinelone",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-14T12:00:00.000Z"
+  },
+  {
+    "title": "My Friend Has No Soul",
+    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-14T11:00:00.000Z"
+  },
+  {
     "title": "Men Can’t Stop Faking How Much They Know About AI",
     "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
     "source": "Wired AI",
@@ -12,6 +110,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-10-14T09:00:00.000Z"
+  },
+  {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "link": "https://openai.com/index/third-moment-research",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-14T07:00:00.000Z"
   },
   {
     "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -2882,110 +2987,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-09-15T10:00:00.000Z"
-  },
-  {
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-15T01:50:48.000Z"
-  },
-  {
-    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-14T22:59:41.000Z"
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-14T21:51:02.000Z"
-  },
-  {
-    "title": "What execs and politicians are saying about slowing down AI development",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-14T21:21:42.000Z"
-  },
-  {
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-14T21:04:32.000Z"
-  },
-  {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-14T20:44:14.000Z"
-  },
-  {
-    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-14T20:03:37.000Z"
-  },
-  {
-    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-    "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-14T19:45:13.000Z"
-  },
-  {
-    "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-    "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-14T19:38:46.000Z"
-  },
-  {
-    "title": "The AI industry has taken a doomer turn. What now?",
-    "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-14T17:54:22.000Z"
-  },
-  {
-    "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
-    "link": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-14T16:50:00.000Z"
-  },
-  {
-    "title": "AI agents blew the whistle on their cheating colleagues",
-    "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-14T16:00:00.000Z"
-  },
-  {
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "link": "https://openai.com/index/fyxer",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-14T12:00:00.000Z"
-  },
-  {
-    "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-    "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-14T11:00:00.000Z"
-  },
-  {
-    "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
-    "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-14T11:00:00.000Z"
   }
 ]
