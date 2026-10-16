@@ -1,5 +1,117 @@
 [
   {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-16T01:44:47.000Z"
+  },
+  {
+    "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T23:44:56.000Z"
+  },
+  {
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-15T22:43:23.000Z"
+  },
+  {
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-15T22:35:55.000Z"
+  },
+  {
+    "title": "The tech backlash is now in theaters",
+    "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-15T21:39:52.000Z"
+  },
+  {
+    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-15T21:18:15.000Z"
+  },
+  {
+    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+    "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-15T21:00:28.000Z"
+  },
+  {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-15T20:34:01.000Z"
+  },
+  {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T20:04:53.000Z"
+  },
+  {
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T19:55:25.000Z"
+  },
+  {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-15T19:00:00.000Z"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-15T16:08:03.000Z"
+  },
+  {
+    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+    "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-15T15:43:24.000Z"
+  },
+  {
+    "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+    "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-15T15:12:58.000Z"
+  },
+  {
+    "title": "Using AI to reverse engineer hardware",
+    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-10-15T14:35:15.000Z"
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-15T13:00:00.000Z"
+  },
+  {
     "title": "Figma announces new features to define how agents work on its platform",
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "source": "TechCrunch AI",
@@ -18,6 +130,20 @@
     "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
     "source": "TechCrunch AI",
     "category": "News",
+    "pubDate": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "source": "Hugging Face",
+    "category": "Tools",
     "pubDate": "2026-10-15T00:00:00.000Z"
   },
   {
@@ -2896,96 +3022,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-09-16T09:30:00.000Z"
-  },
-  {
-    "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-16T00:20:39.000Z"
-  },
-  {
-    "title": "AI and data centers are incredibly unpopular in every poll",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-15T23:34:25.000Z"
-  },
-  {
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-15T21:47:38.000Z"
-  },
-  {
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-15T20:12:53.000Z"
-  },
-  {
-    "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-    "link": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-15T18:33:02.000Z"
-  },
-  {
-    "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-    "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-15T18:00:09.000Z"
-  },
-  {
-    "title": "Roundtables: Could AI really kill us all?",
-    "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-15T17:47:51.000Z"
-  },
-  {
-    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-    "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-09-15T17:05:57.000Z"
-  },
-  {
-    "title": "Your Agent Aced the Task. Will It Do It Again?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-15T16:00:44.000Z"
-  },
-  {
-    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-    "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-15T15:00:00.000Z"
-  },
-  {
-    "title": "This doorbell camera lets a human security guard watch your front door",
-    "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-15T13:36:45.000Z"
-  },
-  {
-    "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-    "link": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-15T12:00:41.000Z"
-  },
-  {
-    "title": "What&#8217;s at stake in AI’s trillion-dollar gamble",
-    "link": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-15T10:00:00.000Z"
   }
 ]

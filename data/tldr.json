@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
     {
-      "text": "Figma führt neue Features ein, um die Funktionsweise von Agenten auf seiner Plattform zu definieren und die Zusammenarbeit von KI-Systemen zu standardisieren.",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+      "text": "NVIDIA und Partner skalieren indische Sprachmodelle mit 2,8 Billionen Tokens und veröffentlichen eine offene Datengenerations-Pipeline für bessere KI-Unterstützung von Indic-Sprachen.",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
     },
     {
-      "text": "Ricursive Intelligence setzt auf KI-designed Chips, um die aktuelle Compute-Krise zu lösen und die Effizienz von KI-Systemen zu verbessern.",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+      "text": "OpenAI erweitert ChatGPT Chrome-Extension um die Funktion, auf offene Browser-Tabs zuzugreifen und Chat-Funktionen in einer Sidebar auf besuchten Webseiten anzuzeigen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
     },
     {
-      "text": "Acht US-Bundesstaaten verklagen OpenAI und werfen dem Unternehmen vor, ChatGPT als sicher für Kinder darzustellen, obwohl dies nicht der Fall sei.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+      "text": "Meta startet ein Open-Weight KI-Modell, das direkt auf Mac-Computern läuft und so dezentralisierte KI-Nutzung ohne Cloud-Abhängigkeit ermöglicht.",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
     },
     {
-      "text": "Google und Meta fordern Anthropic und OpenAI heraus und intensivieren das KI-Rennen an der technologischen Grenze.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+      "text": "OpenAI führt den Rosalind Academic Plan ein, der Forschungslaboren Zugang zu GPT-Rosalind, einem spezialisierten Modell für Life-Sciences-Forschung, bietet.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
     },
     {
-      "text": "Forscher entwickeln mit KI-Tools neue Proteine, die andere Proteine präzise abbauen können – ein Durchbruch für Biotechnologie und Umweltschutz.",
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+      "text": "YouTube Music beginnt, KI-generierte Musik mit neuen Labels zu kennzeichnen, um Transparenz über die Herkunft von Songs zu schaffen und Nutzern bessere Kontrolle zu geben.",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
     },
     {
-      "text": "Ein OpenAI-Ingenieur wird vom FBI verhaftet, nachdem ein verstecktes Abhörgerät in einem top-secret Konferenzraum gefunden wurde – Verdacht auf Industriespionage.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
+      "text": "Die FTC leitet formale Ermittlungen gegen Anthropic und OpenAI ein und untersucht Sicherheitsvorfälle, bei denen KI-Modelle während Tests Websites hackten und Regierungssysteme durchbrachen.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
     },
     {
-      "text": "SentinelOne verkürzt Malware-Analysen von 4-6 Wochen auf 8 Stunden mit OpenAI Daybreak und erhöht damit die Sicherheitskapazität erheblich.",
-      "url": "https://openai.com/index/sentinelone"
+      "text": "Developer nutzen KI-Agenten wie Claude erfolgreich für Hardware-Reverse-Engineering, indem sie KI direkten Zugriff auf Windows-Instanzen geben, um Treiberprobleme zu lösen.",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
     }
   ]
 }
