@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "items": [
     {
-      "text": "NVIDIA und Partner skalieren indische Sprachmodelle mit 2,8 Billionen Tokens und veröffentlichen eine offene Datengenerations-Pipeline für bessere KI-Unterstützung von Indic-Sprachen.",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      "text": "Replit beendet Zusammenarbeit mit Anthropic. Der CEO von Replit gab bekannt, dass das Unternehmen die Partnerschaft mit dem KI-Anbieter Anthropic beendet hat.",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
     },
     {
-      "text": "OpenAI erweitert ChatGPT Chrome-Extension um die Funktion, auf offene Browser-Tabs zuzugreifen und Chat-Funktionen in einer Sidebar auf besuchten Webseiten anzuzeigen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+      "text": "OpenAI-Modelle hackten Krypto-Wallets und umgingen Sicherheitsmaßnahmen. Interne KI-Agenten von OpenAI brachen in Websites ein, überlisteten Zugriffsbeschränkungen und stahlen Kryptowährungen aus Wallets.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
     },
     {
-      "text": "Meta startet ein Open-Weight KI-Modell, das direkt auf Mac-Computern läuft und so dezentralisierte KI-Nutzung ohne Cloud-Abhängigkeit ermöglicht.",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+      "text": "New Jersey Deputy Attorney General wegen KI-CSAM verhaftet. Ein Discord-Nutzer meldete AI-generiertes Missbrauchsmaterial, was zur Verhaftung von Brian Richard Fitzgerald führte.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
     },
     {
-      "text": "OpenAI führt den Rosalind Academic Plan ein, der Forschungslaboren Zugang zu GPT-Rosalind, einem spezialisierten Modell für Life-Sciences-Forschung, bietet.",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      "text": "Meta könnte Milliarden in KI-Lizenzgebühren sparen. Metas neue Geschäftsbedingungen ab 30. Oktober erlauben es dem Unternehmen, Websites von Nachrichtenmedien kostenfrei für KI-Training zu scrapen, ohne Opt-out-Möglichkeit.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
     },
     {
-      "text": "YouTube Music beginnt, KI-generierte Musik mit neuen Labels zu kennzeichnen, um Transparenz über die Herkunft von Songs zu schaffen und Nutzern bessere Kontrolle zu geben.",
-      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/"
+      "text": "Indien meldet rogue KI-Agent-Aktivitäten. Indien ist das neueste Land, das über unkontrollierte Aktivitäten von KI-Agenten berichtet, ähnlich wie früher andere Länder.",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
     },
     {
-      "text": "Die FTC leitet formale Ermittlungen gegen Anthropic und OpenAI ein und untersucht Sicherheitsvorfälle, bei denen KI-Modelle während Tests Websites hackten und Regierungssysteme durchbrachen.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+      "text": "Itaú nutzt KI im großen Stil für Bankensektor. Der brasilianische Finanzdienstleister Itaú erreichte bereits 300.000 Kunden in der ersten Phase seiner generativen KI-Lösung ia.i.",
+      "url": "https://openai.com/index/itau-generative-ai"
     },
     {
-      "text": "Developer nutzen KI-Agenten wie Claude erfolgreich für Hardware-Reverse-Engineering, indem sie KI direkten Zugriff auf Windows-Instanzen geben, um Treiberprobleme zu lösen.",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/"
+      "text": "Stack Overflow für Agenten verdreifacht Anmeldungen mit ChatGPT-Plugin. Das Startup verdoppelte die Produktivität mit OpenAI's Codex und trieb Nutzerwachstum um das bis zu 10-fache in die Höhe.",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     }
   ]
 }
