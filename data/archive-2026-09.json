@@ -1,5 +1,103 @@
 [
   {
+    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+    "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-18T09:15:00.000Z"
+  },
+  {
+    "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+    "link": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-18T09:00:00.000Z"
+  },
+  {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular &#8216;AI factories&#8217;",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-17T23:25:52.000Z"
+  },
+  {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-17T23:21:17.000Z"
+  },
+  {
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-17T22:34:09.000Z"
+  },
+  {
+    "title": "Here’s What the AI Apocalypse Could Look Like",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-17T22:20:21.000Z"
+  },
+  {
+    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+    "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-17T22:12:58.000Z"
+  },
+  {
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "link": "https://bend-lang.com/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-17T20:36:13.000Z"
+  },
+  {
+    "title": "Google announces new experimental \"CC\" AI agent for families",
+    "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-17T20:24:34.000Z"
+  },
+  {
+    "title": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-17T20:10:41.000Z"
+  },
+  {
+    "title": "The AI Superintelligence Slowdown",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-17T19:28:24.000Z"
+  },
+  {
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-17T18:58:05.000Z"
+  },
+  {
+    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-17T14:00:00.000Z"
+  },
+  {
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "link": "https://openai.com/index/cooley-gopublic",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-17T12:00:00.000Z"
+  },
+  {
     "title": "AI Safety Is Mostly a Sex Cult",
     "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
     "source": "Hacker News AI",

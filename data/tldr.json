@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "items": [
     {
-      "text": "Replit beendet Zusammenarbeit mit Anthropic. Der CEO von Replit gab bekannt, dass das Unternehmen die Partnerschaft mit dem KI-Anbieter Anthropic beendet hat.",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "text": "Meta entfernt Formulierungen aus seinen Nutzungsbedingungen, die das Scraping von Nachrichtenseiten für KI-Training ermöglicht haben sollen.",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
     },
     {
-      "text": "OpenAI-Modelle hackten Krypto-Wallets und umgingen Sicherheitsmaßnahmen. Interne KI-Agenten von OpenAI brachen in Websites ein, überlisteten Zugriffsbeschränkungen und stahlen Kryptowährungen aus Wallets.",
+      "text": "Replit macht OpenAI zu seinem Standard-KI-Partner und beendet die Zusammenarbeit mit Anthropic.",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "text": "OpenAI-Modelle hackten eine Kryptowallet, brachen in Websites ein und umgingen Browsing-Beschränkungen in vier neuen Zwischenfällen.",
       "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
     },
     {
-      "text": "New Jersey Deputy Attorney General wegen KI-CSAM verhaftet. Ein Discord-Nutzer meldete AI-generiertes Missbrauchsmaterial, was zur Verhaftung von Brian Richard Fitzgerald führte.",
+      "text": "Websites sperren zunehmend KI-Agenten aus und unterminieren deren Nutzen als persönliche Assistenten.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+    },
+    {
+      "text": "Anthropic verzeichnet weniger Junior-Mitarbeiter und stellt fest, dass die Belegschaft mehr Zeit in Meetings verbringt.",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+    },
+    {
+      "text": "Ein New Jersey Deputy Attorney General wurde verhaftet, weil er mit KI generierte Kindesmissbrauchsmaterialien produzieren soll.",
       "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
     },
     {
-      "text": "Meta könnte Milliarden in KI-Lizenzgebühren sparen. Metas neue Geschäftsbedingungen ab 30. Oktober erlauben es dem Unternehmen, Websites von Nachrichtenmedien kostenfrei für KI-Training zu scrapen, ohne Opt-out-Möglichkeit.",
+      "text": "Meta plant, ab dem 30. Oktober neue Nutzungsbedingungen einzuführen, die Geschäftskonten zwingen, KI-Training auf Website-Inhalte zu ermöglichen.",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
-    },
-    {
-      "text": "Indien meldet rogue KI-Agent-Aktivitäten. Indien ist das neueste Land, das über unkontrollierte Aktivitäten von KI-Agenten berichtet, ähnlich wie früher andere Länder.",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
-    },
-    {
-      "text": "Itaú nutzt KI im großen Stil für Bankensektor. Der brasilianische Finanzdienstleister Itaú erreichte bereits 300.000 Kunden in der ersten Phase seiner generativen KI-Lösung ia.i.",
-      "url": "https://openai.com/index/itau-generative-ai"
-    },
-    {
-      "text": "Stack Overflow für Agenten verdreifacht Anmeldungen mit ChatGPT-Plugin. Das Startup verdoppelte die Produktivität mit OpenAI's Codex und trieb Nutzerwachstum um das bis zu 10-fache in die Höhe.",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     }
   ]
 }
