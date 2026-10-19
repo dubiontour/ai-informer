@@ -1,5 +1,61 @@
 [
   {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-19T09:08:05.000Z"
+  },
+  {
+    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-19T09:00:00.000Z"
+  },
+  {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-18T20:37:40.000Z"
+  },
+  {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-18T18:28:10.000Z"
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-18T16:30:00.000Z"
+  },
+  {
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-18T16:25:19.000Z"
+  },
+  {
+    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+    "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-18T10:30:00.000Z"
+  },
+  {
+    "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+    "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-18T10:30:00.000Z"
+  },
+  {
     "title": "Meta removes language that raised scraping and AI training concerns",
     "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "source": "TechCrunch AI",
@@ -2840,117 +2896,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-09-19T11:00:00.000Z"
-  },
-  {
-    "title": "Mathematicians Hate AI. They Can’t Quit It",
-    "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-19T10:00:00.000Z"
-  },
-  {
-    "title": "AI-generated posters don’t have to be horrible",
-    "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-09-19T09:20:58.000Z"
-  },
-  {
-    "title": "Join the WIRED World Fair in Miami on November 4",
-    "link": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-19T09:00:00.000Z"
-  },
-  {
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-19T01:00:00.000Z"
-  },
-  {
-    "title": "Tilly Norwood&#8217;s press tour is going about as well as you&#8217;d expect for an AI",
-    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-19T00:12:07.000Z"
-  },
-  {
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-18T23:25:01.000Z"
-  },
-  {
-    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-18T21:07:24.000Z"
-  },
-  {
-    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-    "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-18T20:26:33.000Z"
-  },
-  {
-    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-    "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-18T19:21:09.000Z"
-  },
-  {
-    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-    "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-18T19:20:50.000Z"
-  },
-  {
-    "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-18T18:29:17.000Z"
-  },
-  {
-    "title": "US government website used Chinese model the FBI called \"malicious\"",
-    "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-18T17:28:50.000Z"
-  },
-  {
-    "title": "Gavin Newsom is pushing for an AI kill switch",
-    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-18T17:04:51.000Z"
-  },
-  {
-    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-    "link": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-18T15:00:08.000Z"
-  },
-  {
-    "title": "Introducing the Australian Youth Safety Blueprint",
-    "link": "https://openai.com/index/australian-youth-safety-blueprint",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-18T12:00:00.000Z"
-  },
-  {
-    "title": "Could AI really kill us all? Your questions, answered.",
-    "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-18T11:29:22.000Z"
   }
 ]

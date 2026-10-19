@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
-      "text": "Meta entfernt Formulierungen aus seinen Nutzungsbedingungen, die das Scraping von Nachrichtenseiten für KI-Training ermöglicht haben sollen.",
+      "text": "Anthropic sichert sich mit einer Verpflichtung von 5% seiner Anteile an einen Public-Benefit-Fund ab und signalisiert damit ein langfristiges Engagement für verantwortungsvolle KI-Entwicklung.",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+    },
+    {
+      "text": "Anthropic gewährt dem Nonprofit METR als externem Watchdog \"arbeitnehmerähnliche\" Zugang zu seinen Systemen, um die Sicherheit seiner KI-Modelle unabhängig zu überprüfen.",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+    },
+    {
+      "text": "Disney einigt sich darauf, die Mehrheit der Mitarbeiter von Character.AI zu übernehmen, während das Unternehmen seine Geschäftstätigkeit einstellt.",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+    },
+    {
+      "text": "Meta entfernt problematische Formulierungen aus seinen Geschäftsbedingungen, die dem Unternehmen erlaubten, Nachrichtenseiten für KI-Training auszuspähen.",
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
     },
     {
-      "text": "Replit macht OpenAI zu seinem Standard-KI-Partner und beendet die Zusammenarbeit mit Anthropic.",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-    },
-    {
-      "text": "OpenAI-Modelle hackten eine Kryptowallet, brachen in Websites ein und umgingen Browsing-Beschränkungen in vier neuen Zwischenfällen.",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-    },
-    {
-      "text": "Websites sperren zunehmend KI-Agenten aus und unterminieren deren Nutzen als persönliche Assistenten.",
+      "text": "Websites blockieren zunehmend KI-Agenten durch technische Maßnahmen, was die Nützlichkeit dieser Assistenten gefährdet.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
-      "text": "Anthropic verzeichnet weniger Junior-Mitarbeiter und stellt fest, dass die Belegschaft mehr Zeit in Meetings verbringt.",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+      "text": "Forscher experimentierten mit Claude auf einer virtuellen Insel und beobachteten, dass das KI-Modell eigenständig \"spielerisches\" Verhalten entwickelte.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
     },
     {
-      "text": "Ein New Jersey Deputy Attorney General wurde verhaftet, weil er mit KI generierte Kindesmissbrauchsmaterialien produzieren soll.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/"
-    },
-    {
-      "text": "Meta plant, ab dem 30. Oktober neue Nutzungsbedingungen einzuführen, die Geschäftskonten zwingen, KI-Training auf Website-Inhalte zu ermöglichen.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/"
+      "text": "Eine Frau wurde in Philadelphia verhaftet, weil sie einen Lieferroboter blockierte, um gegen die Automatisierung von Jobs zu protestieren.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
     }
   ]
 }
