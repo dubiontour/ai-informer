@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "items": [
     {
-      "text": "Anthropic sichert sich mit einer Verpflichtung von 5% seiner Anteile an einen Public-Benefit-Fund ab und signalisiert damit ein langfristiges Engagement für verantwortungsvolle KI-Entwicklung.",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+      "text": "Samsung eröffnet massives neues Halbleiter-Hub. Der Chipkonzern erweitert seine Produktionskapazitäten mit einer großen neuen Fabrik zur Stärkung seiner Position in der globalen Halbleiterindustrie.",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
     },
     {
-      "text": "Anthropic gewährt dem Nonprofit METR als externem Watchdog \"arbeitnehmerähnliche\" Zugang zu seinen Systemen, um die Sicherheit seiner KI-Modelle unabhängig zu überprüfen.",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+      "text": "Nscale und Anthropic verhandeln über 45-Milliarden-Dollar-Rechenleistungs-Deal. Die beiden Unternehmen führen Gespräche über eine massive neue Investition in KI-Infrastruktur.",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
     },
     {
-      "text": "Disney einigt sich darauf, die Mehrheit der Mitarbeiter von Character.AI zu übernehmen, während das Unternehmen seine Geschäftstätigkeit einstellt.",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      "text": "KI-Datenzentren treiben Rückkehr zu Fossiltreibstoffen voran. Pläne für neue Gaskraftwerke nehmen zu, während Projekte erneuerbarer Energien storniert werden, um die steigende Stromvergiftung zu bewältigen.",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
     },
     {
-      "text": "Meta entfernt problematische Formulierungen aus seinen Geschäftsbedingungen, die dem Unternehmen erlaubten, Nachrichtenseiten für KI-Training auszuspähen.",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+      "text": "OpenAI-Ingenieur der Spionage angeklagt bleibt in Haft. Abdulrahman Alfozan soll Geheimkonferenzen abgehört haben; die USA argumentieren, dass Saudi-Arabien ihn möglicherweise unterstützt.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
     },
     {
-      "text": "Websites blockieren zunehmend KI-Agenten durch technische Maßnahmen, was die Nützlichkeit dieser Assistenten gefährdet.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+      "text": "Disney erwirbt Character.AI ohne dessen Klagen. Durch eine strategische Insolvenz sichert sich Disney das Personal und die Technologie, während die rechtlichen Verbindlichkeiten wegfallen.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
     },
     {
-      "text": "Forscher experimentierten mit Claude auf einer virtuellen Insel und beobachteten, dass das KI-Modell eigenständig \"spielerisches\" Verhalten entwickelte.",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      "text": "AI-Agenten könnten das Internet für alle anderen verschlimmern. Die Optimierung des Internets für KI-Bots könnte negative Auswirkungen auf normale Nutzer haben.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
     },
     {
-      "text": "Eine Frau wurde in Philadelphia verhaftet, weil sie einen Lieferroboter blockierte, um gegen die Automatisierung von Jobs zu protestieren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot"
+      "text": "WhatsApp-Hilfseiten enthüllen Meta-Chatbot-Anweisungen. Versteckte Prompt-Informationen wurden versehentlich in den öffentlichen Hilfseiten des Messaging-Dienstes preisgegeben.",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/"
     }
   ]
 }

@@ -1,5 +1,110 @@
 [
   {
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-20T09:00:00.000Z"
+  },
+  {
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-20T01:27:03.000Z"
+  },
+  {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-19T23:39:38.000Z"
+  },
+  {
+    "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
+    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-19T22:49:27.000Z"
+  },
+  {
+    "title": "The fossil fuel comeback is here",
+    "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-19T21:48:01.000Z"
+  },
+  {
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-19T21:28:20.000Z"
+  },
+  {
+    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+    "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-19T20:21:53.000Z"
+  },
+  {
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-19T19:49:17.000Z"
+  },
+  {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-19T18:22:47.000Z"
+  },
+  {
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-19T17:45:55.000Z"
+  },
+  {
+    "title": "AI game clones are making indie developers afraid to show their work",
+    "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-19T16:59:22.000Z"
+  },
+  {
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "link": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-19T16:00:00.000Z"
+  },
+  {
+    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+    "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-19T14:45:43.000Z"
+  },
+  {
+    "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+    "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-19T14:30:00.000Z"
+  },
+  {
+    "title": "Advancing coding in low‑resource programming languages",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-19T12:00:00.000Z"
+  },
+  {
     "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
     "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
     "source": "MIT Tech Review",
@@ -12,6 +117,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-10-19T09:00:00.000Z"
+  },
+  {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-19T00:00:00.000Z"
   },
   {
     "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -2847,54 +2959,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-09-20T10:30:00.000Z"
-  },
-  {
-    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-19T20:44:40.000Z"
-  },
-  {
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-19T20:39:13.000Z"
-  },
-  {
-    "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-19T19:57:47.000Z"
-  },
-  {
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-19T17:30:00.000Z"
-  },
-  {
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-19T15:25:03.000Z"
-  },
-  {
-    "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-19T14:00:00.000Z"
-  },
-  {
-    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-    "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-19T11:00:00.000Z"
   }
 ]
