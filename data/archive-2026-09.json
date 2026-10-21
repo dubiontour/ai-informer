@@ -1,5 +1,75 @@
 [
   {
+    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-21T09:21:47.000Z"
+  },
+  {
+    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+    "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-09-21T04:28:44.000Z"
+  },
+  {
+    "title": "tokenizers v1: encode, decode and scaling, measured",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-20T21:41:08.000Z"
+  },
+  {
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-20T20:29:07.000Z"
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-20T18:56:04.000Z"
+  },
+  {
+    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-20T18:50:18.000Z"
+  },
+  {
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-20T15:39:22.000Z"
+  },
+  {
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-20T10:30:00.000Z"
+  },
+  {
+    "title": "It’s Donald Trump Versus MAGA on Data Centers",
+    "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-20T10:30:00.000Z"
+  },
+  {
     "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
     "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
     "source": "The Verge AI",
