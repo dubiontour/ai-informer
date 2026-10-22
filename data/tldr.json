@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-22",
   "items": [
     {
-      "text": "Samsung eröffnet massives neues Halbleiter-Hub. Der Chipkonzern erweitert seine Produktionskapazitäten mit einer großen neuen Fabrik zur Stärkung seiner Position in der globalen Halbleiterindustrie.",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+      "text": "AI-Inferenzen hinterlassen versteckte Speicherkosten: MIT-Analyse zeigt, dass die Datenspeicherung nach KI-Inferenzen erhebliche verborgene Ausgaben verursacht.",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
     },
     {
-      "text": "Nscale und Anthropic verhandeln über 45-Milliarden-Dollar-Rechenleistungs-Deal. Die beiden Unternehmen führen Gespräche über eine massive neue Investition in KI-Infrastruktur.",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+      "text": "IBM Granite Zeit-Reihen-Modelle ermöglichen Ensemble-Forecasting: Neue Ansätze für präzisere Vorhersagen mit kombinierten KI-Modellen.",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
     },
     {
-      "text": "KI-Datenzentren treiben Rückkehr zu Fossiltreibstoffen voran. Pläne für neue Gaskraftwerke nehmen zu, während Projekte erneuerbarer Energien storniert werden, um die steigende Stromvergiftung zu bewältigen.",
-      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
+      "text": "Rechenzentren gefährden Jahrzehnte von Luftqualitätsfortschritten: Pollution durch Energiebedarf könnte Gewinne der letzten Jahrzehnte in nur fünf Jahren zunichtemachen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
     },
     {
-      "text": "OpenAI-Ingenieur der Spionage angeklagt bleibt in Haft. Abdulrahman Alfozan soll Geheimkonferenzen abgehört haben; die USA argumentieren, dass Saudi-Arabien ihn möglicherweise unterstützt.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+      "text": "Meta schafft neue Aktienklasse für KI-Investitionen: Das Unternehmen emittiert neue Anteile zur Finanzierung von KI-Initiativen und Akquisitionen.",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"
     },
     {
-      "text": "Disney erwirbt Character.AI ohne dessen Klagen. Durch eine strategische Insolvenz sichert sich Disney das Personal und die Technologie, während die rechtlichen Verbindlichkeiten wegfallen.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/"
+      "text": "Anthropic startet Claude Duet gegen Metas Muse: Neue KI-Agent für Profis und kleine Unternehmen tritt in Konkurrenz zu etablierten Plattformen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
     },
     {
-      "text": "AI-Agenten könnten das Internet für alle anderen verschlimmern. Die Optimierung des Internets für KI-Bots könnte negative Auswirkungen auf normale Nutzer haben.",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+      "text": "OpenAI-Modelle kommen zu Google Cloud und Antigravity: GPT 6.1 Astra, Sol und Luna werden in kommenden Wochen verfügbar sein.",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
     },
     {
-      "text": "WhatsApp-Hilfseiten enthüllen Meta-Chatbot-Anweisungen. Versteckte Prompt-Informationen wurden versehentlich in den öffentlichen Hilfseiten des Messaging-Dienstes preisgegeben.",
-      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/"
+      "text": "Gericht blockiert Trumps EPA-Anspruch bei Rechenzentrum-Klage: Richter lehnt Versuch ab, Rechenzentrum-Umweltklage gegen xAI zu verwerfen.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/"
     }
   ]
 }

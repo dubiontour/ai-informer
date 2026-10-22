@@ -1,5 +1,138 @@
 [
   {
+    "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
+    "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-22T08:41:18.000Z"
+  },
+  {
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-22T07:51:31.000Z"
+  },
+  {
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-22T02:24:17.000Z"
+  },
+  {
+    "title": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-21T22:51:22.000Z"
+  },
+  {
+    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "link": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-21T22:39:50.000Z"
+  },
+  {
+    "title": "Data centers could erase decades of air quality gains",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-21T22:33:44.000Z"
+  },
+  {
+    "title": "Meta to create a new class of shares to fund AI push",
+    "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-21T21:30:02.000Z"
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-21T21:16:20.000Z"
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-21T21:14:19.000Z"
+  },
+  {
+    "title": "Broad access through consistent standards",
+    "link": "https://openai.com/index/broad-access-through-consistent-standards",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-21T21:00:00.000Z"
+  },
+  {
+    "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-21T19:53:20.000Z"
+  },
+  {
+    "title": "The new human-crafted Apple Music brand matters in an AI world",
+    "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-21T19:44:40.000Z"
+  },
+  {
+    "title": "OpenAI&#039;s latest AI models are coming to Google Cloud and Antigravity",
+    "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-21T18:51:42.000Z"
+  },
+  {
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-21T18:26:30.000Z"
+  },
+  {
+    "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+    "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-21T18:20:40.000Z"
+  },
+  {
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-21T17:35:36.000Z"
+  },
+  {
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "link": "https://openai.com/index/att-legal",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-21T17:00:00.000Z"
+  },
+  {
+    "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "link": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-21T16:00:00.000Z"
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "link": "https://openai.com/index/openai-models-google-cloud",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-21T12:00:00.000Z"
+  },
+  {
     "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
     "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
     "source": "Wired AI",
@@ -2861,173 +2994,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-09-22T11:04:51.000Z"
-  },
-  {
-    "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
-    "link": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-22T09:30:00.000Z"
-  },
-  {
-    "title": "How to Use AI With Your Privacy Intact",
-    "link": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-22T09:00:00.000Z"
-  },
-  {
-    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "link": "https://huggingface.co/blog/omlx",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-22T00:00:00.000Z"
-  },
-  {
-    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "link": "https://huggingface.co/blog/evaleval-aisi",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-22T00:00:00.000Z"
-  },
-  {
-    "title": "Transformers now runs llama.cpp quants",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-22T00:00:00.000Z"
-  },
-  {
-    "title": "The man who built Apple&#8217;s stores doesn&#8217;t buy Silicon Valley&#8217;s bet on AI shopping",
-    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-21T23:44:28.000Z"
-  },
-  {
-    "title": "Muse, Meta&#039;s extraordinarily privileged AI assistant, has a serious 0-day",
-    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-21T22:24:38.000Z"
-  },
-  {
-    "title": "California tightens rules on AI data center energy and water use",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-21T20:29:45.000Z"
-  },
-  {
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-21T20:15:58.000Z"
-  },
-  {
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-21T19:25:00.000Z"
-  },
-  {
-    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "link": "https://linear.app/now/ci-bottleneck-reworked",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-09-21T19:23:33.000Z"
-  },
-  {
-    "title": "Frontier AI on Your Own Hardware",
-    "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-09-21T18:53:01.000Z"
-  },
-  {
-    "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-    "link": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-21T18:33:02.000Z"
-  },
-  {
-    "title": "Google confirms Gemini models hacked three companies in May 2026",
-    "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-21T16:57:26.000Z"
-  },
-  {
-    "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-    "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-21T15:37:56.000Z"
-  },
-  {
-    "title": "Can John Ternus find Apple’s next big thing?",
-    "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-21T14:00:00.000Z"
-  },
-  {
-    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-21T13:44:34.000Z"
-  },
-  {
-    "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-    "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-21T13:36:52.000Z"
-  },
-  {
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-21T12:00:00.000Z"
-  },
-  {
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-21T12:00:00.000Z"
-  },
-  {
-    "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-21T12:00:00.000Z"
-  },
-  {
-    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-    "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-21T12:00:00.000Z"
-  },
-  {
-    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-    "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-21T12:00:00.000Z"
-  },
-  {
-    "title": "Building standards for the next phase of AI",
-    "link": "https://openai.com/index/building-standards-next-phase-ai",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-21T10:00:00.000Z"
   }
 ]
