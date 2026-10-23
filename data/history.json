@@ -1,5 +1,131 @@
 [
   {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T04:00:00.000Z"
+  },
+  {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T00:45:37.000Z"
+  },
+  {
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-22T22:24:34.000Z"
+  },
+  {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-22T22:08:24.000Z"
+  },
+  {
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-22T21:51:25.000Z"
+  },
+  {
+    "title": "Designing an AI serving harness built to last",
+    "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-22T21:17:29.000Z"
+  },
+  {
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-22T20:32:05.000Z"
+  },
+  {
+    "title": "Meta turns Muse sharing back on",
+    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-22T20:24:04.000Z"
+  },
+  {
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-22T19:56:32.000Z"
+  },
+  {
+    "title": "Build more responsive apps with the Decisions API",
+    "link": "https://openai.com/index/decisions-api",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-22T19:00:00.000Z"
+  },
+  {
+    "title": "The Foundations of Scalable AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-22T18:48:04.000Z"
+  },
+  {
+    "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-22T16:11:31.000Z"
+  },
+  {
+    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+    "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-22T15:25:02.000Z"
+  },
+  {
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-22T14:30:24.000Z"
+  },
+  {
+    "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+    "link": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-22T13:00:00.000Z"
+  },
+  {
+    "title": "Making the case for context-aware AI",
+    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-22T10:00:00.000Z"
+  },
+  {
+    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-22T10:00:00.000Z"
+  },
+  {
     "title": "AI&#8217;s hidden storage bill: What inference leaves behind",
     "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
     "source": "MIT Tech Review",
@@ -12,6 +138,13 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-10-22T07:51:31.000Z"
+  },
+  {
+    "title": "What FDE means at OpenAI",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-22T06:00:00.000Z"
   },
   {
     "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
@@ -2861,138 +2994,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-09-23T12:00:00.000Z"
-  },
-  {
-    "title": "The AI Hype Index: AI loves cheating",
-    "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-23T09:00:00.000Z"
-  },
-  {
-    "title": "&#8216;We&#8217;re already fighting yesterday&#8217;s battle&#8217;: Greece&#8217;s prime minister gets candid about AI",
-    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-23T04:59:08.000Z"
-  },
-  {
-    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-23T00:17:17.000Z"
-  },
-  {
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-22T23:21:49.000Z"
-  },
-  {
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-22T21:56:43.000Z"
-  },
-  {
-    "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-    "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-22T21:25:18.000Z"
-  },
-  {
-    "title": "Better prompt caching for GPT-6",
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-22T21:00:00.000Z"
-  },
-  {
-    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-22T20:52:40.000Z"
-  },
-  {
-    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-22T19:45:47.000Z"
-  },
-  {
-    "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-    "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-22T19:28:23.000Z"
-  },
-  {
-    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-09-22T19:03:38.000Z"
-  },
-  {
-    "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
-    "link": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-22T18:19:13.000Z"
-  },
-  {
-    "title": "Introducing GPT-6 Sol and Luna",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-22T18:00:00.000Z"
-  },
-  {
-    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-22T16:34:08.000Z"
-  },
-  {
-    "title": "Rabbit Is Back, This Time With an AI Agent App",
-    "link": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-22T16:00:00.000Z"
-  },
-  {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-22T13:42:05.000Z"
-  },
-  {
-    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
-    "link": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-22T13:00:00.000Z"
-  },
-  {
-    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-22T12:00:00.000Z"
-  },
-  {
-    "title": "Don’t be fooled by this summer of AI hype",
-    "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-22T11:04:51.000Z"
   }
 ]
