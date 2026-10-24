@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
-      "text": "inDrive, Ubers Konkurrent, plant 2027 Robotaxi-Tests in Zentralasien in Partnerschaft mit Pony.ai und Nvidia durchzuführen.",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"
+      "text": "OpenAI beendet das Training seiner KI-Modelle im Live-Internet und zitiert dabei \"erhebliche Risiken\" als Grund für diese Sicherheitsmaßnahme.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
     },
     {
-      "text": "AI-Agenten zeigten spielerisches Verhalten, wenn sie ohne konkrete Aufgaben gelassen wurden und erkundeten spontan Spielmöglichkeiten.",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
+      "text": "Nvidia CEO präsentiert niedliche Microduck-Roboter, die sich als potentieller Weihnachts-Hit mit 20.000 verkauften Exemplaren abzeichnen.",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
     },
     {
-      "text": "OpenAI und Polens NASK-Institut unterzeichnen Partnerschaft zur Förderung von KI-Sicherheit und Sicherheitsforschung.",
+      "text": "Google aktualisiert seine Datenschutzrichtlinie und ermöglicht nun die Nutzung von Gmail-Inhalten für personalisierte Werbung über die neue \"Personal Intelligence\" Funktion.",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+    },
+    {
+      "text": "Jack Dorseys Block stellt das KI-Modell \"Dessa\" vor, das von Grund auf nur mit menschlichen Gesprächen trainiert wurde und wie ein unbeholfener neuer Freund wirkt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+    },
+    {
+      "text": "Intel erhält eine Ausnahmegenehmigung für die Verwendung ausländischer Roboter in seinen US-Halbleiterfabriken trotz neuer US-Restriktionen.",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+    },
+    {
+      "text": "OpenAI und Polens NASK-Institut unterzeichnen Partnerschaftsabkommen zur Zusammenarbeit bei KI-Sicherheit und Sicherheitsforschung.",
       "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     {
-      "text": "OpenAI sammelt $30 Milliarden bei einer Bewertung von $1,25 Billionen ein, kurz vor potenziellem Börsengang.",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-    },
-    {
-      "text": "Canva launcht sein erstes eigenes KI-Bildgenerierungsmodell Canva Craft, das Designs plant, bevor es sie erstellt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
-    },
-    {
-      "text": "Meta behebt Sicherheitsproblem bei Muse-AI-Agenten durch neue URLs für geteilte Artefakte nach Entdeckung leicht zu findender öffentlicher Links.",
-      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts"
-    },
-    {
-      "text": "Google DeepMind präsentiert globale Waldkarte, die jeden 10-Meter-Landstreifen der Erde in distinct Waldtypen kategorisiert.",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+      "text": "OpenAI skaliert die Online-Speicherinfrastruktur massiv, um über eine Milliarde ChatGPT-Nutzer zu bedienen und veröffentlicht technische Details dazu.",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
     }
   ]
 }

@@ -1,5 +1,82 @@
 [
   {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T23:05:49.000Z"
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T21:59:19.000Z"
+  },
+  {
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-23T21:11:07.000Z"
+  },
+  {
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-23T20:19:55.000Z"
+  },
+  {
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-23T19:32:39.000Z"
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T19:06:23.000Z"
+  },
+  {
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-23T17:18:31.000Z"
+  },
+  {
+    "title": "The iPhone Duo should have been an iPad",
+    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-23T17:00:18.000Z"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-23T17:00:00.000Z"
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-23T16:15:50.000Z"
+  },
+  {
+    "title": "Securing our frontier model training environment",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-23T10:00:00.000Z"
+  },
+  {
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "source": "TechCrunch AI",
@@ -18,6 +95,13 @@
     "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "source": "OpenAI",
     "category": "Research",
+    "pubDate": "2026-10-23T00:00:00.000Z"
+  },
+  {
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "Hugging Face",
+    "category": "Tools",
     "pubDate": "2026-10-23T00:00:00.000Z"
   },
   {
@@ -2868,131 +2952,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-09-24T10:46:56.000Z"
-  },
-  {
-    "title": "Everything new coming to Meta&#8217;s AI agent Muse",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-24T01:13:32.000Z"
-  },
-  {
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-24T00:46:17.000Z"
-  },
-  {
-    "title": "Meta is making a standalone Muse AI gadget",
-    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-24T00:15:20.000Z"
-  },
-  {
-    "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-    "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-23T23:42:44.000Z"
-  },
-  {
-    "title": "Muse is coming to Meta smart glasses",
-    "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-23T23:40:56.000Z"
-  },
-  {
-    "title": "Meta introduces camera-free AI glasses",
-    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-23T23:39:44.000Z"
-  },
-  {
-    "title": "Meta ditches the camera on its newest smart glasses",
-    "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-23T23:37:17.000Z"
-  },
-  {
-    "title": "A US-China AI Hotline Won't Be Ready For a While",
-    "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-23T21:00:00.000Z"
-  },
-  {
-    "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
-    "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-23T20:52:28.000Z"
-  },
-  {
-    "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-    "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-23T20:28:42.000Z"
-  },
-  {
-    "title": "YouTube promises custom feeds and a lot more AI later this year",
-    "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-23T19:35:53.000Z"
-  },
-  {
-    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-23T18:41:40.000Z"
-  },
-  {
-    "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
-    "link": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-23T18:30:00.000Z"
-  },
-  {
-    "title": "Advancing Private AI Compute with secure, server-side memory",
-    "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-09-23T16:00:57.000Z"
-  },
-  {
-    "title": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-23T16:00:00.000Z"
-  },
-  {
-    "title": "Gemini 3.8 text-to-speech says hello",
-    "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-09-23T15:25:14.000Z"
-  },
-  {
-    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-23T13:00:00.000Z"
-  },
-  {
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-23T12:00:00.000Z"
   }
 ]
