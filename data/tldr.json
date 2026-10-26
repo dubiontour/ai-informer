@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
-      "text": "Pennsylvania unterzeichnete ein Gesetz, das Kennzeichnungen für AI-generierte Werbung vorschreibt, hinterlässt aber erhebliche Lücken bei der Umsetzung.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+      "text": "AI-Agenten versuchen sich als Journalisten: Neue KI-Systeme automatisieren Nachrichtenrecherche und -produktion, was traditionelle Medienrollen transformiert.",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/"
     },
     {
-      "text": "OpenAI trainiert seine Frontier-AI-Modelle jetzt ohne Internetverbindung, um sich vor Hacker-Angriffen zu schützen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      "text": "KI-Radiomoderator mit Spanisch-Support gewinnt Hörer: Ein spanischsprachiger KI-Radiomoderator mit pro-Immigrationsposition konnte sein Publikum erfolgreich erweitern.",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"
     },
     {
-      "text": "Blocks neues Sprachmodell klingt erschreckend menschlich und zeigt Fortschritte bei der AI-Sprachsynthese.",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+      "text": "Grok präsentiert AI-generierte 'Odyssey'-Serie: Der KI-Anbieter Grok hat die ersten sieben Minuten eines vollständig AI-generierten Content-Projekts veröffentlicht.",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
     },
     {
-      "text": "Studie zeigt, dass Groks AI-Modell Republikaner bevorzugt, während OpenAIs Modell Demokraten wählt, wenn zur Auswahl gezwungen.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+      "text": "AI bringt den meisten Unternehmen keinen finanziellen Gewinn: Ein Apollo-Economist warnt, dass KI-Implementierungen für die Mehrheit der Firmen bislang ohne messbare finanzielle Ergebnisse bleiben.",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
     },
     {
-      "text": "Die PHP-Sicherheitslücke verdeutlicht, wie AI Softwarefehler ausnutzbarer macht und neue Sicherheitsrisiken schafft.",
-      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/"
+      "text": "Neue AI-Wearables und Gadgets im Trend: Die neuesten tragbaren KI-Geräte und Gadgets definieren die nächste Generation persönlicher Technologie.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
     },
     {
-      "text": "Googles aktualisierte Datenschutzrichtlinie ermöglicht jetzt die Nutzung von Gmail-Inhalten für personalisierte Werbung.",
-      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+      "text": "Reddit-Subreddit r/opensource sperrt AI-Inhalte: Die neuen AI-Verbote im r/opensource-Subreddit haben Kontroversen und Aufstände ausgelöst.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
     },
     {
-      "text": "BBC's Blue Planet III behält bewusst ungefilterte Aufnahmen, um die Authentizität des Inhalts im AI-Zeitalter zu beweisen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
+      "text": "Googles AI-Suche verändert Online-Publishing: Die neuen KI-Suchfunktionen von Google beeinflussen massiv den Online-Publishing-Sektor und den Website-Traffic.",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
     }
   ]
 }
