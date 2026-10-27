@@ -1,10 +1,143 @@
 [
   {
+    "title": "Data center backlash is uniting America",
+    "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-27T10:00:00.000Z"
+  },
+  {
+    "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+    "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-27T09:30:00.000Z"
+  },
+  {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-10-27T06:25:37.000Z"
+  },
+  {
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-27T02:00:00.000Z"
+  },
+  {
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-27T01:12:21.000Z"
+  },
+  {
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-26T23:34:58.000Z"
+  },
+  {
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-10-26T22:41:48.000Z"
+  },
+  {
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-26T22:00:00.000Z"
+  },
+  {
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-26T21:45:31.000Z"
+  },
+  {
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-26T21:27:15.000Z"
+  },
+  {
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-26T20:04:16.000Z"
+  },
+  {
+    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+    "link": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-26T18:50:41.000Z"
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-26T17:45:43.000Z"
+  },
+  {
+    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+    "link": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-26T17:26:36.000Z"
+  },
+  {
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-26T16:49:42.000Z"
+  },
+  {
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-26T16:01:55.000Z"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-26T14:30:00.000Z"
+  },
+  {
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-26T13:45:00.000Z"
+  },
+  {
     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
     "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-10-26T09:30:00.000Z"
+  },
+  {
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-26T09:01:00.000Z"
   },
   {
     "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
@@ -2805,40 +2938,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-09-27T16:30:00.000Z"
-  },
-  {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-27T01:30:00.000Z"
-  },
-  {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-26T21:02:06.000Z"
-  },
-  {
-    "title": "OpenAI pauses training of its ‘most capable models’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-26T16:34:59.000Z"
-  },
-  {
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-26T14:00:00.000Z"
-  },
-  {
-    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-    "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-26T14:00:00.000Z"
   }
 ]

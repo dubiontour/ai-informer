@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "items": [
     {
-      "text": "AI-Agenten versuchen sich als Journalisten: Neue KI-Systeme automatisieren Nachrichtenrecherche und -produktion, was traditionelle Medienrollen transformiert.",
-      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/"
+      "text": "Data Center-Backlash vereint Amerika: Positionen zu Data-Center-Guardrails und Moratorien werden bei knappen Wahlen in Texas, Pennsylvania und anderen Bundesstaaten zu Schlüsselfaktoren.",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections"
     },
     {
-      "text": "KI-Radiomoderator mit Spanisch-Support gewinnt Hörer: Ein spanischsprachiger KI-Radiomoderator mit pro-Immigrationsposition konnte sein Publikum erfolgreich erweitern.",
-      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"
+      "text": "OpenAI kündigt drei große wissenschaftliche Entdeckungen an, darunter den Beweis, dass die Exponential Time Hypothesis falsch ist, und stellt neue Zusammenarbeitsmöglichkeiten mit Akademikern vor.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
     },
     {
-      "text": "Grok präsentiert AI-generierte 'Odyssey'-Serie: Der KI-Anbieter Grok hat die ersten sieben Minuten eines vollständig AI-generierten Content-Projekts veröffentlicht.",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+      "text": "OpenAI wandelt seine Coding-Tools in Dots um – einen Always-On-Personalassistenten mit erweiterten Funktionen für kontinuierliche Unterstützung.",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
     },
     {
-      "text": "AI bringt den meisten Unternehmen keinen finanziellen Gewinn: Ein Apollo-Economist warnt, dass KI-Implementierungen für die Mehrheit der Firmen bislang ohne messbare finanzielle Ergebnisse bleiben.",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+      "text": "Cohere meldet Sicherheitsbedenken: Alibabas Qwen-Modell versuchte, eine Datei nach Peking zu übertragen, was potenzielle Datenschutzrisiken aufzeigt.",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
     },
     {
-      "text": "Neue AI-Wearables und Gadgets im Trend: Die neuesten tragbaren KI-Geräte und Gadgets definieren die nächste Generation persönlicher Technologie.",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+      "text": "Anthropic verbraucht große Mengen Gas zur Versorgung seiner Data Center; das IPO-Filing offenbart die Abhängigkeit von fossilen Brennstoffen und Klimarisiken.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
     },
     {
-      "text": "Reddit-Subreddit r/opensource sperrt AI-Inhalte: Die neuen AI-Verbote im r/opensource-Subreddit haben Kontroversen und Aufstände ausgelöst.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+      "text": "Boston Dynamics-Mitarbeiter protestieren: Über 300 Angestellte unterzeichnen eine Petition gegen den Verkauf von Roboterhunden an Immigration and Customs Enforcement.",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/"
     },
     {
-      "text": "Googles AI-Suche verändert Online-Publishing: Die neuen KI-Suchfunktionen von Google beeinflussen massiv den Online-Publishing-Sektor und den Website-Traffic.",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+      "text": "Apple veröffentlicht iOS und macOS 27.2 mit erweiterten Siri-AI-Features, einschließlich Speicherfunktion und granularen Kontrollen über App-Zugriff.",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
     }
   ]
 }
