@@ -1,5 +1,82 @@
 [
   {
+    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-28T10:00:00.000Z"
+  },
+  {
+    "title": "Holo4: powering generalist computer-use agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-09-28T09:44:05.000Z"
+  },
+  {
+    "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-28T09:30:00.000Z"
+  },
+  {
+    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-28T09:00:00.000Z"
+  },
+  {
+    "title": "Who’s liable when AI agents go rogue?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-28T08:06:22.000Z"
+  },
+  {
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-28T07:00:00.000Z"
+  },
+  {
+    "title": "Engram is a sampler that turns broken AI hallucinations into music",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-27T20:46:36.000Z"
+  },
+  {
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-27T20:34:28.000Z"
+  },
+  {
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-27T19:57:30.000Z"
+  },
+  {
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-27T17:21:07.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-27T16:30:00.000Z"
+  },
+  {
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "source": "TechCrunch AI",

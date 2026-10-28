@@ -1,5 +1,138 @@
 [
   {
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-28T10:15:00.000Z"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T09:30:00.000Z"
+  },
+  {
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-28T08:30:00.000Z"
+  },
+  {
+    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-28T06:00:00.000Z"
+  },
+  {
+    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-28T01:15:28.000Z"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-27T23:34:27.000Z"
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-27T22:55:41.000Z"
+  },
+  {
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-27T21:50:04.000Z"
+  },
+  {
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-27T21:31:14.000Z"
+  },
+  {
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-27T20:48:58.000Z"
+  },
+  {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "link": "https://www.brangus.io/survival-llm",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-10-27T19:55:06.000Z"
+  },
+  {
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-27T18:49:08.000Z"
+  },
+  {
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-27T17:30:00.000Z"
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-27T17:16:52.000Z"
+  },
+  {
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-27T16:51:22.000Z"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-27T16:12:42.000Z"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-27T16:01:38.000Z"
+  },
+  {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "link": "https://openai.com/index/retell-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-27T15:00:00.000Z"
+  },
+  {
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-27T11:19:18.000Z"
+  },
+  {
     "title": "Data center backlash is uniting America",
     "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
     "source": "The Verge AI",
@@ -12,6 +145,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-10-27T09:30:00.000Z"
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-27T07:00:00.000Z"
   },
   {
     "title": "The Mythical Man-Month in the Age of AI",
@@ -2861,82 +3001,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-09-28T11:00:09.000Z"
-  },
-  {
-    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-    "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-28T10:00:00.000Z"
-  },
-  {
-    "title": "Holo4: powering generalist computer-use agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-09-28T09:44:05.000Z"
-  },
-  {
-    "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-    "link": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-28T09:30:00.000Z"
-  },
-  {
-    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "link": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-28T09:00:00.000Z"
-  },
-  {
-    "title": "Who’s liable when AI agents go rogue?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-28T08:06:22.000Z"
-  },
-  {
-    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-28T07:00:00.000Z"
-  },
-  {
-    "title": "Engram is a sampler that turns broken AI hallucinations into music",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-27T20:46:36.000Z"
-  },
-  {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-27T20:34:28.000Z"
-  },
-  {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-27T19:57:30.000Z"
-  },
-  {
-    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-27T17:21:07.000Z"
-  },
-  {
-    "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-27T16:30:00.000Z"
   }
 ]
