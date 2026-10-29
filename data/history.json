@@ -1,5 +1,117 @@
 [
   {
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-29T10:11:12.000Z"
+  },
+  {
+    "title": "AI has come for Arizona’s water",
+    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-29T10:00:04.000Z"
+  },
+  {
+    "title": "I Gave My Blood to the AI Death Clock",
+    "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-29T10:00:00.000Z"
+  },
+  {
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-28T23:05:39.000Z"
+  },
+  {
+    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-28T21:58:32.000Z"
+  },
+  {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-28T21:48:37.000Z"
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-28T21:34:30.000Z"
+  },
+  {
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-28T21:34:04.000Z"
+  },
+  {
+    "title": "Creating AI value with enterprise context",
+    "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-28T20:32:02.000Z"
+  },
+  {
+    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can&#039;t use",
+    "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-28T18:47:27.000Z"
+  },
+  {
+    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-28T18:30:00.000Z"
+  },
+  {
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-28T17:46:32.000Z"
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-28T17:00:58.000Z"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-28T14:58:17.000Z"
+  },
+  {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T13:15:00.000Z"
+  },
+  {
+    "title": "Pairing industrial AI autonomy and human control",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-28T12:00:00.000Z"
+  },
+  {
     "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
     "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
     "source": "Wired AI",
@@ -7,8 +119,22 @@
     "pubDate": "2026-10-28T10:15:00.000Z"
   },
   {
+    "title": "The future of the firm",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T10:00:00.000Z"
+  },
+  {
     "title": "Legora is building the agentic operating system for legal work",
     "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T09:30:00.000Z"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora",
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-10-28T09:30:00.000Z"
@@ -2854,152 +2980,5 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-09-29T13:07:00.000Z"
-  },
-  {
-    "title": "Making AI an asset, not an expense",
-    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-29T10:43:45.000Z"
-  },
-  {
-    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
-    "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-29T10:36:22.000Z"
-  },
-  {
-    "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-29T10:30:00.000Z"
-  },
-  {
-    "title": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-29T10:00:00.000Z"
-  },
-  {
-    "title": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-29T10:00:00.000Z"
-  },
-  {
-    "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-29T05:13:43.000Z"
-  },
-  {
-    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-29T00:30:00.000Z"
-  },
-  {
-    "title": "Introducing dots",
-    "link": "https://openai.com/index/introducing-dots",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-29T00:00:00.000Z"
-  },
-  {
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-09-28T23:39:20.000Z"
-  },
-  {
-    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-28T22:17:07.000Z"
-  },
-  {
-    "title": "Experts worry about Nvidia&#039;s AI chip sales in China and influence over Trump",
-    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-28T21:49:10.000Z"
-  },
-  {
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-28T21:31:35.000Z"
-  },
-  {
-    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-    "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-28T20:49:39.000Z"
-  },
-  {
-    "title": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-28T19:00:00.000Z"
-  },
-  {
-    "title": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-09-28T19:00:00.000Z"
-  },
-  {
-    "title": "OpenAI’s AI agents need to catch up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-28T18:45:00.000Z"
-  },
-  {
-    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-09-28T18:30:00.000Z"
-  },
-  {
-    "title": "When can we say AI made a scientific discovery?",
-    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-09-28T17:03:16.000Z"
-  },
-  {
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-28T16:43:18.000Z"
-  },
-  {
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-09-28T11:32:19.000Z"
-  },
-  {
-    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-09-28T11:00:09.000Z"
   }
 ]

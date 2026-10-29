@@ -1,5 +1,152 @@
 [
   {
+    "title": "Making AI an asset, not an expense",
+    "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-29T10:43:45.000Z"
+  },
+  {
+    "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+    "link": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-29T10:36:22.000Z"
+  },
+  {
+    "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-29T10:30:00.000Z"
+  },
+  {
+    "title": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-29T10:00:00.000Z"
+  },
+  {
+    "title": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-29T10:00:00.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-29T05:13:43.000Z"
+  },
+  {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-29T00:30:00.000Z"
+  },
+  {
+    "title": "Introducing dots",
+    "link": "https://openai.com/index/introducing-dots",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-09-28T23:39:20.000Z"
+  },
+  {
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-28T22:17:07.000Z"
+  },
+  {
+    "title": "Experts worry about Nvidia&#039;s AI chip sales in China and influence over Trump",
+    "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-28T21:49:10.000Z"
+  },
+  {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-28T21:31:35.000Z"
+  },
+  {
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-28T20:49:39.000Z"
+  },
+  {
+    "title": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-28T19:00:00.000Z"
+  },
+  {
+    "title": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-09-28T19:00:00.000Z"
+  },
+  {
+    "title": "OpenAI’s AI agents need to catch up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-28T18:45:00.000Z"
+  },
+  {
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-09-28T18:30:00.000Z"
+  },
+  {
+    "title": "When can we say AI made a scientific discovery?",
+    "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-09-28T17:03:16.000Z"
+  },
+  {
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-28T16:43:18.000Z"
+  },
+  {
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "link": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-09-28T11:32:19.000Z"
+  },
+  {
+    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+    "link": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-09-28T11:00:09.000Z"
+  },
+  {
     "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
     "link": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
     "source": "Wired AI",

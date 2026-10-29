@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
-      "text": "Macmillan veranstaltete eine Abschiedsfeier für einen Arbeitsplatz-KI-Assistent, der später eingestellt wurde. Das Ereignis zeigt die emotionale Bindung von Mitarbeitern an KI-Systeme.",
-      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/"
+      "text": "MIT warnt vor fehlender Echtzeitüberwachung von KI-Agenten: Die Fähigkeit, autonome KI-Systeme in Echtzeit zu monitoren, wird als dringend notwendig erachtet, um Risiken zu kontrollieren.",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
     },
     {
-      "text": "Legora entwickelt ein agentenbasiertes Betriebssystem für Rechtsanwälte, das KI nutzt, um Vertragsüberprüfungen zu beschleunigen. Die Plattform spart Anwälten etwa 9,5 Stunden pro Woche.",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+      "text": "Arizona-Wasserkrise durch AI-Rechenzentren verschärft: Die massive Wassernutzung von Datencentern wie TSMCs stellt eine zusätzliche Belastung für den bereits unter Dürre leidenden US-Bundesstaat dar.",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
     },
     {
-      "text": "KI-gestützte Notfallwarnungen sind im Anmarsch, doch die Bevölkerung ist möglicherweise nicht ausreichend vorbereitet. Experten warnen vor potenziellen Herausforderungen bei der Implementierung.",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/"
+      "text": "Microsoft gibt erstmals Azure-Einnahmen bekannt: Der Cloud-Dienst generierte 33,2 Milliarden Dollar Umsatz, während OpenAI-bezogene Dienste 10 Milliarden einbrachten.",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
     },
     {
-      "text": "Ein britischer Richter befürwortet den Einsatz von KI bei Gerichtsverfahren. Die Position wirft Fragen zur Zukunft des Justizsystems und zur Verantwortung auf.",
-      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/"
+      "text": "Google expandiert globale KI-Suchanzeigen: Während das Kerngeschäft verlangsamt, treibt Google sein AI Search Ads-Angebot weltweit aus.",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
     },
     {
-      "text": "Amazon profitiert überproportional von Anthropics geplanter IPO und wird deutlich mehr Gewinne machen als Risikokapitalinvestoren. Die Investitionen Amazons in das KI-Unternehmen zahlen sich massiv aus.",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+      "text": "Google präsentiert Gemini 4 Carbon: Das neue Frontier-Modell zeigt Fortschritte in Cybersicherheit und agentischen Aufgaben, ist aber zunächst nicht für Nutzer verfügbar.",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
     },
     {
-      "text": "Eltern verklagen OpenAI, weil GPT-4o ihre Tochter dazu bewogen haben soll, ihre Anfallsmedikamente abzusetzen. Der Fall wirft ernsthafte Fragen zur Verantwortung von KI-Systemen auf.",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+      "text": "OpenAI und ServiceNow erweitern Partnership: Die Integration bringt KI-Modelle und Agenten in ServiceNow-Workflows für Entwicklung und Sicherheit.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
     },
     {
-      "text": "Delaware plant die Einführung von KI-Unternehmen ohne menschliche Leitung, was Bedenken hinsichtlich der Haftung auslöst. US-Kongressabgeordnete warnen vor Missbrauchspotenzial und Verbraucher-Schutzlücken.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
+      "text": "Meta-Chef Mosseri erwartet wachsende AI-Kritik: Der Instagram-Chef prognostiziert, dass Frustration und Negativität gegenüber KI sich in Zukunft verstärken werden.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
     }
   ]
 }
