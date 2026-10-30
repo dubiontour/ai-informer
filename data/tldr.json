@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
-      "text": "MIT warnt vor fehlender Echtzeitüberwachung von KI-Agenten: Die Fähigkeit, autonome KI-Systeme in Echtzeit zu monitoren, wird als dringend notwendig erachtet, um Risiken zu kontrollieren.",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+      "text": "Arbeitnehmer können in den USA Ausnahmen von AI-Nutzung am Arbeitsplatz beantragen, ohne an eine Religion glauben zu müssen – eine neue arbeitsrechtliche Entwicklung.",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
     },
     {
-      "text": "Arizona-Wasserkrise durch AI-Rechenzentren verschärft: Die massive Wassernutzung von Datencentern wie TSMCs stellt eine zusätzliche Belastung für den bereits unter Dürre leidenden US-Bundesstaat dar.",
-      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+      "text": "AWS-Chef Jassy kündigt Billionen-Dollar-Geschäft an, plant aber massives zusätzliches Investitionswachstum für KI-Infrastruktur.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
     },
     {
-      "text": "Microsoft gibt erstmals Azure-Einnahmen bekannt: Der Cloud-Dienst generierte 33,2 Milliarden Dollar Umsatz, während OpenAI-bezogene Dienste 10 Milliarden einbrachten.",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/"
+      "text": "Trump erklärt Roboter-Importe zur Sicherheitsbedrohung und ordnet Handelsverhandlungen an mit möglichen neuen Zöllen auf ausländische Fabrikroboter.",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
     },
     {
-      "text": "Google expandiert globale KI-Suchanzeigen: Während das Kerngeschäft verlangsamt, treibt Google sein AI Search Ads-Angebot weltweit aus.",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+      "text": "Google Gemini kann nun Google Docs direkt in Chat-Gesprächen erstellen und bearbeiten, ohne die App verlassen zu müssen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
     },
     {
-      "text": "Google präsentiert Gemini 4 Carbon: Das neue Frontier-Modell zeigt Fortschritte in Cybersicherheit und agentischen Aufgaben, ist aber zunächst nicht für Nutzer verfügbar.",
-      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+      "text": "Google gibt zu, dass KI-Suche weniger Einnahmen generiert als organische Suche, plant aber mehr Werbung zur Umsatzsteigerung.",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
     },
     {
-      "text": "OpenAI und ServiceNow erweitern Partnership: Die Integration bringt KI-Modelle und Agenten in ServiceNow-Workflows für Entwicklung und Sicherheit.",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+      "text": "Ein Rüstungsunternehmer gab einem persönlichen KI-Agenten Zugriff auf ein sicheres Pentagon-System – ein kritisches Sicherheitsproblem.",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
     },
     {
-      "text": "Meta-Chef Mosseri erwartet wachsende AI-Kritik: Der Instagram-Chef prognostiziert, dass Frustration und Negativität gegenüber KI sich in Zukunft verstärken werden.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity"
+      "text": "OpenAI aktualisiert sein Model Spec und organisiert die KI-Verhaltensguidelines um fünf Kernwerte: Treue zu menschlichen Absichten, Schadensminderung, Ehrlichkeit, menschliche Handlungsfähigkeit und Sorgfalt.",
+      "url": "https://openai.com/index/updated-model-spec"
     }
   ]
 }
