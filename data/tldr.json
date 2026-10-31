@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
     {
-      "text": "Arbeitnehmer können in den USA Ausnahmen von AI-Nutzung am Arbeitsplatz beantragen, ohne an eine Religion glauben zu müssen – eine neue arbeitsrechtliche Entwicklung.",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+      "text": "Ein KI-Agent hat erfolgreich Medikamente direkt ins Gehirn einer lebenden Maus injiziert und demonstriert damit neue Möglichkeiten für medizinische Anwendungen.",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
     },
     {
-      "text": "AWS-Chef Jassy kündigt Billionen-Dollar-Geschäft an, plant aber massives zusätzliches Investitionswachstum für KI-Infrastruktur.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
+      "text": "OpenAI, Google und Microsoft unterstützen einen einheitlichen Standard in robots.txt, um Websites eine einfachere Kontrolle über ihr Scraping für KI-Training zu ermöglichen.",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
     },
     {
-      "text": "Trump erklärt Roboter-Importe zur Sicherheitsbedrohung und ordnet Handelsverhandlungen an mit möglichen neuen Zöllen auf ausländische Fabrikroboter.",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/"
+      "text": "Ein Anthropic VS Code-Extension wurde für fast 12 Stunden gehackt und bedrohte potenziell 5.000 Entwickler-Maschinen durch einen Supply-Chain-Angriff.",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
     },
     {
-      "text": "Google Gemini kann nun Google Docs direkt in Chat-Gesprächen erstellen und bearbeiten, ohne die App verlassen zu müssen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+      "text": "Dartmouths Provost Santiago Schnell, der vor KI-Betrug warnte, musste zurücktreten, weil er selbst AI-Nutzung in wissenschaftlichen Publikationen nicht offengelegt hatte.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
     },
     {
-      "text": "Google gibt zu, dass KI-Suche weniger Einnahmen generiert als organische Suche, plant aber mehr Werbung zur Umsatzsteigerung.",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+      "text": "Apple Intelligence kommt endlich nach China mit iOS 27.3 Beta nächste Woche, um erste KI-Funktionen auf dem chinesischen Markt einzuführen.",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
     },
     {
-      "text": "Ein Rüstungsunternehmer gab einem persönlichen KI-Agenten Zugriff auf ein sicheres Pentagon-System – ein kritisches Sicherheitsproblem.",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+      "text": "Sam Altman erklärt, dass RAM in Rechenzentren besser aufgehoben ist als auf Einzelgeräten, während OpenAI die globale RAM-Versorgung anspannt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
     },
     {
-      "text": "OpenAI aktualisiert sein Model Spec und organisiert die KI-Verhaltensguidelines um fünf Kernwerte: Treue zu menschlichen Absichten, Schadensminderung, Ehrlichkeit, menschliche Handlungsfähigkeit und Sorgfalt.",
-      "url": "https://openai.com/index/updated-model-spec"
+      "text": "Nvidia erwägt, als Bürge für Nscales KI-Rechenzentrum in West Virginia zu fungieren und damit die Finanzierung der Infrastruktur zu unterstützen.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
     }
   ]
 }
