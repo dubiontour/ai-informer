@@ -1,33 +1,33 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "items": [
     {
-      "text": "Ein KI-Agent hat erfolgreich Medikamente direkt ins Gehirn einer lebenden Maus injiziert und demonstriert damit neue Möglichkeiten für medizinische Anwendungen.",
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
+      "text": "Chatbots führen Wanderer in gefährliche Situationen: KI-Systeme geben fehlerhafte Navigationsanweisungen bei Wanderungen und gefährden damit Nutzer.",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
     },
     {
-      "text": "OpenAI, Google und Microsoft unterstützen einen einheitlichen Standard in robots.txt, um Websites eine einfachere Kontrolle über ihr Scraping für KI-Training zu ermöglichen.",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+      "text": "Apple CEO lehnt AI-um-jeden-Preis-Strategie ab: Tim Cook betont, dass Apple keine KI nur um der KI willen veröffentlichen möchte.",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
     },
     {
-      "text": "Ein Anthropic VS Code-Extension wurde für fast 12 Stunden gehackt und bedrohte potenziell 5.000 Entwickler-Maschinen durch einen Supply-Chain-Angriff.",
+      "text": "Gericht erlaubt NAACP-Klage gegen xAI Datencenter: Umweltbesorgnis-Klage gegen die Umweltbelastung durch xAI-Infrastruktur darf voranschreiten.",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+    },
+    {
+      "text": "Neue Malware nutzt KI zur Autodoxing: Eine gefährliche Infostealer-Malware setzt AI-gestützte Techniken ein, um Opfer zu identifizieren und bloßzustellen.",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+    },
+    {
+      "text": "Anthropic Claude VS Code Extension gehackt: Ein backdoor-Angriff auf die Cursor-Erweiterung gefährdete bis zu 5.000 Entwicklermaschinen für 12 Stunden.",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
     },
     {
-      "text": "Dartmouths Provost Santiago Schnell, der vor KI-Betrug warnte, musste zurücktreten, weil er selbst AI-Nutzung in wissenschaftlichen Publikationen nicht offengelegt hatte.",
+      "text": "Dartmouth-Provost tritt zurück wegen AI-Geheimnis: Santiago Schnell, der vor AI-Betrug warnte, musste kündigen, nachdem undisclosed AI-Nutzung in seinen Schriften entdeckt wurde.",
       "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
     },
     {
-      "text": "Apple Intelligence kommt endlich nach China mit iOS 27.3 Beta nächste Woche, um erste KI-Funktionen auf dem chinesischen Markt einzuführen.",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
-    },
-    {
-      "text": "Sam Altman erklärt, dass RAM in Rechenzentren besser aufgehoben ist als auf Einzelgeräten, während OpenAI die globale RAM-Versorgung anspannt.",
+      "text": "Sam Altman argumentiert für Cloud-RAM statt lokale Hardware: OpenAI-Chef verteidigt massive RAM-Beschaffung für Datencenter während RAM-Engpässe entstehen.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
-    },
-    {
-      "text": "Nvidia erwägt, als Bürge für Nscales KI-Rechenzentrum in West Virginia zu fungieren und damit die Finanzierung der Infrastruktur zu unterstützen.",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
     }
   ]
 }

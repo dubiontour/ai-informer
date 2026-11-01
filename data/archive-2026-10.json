@@ -1,5 +1,124 @@
 [
   {
+    "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T09:45:00.000Z"
+  },
+  {
+    "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+    "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T09:30:00.000Z"
+  },
+  {
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-02T08:00:00.000Z"
+  },
+  {
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-02T04:01:31.000Z"
+  },
+  {
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "title": "Whatever AI Safety Is, It’s Not This",
+    "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-01T22:10:42.000Z"
+  },
+  {
+    "title": "Musk&#8217;s AI chatbot Grok reportedly encouraged Trump to capture Venezuela&#8217;s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-01T21:08:11.000Z"
+  },
+  {
+    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+    "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-01T20:11:55.000Z"
+  },
+  {
+    "title": "Google’s new Guided Vision feature can help you read the fine print",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-01T19:47:51.000Z"
+  },
+  {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-01T19:21:53.000Z"
+  },
+  {
+    "title": "Google thinks SpaceX&#8217;s Starship has to launch 1,800 times before space data centers get off the ground",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-01T19:18:03.000Z"
+  },
+  {
+    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-01T17:12:21.000Z"
+  },
+  {
+    "title": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-01T17:00:00.000Z"
+  },
+  {
+    "title": "With most information hidden, the game Stratego had stumped AI—until now",
+    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-01T16:28:04.000Z"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-01T16:00:00.000Z"
+  },
+  {
+    "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-01T15:01:43.000Z"
+  },
+  {
+    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-01T14:36:50.000Z"
+  },
+  {
     "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
     "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
     "source": "The Verge AI",
