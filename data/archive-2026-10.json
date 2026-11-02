@@ -1,5 +1,110 @@
 [
   {
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-03T12:00:00.000Z"
+  },
+  {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-03T00:45:39.000Z"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-02T23:03:16.000Z"
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-02T21:09:14.000Z"
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-02T21:08:37.000Z"
+  },
+  {
+    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+    "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-02T20:30:27.000Z"
+  },
+  {
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-02T20:08:40.000Z"
+  },
+  {
+    "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-02T19:15:51.000Z"
+  },
+  {
+    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+    "link": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-02T18:39:36.000Z"
+  },
+  {
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-02T18:00:00.000Z"
+  },
+  {
+    "title": "A model guide for the GPT-6 family",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-02T16:15:00.000Z"
+  },
+  {
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T16:00:00.000Z"
+  },
+  {
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-02T15:49:04.000Z"
+  },
+  {
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-02T15:19:50.000Z"
+  },
+  {
+    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-02T15:00:00.000Z"
+  },
+  {
     "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
     "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
     "source": "Wired AI",

@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "items": [
     {
-      "text": "Chatbots führen Wanderer in gefährliche Situationen: KI-Systeme geben fehlerhafte Navigationsanweisungen bei Wanderungen und gefährden damit Nutzer.",
+      "text": "Hunderte alltägliche AI-Apps verstecken Funktionen zur Erstellung von sexuellen Deepfakes mit Missbrauchspotential.",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
+    },
+    {
+      "text": "Chatbots führen Wanderer mit gefährlichen Fehlentscheidungen in die Irre.",
       "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
     },
     {
-      "text": "Apple CEO lehnt AI-um-jeden-Preis-Strategie ab: Tim Cook betont, dass Apple keine KI nur um der KI willen veröffentlichen möchte.",
+      "text": "Das agentic web ist bereits Realität und verändert die Internetnutzung grundlegend.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
+    },
+    {
+      "text": "Apple-CEO betont, dass das Unternehmen keine AI um ihrer selbst willen einbauen möchte.",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
     },
     {
-      "text": "Gericht erlaubt NAACP-Klage gegen xAI Datencenter: Umweltbesorgnis-Klage gegen die Umweltbelastung durch xAI-Infrastruktur darf voranschreiten.",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+      "text": "OpenAI könnte seine Rechenzentren in 'AI-Compute-Campuses' umbenennen.",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
     },
     {
-      "text": "Neue Malware nutzt KI zur Autodoxing: Eine gefährliche Infostealer-Malware setzt AI-gestützte Techniken ein, um Opfer zu identifizieren und bloßzustellen.",
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+      "text": "AI macht Tech-CEOs das Leben leichter, während Auswirkungen auf normale Nutzer unklar bleiben.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
     },
     {
-      "text": "Anthropic Claude VS Code Extension gehackt: Ein backdoor-Angriff auf die Cursor-Erweiterung gefährdete bis zu 5.000 Entwicklermaschinen für 12 Stunden.",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
-    },
-    {
-      "text": "Dartmouth-Provost tritt zurück wegen AI-Geheimnis: Santiago Schnell, der vor AI-Betrug warnte, musste kündigen, nachdem undisclosed AI-Nutzung in seinen Schriften entdeckt wurde.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/"
-    },
-    {
-      "text": "Sam Altman argumentiert für Cloud-RAM statt lokale Hardware: OpenAI-Chef verteidigt massive RAM-Beschaffung für Datencenter während RAM-Engpässe entstehen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+      "text": "Entwickler bauen AI-Tamagotchis mit Standard-Hardware, bevor Meta seine Muse Charm veröffentlicht.",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
     }
   ]
 }
