@@ -1,5 +1,124 @@
 [
   {
+    "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+    "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-03T11:00:00.000Z"
+  },
+  {
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-03T10:43:41.000Z"
+  },
+  {
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "link": "https://openai.com/index/heimstaden",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-03T08:00:00.000Z"
+  },
+  {
+    "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-03T07:20:00.000Z"
+  },
+  {
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-03T04:18:47.000Z"
+  },
+  {
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-03T03:30:00.000Z"
+  },
+  {
+    "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-03T01:49:52.000Z"
+  },
+  {
+    "title": "Transformers Model Integration Contracts",
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-02T18:56:02.000Z"
+  },
+  {
+    "title": "Egoless Mathematics in the AI Era",
+    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-11-02T18:54:44.000Z"
+  },
+  {
+    "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+    "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-02T18:32:21.000Z"
+  },
+  {
+    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+    "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-02T18:05:31.000Z"
+  },
+  {
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-02T18:01:30.000Z"
+  },
+  {
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-02T17:51:19.000Z"
+  },
+  {
+    "title": "Raising the quality of insights in agentic analytics",
+    "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-02T17:00:00.000Z"
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-02T15:30:00.000Z"
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-02T15:00:00.000Z"
+  },
+  {
     "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
     "link": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "source": "Wired AI",
@@ -2798,75 +2917,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-10-04T15:15:10.000Z"
-  },
-  {
-    "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-    "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-04T10:00:00.000Z"
-  },
-  {
-    "title": "The Agent Said It Was Done. The Database Disagreed.",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-03T22:56:48.000Z"
-  },
-  {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-03T18:43:57.000Z"
-  },
-  {
-    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-    "link": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-03T18:00:00.000Z"
-  },
-  {
-    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "source": "Hacker News AI",
-    "category": "Community",
-    "pubDate": "2026-10-03T17:44:29.000Z"
-  },
-  {
-    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-03T16:49:10.000Z"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-03T16:30:01.000Z"
-  },
-  {
-    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-    "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-03T15:00:00.000Z"
-  },
-  {
-    "title": "An OpenAI safety employee has quit and is sounding the alarm",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-03T14:31:56.000Z"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-03T14:00:00.000Z"
   }
 ]

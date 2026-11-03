@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "items": [
     {
-      "text": "Hunderte alltägliche AI-Apps verstecken Funktionen zur Erstellung von sexuellen Deepfakes mit Missbrauchspotential.",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
+      "text": "Zohran Mamdani kritisiert in Interview die Risiken von AI-Rechenzentren: Während Unternehmen von der KI-Infrastruktur profitieren, tragen lokale Gemeinschaften die Lasten und Risiken.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/"
     },
     {
-      "text": "Chatbots führen Wanderer mit gefährlichen Fehlentscheidungen in die Irre.",
-      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/"
+      "text": "Forscher entwickeln \"Reverse Game Theory\"-Ansatz zur Kontrolle von KI-Agenten. Diese neue Methode soll sicherstellen, dass autonome KI-Systeme sich ethisch verhalten.",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
     },
     {
-      "text": "Das agentic web ist bereits Realität und verändert die Internetnutzung grundlegend.",
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
+      "text": "Heimstaden revolutioniert Immobilienverwaltung mit OpenAI-Tools: Das Unternehmen reduziert Bildproduktionskosten um 99% und analysiert über 20.000 Immobilien mit KI.",
+      "url": "https://openai.com/index/heimstaden"
     },
     {
-      "text": "Apple-CEO betont, dass das Unternehmen keine AI um ihrer selbst willen einbauen möchte.",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+      "text": "Apple Watch erhält neue KI-Features zum Zusammenfassen von Gesprächen. Die Funktionen befinden sich in Beta-Testing und ermöglichen Nutzer:innen, Konversationen zu rekapitulieren.",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
     },
     {
-      "text": "OpenAI könnte seine Rechenzentren in 'AI-Compute-Campuses' umbenennen.",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+      "text": "Google bringt KI-App Dreambeans nach Indien, um AI-generierte persönliche Geschichten massiv zugänglich zu machen. Expansion folgt Strategie der KI-Demokratisierung in Schwellenländern.",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
     },
     {
-      "text": "AI macht Tech-CEOs das Leben leichter, während Auswirkungen auf normale Nutzer unklar bleiben.",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"
+      "text": "Anthropic beschränkt Claude's Fähigkeit zur Erstellung von Videospiel-Klonen durch neue Sicherheitsrichtlinien. Die Maßnahme soll Urheberrechtsverletzungen verhindern, wird aber Kopierwelle nicht stoppen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
     },
     {
-      "text": "Entwickler bauen AI-Tamagotchis mit Standard-Hardware, bevor Meta seine Muse Charm veröffentlicht.",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+      "text": "The New York Times verklagt Brave-Browser wegen KI-Scraping und Paywall-Umgehung. Brave hat laut Klage urheberrechtlich geschützte Inhalte an KI-Unternehmen weitergegeben.",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
     }
   ]
 }
