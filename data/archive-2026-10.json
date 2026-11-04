@@ -1,5 +1,61 @@
 [
   {
+    "title": "Building advertising for the way people use AI",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-05T10:00:00.000Z"
+  },
+  {
+    "title": "Our minds aren’t equipped to handle AI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-05T10:00:00.000Z"
+  },
+  {
+    "title": "People really hate AI, so why can’t they get enough?",
+    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-05T08:00:00.000Z"
+  },
+  {
+    "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-04T20:31:07.000Z"
+  },
+  {
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-04T20:08:34.000Z"
+  },
+  {
+    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-04T16:16:04.000Z"
+  },
+  {
+    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-04T15:21:59.000Z"
+  },
+  {
+    "title": "Trump unveils his new Super Intelligence Force",
+    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-04T15:15:10.000Z"
+  },
+  {
     "title": "Rural Data Centers Are in for a Big Federal Tax Break",
     "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
     "source": "Wired AI",

@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
-      "text": "Zohran Mamdani kritisiert in Interview die Risiken von AI-Rechenzentren: Während Unternehmen von der KI-Infrastruktur profitieren, tragen lokale Gemeinschaften die Lasten und Risiken.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/"
+      "text": "Google konnte bislang nicht herausfinden, wie es KI-Dienste wie die Suchmaschine monetarisieren kann. Obwohl KI-Aktivitäten die Suchanfragen erhöhen, führt dies nicht zu schnellerem Geschäftswachstum.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
     },
     {
-      "text": "Forscher entwickeln \"Reverse Game Theory\"-Ansatz zur Kontrolle von KI-Agenten. Diese neue Methode soll sicherstellen, dass autonome KI-Systeme sich ethisch verhalten.",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+      "text": "Die größte Modding-Seite für PC-Gaming, Nexus Mods, verpflichtet Modder künftig zur Offenlegung, wenn KI bei der Erstellung ihrer Arbeiten verwendet wurde.",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
     },
     {
-      "text": "Heimstaden revolutioniert Immobilienverwaltung mit OpenAI-Tools: Das Unternehmen reduziert Bildproduktionskosten um 99% und analysiert über 20.000 Immobilien mit KI.",
-      "url": "https://openai.com/index/heimstaden"
+      "text": "Trotz Warnungen einflussreicher Finanzexperten wie dem PIMCO-CEO vor einer KI-Blase werden weiterhin Anleihen für KI-Unternehmen aufgelegt.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
     },
     {
-      "text": "Apple Watch erhält neue KI-Features zum Zusammenfassen von Gesprächen. Die Funktionen befinden sich in Beta-Testing und ermöglichen Nutzer:innen, Konversationen zu rekapitulieren.",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/"
+      "text": "Anthropic entwickelt ein System zur Authentifizierung von KI-Modellen, um deren Identität verifizierbar zu machen.",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
     },
     {
-      "text": "Google bringt KI-App Dreambeans nach Indien, um AI-generierte persönliche Geschichten massiv zugänglich zu machen. Expansion folgt Strategie der KI-Demokratisierung in Schwellenländern.",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+      "text": "Rechenzentren setzen vermehrt auf alte Flugzeugturbinen zur Stromversorgung, da die Wartezeit für Netzstrom wächst.",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
     },
     {
-      "text": "Anthropic beschränkt Claude's Fähigkeit zur Erstellung von Videospiel-Klonen durch neue Sicherheitsrichtlinien. Die Maßnahme soll Urheberrechtsverletzungen verhindern, wird aber Kopierwelle nicht stoppen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones"
+      "text": "Russland reagiert auf ukrainische Drohnenanschläge durch hastigen Umzug von Rechenzentren in ehemalige Kohleminen unter der Erde.",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
     },
     {
-      "text": "The New York Times verklagt Brave-Browser wegen KI-Scraping und Paywall-Umgehung. Brave hat laut Klage urheberrechtlich geschützte Inhalte an KI-Unternehmen weitergegeben.",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+      "text": "Google erlaubt Schulen, KI-Tools zu deaktivieren, doch dies bedeutet auch die Aufgabe der Google-Suche im Klassenzimmer.",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
     }
   ]
 }

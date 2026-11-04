@@ -1,5 +1,96 @@
 [
   {
+    "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-04T12:00:00.000Z"
+  },
+  {
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-04T00:42:10.000Z"
+  },
+  {
+    "title": "Please stop asking me when the AI bubble will pop",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-03T23:37:45.000Z"
+  },
+  {
+    "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-03T22:41:03.000Z"
+  },
+  {
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-03T22:19:53.000Z"
+  },
+  {
+    "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-03T21:43:08.000Z"
+  },
+  {
+    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+    "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-03T20:39:55.000Z"
+  },
+  {
+    "title": "Google will let schools skip AI tools, but they have to give up search, too",
+    "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-03T17:54:43.000Z"
+  },
+  {
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-03T17:15:21.000Z"
+  },
+  {
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-11-03T17:01:49.000Z"
+  },
+  {
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-03T16:35:36.000Z"
+  },
+  {
+    "title": "Here’s Why You Shouldn’t Use AI to Vote",
+    "link": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-03T14:45:08.000Z"
+  },
+  {
+    "title": "Accelerating engineering for the physical world",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-03T12:00:00.000Z"
+  },
+  {
     "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
     "link": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
     "source": "Wired AI",
@@ -16,6 +107,13 @@
   {
     "title": "Heimstaden is changing residential real estate management with AI",
     "link": "https://openai.com/index/heimstaden",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-03T08:00:00.000Z"
+  },
+  {
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "link": "https://openai.com/index/cisco-cyber",
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-11-03T08:00:00.000Z"
@@ -51,6 +149,13 @@
   {
     "title": "Transformers Model Integration Contracts",
     "link": "https://huggingface.co/blog/transformers-mic",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-03T00:00:00.000Z"
+  },
+  {
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "link": "https://huggingface.co/blog/cwe-bench",
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-11-03T00:00:00.000Z"
@@ -2861,61 +2966,5 @@
     "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-10-05T13:29:32.000Z"
-  },
-  {
-    "title": "Building advertising for the way people use AI",
-    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-05T10:00:00.000Z"
-  },
-  {
-    "title": "Our minds aren’t equipped to handle AI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-05T10:00:00.000Z"
-  },
-  {
-    "title": "People really hate AI, so why can’t they get enough?",
-    "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-10-05T08:00:00.000Z"
-  },
-  {
-    "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-04T20:31:07.000Z"
-  },
-  {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-04T20:08:34.000Z"
-  },
-  {
-    "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-04T16:16:04.000Z"
-  },
-  {
-    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-04T15:21:59.000Z"
-  },
-  {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-04T15:15:10.000Z"
   }
 ]
