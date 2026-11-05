@@ -1,10 +1,136 @@
 [
   {
+    "title": "Agility Robotics&#039; Nasdaq debut invites scrutiny of humanoid robot market",
+    "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-05T12:00:41.000Z"
+  },
+  {
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-05T12:00:00.000Z"
+  },
+  {
+    "title": "AI’s Next Trick? Speaking Dolphin",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-05T12:00:00.000Z"
+  },
+  {
+    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+    "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-05T11:45:00.000Z"
+  },
+  {
+    "title": "Big Tech’s big AI buildout will not end until someone stops it",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-05T10:45:00.000Z"
+  },
+  {
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-05T02:00:00.000Z"
+  },
+  {
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-05T01:26:22.000Z"
+  },
+  {
+    "title": "After the midterms, a bigger clash over data centers could be coming",
+    "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-05T01:02:14.000Z"
+  },
+  {
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "link": "https://huggingface.co/blog/phonon-tts",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-05T00:00:00.000Z"
+  },
+  {
+    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-04T23:13:14.000Z"
+  },
+  {
+    "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-04T22:42:15.000Z"
+  },
+  {
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-04T21:45:00.000Z"
+  },
+  {
+    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+    "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-04T20:55:50.000Z"
+  },
+  {
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-04T18:50:55.000Z"
+  },
+  {
+    "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-04T17:50:10.000Z"
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-04T14:30:00.000Z"
+  },
+  {
+    "title": "Securing the agentic enterprise with data lineage",
+    "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-04T13:00:00.000Z"
+  },
+  {
     "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-11-04T12:00:00.000Z"
+  },
+  {
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-04T07:00:00.000Z"
   },
   {
     "title": "The biggest modding site in PC gaming is taking a stance on AI",
@@ -2840,131 +2966,5 @@
     "source": "The Verge AI",
     "category": "News",
     "pubDate": "2026-10-06T16:29:44.000Z"
-  },
-  {
-    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-    "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-06T12:21:53.000Z"
-  },
-  {
-    "title": "How Jump Trading is scaling quant research with ChatGPT",
-    "link": "https://openai.com/index/jump-trading",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-06T12:00:00.000Z"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-06T12:00:00.000Z"
-  },
-  {
-    "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-    "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-06T10:30:00.000Z"
-  },
-  {
-    "title": "Advancing computer use with Ironclad",
-    "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-06T10:00:00.000Z"
-  },
-  {
-    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-06T06:44:39.000Z"
-  },
-  {
-    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-05T23:09:55.000Z"
-  },
-  {
-    "title": "MCP for agent-to-agent comms may be the riskiest protocol you&#039;ve never heard of",
-    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-05T22:26:35.000Z"
-  },
-  {
-    "title": "OpenAI will start watermarking ChatGPT&#8217;s text in the EU",
-    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-05T20:36:48.000Z"
-  },
-  {
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-05T20:14:57.000Z"
-  },
-  {
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-05T19:33:53.000Z"
-  },
-  {
-    "title": "All the drama around AI&#8217;s takeover of mathematics",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-05T19:28:59.000Z"
-  },
-  {
-    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-    "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-05T19:14:44.000Z"
-  },
-  {
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-05T18:54:30.000Z"
-  },
-  {
-    "title": "Connecting AI agents to enterprise knowledge",
-    "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-10-05T15:47:52.000Z"
-  },
-  {
-    "title": "Our approach to EU text provenance rules",
-    "link": "https://openai.com/index/eu-text-provenance",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-05T15:00:00.000Z"
-  },
-  {
-    "title": "AI glasses face their first major government crackdown",
-    "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-05T13:39:30.000Z"
-  },
-  {
-    "title": "Bringing predictive analytics to the agentic AI era",
-    "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-10-05T13:29:32.000Z"
   }
 ]

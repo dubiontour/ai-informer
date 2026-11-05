@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "items": [
     {
-      "text": "Google konnte bislang nicht herausfinden, wie es KI-Dienste wie die Suchmaschine monetarisieren kann. Obwohl KI-Aktivitäten die Suchanfragen erhöhen, führt dies nicht zu schnellerem Geschäftswachstum.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+      "text": "Agility Robotics wird erstes reines Humanoid-Robotik-Unternehmen an der Nasdaq gelistet und wirft Fragen zur Marktreife dieser Technologie auf. Das Unternehmen erzielte 2024 erstmals kommerzielle Vollzeiteinführung von Humanoid-Robotern in einem Kundenwarenlager.",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
     },
     {
-      "text": "Die größte Modding-Seite für PC-Gaming, Nexus Mods, verpflichtet Modder künftig zur Offenlegung, wenn KI bei der Erstellung ihrer Arbeiten verwendet wurde.",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+      "text": "Tech-Giganten wie Amazon, Microsoft, Alphabet und Meta treiben massive AI-Infrastruktur-Ausbaupläne voran, ohne dass eine Bremse in Sicht ist. Der Datencenter-Ausbau wird nur stoppen, wenn externe Faktoren Einhalt gebieten.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
     },
     {
-      "text": "Trotz Warnungen einflussreicher Finanzexperten wie dem PIMCO-CEO vor einer KI-Blase werden weiterhin Anleihen für KI-Unternehmen aufgelegt.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds"
+      "text": "Wähler lehnen AI und Datencenter-Expansion überwiegend ab – 38 von 44 Maßnahmen zur Beschränkung von Datenzentren in 10 Staaten wurden angenommen. Tech-Branche behauptet, es sei eher Anti-Trump als Anti-Tech-Sentiment.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
     },
     {
-      "text": "Anthropic entwickelt ein System zur Authentifizierung von KI-Modellen, um deren Identität verifizierbar zu machen.",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+      "text": "Texas, Zentrum des AI-Datencenter-Booms, könnte durch Wählervoten zur Datencenter-Regulierung zurückgeworfen werden. Der rasante Ausbau Trumps großer AI-Initiative verlangsamt sich deutlich.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
     },
     {
-      "text": "Rechenzentren setzen vermehrt auf alte Flugzeugturbinen zur Stromversorgung, da die Wartezeit für Netzstrom wächst.",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+      "text": "Qualcomm fokussiert strategisch auf Datencenter-Chips statt Smartphones und erwartet, dass dieser Sektor künftig 30% des Geschäfts ausmacht. Smartphone-Verkäufe sinken währenddessen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
     },
     {
-      "text": "Russland reagiert auf ukrainische Drohnenanschläge durch hastigen Umzug von Rechenzentren in ehemalige Kohleminen unter der Erde.",
-      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
+      "text": "OpenAI präsentiert neue Standards für verantwortungsvolle AI-Infrastruktur mit Verpflichtungen gegenüber lokalen Gemeinden. Das Unternehmen fordert Policy-Maßnahmen zur gerechteren Verteilung von AI-Vorteilen.",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
     },
     {
-      "text": "Google erlaubt Schulen, KI-Tools zu deaktivieren, doch dies bedeutet auch die Aufgabe der Google-Suche im Klassenzimmer.",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+      "text": "Apple reduziert Budgets für interne AI-Nutzung deutlich. Der Schritt signalisiert vorsichtigere Investitionen in hauseignete AI-Technologien.",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
     }
   ]
 }
