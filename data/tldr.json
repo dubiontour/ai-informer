@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
-      "text": "Agility Robotics wird erstes reines Humanoid-Robotik-Unternehmen an der Nasdaq gelistet und wirft Fragen zur Marktreife dieser Technologie auf. Das Unternehmen erzielte 2024 erstmals kommerzielle Vollzeiteinführung von Humanoid-Robotern in einem Kundenwarenlager.",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/"
+      "text": "Aktivisten drangen in ein Microsoft-Datenzentrum-Baustelle in Amsterdam ein, was Teil einer wachsenden Protestwelle gegen Rechenzentren in Europa ist.",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
     },
     {
-      "text": "Tech-Giganten wie Amazon, Microsoft, Alphabet und Meta treiben massive AI-Infrastruktur-Ausbaupläne voran, ohne dass eine Bremse in Sicht ist. Der Datencenter-Ausbau wird nur stoppen, wenn externe Faktoren Einhalt gebieten.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+      "text": "OpenAI verzichtet bei neuen Datenzentrum-Projekten auf Vertraulichkeitsvereinbarungen (NDAs) mit öffentlichen Beamten als Teil seiner neuen Verpflichtungen gegenüber Gemeinden.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
     },
     {
-      "text": "Wähler lehnen AI und Datencenter-Expansion überwiegend ab – 38 von 44 Maßnahmen zur Beschränkung von Datenzentren in 10 Staaten wurden angenommen. Tech-Branche behauptet, es sei eher Anti-Trump als Anti-Tech-Sentiment.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+      "text": "Airbnb plant die Einführung eines KI-Reiseagenten in der ersten Hälfte 2027, um ein native KI-Reiseplanungserlebnis anzubieten.",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
     },
     {
-      "text": "Texas, Zentrum des AI-Datencenter-Booms, könnte durch Wählervoten zur Datencenter-Regulierung zurückgeworfen werden. Der rasante Ausbau Trumps großer AI-Initiative verlangsamt sich deutlich.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+      "text": "Palo Alto Networks verhandelt über die Übernahme des KI-Agent-Sicherheits-Startups Clutch für 500 Millionen Dollar.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
     },
     {
-      "text": "Qualcomm fokussiert strategisch auf Datencenter-Chips statt Smartphones und erwartet, dass dieser Sektor künftig 30% des Geschäfts ausmacht. Smartphone-Verkäufe sinken währenddessen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+      "text": "Meta ermöglicht es US-Benutzern nun, per Videoanruf mit ihren Muse-KI-Avataren zu chatten.",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
     },
     {
-      "text": "OpenAI präsentiert neue Standards für verantwortungsvolle AI-Infrastruktur mit Verpflichtungen gegenüber lokalen Gemeinden. Das Unternehmen fordert Policy-Maßnahmen zur gerechteren Verteilung von AI-Vorteilen.",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+      "text": "Google erklärt, dass Schulen Google Search nutzen können, ohne Gemini zu verwenden, aber KI-gestützte Suche ist nicht verhandelbar.",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
     },
     {
-      "text": "Apple reduziert Budgets für interne AI-Nutzung deutlich. Der Schritt signalisiert vorsichtigere Investitionen in hauseignete AI-Technologien.",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+      "text": "Eine Klage besagt, dass eine Frau ChatGPT nutzte, um einen Plan zur Vergiftung ihres Mannes zu erstellen, nachdem ihr Ehemann sie damit vertraut gemacht hatte.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/"
     }
   ]
 }
