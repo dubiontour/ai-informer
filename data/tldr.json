@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "items": [
     {
-      "text": "Aktivisten drangen in ein Microsoft-Datenzentrum-Baustelle in Amsterdam ein, was Teil einer wachsenden Protestwelle gegen Rechenzentren in Europa ist.",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam"
+      "text": "OpenAI wurde mit einer Bewertung von 1,25 Billionen Dollar bewertet und sammelte zusätzliche 11 Milliarden Dollar ein, während Rivale Anthropic sich einem IPO nähert.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
     },
     {
-      "text": "OpenAI verzichtet bei neuen Datenzentrum-Projekten auf Vertraulichkeitsvereinbarungen (NDAs) mit öffentlichen Beamten als Teil seiner neuen Verpflichtungen gegenüber Gemeinden.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+      "text": "AI beschleunigt die KI-Forschung dramatisch: Anthropic berichtet, dass sie möglicherweise die Schwelle für doppelt so schnelle Fortschritte durch AI-gestützte F&E erreicht haben.",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
     },
     {
-      "text": "Airbnb plant die Einführung eines KI-Reiseagenten in der ersten Hälfte 2027, um ein native KI-Reiseplanungserlebnis anzubieten.",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+      "text": "Hunderte von Artex-AI-Hacking-Tools wurden öffentlich im Internet exponiert, was Sicherheitsrisiken für Nutzer darstellt.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
     },
     {
-      "text": "Palo Alto Networks verhandelt über die Übernahme des KI-Agent-Sicherheits-Startups Clutch für 500 Millionen Dollar.",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+      "text": "China soll einen AI-Manager rekrutiert haben, um Nvidia-CEO Jensen Huang auszuspionieren und Informationen über amerikanische AI-Chips zu sammeln.",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
     },
     {
-      "text": "Meta ermöglicht es US-Benutzern nun, per Videoanruf mit ihren Muse-KI-Avataren zu chatten.",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+      "text": "Meta stoppt seine umstrittenen Pläne zur Aktualisierung der Geschäftsbedingungen, die Facebook-Seitenbetreiber zwingen würden, AI-Training auf externe Inhalte zu erlauben.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
     },
     {
-      "text": "Google erklärt, dass Schulen Google Search nutzen können, ohne Gemini zu verwenden, aber KI-gestützte Suche ist nicht verhandelbar.",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/"
+      "text": "OpenAI arbeitet mit Hacktron zusammen, um Sicherheitslücken in seinen Systemen zu finden, während das Unternehmen auch die Bug-Bounty-Rewards erhöht.",
+      "url": "https://openai.com/index/partnering-with-hacktron"
     },
     {
-      "text": "Eine Klage besagt, dass eine Frau ChatGPT nutzte, um einen Plan zur Vergiftung ihres Mannes zu erstellen, nachdem ihr Ehemann sie damit vertraut gemacht hatte.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/"
+      "text": "Ein humanoides Roboter reinigte erfolgreich eine Wohnung, was zeigt, dass Robotics und KI praktische Haushaltsaufgaben automatisieren können.",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
     }
   ]
 }
