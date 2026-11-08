@@ -1,5 +1,110 @@
 [
   {
+    "title": "Even ‘Law & Order’ Is Terrified of AI",
+    "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-09T10:00:00.000Z"
+  },
+  {
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-09T09:48:26.000Z"
+  },
+  {
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-09T09:00:00.000Z"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-09T07:00:00.000Z"
+  },
+  {
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-09T07:00:00.000Z"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-09T00:08:24.000Z"
+  },
+  {
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-08T21:53:51.000Z"
+  },
+  {
+    "title": "Inside Elon Musk’s Midterm Spending Spree",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-08T21:14:12.000Z"
+  },
+  {
+    "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-08T21:00:00.000Z"
+  },
+  {
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-08T20:06:56.000Z"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-08T20:04:26.000Z"
+  },
+  {
+    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+    "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-08T19:30:00.000Z"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-08T18:20:32.000Z"
+  },
+  {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-08T16:00:00.000Z"
+  },
+  {
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "link": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-08T12:00:00.000Z"
+  },
+  {
     "title": "Nvidia&#039;s big bet on physical AI aims for safer robotaxis, humanoid robots",
     "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
     "source": "Ars Technica AI",

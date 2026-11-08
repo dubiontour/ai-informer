@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "items": [
     {
-      "text": "OpenAI wurde mit einer Bewertung von 1,25 Billionen Dollar bewertet und sammelte zusätzliche 11 Milliarden Dollar ein, während Rivale Anthropic sich einem IPO nähert.",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      "text": "World Models werden bald allgegenwärtig und werden die KI-Landschaft grundlegend verändern, wie Experten warnen.",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
     },
     {
-      "text": "AI beschleunigt die KI-Forschung dramatisch: Anthropic berichtet, dass sie möglicherweise die Schwelle für doppelt so schnelle Fortschritte durch AI-gestützte F&E erreicht haben.",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
+      "text": "Ein chinesischer Megaspeed-Manager wurde laut US-Geheimdiensten rekrutiert, um Nvidia-CEO Jensen Huang auszuspionieren.",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
     },
     {
-      "text": "Hunderte von Artex-AI-Hacking-Tools wurden öffentlich im Internet exponiert, was Sicherheitsrisiken für Nutzer darstellt.",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+      "text": "Die US-Regierung genehmigte Nvidia-Chipverkäufe an ein leeres Büro in China, das mit auf schwarzen Listen stehenden Unternehmen verbunden ist.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
     },
     {
-      "text": "China soll einen AI-Manager rekrutiert haben, um Nvidia-CEO Jensen Huang auszuspionieren und Informationen über amerikanische AI-Chips zu sammeln.",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+      "text": "Kostenlose chinesische KI-Modelle werden immer besser beim Hacken und stellen eine wachsende Sicherheitsbedrohung dar.",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
     },
     {
-      "text": "Meta stoppt seine umstrittenen Pläne zur Aktualisierung der Geschäftsbedingungen, die Facebook-Seitenbetreiber zwingen würden, AI-Training auf externe Inhalte zu erlauben.",
+      "text": "KI hat die Cybersecurity-Welt destabilisiert und ermöglicht Nation States sowie Hacker-Gruppen neue Angriffsmöglichkeiten, während die Verteidigung hinterherhinkt.",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+    },
+    {
+      "text": "Meta zieht sich nach massivem Widerstand von seinem geplanten Update zurück, das Facebook-Seiten-Besitzer zum KI-Training auf verlinkten Inhalten zwingen wollte.",
       "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
     },
     {
-      "text": "OpenAI arbeitet mit Hacktron zusammen, um Sicherheitslücken in seinen Systemen zu finden, während das Unternehmen auch die Bug-Bounty-Rewards erhöht.",
-      "url": "https://openai.com/index/partnering-with-hacktron"
-    },
-    {
-      "text": "Ein humanoides Roboter reinigte erfolgreich eine Wohnung, was zeigt, dass Robotics und KI praktische Haushaltsaufgaben automatisieren können.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+      "text": "Crusoe verkauft sein problematisches Data-Center-Projekt in Wyoming an Google, da die Betreiber mit Herausforderungen bei der KI-Infrastruktur kämpfen.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
     }
   ]
 }
