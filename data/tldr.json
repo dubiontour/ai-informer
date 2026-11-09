@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "items": [
     {
-      "text": "World Models werden bald allgegenwärtig und werden die KI-Landschaft grundlegend verändern, wie Experten warnen.",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
+      "text": "Apple beschleunigt die Entwicklung von Siri zu einem agentic AI-System, das zukünftig Drittanbieter-Apps steuern und komplexere Aufgaben ausführen kann.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
     },
     {
-      "text": "Ein chinesischer Megaspeed-Manager wurde laut US-Geheimdiensten rekrutiert, um Nvidia-CEO Jensen Huang auszuspionieren.",
-      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+      "text": "Nvidia kündet eine Untersuchung von CEO Jensen Huangs Beziehung zu einer mutmaßlichen chinesischen Spionin an, was seine Position gefährden könnte.",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
     },
     {
-      "text": "Die US-Regierung genehmigte Nvidia-Chipverkäufe an ein leeres Büro in China, das mit auf schwarzen Listen stehenden Unternehmen verbunden ist.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+      "text": "Die New York Times Cooking-App präsentiert einen neuen KI-gestützten Rezept-Modifikator, der praktische Funktionalität bietet.",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"
     },
     {
-      "text": "Kostenlose chinesische KI-Modelle werden immer besser beim Hacken und stellen eine wachsende Sicherheitsbedrohung dar.",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
+      "text": "Umweltaktivisten und Biker protestieren gemeinsam gegen den Bau eines neuen Google-Rechenzentrums.",
+      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/"
     },
     {
-      "text": "KI hat die Cybersecurity-Welt destabilisiert und ermöglicht Nation States sowie Hacker-Gruppen neue Angriffsmöglichkeiten, während die Verteidigung hinterherhinkt.",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"
+      "text": "KI wird verstärkt in der Spezialchemie-Industrie eingesetzt, um Innovation und Produktentwicklung zu beschleunigen.",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
     },
     {
-      "text": "Meta zieht sich nach massivem Widerstand von seinem geplanten Update zurück, das Facebook-Seiten-Besitzer zum KI-Training auf verlinkten Inhalten zwingen wollte.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
+      "text": "Nach den Midterm-Wahlen verschärfen sich die Bedingungen für Elon Musk und seine Datencenter-Pläne.",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
     },
     {
-      "text": "Crusoe verkauft sein problematisches Data-Center-Projekt in Wyoming an Google, da die Betreiber mit Herausforderungen bei der KI-Infrastruktur kämpfen.",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      "text": "Amazon präsentiert HOPE-Methode für Mixture-of-Experts-Modelle, die spezialisierte KI-Module zusammen hält.",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
     }
   ]
 }
