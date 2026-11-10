@@ -1,5 +1,145 @@
 [
   {
+    "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-10T13:00:00.000Z"
+  },
+  {
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "link": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-10T12:15:32.000Z"
+  },
+  {
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-11-10T12:02:28.000Z"
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-10T12:00:00.000Z"
+  },
+  {
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "link": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-10T11:00:00.000Z"
+  },
+  {
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "link": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-10T11:00:00.000Z"
+  },
+  {
+    "title": "Closing the AI guidance gap in education",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-10T09:00:00.000Z"
+  },
+  {
+    "title": "Fireworks AI security breach impacts Notion and their customers",
+    "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-11-10T07:19:38.000Z"
+  },
+  {
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-10T07:00:00.000Z"
+  },
+  {
+    "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+    "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-10T07:00:00.000Z"
+  },
+  {
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-10T01:27:12.000Z"
+  },
+  {
+    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-10T00:28:49.000Z"
+  },
+  {
+    "title": "What could China get from Jensen Huang?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-09T23:51:58.000Z"
+  },
+  {
+    "title": "Here’s what Trump said he knew about Jensen Huang",
+    "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-09T23:47:46.000Z"
+  },
+  {
+    "title": "The backlash about data centers might really just be about electricity",
+    "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-09T19:35:33.000Z"
+  },
+  {
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-09T19:00:00.000Z"
+  },
+  {
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-09T17:24:26.000Z"
+  },
+  {
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-09T17:05:43.000Z"
+  },
+  {
+    "title": "Nvidia CEO&#039;s affair becomes a national security problem",
+    "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-09T15:23:20.000Z"
+  },
+  {
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-09T15:05:57.000Z"
+  },
+  {
     "title": "Innovating with AI in the special chemicals industry",
     "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
     "source": "MIT Tech Review",
@@ -2854,54 +2994,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-10-11T16:52:33.000Z"
-  },
-  {
-    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-11T11:00:00.000Z"
-  },
-  {
-    "title": "I Made Terrible Games With Google’s AI Playground",
-    "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-11T11:00:00.000Z"
-  },
-  {
-    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-10T22:10:17.000Z"
-  },
-  {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-10T21:47:51.000Z"
-  },
-  {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-10T19:50:00.000Z"
-  },
-  {
-    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-10T18:52:07.000Z"
-  },
-  {
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-10T15:00:00.000Z"
   }
 ]

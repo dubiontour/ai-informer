@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
     {
-      "text": "Apple beschleunigt die Entwicklung von Siri zu einem agentic AI-System, das zukünftig Drittanbieter-Apps steuern und komplexere Aufgaben ausführen kann.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+      "text": "Cyberattacks gefährden die Offenheit von Open-Source-KI. Ein Hugging-Face-Manager warnt, dass Sicherheitsvorfälle zu restriktiveren Maßnahmen führen könnten.",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
     },
     {
-      "text": "Nvidia kündet eine Untersuchung von CEO Jensen Huangs Beziehung zu einer mutmaßlichen chinesischen Spionin an, was seine Position gefährden könnte.",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+      "text": "Google DeepMind stellt AlphaProof Code vor, das komplexe Software-Verifikation revolutioniert. Die KI schrieb drei Millionen Zeilen Beweise in Lean für Signals Verschlüsselung.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
     },
     {
-      "text": "Die New York Times Cooking-App präsentiert einen neuen KI-gestützten Rezept-Modifikator, der praktische Funktionalität bietet.",
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/"
+      "text": "Anthropic plant laut Berichten, seinen IPO-Plan voranzutreiben. Der KI-Chatbot-Entwickler könnte bald an die Börse gehen.",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
     },
     {
-      "text": "Umweltaktivisten und Biker protestieren gemeinsam gegen den Bau eines neuen Google-Rechenzentrums.",
-      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/"
+      "text": "OpenAI startet kostenlose ChatGPT-Workshops für Pflegekräfte in fünf US-Städten. Ziel ist es, Pflegefachkräfte mit KI-Fähigkeiten zur Bewältigung alltäglicher Aufgaben auszustatten.",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
     },
     {
-      "text": "KI wird verstärkt in der Spezialchemie-Industrie eingesetzt, um Innovation und Produktentwicklung zu beschleunigen.",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+      "text": "Fireworks AI erlitt eine Sicherheitsverletzung, die Notion und Kunden betraf. Weniger als 1% der Notion-Workspaces waren betroffen, mit teilweise exponierten Chat-Sitzungen.",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
     },
     {
-      "text": "Nach den Midterm-Wahlen verschärfen sich die Bedingungen für Elon Musk und seine Datencenter-Pläne.",
-      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+      "text": "Otter AI kann nun Gespräche in über 30 Sprachen folgen. Die multilingualen Fähigkeiten des Transkriptions-Tools wurden erweitert.",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
     },
     {
-      "text": "Amazon präsentiert HOPE-Methode für Mixture-of-Experts-Modelle, die spezialisierte KI-Module zusammen hält.",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+      "text": "Paramount-Skydance-CEO David Ellison nennt KI eine potenzielle \"größte kreative Freisetzung der modernen Geschichte\". Der Filmkonzern vergleicht KIs Einfluss mit dem von CGI.",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
     }
   ]
 }
