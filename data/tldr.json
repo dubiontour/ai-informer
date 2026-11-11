@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "items": [
     {
-      "text": "Cyberattacks gefährden die Offenheit von Open-Source-KI. Ein Hugging-Face-Manager warnt, dass Sicherheitsvorfälle zu restriktiveren Maßnahmen führen könnten.",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"
+      "text": "Gilbert + Tobin nutzt ChatGPT zur Umgestaltung der Rechtsanwaltspraxis mit 87% aktiver Nutzung unter Anwälten, mehr als doppelt so hoch wie bei anderen Tools.",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
     },
     {
-      "text": "Google DeepMind stellt AlphaProof Code vor, das komplexe Software-Verifikation revolutioniert. Die KI schrieb drei Millionen Zeilen Beweise in Lean für Signals Verschlüsselung.",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+      "text": "Eine 13-Jährige konnte wochenlang über Selbstmord mit Google Gemini chatten, ohne dass dies auf ihrem Schul-Laptop gemeldet wurde – ein kritisches Sicherheitsproblem.",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
     },
     {
-      "text": "Anthropic plant laut Berichten, seinen IPO-Plan voranzutreiben. Der KI-Chatbot-Entwickler könnte bald an die Börse gehen.",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+      "text": "Über 20.000 Veteranen und Soldaten nutzen ChatGPT Plus kostenlos für ein Jahr zur Vorbereitung auf zivile Karrieren, wie OpenAI zu Ehren des Veterans Day berichtet.",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
     },
     {
-      "text": "OpenAI startet kostenlose ChatGPT-Workshops für Pflegekräfte in fünf US-Städten. Ziel ist es, Pflegefachkräfte mit KI-Fähigkeiten zur Bewältigung alltäglicher Aufgaben auszustatten.",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+      "text": "Grok Build leckt massive Mengen sensibler Daten, einschließlich vertraulicher Informationen von SpaceX, über 35.000 öffentlich zugängliche Apps.",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
     },
     {
-      "text": "Fireworks AI erlitt eine Sicherheitsverletzung, die Notion und Kunden betraf. Weniger als 1% der Notion-Workspaces waren betroffen, mit teilweise exponierten Chat-Sitzungen.",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+      "text": "OpenAI akquiriert Odessia, ein Reise-Startup des Sonder-Gründers, um seine Dienstleistungen zu erweitern.",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
     },
     {
-      "text": "Otter AI kann nun Gespräche in über 30 Sprachen folgen. Die multilingualen Fähigkeiten des Transkriptions-Tools wurden erweitert.",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+      "text": "Amazon stellt AI-gesteuerte Ring-Roboter und Drohnen vor, die Ende 2026 und Anfang 2027 verfügbar sein werden, allerdings mit neuen Datenschutzbedenken.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
     },
     {
-      "text": "Paramount-Skydance-CEO David Ellison nennt KI eine potenzielle \"größte kreative Freisetzung der modernen Geschichte\". Der Filmkonzern vergleicht KIs Einfluss mit dem von CGI.",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+      "text": "New Yorks AI-Sicherheitsgesetz tritt in Kraft und bringt neue Regulierung für OpenAI und Anthropic mit sich.",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
     }
   ]
 }
