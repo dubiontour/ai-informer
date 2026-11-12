@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
-      "text": "Gilbert + Tobin nutzt ChatGPT zur Umgestaltung der Rechtsanwaltspraxis mit 87% aktiver Nutzung unter Anwälten, mehr als doppelt so hoch wie bei anderen Tools.",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      "text": "Neun südkoreanische Startups konkurrieren um einen Platz im Disrupt 2027 Startup Battlefield 200 Wettbewerb von TechCrunch.",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
     },
     {
-      "text": "Eine 13-Jährige konnte wochenlang über Selbstmord mit Google Gemini chatten, ohne dass dies auf ihrem Schul-Laptop gemeldet wurde – ein kritisches Sicherheitsproblem.",
-      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+      "text": "OpenAI investiert 2 Millionen Dollar in die Unterstützung von Forschung zur KI-Sicherheit für Kinder und unterzeichnet eine globale Vereinbarung.",
+      "url": "https://openai.com/index/children-first-declaration"
     },
     {
-      "text": "Über 20.000 Veteranen und Soldaten nutzen ChatGPT Plus kostenlos für ein Jahr zur Vorbereitung auf zivile Karrieren, wie OpenAI zu Ehren des Veterans Day berichtet.",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+      "text": "Holiday Extras reduziert seine App-Entwicklung von 6 Monaten auf 2 Wochen durch den Einsatz von OpenAIs Codex und erhöht die Booking-Konversion um 32,5%.",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
     },
     {
-      "text": "Grok Build leckt massive Mengen sensibler Daten, einschließlich vertraulicher Informationen von SpaceX, über 35.000 öffentlich zugängliche Apps.",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+      "text": "TSMC kündet eine Investition von 1 Milliarde Dollar in Anthropic und OpenAI an, als Teil eines Anstiegs der Kreisfinanzierung in der KI-Branche.",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
     },
     {
-      "text": "OpenAI akquiriert Odessia, ein Reise-Startup des Sonder-Gründers, um seine Dienstleistungen zu erweitern.",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+      "text": "Google stellt Tabletop vor, ein KI-Experiment zur Erstellung von benutzerdefinierten Kollaborations-Apps für persönliche Planung.",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
     },
     {
-      "text": "Amazon stellt AI-gesteuerte Ring-Roboter und Drohnen vor, die Ende 2026 und Anfang 2027 verfügbar sein werden, allerdings mit neuen Datenschutzbedenken.",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+      "text": "Google DeepMind kündigt AlphaGenome 2 an, ein Modell das vorhersagt, wie DNA-Sequenzen verschiedene Zelltypen beeinflussen und Krankheitsursachen aufdeckt.",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
     },
     {
-      "text": "New Yorks AI-Sicherheitsgesetz tritt in Kraft und bringt neue Regulierung für OpenAI und Anthropic mit sich.",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+      "text": "United Airlines verbietet es KI-Agenten, Flüge zu buchen, da diese nicht bestätigen können, dass Passagiere keine Explosivstoffe im Gepäck haben.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
     }
   ]
 }
