@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "items": [
     {
-      "text": "Neun südkoreanische Startups konkurrieren um einen Platz im Disrupt 2027 Startup Battlefield 200 Wettbewerb von TechCrunch.",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/"
+      "text": "Demokraten leiten Untersuchung gegen Nvidia ein und kritisieren Jensens Huangs angebliches \"Schema\" mit Trump in hartem Schreiben.",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
     },
     {
-      "text": "OpenAI investiert 2 Millionen Dollar in die Unterstützung von Forschung zur KI-Sicherheit für Kinder und unterzeichnet eine globale Vereinbarung.",
-      "url": "https://openai.com/index/children-first-declaration"
+      "text": "Jensen Huang tritt aus Nvidia aus und könnte Konkurrenten Chancen eröffnen, ihre Marktposition zu stärken.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/"
     },
     {
-      "text": "Holiday Extras reduziert seine App-Entwicklung von 6 Monaten auf 2 Wochen durch den Einsatz von OpenAIs Codex und erhöht die Booking-Konversion um 32,5%.",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+      "text": "Die FAA erweitert den Einsatz eines 875-Millionen-Dollar-KI-Systems zur Luftverkehrskontrolle auf den gesamten US-Luftraum, obwohl die Gewerkschaft der Fluglotsen nicht beteiligt war.",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
     },
     {
-      "text": "TSMC kündet eine Investition von 1 Milliarde Dollar in Anthropic und OpenAI an, als Teil eines Anstiegs der Kreisfinanzierung in der KI-Branche.",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
+      "text": "Google präsentiert Gemini 4 Hydrogen als größtes Modell-Update für Search mit verbessertem Verständnis komplexer Fragen.",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
     },
     {
-      "text": "Google stellt Tabletop vor, ein KI-Experiment zur Erstellung von benutzerdefinierten Kollaborations-Apps für persönliche Planung.",
-      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"
+      "text": "Das KI-Tool Muse ermöglicht nun kostenpflichtig automatische Anrufe an US-Unternehmen.",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
     },
     {
-      "text": "Google DeepMind kündigt AlphaGenome 2 an, ein Modell das vorhersagt, wie DNA-Sequenzen verschiedene Zelltypen beeinflussen und Krankheitsursachen aufdeckt.",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+      "text": "Nvidia bestätigte privat die Fähigkeit zur Chip-Verfolgung gegen Schmuggel, während die Industrie die Machbarkeit öffentlich in Frage stellte.",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
     },
     {
-      "text": "United Airlines verbietet es KI-Agenten, Flüge zu buchen, da diese nicht bestätigen können, dass Passagiere keine Explosivstoffe im Gepäck haben.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+      "text": "Ein Startup nutzt KI-Mikrodramen, um mehr Schwarze Geschichten in Hollywood zu platzieren und die unterrepräsentierten Rollen zu bekämpfen.",
+      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
     }
   ]
 }

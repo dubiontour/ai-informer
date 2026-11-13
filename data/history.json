@@ -1,10 +1,129 @@
 [
   {
+    "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-13T12:28:23.000Z"
+  },
+  {
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-13T12:00:00.000Z"
+  },
+  {
+    "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+    "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-13T11:45:00.000Z"
+  },
+  {
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+    "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-12T22:42:51.000Z"
+  },
+  {
+    "title": "Silicon Valley Is Still Defending Jensen Huang",
+    "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-12T22:29:43.000Z"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-12T22:28:47.000Z"
+  },
+  {
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-12T22:22:28.000Z"
+  },
+  {
+    "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-12T22:14:41.000Z"
+  },
+  {
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-12T21:55:32.000Z"
+  },
+  {
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-12T20:16:24.000Z"
+  },
+  {
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-12T20:00:00.000Z"
+  },
+  {
+    "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+    "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-12T19:59:59.000Z"
+  },
+  {
+    "title": "No, AI agents did not discover a previously unknown Maya site",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-12T19:42:40.000Z"
+  },
+  {
+    "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+    "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-12T19:23:03.000Z"
+  },
+  {
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-12T19:07:35.000Z"
+  },
+  {
+    "title": "Introducing Gemini 4 Hydrogen",
+    "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-11-12T18:00:50.000Z"
+  },
+  {
     "title": "Nine Korean startups vie for a spot in Disrupt 2027&#8217;s Startup Battlefield 200 competition",
     "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-11-12T13:26:25.000Z"
+  },
+  {
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-12T12:00:00.000Z"
   },
   {
     "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
@@ -46,6 +165,13 @@
     "link": "https://openai.com/index/children-first-declaration",
     "source": "OpenAI",
     "category": "Research",
+    "pubDate": "2026-11-12T00:00:00.000Z"
+  },
+  {
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "source": "Hugging Face",
+    "category": "Tools",
     "pubDate": "2026-11-12T00:00:00.000Z"
   },
   {
@@ -2952,152 +3078,5 @@
     "source": "Hugging Face",
     "category": "Tools",
     "pubDate": "2026-10-14T16:12:42.000Z"
-  },
-  {
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-14T12:00:00.000Z"
-  },
-  {
-    "title": "SentinelOne cuts malware analysis from weeks to hours",
-    "link": "https://openai.com/index/sentinelone",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-14T12:00:00.000Z"
-  },
-  {
-    "title": "My Friend Has No Soul",
-    "link": "https://www.wired.com/story/my-friend-has-no-soul/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-14T11:00:00.000Z"
-  },
-  {
-    "title": "Men Can’t Stop Faking How Much They Know About AI",
-    "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-14T09:30:00.000Z"
-  },
-  {
-    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-14T09:00:00.000Z"
-  },
-  {
-    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "link": "https://openai.com/index/third-moment-research",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-14T07:00:00.000Z"
-  },
-  {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-10-14T02:00:14.000Z"
-  },
-  {
-    "title": "The EU’s next chapter in AI is agentic",
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-14T00:00:00.000Z"
-  },
-  {
-    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-13T23:17:59.000Z"
-  },
-  {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-13T23:13:31.000Z"
-  },
-  {
-    "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-13T23:05:34.000Z"
-  },
-  {
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-13T23:00:00.000Z"
-  },
-  {
-    "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-13T20:45:25.000Z"
-  },
-  {
-    "title": "Developing Gemini 4 Argon responsibly and safely",
-    "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-10-13T19:43:07.000Z"
-  },
-  {
-    "title": "Shopify opens its catalog up to more AI agents",
-    "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-13T19:42:42.000Z"
-  },
-  {
-    "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-    "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-13T19:00:48.000Z"
-  },
-  {
-    "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-    "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-13T18:23:33.000Z"
-  },
-  {
-    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-13T17:05:48.000Z"
-  },
-  {
-    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-    "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-13T17:00:39.000Z"
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-    "source": "Google DeepMind",
-    "category": "Research",
-    "pubDate": "2026-10-13T16:01:58.000Z"
-  },
-  {
-    "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-    "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-13T16:00:02.000Z"
   }
 ]
