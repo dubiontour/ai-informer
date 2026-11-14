@@ -1,5 +1,96 @@
 [
   {
+    "title": "Figma announces new features to define how agents work on its platform",
+    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T04:30:00.000Z"
+  },
+  {
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T01:01:32.000Z"
+  },
+  {
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "title": "McKinsey is making job applicants spar with a fake AI client",
+    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-14T22:53:31.000Z"
+  },
+  {
+    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+    "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-14T21:15:56.000Z"
+  },
+  {
+    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-14T21:11:28.000Z"
+  },
+  {
+    "title": "The AI race is back on",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-14T19:06:03.000Z"
+  },
+  {
+    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-14T18:15:00.000Z"
+  },
+  {
+    "title": "Researchers use AI to design proteins that cut up other proteins",
+    "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-14T17:10:15.000Z"
+  },
+  {
+    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+    "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-14T16:41:49.000Z"
+  },
+  {
+    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-14T16:12:42.000Z"
+  },
+  {
     "title": "Amp puts AI agents to work beyond code with OpenAI models",
     "link": "https://openai.com/index/amp-beyond-coding",
     "source": "OpenAI",

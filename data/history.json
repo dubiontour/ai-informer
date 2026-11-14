@@ -1,5 +1,124 @@
 [
   {
+    "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-14T11:00:00.000Z"
+  },
+  {
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-11-14T02:52:59.000Z"
+  },
+  {
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-13T23:49:11.000Z"
+  },
+  {
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-13T22:43:00.000Z"
+  },
+  {
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-13T21:20:47.000Z"
+  },
+  {
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-13T20:45:10.000Z"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-13T19:37:57.000Z"
+  },
+  {
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "link": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-13T19:08:57.000Z"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-13T18:40:30.000Z"
+  },
+  {
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-13T18:00:39.000Z"
+  },
+  {
+    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+    "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-13T17:25:45.000Z"
+  },
+  {
+    "title": "XYBench: Helping with the problem behind the question",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-13T17:02:35.000Z"
+  },
+  {
+    "title": "Jensen Huang and the End of the Founder Fairy Tale",
+    "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-13T16:00:00.000Z"
+  },
+  {
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-11-13T15:08:44.000Z"
+  },
+  {
+    "title": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-13T15:00:00.000Z"
+  },
+  {
+    "title": "What&#8217;s really at stake in the Jensen Huang saga",
+    "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-13T14:47:16.000Z"
+  },
+  {
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-13T14:05:22.000Z"
+  },
+  {
     "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
     "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
     "source": "TechCrunch AI",
@@ -19,6 +138,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-11-13T11:45:00.000Z"
+  },
+  {
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-13T08:00:00.000Z"
   },
   {
     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
@@ -2987,96 +3113,5 @@
     "source": "OpenAI",
     "category": "Research",
     "pubDate": "2026-10-15T13:00:00.000Z"
-  },
-  {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-15T04:30:00.000Z"
-  },
-  {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-15T01:01:32.000Z"
-  },
-  {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-15T00:00:00.000Z"
-  },
-  {
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "link": "https://openai.com/index/sullivan-cromwell",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-15T00:00:00.000Z"
-  },
-  {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-15T00:00:00.000Z"
-  },
-  {
-    "title": "McKinsey is making job applicants spar with a fake AI client",
-    "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-14T22:53:31.000Z"
-  },
-  {
-    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-    "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-14T21:15:56.000Z"
-  },
-  {
-    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-14T21:11:28.000Z"
-  },
-  {
-    "title": "The AI race is back on",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-14T19:06:03.000Z"
-  },
-  {
-    "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
-    "link": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-14T18:15:00.000Z"
-  },
-  {
-    "title": "Researchers use AI to design proteins that cut up other proteins",
-    "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-14T17:10:15.000Z"
-  },
-  {
-    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-    "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-14T16:41:49.000Z"
-  },
-  {
-    "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-14T16:12:42.000Z"
   }
 ]

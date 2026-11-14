@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "items": [
     {
-      "text": "Demokraten leiten Untersuchung gegen Nvidia ein und kritisieren Jensens Huangs angebliches \"Schema\" mit Trump in hartem Schreiben.",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+      "text": "FAA expandiert KI-Tool zur Fluglotsen-Unterstützung im gesamten US-Luftraum: Das $875-Millionen-SMART-System hat seit September 180 Flüge umgeleitet, wird aber von der Fluglotsen-Gewerkschaft kritisiert.",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
     },
     {
-      "text": "Jensen Huang tritt aus Nvidia aus und könnte Konkurrenten Chancen eröffnen, ihre Marktposition zu stärken.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/"
+      "text": "Nvidia soll künstlich GPU-Knappheit erzeugt haben, indem das Unternehmen unter Jensen Huang KI-Startups finanzierte, um Chips zu kaufen und Überproduktion zu verschleieren.",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
     },
     {
-      "text": "Die FAA erweitert den Einsatz eines 875-Millionen-Dollar-KI-Systems zur Luftverkehrskontrolle auf den gesamten US-Luftraum, obwohl die Gewerkschaft der Fluglotsen nicht beteiligt war.",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+      "text": "OpenAI führt ChatGPT Wallet ein, das seinen Dots-Agenten ermöglicht, Käufe für Nutzer zu tätigen – mit Sicherheitschecks bei jeder Transaktion und Partnerschaften mit Amex, Mastercard und Visa.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
     {
-      "text": "Google präsentiert Gemini 4 Hydrogen als größtes Modell-Update für Search mit verbessertem Verständnis komplexer Fragen.",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+      "text": "Amazon plant die Indexierung aller weltweiten Online-Einkaufsdaten, um eine Universal-Produktgraph zu schaffen, die Reddit und AI-Agenten übertrifft.",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
     },
     {
-      "text": "Das KI-Tool Muse ermöglicht nun kostenpflichtig automatische Anrufe an US-Unternehmen.",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+      "text": "KI-Agent-Startup LangChain erreicht $3-Milliarden-Bewertung und demonstriert das andauernde Investmentinteresse an Agentur-Technologie trotz Leadership-Turbulenzen.",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
     },
     {
-      "text": "Nvidia bestätigte privat die Fähigkeit zur Chip-Verfolgung gegen Schmuggel, während die Industrie die Machbarkeit öffentlich in Frage stellte.",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+      "text": "OpenAI-Vorstandsmitglied Paul Cristiano warnt, dass eine KI-\"Übernahme\" der Gesellschaft Monate entfernt sein könnte und nennt es das wahrscheinlichste Todesrisiko.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
     },
     {
-      "text": "Ein Startup nutzt KI-Mikrodramen, um mehr Schwarze Geschichten in Hollywood zu platzieren und die unterrepräsentierten Rollen zu bekämpfen.",
-      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/"
+      "text": "Export-verbotene Nvidia-Chips stecken hinter Chinas leistungsstärksten KI-Modellen – ein Rückschlag für US-Exportkontrollen unter Huangs Nachfolge.",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
     }
   ]
 }
