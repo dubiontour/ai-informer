@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
-      "text": "FAA expandiert KI-Tool zur Fluglotsen-Unterstützung im gesamten US-Luftraum: Das $875-Millionen-SMART-System hat seit September 180 Flüge umgeleitet, wird aber von der Fluglotsen-Gewerkschaft kritisiert.",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+      "text": "Nvidia-Chef Jensen Huang wurde von seinem Posten entfernt; Tech-Führungskräfte einschließlich Elon Musk unterzeichnen Petition zu seiner Wiedereinstellung.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
     },
     {
-      "text": "Nvidia soll künstlich GPU-Knappheit erzeugt haben, indem das Unternehmen unter Jensen Huang KI-Startups finanzierte, um Chips zu kaufen und Überproduktion zu verschleieren.",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
-    },
-    {
-      "text": "OpenAI führt ChatGPT Wallet ein, das seinen Dots-Agenten ermöglicht, Käufe für Nutzer zu tätigen – mit Sicherheitschecks bei jeder Transaktion und Partnerschaften mit Amex, Mastercard und Visa.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet"
-    },
-    {
-      "text": "Amazon plant die Indexierung aller weltweiten Online-Einkaufsdaten, um eine Universal-Produktgraph zu schaffen, die Reddit und AI-Agenten übertrifft.",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-    },
-    {
-      "text": "KI-Agent-Startup LangChain erreicht $3-Milliarden-Bewertung und demonstriert das andauernde Investmentinteresse an Agentur-Technologie trotz Leadership-Turbulenzen.",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
-    },
-    {
-      "text": "OpenAI-Vorstandsmitglied Paul Cristiano warnt, dass eine KI-\"Übernahme\" der Gesellschaft Monate entfernt sein könnte und nennt es das wahrscheinlichste Todesrisiko.",
+      "text": "OpenAI-Vorstandsmitglied warnt vor möglichem KI-Übernahmeszenario innerhalb von Monaten und nennt KI-Unfälle als wahrscheinlichste Todesursache.",
       "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
     },
     {
-      "text": "Export-verbotene Nvidia-Chips stecken hinter Chinas leistungsstärksten KI-Modellen – ein Rückschlag für US-Exportkontrollen unter Huangs Nachfolge.",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      "text": "Helen Toner, die Sam Altman entließ, erklärt, dass man KI-CEOs nicht trauen kann und die Industrie nicht selbst das Problem lösen wird.",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+    },
+    {
+      "text": "FAA expandiert KI-Beratungssystem für Luftverkehrskontrolle landesweit; Fluggesellschaften loben Tool, Gewerkschaft war aber nicht beteiligt.",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+    },
+    {
+      "text": "OpenAI präsentiert ChatGPT Wallet für sichere KI-Agenten-Zahlungen, entwickelt mit American Express, Mastercard und Visa.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "text": "Amazon entwickelt Plan zur Indexierung globaler Online-Shop-Daten, um für Menschen und KI-Agenten nützlicher als Reddit zu werden.",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+    },
+    {
+      "text": "Neue KI-gestützte Ransomware-Welle birgt erhebliche Cybersicherheitsrisiken für Unternehmen weltweit.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
     }
   ]
 }

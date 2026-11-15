@@ -1,5 +1,145 @@
 [
   {
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-16T11:00:00.000Z"
+  },
+  {
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-16T01:44:47.000Z"
+  },
+  {
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-16T00:00:00.000Z"
+  },
+  {
+    "title": "When it came to Cal AI&#8217;s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T23:44:56.000Z"
+  },
+  {
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-15T22:43:23.000Z"
+  },
+  {
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-15T22:35:55.000Z"
+  },
+  {
+    "title": "The tech backlash is now in theaters",
+    "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-15T21:39:52.000Z"
+  },
+  {
+    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-15T21:18:15.000Z"
+  },
+  {
+    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+    "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-15T21:00:28.000Z"
+  },
+  {
+    "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-15T20:34:01.000Z"
+  },
+  {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T20:04:53.000Z"
+  },
+  {
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-15T19:55:25.000Z"
+  },
+  {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-15T19:00:00.000Z"
+  },
+  {
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-15T16:08:03.000Z"
+  },
+  {
+    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+    "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-15T15:43:24.000Z"
+  },
+  {
+    "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+    "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-15T15:12:58.000Z"
+  },
+  {
+    "title": "Using AI to reverse engineer hardware",
+    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-10-15T14:35:15.000Z"
+  },
+  {
+    "title": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-15T13:00:00.000Z"
+  },
+  {
     "title": "Figma announces new features to define how agents work on its platform",
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "source": "TechCrunch AI",
