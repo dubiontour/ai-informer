@@ -1,5 +1,103 @@
 [
   {
+    "title": "Websites are closing their doors to AI agents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-17T13:00:00.000Z"
+  },
+  {
+    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-17T09:00:00.000Z"
+  },
+  {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-16T21:22:28.000Z"
+  },
+  {
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-16T20:59:01.000Z"
+  },
+  {
+    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+    "link": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-16T20:20:07.000Z"
+  },
+  {
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-16T20:05:08.000Z"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "link": "https://openai.com/index/itau-generative-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-16T19:00:00.000Z"
+  },
+  {
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-16T18:00:00.000Z"
+  },
+  {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-16T17:52:24.000Z"
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-16T16:30:00.000Z"
+  },
+  {
+    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+    "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-16T15:41:00.000Z"
+  },
+  {
+    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+    "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-16T15:00:00.000Z"
+  },
+  {
+    "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+    "link": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-16T15:00:00.000Z"
+  },
+  {
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-16T14:02:40.000Z"
+  },
+  {
     "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
     "link": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
     "source": "Wired AI",

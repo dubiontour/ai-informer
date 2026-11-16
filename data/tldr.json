@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
-      "text": "Nvidia-Chef Jensen Huang wurde von seinem Posten entfernt; Tech-Führungskräfte einschließlich Elon Musk unterzeichnen Petition zu seiner Wiedereinstellung.",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      "text": "Nvidia-Skandal verschärft sich: Jensen Huang's Abwesenheit hinterlässt die KI-Industrie im Chaos, während Spekulationen über eine mögliche Rückkehr als CEO kursieren.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
     },
     {
-      "text": "OpenAI-Vorstandsmitglied warnt vor möglichem KI-Übernahmeszenario innerhalb von Monaten und nennt KI-Unfälle als wahrscheinlichste Todesursache.",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+      "text": "Freshworks-Alumni sammeln 53 Millionen Dollar für ein KI-natives CRM ein, um gegen Salesforce und HubSpot anzutreten.",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
     },
     {
-      "text": "Helen Toner, die Sam Altman entließ, erklärt, dass man KI-CEOs nicht trauen kann und die Industrie nicht selbst das Problem lösen wird.",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+      "text": "OpenAI und LVMH's Media Division starten strategische Partnerschaft zur Integration von ChatGPT und KI-Tools in Nachrichtenredaktionen.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership"
     },
     {
-      "text": "FAA expandiert KI-Beratungssystem für Luftverkehrskontrolle landesweit; Fluggesellschaften loben Tool, Gewerkschaft war aber nicht beteiligt.",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+      "text": "Apple startet eine neue Health-AI-Studie, um die Effektivität von KI-gestützten Gesundheitstools zu verbessern und deren Nutzung zu untersuchen.",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
     },
     {
-      "text": "OpenAI präsentiert ChatGPT Wallet für sichere KI-Agenten-Zahlungen, entwickelt mit American Express, Mastercard und Visa.",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+      "text": "The King's Trust und OpenAI kündigen eine Million-Pfund-Partnerschaft an, um bis zu 25.000 jungen Menschen KI-Fähigkeiten beizubringen.",
+      "url": "https://openai.com/index/the-kings-trust-and-openai"
     },
     {
-      "text": "Amazon entwickelt Plan zur Indexierung globaler Online-Shop-Daten, um für Menschen und KI-Agenten nützlicher als Reddit zu werden.",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      "text": "Indischer Chip-Startup Bharat Semi sichert sich 24 Millionen Dollar in Serie-A-Finanzierung für den KI-Sensor-Markt.",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
     },
     {
-      "text": "Neue KI-gestützte Ransomware-Welle birgt erhebliche Cybersicherheitsrisiken für Unternehmen weltweit.",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+      "text": "Physiker arbeiten mit GPT-6 Astra zusammen und machen Fortschritte bei der Gitterdefinition des Standard Model in der Teilchenphysik.",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
     }
   ]
 }
