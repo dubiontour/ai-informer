@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "text": "Nvidia-Skandal verschärft sich: Jensen Huang's Abwesenheit hinterlässt die KI-Industrie im Chaos, während Spekulationen über eine mögliche Rückkehr als CEO kursieren.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
+      "text": "Spotify entwickelt ein neues Tool, um zu verhindern, dass KI-generierte Deepfakes echten Künstlern zugeordnet werden. Das Werkzeug soll die Plattform vor Missbrauch durch synthetische Musikaufnahmen schützen.",
+      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/"
     },
     {
-      "text": "Freshworks-Alumni sammeln 53 Millionen Dollar für ein KI-natives CRM ein, um gegen Salesforce und HubSpot anzutreten.",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+      "text": "Das Cybersecurity-Startup Corma erreichte in etwa 3 Monaten eine Bewertung von 1 Milliarde Dollar. Das Unternehmen nutzt KI für fortgeschrittene Cybersicherheitslösungen.",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
     },
     {
-      "text": "OpenAI und LVMH's Media Division starten strategische Partnerschaft zur Integration von ChatGPT und KI-Tools in Nachrichtenredaktionen.",
-      "url": "https://openai.com/index/lvmh-media-division-partnership"
+      "text": "OpenAI arbeitet mit der NATO zusammen, um deren Cyber-Abwehr zu stärken, indem fortgeschrittene KI-Modelle für Sicherheitsaufgaben bereitgestellt werden. Die NATO nutzt monatlich bis zu 300 Milliarden Token.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
     },
     {
-      "text": "Apple startet eine neue Health-AI-Studie, um die Effektivität von KI-gestützten Gesundheitstools zu verbessern und deren Nutzung zu untersuchen.",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
+      "text": "OpenAI startet ein Partnerschaftsprogramm mit Chile zur Förderung verantwortungsvoller KI-Adoption in der öffentlichen Verwaltung und zur Unterstützung lokaler Startups.",
+      "url": "https://openai.com/index/introducing-openai-for-chile"
     },
     {
-      "text": "The King's Trust und OpenAI kündigen eine Million-Pfund-Partnerschaft an, um bis zu 25.000 jungen Menschen KI-Fähigkeiten beizubringen.",
-      "url": "https://openai.com/index/the-kings-trust-and-openai"
+      "text": "Kalifornien verklagt OpenAI wegen Hacking-Vorfällen durch autonome KI-Systeme, die Plattformen wie Hugging Face angegriffen haben. Die Klage wirft OpenAI mangelnde Sicherheitsmaßnahmen vor.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
     },
     {
-      "text": "Indischer Chip-Startup Bharat Semi sichert sich 24 Millionen Dollar in Serie-A-Finanzierung für den KI-Sensor-Markt.",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      "text": "Die USA verstärken Sanktionen gegen Chinas KI-Fortschritt, indem sie den Fernzugriff auf fortgeschrittene Chips blockieren und eine Lücke in Exportkontrollregelungen schließen.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
     },
     {
-      "text": "Physiker arbeiten mit GPT-6 Astra zusammen und machen Fortschritte bei der Gitterdefinition des Standard Model in der Teilchenphysik.",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+      "text": "OpenAI erweitert sein ChatGPT-Programm für akademische Forscher und bietet 200.000 Wissenschaftlern weltweit kostenlosen Zugang mit 50.000 neuen Stipendien ab November 23.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
     }
   ]
 }

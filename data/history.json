@@ -1,8 +1,134 @@
 [
   {
+    "title": "Spotify&#8217;s new tool aims to stop deepfakes from being attributed to real artists",
+    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-17T14:00:00.000Z"
+  },
+  {
+    "title": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
+    "link": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-17T11:00:00.000Z"
+  },
+  {
+    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "link": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-17T11:00:00.000Z"
+  },
+  {
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "link": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-17T10:47:45.000Z"
+  },
+  {
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-17T00:00:00.000Z"
+  },
+  {
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-16T23:32:32.000Z"
+  },
+  {
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-16T23:17:34.000Z"
+  },
+  {
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-16T22:58:27.000Z"
+  },
+  {
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-16T22:03:02.000Z"
+  },
+  {
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-16T20:46:01.000Z"
+  },
+  {
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-16T20:41:28.000Z"
+  },
+  {
+    "title": "US moves to cut China’s remote access to AI chips",
+    "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-16T19:10:09.000Z"
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-16T18:38:47.000Z"
+  },
+  {
+    "title": "Broadening access to AI for scientists",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-16T17:00:00.000Z"
+  },
+  {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-16T16:04:28.000Z"
+  },
+  {
+    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+    "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-16T14:06:16.000Z"
+  },
+  {
     "title": "The Nvidia scandal isn’t slowing down",
     "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
     "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-16T13:00:00.000Z"
+  },
+  {
+    "title": "Building AI that can work across the enterprise",
+    "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "source": "MIT Tech Review",
     "category": "News",
     "pubDate": "2026-11-16T13:00:00.000Z"
   },
@@ -46,6 +172,13 @@
     "link": "https://openai.com/index/the-kings-trust-and-openai",
     "source": "OpenAI",
     "category": "Research",
+    "pubDate": "2026-11-16T00:00:00.000Z"
+  },
+  {
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "link": "https://huggingface.co/blog/openrouter",
+    "source": "Hugging Face",
+    "category": "Tools",
     "pubDate": "2026-11-16T00:00:00.000Z"
   },
   {
@@ -2959,47 +3092,5 @@
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-10-18T16:25:19.000Z"
-  },
-  {
-    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-    "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-18T10:30:00.000Z"
-  },
-  {
-    "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-    "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-18T10:30:00.000Z"
-  },
-  {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-17T21:31:32.000Z"
-  },
-  {
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-17T20:21:19.000Z"
-  },
-  {
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-17T18:48:08.000Z"
-  },
-  {
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-17T15:04:36.000Z"
   }
 ]
