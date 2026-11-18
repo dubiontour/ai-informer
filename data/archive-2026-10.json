@@ -1,5 +1,61 @@
 [
   {
+    "title": "Advancing coding in low‑resource programming languages",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-19T12:00:00.000Z"
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-19T09:08:05.000Z"
+  },
+  {
+    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-19T09:00:00.000Z"
+  },
+  {
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "link": "https://huggingface.co/blog/hf-torchneuron",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-19T00:00:00.000Z"
+  },
+  {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-18T20:37:40.000Z"
+  },
+  {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-18T18:28:10.000Z"
+  },
+  {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-18T16:30:00.000Z"
+  },
+  {
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-18T16:25:19.000Z"
+  },
+  {
     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
     "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
     "source": "Wired AI",
