@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
-      "text": "Superhuman erweitert seinen Go-Assistenten auf alle Plattformen und Dienste, um Produktivität durch KI-Integration zu maximieren.",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/"
+      "text": "Signal blockiert Gemini und Siri AI vom Auslesen von Bildschirminhalten auf Android und iOS, um Nutzernachrichten und Daten vor KI-Agenten zu schützen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
     },
     {
-      "text": "Apple's Siri Recap AI fasst das Leben von Nutzern zusammen, priorisiert aber Datenschutz gegenüber umfassender Funktionalität.",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on"
+      "text": "Apple stellt Ingenieure ein, um einen eigenen KI-Agenten zu entwickeln, der im Web browst, über Apps hinweg arbeitet und Code schreiben kann.",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
     },
     {
-      "text": "Canva führt einen KI-Ausschalter ein, mit dem Nutzer KI-Features wie Magic Expand deaktivieren können.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
+      "text": "Anthropic verzeichnet einen Rekord-IPO, bei dem die sieben Gründer knapp 2 Milliarden Dollar auszahlten.",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
     },
     {
-      "text": "Google zwingt Schulen zu Gemini-Integration, worauf die größten US-Schulbezirke nach alternativen Suchmaschinen suchen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+      "text": "Metas neues KI-Charm-Gerät soll etwa 300 Dollar kosten und wird auf Instagram als Muse-Plattform für personalisierte Inhalte beworben.",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
     },
     {
-      "text": "Microsoft-Chef Nadella warnt, dass kritische Infrastruktur gegen KI-Cyberangriffe \"nicht patchbar\" ist.",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
+      "text": "Ein 16-jähriger gründete ein KI-Raketenunternehmen namens Polemos, das sich auf autonome Waffensysteme mit Fokus auf Effizienzmetriken konzentriert.",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
     },
     {
-      "text": "Google DeepMind stellt Gemini 4 Neon vor, sein neues KI-Modell mit verbesserter Leistung.",
+      "text": "Vier schwarze High-School-Schüler klagen nach Schulschließung, weil ein KI-Waffenerkennungssystem eine Doritos-Tüte als Waffe erkannte.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+    },
+    {
+      "text": "Google stellt Gemini 4 Neon vor, ein neues KI-Modell mit verbesserter Performance.",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
-    },
-    {
-      "text": "Meta-Mitarbeiter berichten intern über Datenschutzbedenken bei Muse-Agent, der privaten Nachrichten zugreifen soll.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
     }
   ]
 }

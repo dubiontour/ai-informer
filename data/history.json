@@ -1,5 +1,82 @@
 [
   {
+    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-20T12:30:47.000Z"
+  },
+  {
+    "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+    "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-20T12:00:00.000Z"
+  },
+  {
+    "title": "Regular Tech Bros Are Worried About Honeypots",
+    "link": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-20T11:00:00.000Z"
+  },
+  {
+    "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+    "link": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-20T07:00:00.000Z"
+  },
+  {
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-20T00:56:01.000Z"
+  },
+  {
+    "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-20T00:43:50.000Z"
+  },
+  {
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-20T00:00:00.000Z"
+  },
+  {
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-19T22:31:41.000Z"
+  },
+  {
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-19T21:59:35.000Z"
+  },
+  {
+    "title": "Meta&#8217;s new Muse Charm device may cost $300",
+    "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-19T21:58:06.000Z"
+  },
+  {
+    "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+    "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-19T20:19:28.000Z"
+  },
+  {
     "title": "Superhuman pushes its Go assistant everywhere",
     "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
     "source": "TechCrunch AI",
@@ -28,11 +105,32 @@
     "pubDate": "2026-11-19T12:00:00.000Z"
   },
   {
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-19T08:00:00.000Z"
+  },
+  {
     "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
     "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-11-19T00:42:56.000Z"
+  },
+  {
+    "title": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-19T00:00:00.000Z"
+  },
+  {
+    "title": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-19T00:00:00.000Z"
   },
   {
     "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is &#8216;unpatchable&#8217;",
@@ -3043,124 +3141,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-10-21T16:00:00.000Z"
-  },
-  {
-    "title": "OpenAI models are coming to Google Cloud",
-    "link": "https://openai.com/index/openai-models-google-cloud",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-21T12:00:00.000Z"
-  },
-  {
-    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
-    "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-21T08:30:00.000Z"
-  },
-  {
-    "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-20T23:04:19.000Z"
-  },
-  {
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-20T23:01:23.000Z"
-  },
-  {
-    "title": "Hugging Face CEO warns that Netflix&#8217;s OpenAI hack documentary isn&#8217;t accurate",
-    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-20T22:24:02.000Z"
-  },
-  {
-    "title": "Google’s more personalized Gemini AI is heading to your car",
-    "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-20T22:11:34.000Z"
-  },
-  {
-    "title": "Anthropic’s cloud partnerships are getting messy",
-    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-20T21:25:22.000Z"
-  },
-  {
-    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-    "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-20T20:07:58.000Z"
-  },
-  {
-    "title": "Gemini&#039;s Personal Intelligence is coming to cars",
-    "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-20T20:00:33.000Z"
-  },
-  {
-    "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-    "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-20T18:22:54.000Z"
-  },
-  {
-    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-20T18:17:47.000Z"
-  },
-  {
-    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-    "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-20T18:07:34.000Z"
-  },
-  {
-    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-    "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-20T17:41:58.000Z"
-  },
-  {
-    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-20T16:09:19.000Z"
-  },
-  {
-    "title": "The new economics of enterprise AI",
-    "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-10-20T15:20:25.000Z"
-  },
-  {
-    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-20T15:19:48.000Z"
-  },
-  {
-    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-    "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-20T15:07:43.000Z"
   }
 ]
