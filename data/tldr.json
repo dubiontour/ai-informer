@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "items": [
     {
-      "text": "Signal blockiert Gemini und Siri AI vom Auslesen von Bildschirminhalten auf Android und iOS, um Nutzernachrichten und Daten vor KI-Agenten zu schützen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+      "text": "Forscher pflanzten 2 Millionen digitale Fallen in die KI-Lieferkette und entdeckten massive Datenlecks: Sensitive Informationen werden durch AI-Router und Gateways wie ein Sieb weitergeleitet.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
     },
     {
-      "text": "Apple stellt Ingenieure ein, um einen eigenen KI-Agenten zu entwickeln, der im Web browst, über Apps hinweg arbeitet und Code schreiben kann.",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+      "text": "Meta überdenkt sein 2030-Netto-Null-Ziel aufgrund von Rekord-Emissionen aus KI-Datenzentren: Das Unternehmen verzeichnete den höchsten prozentalen Anstieg der Treibhausgasemissionen unter großen Tech-Konzernen.",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
     },
     {
-      "text": "Anthropic verzeichnet einen Rekord-IPO, bei dem die sieben Gründer knapp 2 Milliarden Dollar auszahlten.",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+      "text": "Google rollt neue Suchseite mit KI-Chat-Verlauf aus und entfernt die traditionelle Suchschaltfläche: Das Redesign macht KI-Tools direkt auf der Startseite zugänglicher.",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
     },
     {
-      "text": "Metas neues KI-Charm-Gerät soll etwa 300 Dollar kosten und wird auf Instagram als Muse-Plattform für personalisierte Inhalte beworben.",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+      "text": "Anthropic-Mathematiker behauptet, die 167 Jahre alte Riemann-Hypothese mit Claude gelöst zu haben: Die Lösung eines der Millennium-Preis-Probleme wird derzeit überprüft.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
     },
     {
-      "text": "Ein 16-jähriger gründete ein KI-Raketenunternehmen namens Polemos, das sich auf autonome Waffensysteme mit Fokus auf Effizienzmetriken konzentriert.",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/"
+      "text": "Trump droht mit enormer Steuer für Unternehmen, die KI-Datenzentren ins Ausland verlagern: Der Präsident warnt vor technologischen Rückstand der USA.",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
     },
     {
-      "text": "Vier schwarze High-School-Schüler klagen nach Schulschließung, weil ein KI-Waffenerkennungssystem eine Doritos-Tüte als Waffe erkannte.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/"
+      "text": "Daniel Ek unterstützt Fusionskraft-Startup von KI-Forscher: Das Projekt soll die massive Energiedemand von KI-Datenzentren bewältigen.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
     },
     {
-      "text": "Google stellt Gemini 4 Neon vor, ein neues KI-Modell mit verbesserter Performance.",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+      "text": "Nasdaq verliert alle 2026-Gewinne durch KI-Verkaufswelle während Anthropics zweitem Handelstag: Globale Börsenabstürze trüben den IPO des KI-Unternehmens.",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
     }
   ]
 }
