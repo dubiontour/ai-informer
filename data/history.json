@@ -1,5 +1,89 @@
 [
   {
+    "title": "Trump endorses Jensen Huang&#8217;s return to Nvidia, says US has no evidence of wrongdoing",
+    "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-23T15:04:01.000Z"
+  },
+  {
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-23T14:43:03.000Z"
+  },
+  {
+    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+    "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-23T14:21:59.000Z"
+  },
+  {
+    "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+    "link": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-23T14:10:18.000Z"
+  },
+  {
+    "title": "Jensen Huang is back as Nvidia’s CEO",
+    "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-23T14:04:24.000Z"
+  },
+  {
+    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "link": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-23T13:11:48.000Z"
+  },
+  {
+    "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+    "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-23T12:00:00.000Z"
+  },
+  {
+    "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+    "link": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-23T12:00:00.000Z"
+  },
+  {
+    "title": "Meta Muse can do your Black Friday shopping at Walmart",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-23T11:00:00.000Z"
+  },
+  {
+    "title": "States Sue SpaceX Over Grok Deepfakes",
+    "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-23T11:00:00.000Z"
+  },
+  {
+    "title": "How to build and maintain an agentic evaluation",
+    "link": "https://huggingface.co/blog/agentic-evals",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-23T00:00:00.000Z"
+  },
+  {
+    "title": "We haven’t seen the last of the major tech outages",
+    "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-22T22:48:02.000Z"
+  },
+  {
     "title": "The vibe-coding revolution is coming to all the gadgets",
     "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
     "source": "The Verge AI",
@@ -12,6 +96,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-11-22T11:00:00.000Z"
+  },
+  {
+    "title": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-22T00:00:00.000Z"
   },
   {
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -2966,89 +3057,5 @@
     "source": "TechCrunch AI",
     "category": "News",
     "pubDate": "2026-10-24T16:00:00.000Z"
-  },
-  {
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-24T15:00:00.000Z"
-  },
-  {
-    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-24T12:00:00.000Z"
-  },
-  {
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-23T23:05:49.000Z"
-  },
-  {
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-23T21:59:19.000Z"
-  },
-  {
-    "title": "OpenAI now trains its frontier AI models with no internet access",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-23T21:11:07.000Z"
-  },
-  {
-    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-23T20:19:55.000Z"
-  },
-  {
-    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-23T19:32:39.000Z"
-  },
-  {
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-23T19:06:23.000Z"
-  },
-  {
-    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-    "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-    "source": "Ars Technica AI",
-    "category": "News",
-    "pubDate": "2026-10-23T17:18:31.000Z"
-  },
-  {
-    "title": "The iPhone Duo should have been an iPad",
-    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-    "source": "The Verge AI",
-    "category": "News",
-    "pubDate": "2026-10-23T17:00:18.000Z"
-  },
-  {
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-23T17:00:00.000Z"
-  },
-  {
-    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
-    "source": "Hugging Face",
-    "category": "Tools",
-    "pubDate": "2026-10-23T16:15:50.000Z"
   }
 ]

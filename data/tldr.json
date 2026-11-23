@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
-      "text": "LLMs können nun Gadgets wie TVs und Kameras redesignen: Die \"Vibe-Coding\"-Revolution bringt KI-gesteuerte Geräteoptimierung in den Alltag.",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+      "text": "Jensen Huang wurde als CEO und Vorstandsvorsitzender von Nvidia wiedereingesetzt, nur 11 Tage nach seinem Rücktritt. Die US-Regierung bestätigte, dass seine Wiedereinsetzung kein Sicherheitsrisiko darstellt.",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
     },
     {
-      "text": "Banken verschärfen Kampf gegen KI-Agenten: Finanzinstitute ergreifen Maßnahmen gegen automatisierte KI-gesteuerte Transaktionen.",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
+      "text": "Trump unterstützt Jensens Huangs Rückkehr zu Nvidia und erklärt, dass es keine Hinweise auf Fehlverhalten gibt.",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
     },
     {
-      "text": "Signal blockiert Screenshots gegen KI-Überwachung: Die Messaging-App sieht sich einer \"existenziellen Bedrohung\" durch KI-basierte Surveillance ausgesetzt.",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      "text": "Sierra verdoppelt seine Bewertung auf 30 Milliarden Dollar innerhalb von sechs Monaten, getrieben durch steigende Nachfrage nach KI im Customer Experience-Bereich.",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
     },
     {
-      "text": "UN einigt sich nicht auf Regeln für autonome Waffen: Länder erklären sich nur bereit, über Optionen zur Regulierung von \"Killer-Robotern\" zu diskutieren.",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+      "text": "Meta's Muse AI-Agent kann nun Black Friday-Einkäufe auf Walmart durchführen und automatisch Deals für Nutzer finden und kaufen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
     },
     {
-      "text": "Google entfernt Such-Button von Startseite: Das Redesign priorisiert KI-Chat und integriert Verlauf direkt – ohne klassischen Suchbutton.",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+      "text": "Mehrere US-Bundesstaaten reichen Klage gegen SpaceX wegen Deepfakes ein, die mit Groks KI-Fähigkeiten erstellt werden können.",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
     },
     {
-      "text": "Meta verfehlt 2030-Netto-Null-Ziel: Rekordemissionen von KI-Datenzentren zwingen zur Neubeurteilung der Klimaziele.",
-      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+      "text": "OpenAI schlägt vor, Perplexität als standardisierte Metrik zur Messung von KI-Fortschritt und als Grundlage für gemeinsame Sicherheitsstandards zu etablieren.",
+      "url": "https://openai.com/index/perplexity-and-intelligence"
     },
     {
-      "text": "Massive Datenlecks in KI-Supply-Chain entdeckt: 2 Millionen digitale Fallstricke offenbaren erhebliche Privatsphäre-Verletzungen bei KI-Diensten.",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+      "text": "Nvidia erweitert seine Präsenz in Brain-Computer-Interfaces und wird zum Technologie-Partner für Neurotechnologie-Entwicklungen.",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
     }
   ]
 }

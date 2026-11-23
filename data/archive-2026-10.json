@@ -1,5 +1,89 @@
 [
   {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-24T15:00:00.000Z"
+  },
+  {
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-24T12:00:00.000Z"
+  },
+  {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T23:05:49.000Z"
+  },
+  {
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T21:59:19.000Z"
+  },
+  {
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-23T21:11:07.000Z"
+  },
+  {
+    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+    "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-23T20:19:55.000Z"
+  },
+  {
+    "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-23T19:32:39.000Z"
+  },
+  {
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-23T19:06:23.000Z"
+  },
+  {
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-23T17:18:31.000Z"
+  },
+  {
+    "title": "The iPhone Duo should have been an iPad",
+    "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-23T17:00:18.000Z"
+  },
+  {
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-23T17:00:00.000Z"
+  },
+  {
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-23T16:15:50.000Z"
+  },
+  {
     "title": "Securing our frontier model training environment",
     "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "source": "OpenAI",
