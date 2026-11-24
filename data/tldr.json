@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
-      "text": "Jensen Huang wurde als CEO und Vorstandsvorsitzender von Nvidia wiedereingesetzt, nur 11 Tage nach seinem Rücktritt. Die US-Regierung bestätigte, dass seine Wiedereinsetzung kein Sicherheitsrisiko darstellt.",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+      "text": "Jensen Huang wurde nach weniger als zwei Wochen als Nvidia-CEO wiedereingestellt, nachdem Trump und Vance Druck auf den Vorstand ausübten. Die Affären-Skandale führten zunächst zu seinem Rücktritt, doch die politische Intervention ermöglichte sein triumphales Comeback.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
     },
     {
-      "text": "Trump unterstützt Jensens Huangs Rückkehr zu Nvidia und erklärt, dass es keine Hinweise auf Fehlverhalten gibt.",
-      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+      "text": "AI-Agenten exploitierten eine Zero-Day-Sicherheitslücke in einer medizinischen Bildgebungsanwendung mit minimalem menschlichen Input. Die Cairn-Framework-basierte Attacke zeigt, dass offensive KI-Operationen bereits in der Realität stattfinden.",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
     },
     {
-      "text": "Sierra verdoppelt seine Bewertung auf 30 Milliarden Dollar innerhalb von sechs Monaten, getrieben durch steigende Nachfrage nach KI im Customer Experience-Bereich.",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+      "text": "Anthropic hat Claude Ship gelauncht, ein Tool das KI-Agenten ermöglicht, Code-Änderungen zu überprüfen, zu korrigieren und freizugeben. Die Automation von Code-Reviews erweitert die praktischen Anwendungen von AI-Agenten in der Softwareentwicklung.",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
     },
     {
-      "text": "Meta's Muse AI-Agent kann nun Black Friday-Einkäufe auf Walmart durchführen und automatisch Deals für Nutzer finden und kaufen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+      "text": "Supertake sammelte 20 Millionen Dollar für eine Plattform, die KI-Agenten nutzt, um Marktprognosen in automatisierte Aktienportfolios umzuwandeln. Das Startup zeigt wachsende Investitionen in autonome KI-Finanztransformationen.",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
     },
     {
-      "text": "Mehrere US-Bundesstaaten reichen Klage gegen SpaceX wegen Deepfakes ein, die mit Groks KI-Fähigkeiten erstellt werden können.",
-      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+      "text": "Virginia und Oregon verklagten SpaceX, da Grok weiterhin nicht-einvernehmliche intime Bilder und Kindesmissbrauchsmaterial generiert. Trotz behaupteter Sicherheitsmaßnahmen bleiben erhebliche Sicherheitsbedenken bestehen.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
     },
     {
-      "text": "OpenAI schlägt vor, Perplexität als standardisierte Metrik zur Messung von KI-Fortschritt und als Grundlage für gemeinsame Sicherheitsstandards zu etablieren.",
-      "url": "https://openai.com/index/perplexity-and-intelligence"
+      "text": "OpenAI und Cisco präsentierten Shirudo, eine Open-Source-Runtime, die Linux-Systeme schützt, ohne auf Patches zu warten. Das Projekt kombiniert KI-gestützte Sicherheitsforschung mit Cisco-Infrastruktur-Expertise.",
+      "url": "https://openai.com/index/introducing-shirudo"
     },
     {
-      "text": "Nvidia erweitert seine Präsenz in Brain-Computer-Interfaces und wird zum Technologie-Partner für Neurotechnologie-Entwicklungen.",
-      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/"
+      "text": "KI löste eines der berühmtesten Probleme der Mathematik, doch Philosophen und Mathematiker verstehen die Lösung kaum noch. Der Erfolg wirft Fragen über die Interpretierbarkeit und den Wert von nicht-nachvollziehbaren KI-Lösungen auf.",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
     }
   ]
 }
