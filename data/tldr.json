@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "items": [
     {
-      "text": "Jensen Huang wurde nach weniger als zwei Wochen als Nvidia-CEO wiedereingestellt, nachdem Trump und Vance Druck auf den Vorstand ausübten. Die Affären-Skandale führten zunächst zu seinem Rücktritt, doch die politische Intervention ermöglichte sein triumphales Comeback.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+      "text": "Amazon und Meta verhandeln über die Aufhebung der Blockade für den KI-Agent Muse, der bisher von Amazons Shopping-Funktionen ausgeschlossen war. Amazon befürchtet Auswirkungen auf seine Werbeeinnahmen durch die KI-gestützte Einkaufsassistentin.",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
     },
     {
-      "text": "AI-Agenten exploitierten eine Zero-Day-Sicherheitslücke in einer medizinischen Bildgebungsanwendung mit minimalem menschlichen Input. Die Cairn-Framework-basierte Attacke zeigt, dass offensive KI-Operationen bereits in der Realität stattfinden.",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
+      "text": "Ein KI-gestützter Beweis der Riemann-Hypothese wurde veröffentlicht, was Mathematiker verunsichert. Der Durchbruch zeigt die wachsende Rolle von großen Sprachmodellen bei der Lösung fundamentaler mathematischer Probleme.",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
     },
     {
-      "text": "Anthropic hat Claude Ship gelauncht, ein Tool das KI-Agenten ermöglicht, Code-Änderungen zu überprüfen, zu korrigieren und freizugeben. Die Automation von Code-Reviews erweitert die praktischen Anwendungen von AI-Agenten in der Softwareentwicklung.",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+      "text": "KI könnte die Rolle von theoretischen Physikern grundlegend verändern, da Systeme nun Berechnungen durchführen können. Die Physik-Community diskutiert, was diese Entwicklung für das Fachgebiet bedeutet.",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
     },
     {
-      "text": "Supertake sammelte 20 Millionen Dollar für eine Plattform, die KI-Agenten nutzt, um Marktprognosen in automatisierte Aktienportfolios umzuwandeln. Das Startup zeigt wachsende Investitionen in autonome KI-Finanztransformationen.",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+      "text": "KI-Systeme könnten bald Flugzeugturbulenz präzise vorhersagen, was derzeit extrem schwierig ist. Dies könnte Flugverkehr sicherer und komfortabler machen.",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
     },
     {
-      "text": "Virginia und Oregon verklagten SpaceX, da Grok weiterhin nicht-einvernehmliche intime Bilder und Kindesmissbrauchsmaterial generiert. Trotz behaupteter Sicherheitsmaßnahmen bleiben erhebliche Sicherheitsbedenken bestehen.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+      "text": "KI belastet Amerikas Systeme für öffentliche Zugang zu Dokumenten erheblich. Die Massennachfragen nach Daten durch KI-Systeme überlasten die staatlichen Infrastrukturen.",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
     },
     {
-      "text": "OpenAI und Cisco präsentierten Shirudo, eine Open-Source-Runtime, die Linux-Systeme schützt, ohne auf Patches zu warten. Das Projekt kombiniert KI-gestützte Sicherheitsforschung mit Cisco-Infrastruktur-Expertise.",
-      "url": "https://openai.com/index/introducing-shirudo"
+      "text": "Jensen Huang behauptet bei Nvidia-Mitarbeitern, dass nicht Trump seine Wiedereinstellung als CEO bewirkt hat. Der CEO entschuldigte sich in seiner ersten All-Hands-Versammlung und bestritt Druck von außen.",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
     },
     {
-      "text": "KI löste eines der berühmtesten Probleme der Mathematik, doch Philosophen und Mathematiker verstehen die Lösung kaum noch. Der Erfolg wirft Fragen über die Interpretierbarkeit und den Wert von nicht-nachvollziehbaren KI-Lösungen auf.",
-      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+      "text": "Ein Amazon-Lieferdrohne ist nach der Lieferung von Shampoo auf ein Garagendach gestürzt und löst eine FAA-Untersuchung aus. Der Vorfall zeigt wachsende Sicherheitsbedenken bei der Drohnenlieferung.",
+      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
     }
   ]
 }

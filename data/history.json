@@ -1,5 +1,110 @@
 [
   {
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-25T14:12:33.000Z"
+  },
+  {
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-25T14:10:18.000Z"
+  },
+  {
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-25T13:00:00.000Z"
+  },
+  {
+    "title": "Has vibe coding made open source the new normal for synths?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-25T13:00:00.000Z"
+  },
+  {
+    "title": "AI may soon change what it means to be a theoretical physicist",
+    "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-25T12:00:28.000Z"
+  },
+  {
+    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "link": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-25T11:30:00.000Z"
+  },
+  {
+    "title": "An Indic Voice Agent with CUGA",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-25T10:22:09.000Z"
+  },
+  {
+    "title": "AI is straining America’s open records systems",
+    "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-11-25T10:00:00.000Z"
+  },
+  {
+    "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-11-25T00:12:02.000Z"
+  },
+  {
+    "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+    "link": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-24T23:39:04.000Z"
+  },
+  {
+    "title": "What&#039;s going on with the Riemann hypothesis?",
+    "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-24T20:34:53.000Z"
+  },
+  {
+    "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+    "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-11-24T20:02:03.000Z"
+  },
+  {
+    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+    "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-11-24T18:47:57.000Z"
+  },
+  {
+    "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
+    "link": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-11-24T17:44:53.000Z"
+  },
+  {
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-11-24T16:34:13.000Z"
+  },
+  {
     "title": "Raising the stakes for enterprise networks with AI modernization",
     "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
     "source": "MIT Tech Review",
@@ -14,11 +119,25 @@
     "pubDate": "2026-11-24T14:56:50.000Z"
   },
   {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-24T13:00:00.000Z"
+  },
+  {
     "title": "Amazon says hackers&#039; AI agents found and exploited 0-day with little human input",
     "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
     "source": "Ars Technica AI",
     "category": "News",
     "pubDate": "2026-11-24T12:30:05.000Z"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-24T11:00:00.000Z"
   },
   {
     "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
@@ -33,6 +152,13 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-11-24T10:15:00.000Z"
+  },
+  {
+    "title": "How Intentful uses dots to make more time for growth",
+    "link": "https://openai.com/business/customer-stories/intentful-dots",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-11-24T00:00:00.000Z"
   },
   {
     "title": "Trump engineered a risky comeback for Jensen Huang",
@@ -3085,54 +3211,5 @@
     "source": "Wired AI",
     "category": "News",
     "pubDate": "2026-10-26T16:01:55.000Z"
-  },
-  {
-    "title": "Working with academic communities to build scientific understanding",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-26T14:30:00.000Z"
-  },
-  {
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "source": "OpenAI",
-    "category": "Research",
-    "pubDate": "2026-10-26T13:45:00.000Z"
-  },
-  {
-    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-    "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-26T09:30:00.000Z"
-  },
-  {
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "source": "MIT Tech Review",
-    "category": "News",
-    "pubDate": "2026-10-26T09:01:00.000Z"
-  },
-  {
-    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
-    "link": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-    "source": "Wired AI",
-    "category": "News",
-    "pubDate": "2026-10-26T09:00:00.000Z"
-  },
-  {
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-25T21:31:16.000Z"
-  },
-  {
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "source": "TechCrunch AI",
-    "category": "News",
-    "pubDate": "2026-10-25T16:57:32.000Z"
   }
 ]
