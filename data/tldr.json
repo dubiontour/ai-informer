@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "items": [
     {
-      "text": "Amazon und Meta verhandeln über die Aufhebung der Blockade für den KI-Agent Muse, der bisher von Amazons Shopping-Funktionen ausgeschlossen war. Amazon befürchtet Auswirkungen auf seine Werbeeinnahmen durch die KI-gestützte Einkaufsassistentin.",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+      "text": "Hugging Face veröffentlicht ein Benchmark-Dashboard für llama.cpp, das die Leistung lokaler KI-Inferenz auf AMD Ryzen und Radeon Hardware misst. Entwickler können damit Prompt-Verarbeitung und Text-Generierung über verschiedene Modelle und Quantisierungen vergleichen.",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
     },
     {
-      "text": "Ein KI-gestützter Beweis der Riemann-Hypothese wurde veröffentlicht, was Mathematiker verunsichert. Der Durchbruch zeigt die wachsende Rolle von großen Sprachmodellen bei der Lösung fundamentaler mathematischer Probleme.",
-      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
+      "text": "42 US-Bundesstaaten versuchen, Character.AI von der Vermarktung von Nutzerdaten zu stoppen. Die Generalstaatsanwälte warnen, dass das Unternehmen plant, persönliche Daten Minderjähriger an den Höchstbietenden zu verkaufen.",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
     },
     {
-      "text": "KI könnte die Rolle von theoretischen Physikern grundlegend verändern, da Systeme nun Berechnungen durchführen können. Die Physik-Community diskutiert, was diese Entwicklung für das Fachgebiet bedeutet.",
+      "text": "S&P prüft eine Herabstufung von Nvidias Kreditrating wegen Governance- und Managementrisiken. Der Ratingagent nennt Abhängigkeiten von Schlüsselpersonen als ein zentrales Risiko für den Halbleitergiganten.",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
+    {
+      "text": "OpenAI warnt Vielnutzer von ChatGPT, dass sie schneller an Nutzungsgrenzen stoßen könnten, während das Unternehmen seine Chat- und Work-Dienste zusammenführt. Dies führt zu einer gemeinsamen Nutzungskontingentierung.",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "text": "Die New York Times warnt Fotografen, Photoshop nicht zu aktualisieren, da die neue Version KI-Funktionen nutzt, die Nutzern möglicherweise nicht transparent sind. Dies könnte die Kontrolle über ursprüngliche Inhalte beeinträchtigen.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    },
+    {
+      "text": "Die FCC genehmigt SpaceX's Plan, bis zu 1 Million KI-Datenzentrum-Satelliten ins All zu bringen. Das Projekt namens Starmind soll dezentralisierte Cloud-Services aus dem Weltraum anbieten.",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "text": "KI verändert Rolle theoretischer Physiker, da Modelle komplexe Berechnungen automatisieren können. Wissenschaftler müssen neu definieren, welche kognitiven Aufgaben für ihre Disziplin zentral bleiben.",
       "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
-    },
-    {
-      "text": "KI-Systeme könnten bald Flugzeugturbulenz präzise vorhersagen, was derzeit extrem schwierig ist. Dies könnte Flugverkehr sicherer und komfortabler machen.",
-      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/"
-    },
-    {
-      "text": "KI belastet Amerikas Systeme für öffentliche Zugang zu Dokumenten erheblich. Die Massennachfragen nach Daten durch KI-Systeme überlasten die staatlichen Infrastrukturen.",
-      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
-    },
-    {
-      "text": "Jensen Huang behauptet bei Nvidia-Mitarbeitern, dass nicht Trump seine Wiedereinstellung als CEO bewirkt hat. Der CEO entschuldigte sich in seiner ersten All-Hands-Versammlung und bestritt Druck von außen.",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
-    },
-    {
-      "text": "Ein Amazon-Lieferdrohne ist nach der Lieferung von Shampoo auf ein Garagendach gestürzt und löst eine FAA-Untersuchung aus. Der Vorfall zeigt wachsende Sicherheitsbedenken bei der Drohnenlieferung.",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/"
     }
   ]
 }
