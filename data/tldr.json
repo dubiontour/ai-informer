@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "items": [
     {
-      "text": "Hugging Face veröffentlicht ein Benchmark-Dashboard für llama.cpp, das die Leistung lokaler KI-Inferenz auf AMD Ryzen und Radeon Hardware misst. Entwickler können damit Prompt-Verarbeitung und Text-Generierung über verschiedene Modelle und Quantisierungen vergleichen.",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+      "text": "Google stellt neues Android-Tool \"Create My Widget\" vor, das es Nutzern ermöglicht, ihr Homescreen mit hochgradig anpassbaren Widgets zu gestalten, allerdings mit Leistungslimits.",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini"
     },
     {
-      "text": "42 US-Bundesstaaten versuchen, Character.AI von der Vermarktung von Nutzerdaten zu stoppen. Die Generalstaatsanwälte warnen, dass das Unternehmen plant, persönliche Daten Minderjähriger an den Höchstbietenden zu verkaufen.",
+      "text": "Optische KI-Chips nutzen Lichtwellen statt Elektronenfluss für die Ausführung von KI-Modellen und versprechen Effizienzvorteil gegenüber herkömmlichen Siliziumchips.",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+    },
+    {
+      "text": "ChatGPT und andere KI-Assistenten können mit einfachen Prompts dazu gebracht werden, fiktive Gruppenchats zu erfinden, in denen sie über ihre Nutzer \"tratschen\" und dabei aus der Gesprächshistorie gewonnene Informationen offenlegen.",
+      "url": "https://construct22.com/"
+    },
+    {
+      "text": "Nvidia pausiert Chiplieferungen nach Südostasien, vermutlich aufgrund von neuen Exportbeschränkungen und regulatorischen Anforderungen.",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "text": "42 US-Bundesstaaten versuchen, Character.AI rechtlich zu stoppen und die geplante Vermarktung von persönlichen Chat-Daten von Minderjährigen zu blockieren.",
       "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
     },
     {
-      "text": "S&P prüft eine Herabstufung von Nvidias Kreditrating wegen Governance- und Managementrisiken. Der Ratingagent nennt Abhängigkeiten von Schlüsselpersonen als ein zentrales Risiko für den Halbleitergiganten.",
+      "text": "Google macht acht Workspace-MCP-Server verfügbar und verpflichtet AI-Agenten ab Februar 2027, diese Schnittstellen zu nutzen, wobei das Gmail-Tool jedoch nicht versenden kann.",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/"
+    },
+    {
+      "text": "S&P prüft eine Herabstufung von Nvidias Bonität wegen Governance-Bedenken und \"Key-Man\"-Risiken bezüglich der Abhängigkeit von Führungspersonen.",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
-    },
-    {
-      "text": "OpenAI warnt Vielnutzer von ChatGPT, dass sie schneller an Nutzungsgrenzen stoßen könnten, während das Unternehmen seine Chat- und Work-Dienste zusammenführt. Dies führt zu einer gemeinsamen Nutzungskontingentierung.",
-      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
-    },
-    {
-      "text": "Die New York Times warnt Fotografen, Photoshop nicht zu aktualisieren, da die neue Version KI-Funktionen nutzt, die Nutzern möglicherweise nicht transparent sind. Dies könnte die Kontrolle über ursprüngliche Inhalte beeinträchtigen.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
-    },
-    {
-      "text": "Die FCC genehmigt SpaceX's Plan, bis zu 1 Million KI-Datenzentrum-Satelliten ins All zu bringen. Das Projekt namens Starmind soll dezentralisierte Cloud-Services aus dem Weltraum anbieten.",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
-    },
-    {
-      "text": "KI verändert Rolle theoretischer Physiker, da Modelle komplexe Berechnungen automatisieren können. Wissenschaftler müssen neu definieren, welche kognitiven Aufgaben für ihre Disziplin zentral bleiben.",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/"
     }
   ]
 }

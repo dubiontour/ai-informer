@@ -1,5 +1,159 @@
 [
   {
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T13:15:00.000Z"
+  },
+  {
+    "title": "Pairing industrial AI autonomy and human control",
+    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "source": "MIT Tech Review",
+    "category": "News",
+    "pubDate": "2026-10-28T12:00:00.000Z"
+  },
+  {
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-28T10:15:00.000Z"
+  },
+  {
+    "title": "The future of the firm",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T10:00:00.000Z"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T09:30:00.000Z"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-28T09:30:00.000Z"
+  },
+  {
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-28T08:30:00.000Z"
+  },
+  {
+    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "source": "Wired AI",
+    "category": "News",
+    "pubDate": "2026-10-28T06:00:00.000Z"
+  },
+  {
+    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-28T01:15:28.000Z"
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-27T23:34:27.000Z"
+  },
+  {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "source": "TechCrunch AI",
+    "category": "News",
+    "pubDate": "2026-10-27T22:55:41.000Z"
+  },
+  {
+    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+    "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-27T21:50:04.000Z"
+  },
+  {
+    "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+    "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-27T21:31:14.000Z"
+  },
+  {
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-27T20:48:58.000Z"
+  },
+  {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "link": "https://www.brangus.io/survival-llm",
+    "source": "Hacker News AI",
+    "category": "Community",
+    "pubDate": "2026-10-27T19:55:06.000Z"
+  },
+  {
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "source": "Ars Technica AI",
+    "category": "News",
+    "pubDate": "2026-10-27T18:49:08.000Z"
+  },
+  {
+    "title": "VisionQuest is what happens when AI really goes rogue",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-27T17:30:00.000Z"
+  },
+  {
+    "title": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-27T17:16:52.000Z"
+  },
+  {
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "source": "The Verge AI",
+    "category": "News",
+    "pubDate": "2026-10-27T16:51:22.000Z"
+  },
+  {
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "Hugging Face",
+    "category": "Tools",
+    "pubDate": "2026-10-27T16:12:42.000Z"
+  },
+  {
+    "title": "Genie 4: A new generation of world simulation",
+    "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source": "Google DeepMind",
+    "category": "Research",
+    "pubDate": "2026-10-27T16:01:38.000Z"
+  },
+  {
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "link": "https://openai.com/index/retell-ai",
+    "source": "OpenAI",
+    "category": "Research",
+    "pubDate": "2026-10-27T15:00:00.000Z"
+  },
+  {
     "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
     "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
     "source": "MIT Tech Review",
